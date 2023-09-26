@@ -1,4 +1,4 @@
-FROM openos365/openos365-10001-anolisos-7-docker-main-root:latest
+FROM openos365/openos365-10027-ubuntu-22-04-lts-docker-main-root:latest
 
 # 1
 COPY files/ /home/www/files/
