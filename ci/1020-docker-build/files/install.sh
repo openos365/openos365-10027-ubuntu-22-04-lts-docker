@@ -57,6 +57,7 @@ apt install sqlite3 -y
 apt install jq -y
 apt install yq -y
 apt install ruby -y
+apt install systemd-sysv -y
 
 curl -fsSL https://code-server.dev/install.sh | sh
 
