@@ -61,6 +61,10 @@ apt install vim -y
 apt install systemd-sysv -y
 apt install linux-image-6.2.0-33-generic -y
 
+curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
+install container-diff-linux-amd64 /usr/bin/container-diff
+rm -rf container-diff-linux-amd64
+
 curl -fsSL https://code-server.dev/install.sh | sh
 
 systemctl enable code-server@root
