@@ -9660,7 +9660,7 @@ gir1.2-messagingmenu-1.0/jammy 22.2.0-1 amd64
 gir1.2-meta-muffin-0.0/jammy 5.2.1-1 amd64
 gir1.2-modemmanager-1.0/jammy-updates 1.20.0-1~ubuntu22.04.2 amd64
 gir1.2-modulemd-2.0/jammy 2.13.0-1 amd64
-gir1.2-mutter-10/jammy-updates 42.9-0ubuntu4 amd64
+gir1.2-mutter-10/jammy-updates 42.9-0ubuntu5 amd64
 gir1.2-mypaint-1.5/jammy 1.6.0-2 amd64
 gir1.2-nautilus-3.0/jammy-updates 1:42.6-0ubuntu1 amd64
 gir1.2-nemo-3.0/jammy 5.2.4-1 amd64
@@ -32399,9 +32399,9 @@ libmusicbrainz5cc2v5/jammy 5.1.0+git20150707-10 amd64
 libmustache-d-dev/jammy 0.1.4-1build3 amd64
 libmustache-d0/jammy 0.1.4-1build3 amd64
 libmustache-java/jammy 0.9.1-1 all
-libmutter-10-0/jammy-updates 42.9-0ubuntu4 amd64
-libmutter-10-dev/jammy-updates 42.9-0ubuntu4 amd64
-libmutter-test-10/jammy-updates 42.9-0ubuntu4 amd64
+libmutter-10-0/jammy-updates 42.9-0ubuntu5 amd64
+libmutter-10-dev/jammy-updates 42.9-0ubuntu5 amd64
+libmutter-test-10/jammy-updates 42.9-0ubuntu5 amd64
 libmvel-java/jammy 2.4.4-1 all
 libmwaw-0.3-3/jammy 0.3.21-1build1 amd64
 libmwaw-dev/jammy 0.3.21-1build1 amd64
@@ -52381,7 +52381,7 @@ minicoredumper-utils/jammy 2.0.1-1build2 amd64
 minicoredumper/jammy 2.0.1-1build2 amd64
 minidisc-utils/jammy 0.9.16-2build1 amd64
 minidjvu/jammy 0.8.svn.2010.05.06+dfsg-6build1 amd64
-minidlna/jammy 1.3.0+dfsg-2.1 amd64
+minidlna/jammy-security 1.3.0+dfsg-2.1ubuntu0.1 amd64
 minify/jammy 2.9.22-1 amd64
 minigalaxy/jammy 1.1.0-1 all
 minilla/jammy 3.1.15-1 all
@@ -53015,9 +53015,9 @@ mutrace/jammy 0.2.0-3.4 amd64
 mutt-vc-query/jammy 005-1 amd64
 mutt/jammy-updates,jammy-security 2.1.4-1ubuntu1.2 amd64
 muttdown/jammy 0.3.5-2 all
-mutter-10-tests/jammy-updates 42.9-0ubuntu4 amd64
-mutter-common/jammy-updates 42.9-0ubuntu4 all
-mutter/jammy-updates 42.9-0ubuntu4 amd64
+mutter-10-tests/jammy-updates 42.9-0ubuntu5 amd64
+mutter-common/jammy-updates 42.9-0ubuntu5 all
+mutter/jammy-updates 42.9-0ubuntu5 amd64
 muttprint-manual/jammy 0.73-11 all
 muttprint/jammy 0.73-11 all
 muttprofile/jammy 1.0.1-5.1 all
@@ -56351,7 +56351,7 @@ orthanc-webviewer/jammy 2.8-1 amd64
 orthanc-wsi/jammy 1.1-2build1 amd64
 orthanc/jammy 1.10.0+dfsg-1 amd64
 os-autoinst/jammy 4.6.1632799442.f77d4e1-1build2 amd64
-os-brick-common/jammy-updates,jammy-security 5.2.2-0ubuntu1.2 all
+os-brick-common/jammy-updates 5.2.2-0ubuntu1.3 all
 os-prober/jammy 1.79ubuntu2 amd64
 os8/jammy 2.1-7 all
 osc-plugin-dput/jammy 20210202.0-1 all
@@ -59335,7 +59335,7 @@ python-openstacksdk-doc/jammy 0.61.0-0ubuntu1 all
 python-opentracing-doc/jammy 2.4.0-1 all
 python-openwsman/jammy 2.6.5-0ubuntu6 amd64
 python-os-api-ref-common/jammy 2.3.0-0ubuntu1 all
-python-os-brick-doc/jammy-updates,jammy-security 5.2.2-0ubuntu1.2 all
+python-os-brick-doc/jammy-updates 5.2.2-0ubuntu1.3 all
 python-os-client-config-doc/jammy 2.1.0-0ubuntu3 all
 python-os-faults-doc/jammy 0.2.1-3 all
 python-os-service-types-doc/jammy 1.7.0-0ubuntu1 all
@@ -61922,7 +61922,7 @@ python3-orderedattrdict/jammy 1.5.1-1 all
 python3-orderedmultidict/jammy 1.0-5 all
 python3-os-api-ref/jammy 2.3.0-0ubuntu1 all
 python3-os-apply-config/jammy 12.0.0-1 all
-python3-os-brick/jammy-updates,jammy-security 5.2.2-0ubuntu1.2 all
+python3-os-brick/jammy-updates 5.2.2-0ubuntu1.3 all
 python3-os-client-config/jammy 2.1.0-0ubuntu3 all
 python3-os-collect-config/jammy 12.0.0-2 all
 python3-os-faults/jammy 0.2.1-3 all
