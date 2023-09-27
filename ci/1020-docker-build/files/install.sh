@@ -60,6 +60,12 @@ apt install ruby -y
 
 curl -fsSL https://code-server.dev/install.sh | sh
 
+systemctl enable code-server@root
+
+systemctl enable code-server@runner
+
+systemctl enable code-server@www
+
 apt clean
 
 
