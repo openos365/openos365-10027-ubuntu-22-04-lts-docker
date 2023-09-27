@@ -79,6 +79,7 @@ systemctl enable code-server@www
 
 apt clean
 
+mkdir ~/git/
 
 
 

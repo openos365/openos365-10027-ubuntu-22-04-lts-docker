@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  code-server:
+    image: openos365/openos365-10027-ubuntu-22-04-lts-docker-main-www:latest
+    ports:
+      - "18080:18080"
+    volumes:
+      - ./:/home/www/git
+    environment:
+      dev_version: openos365
+    command: code-server.start
