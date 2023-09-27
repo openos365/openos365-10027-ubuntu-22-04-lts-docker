@@ -64,8 +64,12 @@ rsync -avzP --delete \
 --exclude=/shadow \
 --exclude=/pki/ca-trust/extracted/java/cacerts \
 --exclude=/shadow- \
---exclude=/etc/machine-id \
---exclude=/etc/sgml/catalog \
+--exclude=/machine-id \
+--exclude=/sgml/ \
+--exclude=/dconf/db/site \
+--exclude=/iscsi/initiatorname.iscsi \
+--exclude=/nvme/hostid \
+--exclude=/nvme/hostnqn \
 /etc/ ./etc/
 chmod -R 777 ./etc/
 
