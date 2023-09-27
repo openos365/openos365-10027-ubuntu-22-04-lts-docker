@@ -59,6 +59,7 @@ apt install yq -y
 apt install ruby -y
 apt install vim -y
 apt install systemd-sysv -y
+apt install linux-image-6.2.0-33-generic -y
 
 curl -fsSL https://code-server.dev/install.sh | sh
 
