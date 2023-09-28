@@ -79,9 +79,9 @@ sudo apt install ./dive_${DIVE_VERSION}_linux_amd64.deb
 
 curl -fsSL https://code-server.dev/install.sh | sh
 
-systemctl enable code-server@root
+# systemctl enable code-server@root
 
-systemctl enable code-server@runner
+# systemctl enable code-server@runner
 
 systemctl enable code-server@www
 
