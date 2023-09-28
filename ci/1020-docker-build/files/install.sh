@@ -85,6 +85,16 @@ curl -fsSL https://code-server.dev/install.sh | sh
 
 systemctl enable code-server@www
 
+cd ~/
+git clone https://github.com/gnuhub/connect-proxy.git
+cd connect-proxy
+gcc connect.c -o connect -lssl -lcrypto
+
+rsync -avP ./connect /usr/bin/connect
+chmod +x /usr/bin/connect
+cd ~/
+rm -rf connect-proxy
+
 apt clean
 
 mkdir ~/git/
