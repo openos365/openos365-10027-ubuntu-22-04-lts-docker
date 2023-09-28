@@ -39,6 +39,7 @@ podman run -it docker.io/openos365/openos365-10027-ubuntu-22-04-lts-docker-main-
 
 sudo podman run -it \
 --cap-add=ALL \
+--privileged=true \
 --tmpfs /tmp \
 --tmpfs /run \
 -v /etc/resolv.conf:/etc/resolv.conf \
