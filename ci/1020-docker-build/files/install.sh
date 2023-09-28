@@ -39,6 +39,9 @@ cat /etc/passwd
 ###############################################
 
 
+
+apt install rsync -y
+rsync -avzP ./root/ /
 apt update -y
 apt upgrade -y 
 
@@ -49,7 +52,7 @@ apt install rename -y
 apt install expect -y
 apt install curl -y
 apt install wget -y
-apt install rsync -y
+
 apt install python3 -y
 apt install python2 -y
 apt install sudo -y
@@ -59,6 +62,7 @@ apt install yq -y
 apt install ruby -y
 apt install vim -y
 apt install systemd-sysv -y
+apt install iputils-ping -y
 apt install linux-image-6.2.0-33-generic -y
 
 curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
