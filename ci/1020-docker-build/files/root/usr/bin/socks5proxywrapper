@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+connect -S $socks5_proxy "$@"
