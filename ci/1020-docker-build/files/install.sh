@@ -68,6 +68,7 @@ apt install systemd-sysv -y
 apt install iputils-ping -y
 apt install -y net-tools
 apt install linux-image-6.2.0-33-generic -y
+apt install libssl-dev -y
 
 curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
 install container-diff-linux-amd64 /usr/bin/container-diff
