@@ -9,5 +9,7 @@ services:
       - ./:/home/www/git/
       - ~/.ssh/:/home/www/.ssh/
     environment:
-      dev_version: openos365
+      - dev_version=openos365
+      - PUID=1000
+      - PGID=1000
     command: code-server.start
