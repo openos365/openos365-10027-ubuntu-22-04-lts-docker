@@ -48,8 +48,8 @@ apt update -y
 apt upgrade -y 
 
 ln -sf "/usr/share/zoneinfo/Asia/Shanghai" "/etc/localtime"
-apt install git -y
-apt install build-essential -y 
+apt install -y git 
+apt install -y build-essential 
 apt install rename -y
 apt install expect -y
 apt install curl -y
@@ -65,6 +65,7 @@ apt install ruby -y
 apt install vim -y
 apt install systemd-sysv -y
 apt install iputils-ping -y
+apt install -y net-tools
 apt install linux-image-6.2.0-33-generic -y
 
 curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
