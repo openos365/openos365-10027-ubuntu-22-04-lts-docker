@@ -2,7 +2,7 @@ version: '3'
 
 services:
   code-server:
-    image: openos365/openos365-10027-ubuntu-22-04-lts-docker-main-www:latest
+    image: docker.io/openos365/openos365-10027-ubuntu-22-04-lts-docker-main-www:latest
     ports:
       - "18080:18080"
     volumes:
