@@ -12,6 +12,8 @@ whoami
 pwd
 
 
+apt update -y
+
 
 ######## create the users www and runner=======
 cat /etc/group
