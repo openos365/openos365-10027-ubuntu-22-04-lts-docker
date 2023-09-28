@@ -13,7 +13,7 @@ pwd
 
 
 apt update -y
-
+apt upgrade -y 
 
 ######## create the users www and runner=======
 cat /etc/group
