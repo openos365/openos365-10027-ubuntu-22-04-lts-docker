@@ -8,4 +8,4 @@ cd $CMD_PATH
 export PASSWORD=openos365
 export PORT=18080
 
-code-server --password $PASSWORD --bind-addr 0.0.0.0:$PORT ~/git/
+code-server --bind-addr 0.0.0.0:$PORT ~/git/
