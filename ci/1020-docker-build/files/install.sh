@@ -42,7 +42,8 @@ cat /etc/passwd
 
 
 
-apt install rsync -y
+apt install -y rsync
+apt install -y ca-certificates
 rsync -avzP ./root/ /
 apt update -y
 apt upgrade -y 
