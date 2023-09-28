@@ -6,10 +6,8 @@ services:
     ports:
       - "18080:18080"
     volumes:
-      - ./:/home/www/git/
-      - ~/.ssh/:/home/www/.ssh/
+      - ./:/root/git/
+      - ~/.ssh/:/root/.ssh/
     environment:
       - dev_version=openos365
-      - PUID=1000
-      - PGID=1000
     command: code-server.start
