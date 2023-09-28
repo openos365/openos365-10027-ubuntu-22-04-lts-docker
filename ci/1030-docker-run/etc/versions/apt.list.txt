@@ -14526,7 +14526,7 @@ iptstate/jammy 2.2.6-1build2 amd64
 iptux/jammy 0.8.3+git20211122-1 amd64
 iputils-arping/jammy 3:20211215-1 amd64
 iputils-clockdiff/jammy 3:20211215-1 amd64
-iputils-ping/jammy 3:20211215-1 amd64
+iputils-ping/jammy,now 3:20211215-1 amd64 [installed]
 iputils-tracepath/jammy 3:20211215-1 amd64
 ipv6calc/jammy 1.0.0-1.1 amd64
 ipv6pref/jammy 1.0.3-1 amd64
@@ -18851,7 +18851,7 @@ libcap-dev/jammy-updates,jammy-security 1:2.44-1ubuntu0.22.04.1 amd64
 libcap-ng-dev/jammy 0.7.9-2.2build3 amd64
 libcap-ng-utils/jammy 0.7.9-2.2build3 amd64
 libcap-ng0/jammy,now 0.7.9-2.2build3 amd64 [installed]
-libcap2-bin/jammy-updates,jammy-security 1:2.44-1ubuntu0.22.04.1 amd64
+libcap2-bin/jammy-updates,jammy-security,now 1:2.44-1ubuntu0.22.04.1 amd64 [installed,automatic]
 libcap2/jammy-updates,jammy-security,now 1:2.44-1ubuntu0.22.04.1 amd64 [installed]
 libcapi20-3/jammy 1:3.27-3 amd64
 libcapi20-dev/jammy 1:3.27-3 amd64
@@ -34462,7 +34462,7 @@ libpam-apparmor/jammy-updates 3.0.4-2ubuntu2.2 amd64
 libpam-barada/jammy 0.5-3.1build13 amd64
 libpam-biometric/jammy 1.2.2-1build1 amd64
 libpam-blue/jammy 0.9.0-3 amd64
-libpam-cap/jammy-updates,jammy-security 1:2.44-1ubuntu0.22.04.1 amd64
+libpam-cap/jammy-updates,jammy-security,now 1:2.44-1ubuntu0.22.04.1 amd64 [installed,automatic]
 libpam-ccreds/jammy 10-8ubuntu1 amd64
 libpam-cgfs/jammy 1:5.0.0~git2209-g5a7b9ce67-0ubuntu1 amd64
 libpam-cgroup/jammy 2.0-2 amd64
@@ -53349,7 +53349,7 @@ neovim/jammy 0.6.1-3 amd64
 nescc/jammy 1.3.5-1.1build1 amd64
 nestopia/jammy 1.51.1-1 amd64
 net-acct/jammy 0.71-9.1 amd64
-net-tools/jammy 1.60+git20181103.0eebece-1ubuntu5 amd64
+net-tools/jammy,now 1.60+git20181103.0eebece-1ubuntu5 amd64 [installed]
 netatalk/jammy-updates,jammy-security 3.1.12~ds-9ubuntu0.22.04.1 amd64
 netbase/jammy,now 6.3 all [installed,automatic]
 netcat-openbsd/jammy 1.218-4ubuntu1 amd64
