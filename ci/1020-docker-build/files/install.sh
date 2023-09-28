@@ -101,6 +101,6 @@ apt clean
 mkdir ~/git/
 mkdir ~/.ssh/
 
-
+git config --global pull.rebase false
 
 
