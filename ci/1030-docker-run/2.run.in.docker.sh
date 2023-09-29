@@ -21,9 +21,6 @@ echo "==========================================================================
 echo "openos365">/etc/hostname
 
 cd /etc/
-if [ -d versions ];then
-    rm -rf versions
-fi
 mkdir versions
 cd versions
 
