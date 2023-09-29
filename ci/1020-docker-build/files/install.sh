@@ -125,31 +125,31 @@ yarn config set python /usr/bin/python2 -g
 
 
 cd ~
-mkdir versions
+mkdir /etc/versions
 rm -rf steedos-platform
 git clone --depth=1 -b 2.5 https://github.com/steedos/steedos-platform.git
 cd steedos-platform
 yarn --frozen-lockfile
 export PATH=$(yarn bin):$PATH
-yarn list > ~/versions/yarn.list.origin.txt
+yarn list > /etc/versions/yarn.list.origin.txt
 cd creator
 which meteor
 meteor --version
 yarn --frozen-lockfile
 meteor list
-meteor list > ~/versions/meteor.list.origin.txt
-meteor list --tree > ~/versions/meteor.list.tree.origin.txt
+meteor list > /etc/versions/meteor.list.origin.txt
+meteor list --tree > /etc/versions/meteor.list.tree.origin.txt
 yarn build-debug
-yarn list > ~/versions/yarn.creator.list.origin.txt
+yarn list > /etc/versions/yarn.creator.list.origin.txt
 
-yarn cache dir > ~/versions/yarn.cache.dir.origin.txt
-yarn cache list > ~/versions/yarn.cache.list.origin.txt
-apt list > ~/versions/apt.list.origin.txt
-apt list --installed > ~/versions/apt.list.installed.origin.txt
+yarn cache dir > /etc/versions/yarn.cache.dir.origin.txt
+yarn cache list > /etc/versions/yarn.cache.list.origin.txt
+apt list > /etc/versions/apt.list.origin.txt
+apt list --installed > /etc/versions/apt.list.installed.origin.txt
 
-sed -i '$d' ~/versions/yarn.list.origin.txt
-sed -i '$d' ~/versions/yarn.creator.list.origin.txt
-sed -i '$d' ~/versions/yarn.cache.list.origin.txt
+sed -i '$d' /etc/versions/yarn.list.origin.txt
+sed -i '$d' /etc/versions/yarn.creator.list.origin.txt
+sed -i '$d' /etc/versions/yarn.cache.list.origin.txt
 
-ls -al ~/versions
+ls -al /etc/versions
 date
