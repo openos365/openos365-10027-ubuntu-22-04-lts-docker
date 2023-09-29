@@ -156,5 +156,9 @@ sed -i '$d' /etc/versions/yarn.list.origin.txt
 sed -i '$d' /etc/versions/yarn.creator.list.origin.txt
 sed -i '$d' /etc/versions/yarn.cache.list.origin.txt
 
+. ~/.bashrc
+
+env > /etv/versions/env.txt
+
 ls -al /etc/versions
 date
