@@ -103,4 +103,53 @@ mkdir ~/.ssh/
 
 git config --global pull.rebase false
 
+cd ~
+git clone https://github.com/nvm-sh/nvm.git .nvm
+cd .nvm
+git checkout v0.39.5
 
+cd ~
+. ~/.nvm/nvm.sh
+nvm install v14.21.3
+nvm use v14.21.3
+npm install yarn -g
+npm install meteor -g
+export PATH=$HOME/.meteor:$PATH
+echo $PATH
+which node
+node --version
+set -x
+
+npm  config set -g python /usr/bin/python2
+yarn config set python /usr/bin/python2 -g
+
+
+cd ~
+mkdir versions
+rm -rf steedos-platform
+git clone --depth=1 -b 2.5 https://github.com/steedos/steedos-platform.git
+cd steedos-platform
+yarn --frozen-lockfile
+export PATH=$(yarn bin):$PATH
+yarn list > ~/versions/yarn.list.origin.txt
+cd creator
+which meteor
+meteor --version
+yarn --frozen-lockfile
+meteor list
+meteor list > ~/versions/meteor.list.origin.txt
+meteor list --tree > ~/versions/meteor.list.tree.origin.txt
+yarn build-debug
+yarn list > ~/versions/yarn.creator.list.origin.txt
+
+yarn cache dir > ~/versions/yarn.cache.dir.origin.txt
+yarn cache list > ~/versions/yarn.cache.list.origin.txt
+apt list > ~/versions/apt.list.origin.txt
+apt list --installed > ~/versions/apt.list.installed.origin.txt
+
+sed -i '$d' ~/versions/yarn.list.origin.txt
+sed -i '$d' ~/versions/yarn.creator.list.origin.txt
+sed -i '$d' ~/versions/yarn.cache.list.origin.txt
+
+ls -al ~/versions
+date
