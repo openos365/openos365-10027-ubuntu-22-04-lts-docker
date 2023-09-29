@@ -113,7 +113,8 @@ cd ~
 nvm install v14.21.3
 nvm use v14.21.3
 npm install yarn -g
-npm install meteor -g
+npm install meteor -g --unsafe-perm
+
 export PATH=$HOME/.meteor:$PATH
 echo $PATH
 which node
