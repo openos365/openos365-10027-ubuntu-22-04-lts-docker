@@ -6,6 +6,8 @@ export PROJECT_NAME="${CMD_PATH##*/}"
 export TERM=xterm-256color
 echo $PROJECT_NAME
 cd $CMD_PATH
+export METEOR_ALLOW_SUPERUSER=true
+
 env
 
 whoami
@@ -137,9 +139,9 @@ cd creator
 which meteor
 meteor --version
 yarn --frozen-lockfile
-meteor list --allow-superuser
-meteor list --allow-superuser > /etc/versions/meteor.list.origin.txt
-meteor list --allow-superuser --tree > /etc/versions/meteor.list.tree.origin.txt
+meteor list
+meteor list > /etc/versions/meteor.list.origin.txt
+meteor list --tree > /etc/versions/meteor.list.tree.origin.txt
 yarn build-debug
 yarn list > /etc/versions/yarn.creator.list.origin.txt
 

@@ -8,6 +8,7 @@ USER root
 WORKDIR /root
 ENV USER=root
 ENV HOME=/root
+ENV METEOR_ALLOW_SUPERUSER=true
 RUN /tmp/files/install.sh
 
 # 3
