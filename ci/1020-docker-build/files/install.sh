@@ -128,6 +128,8 @@ set -x
 npm  config set -g python /usr/bin/python2
 yarn config set python /usr/bin/python2 -g
 
+cd ~
+git clone https://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
 
 cd ~
 mkdir /etc/versions
