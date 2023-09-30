@@ -51,6 +51,9 @@ apt update -y
 apt upgrade -y 
 
 ln -sf "/usr/share/zoneinfo/Asia/Shanghai" "/etc/localtime"
+apt install -y locales
+locale-gen en_US.UTF-8
+
 apt install -y git 
 apt install -y build-essential 
 apt install rename -y
