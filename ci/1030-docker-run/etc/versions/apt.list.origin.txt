@@ -51168,7 +51168,7 @@ localechooser-data/jammy 2.89ubuntu3 all
 localehelper/jammy 0.1.4-3 all
 localepurge/jammy 0.7.3.10 all
 locales-all/jammy-updates 2.35-0ubuntu3.3 amd64
-locales/jammy-updates 2.35-0ubuntu3.3 all
+locales/jammy-updates,now 2.35-0ubuntu3.3 all [installed]
 localslackirc/jammy 1.14-1 all
 locate/jammy 4.8.0-1ubuntu3 amd64
 lockfile-progs/jammy 0.1.19build1 amd64
