@@ -117,9 +117,15 @@ git checkout v0.39.5
 
 cd ~
 . ~/.nvm/nvm.sh
-nvm install v14.21.3
+
+for node_version in "v14.21.3" "v16.20.2" "v18.18.0" "v20.8.0"
+do
+  nvm install $node_version
+  nvm use $node_version
+  npm install yarn -g
+done
+
 nvm use v14.21.3
-npm install yarn -g
 npm install meteor -g --unsafe-perm
 
 export PATH=$HOME/.meteor:$PATH
