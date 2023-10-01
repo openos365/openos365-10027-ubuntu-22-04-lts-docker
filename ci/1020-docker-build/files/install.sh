@@ -77,6 +77,11 @@ apt install libssl-dev -y
 apt install sqlite3 -y
 apt install ruby -y
 
+apt install -y cmake
+apt install -y libyaml-cpp-dev 
+apt install -y nlohmann-json3-dev 
+apt install -y libgtest-dev
+
 curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
 install container-diff-linux-amd64 /usr/bin/container-diff
 rm -rf container-diff-linux-amd64
