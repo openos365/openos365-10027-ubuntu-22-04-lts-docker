@@ -82,6 +82,27 @@ apt install -y libyaml-cpp-dev
 apt install -y nlohmann-json3-dev 
 apt install -y libgtest-dev
 
+
+function ostree_build()
+{
+cd ~
+git clone https://github.com/ostreedev/ostree.git
+git submodule update --init
+env NOCONFIGURE=1 ./autogen.sh
+./configure
+make
+make install
+}
+
+ostree_build
+
+
+
+
+
+
+
+
 curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
 install container-diff-linux-amd64 /usr/bin/container-diff
 rm -rf container-diff-linux-amd64
