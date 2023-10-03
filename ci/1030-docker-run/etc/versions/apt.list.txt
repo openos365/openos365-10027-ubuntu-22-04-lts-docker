@@ -32146,8 +32146,8 @@ libmove-base-msgs-dev/jammy 1.14.1-2 amd64
 libmovit-dev/jammy 1.6.3-5build1 amd64
 libmovit8/jammy 1.6.3-5build1 amd64
 libmozilla-ldap-perl/jammy 1.5.3-3build4 amd64
-libmozjs-102-0/jammy-updates,jammy-security 102.13.0-0ubuntu0.22.04.1 amd64
-libmozjs-102-dev/jammy-updates,jammy-security 102.13.0-0ubuntu0.22.04.1 amd64
+libmozjs-102-0/jammy-security 102.15.1-0ubuntu0.22.04.1 amd64
+libmozjs-102-dev/jammy-security 102.15.1-0ubuntu0.22.04.1 amd64
 libmozjs-78-0/jammy 78.15.0-4ubuntu1 amd64
 libmozjs-78-dev/jammy 78.15.0-4ubuntu1 amd64
 libmozjs-91-0/jammy-updates,jammy-security 91.10.0-0ubuntu1 amd64
