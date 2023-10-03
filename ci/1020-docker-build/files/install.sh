@@ -149,6 +149,7 @@ do
   nvm install $node_version
   nvm use $node_version
   npm install yarn -g
+  npm install pnpm -g
 done
 
 nvm use v14.21.3
