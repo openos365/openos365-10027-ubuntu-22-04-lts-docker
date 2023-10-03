@@ -41807,9 +41807,9 @@ libvpl-dev/jammy 2022.1.0-2 amd64
 libvpl2/jammy 2022.1.0-2 amd64
 libvpoll-dev/jammy-updates 0.1-2ubuntu1 amd64
 libvpoll0/jammy-updates 0.1-2ubuntu1 amd64
-libvpx-dev/jammy 1.11.0-2ubuntu2 amd64
-libvpx-doc/jammy 1.11.0-2ubuntu2 all
-libvpx7/jammy 1.11.0-2ubuntu2 amd64
+libvpx-dev/jammy-updates,jammy-security 1.11.0-2ubuntu2.2 amd64
+libvpx-doc/jammy-updates,jammy-security 1.11.0-2ubuntu2.2 all
+libvpx7/jammy-updates,jammy-security 1.11.0-2ubuntu2.2 amd64
 libvshadow-dev/jammy 20190323-2build1 amd64
 libvshadow-utils/jammy 20190323-2build1 amd64
 libvshadow1/jammy 20190323-2build1 amd64
@@ -72230,7 +72230,7 @@ vpnc-scripts/jammy 0.1~git20210402-1 all
 vpnc/jammy 0.5.3+git20210125-1 amd64
 vpoll-dkms/jammy-updates 0.1-2ubuntu1 all
 vprerex/jammy 1:6.5.1-1build1 amd64
-vpx-tools/jammy 1.11.0-2ubuntu2 amd64
+vpx-tools/jammy-updates,jammy-security 1.11.0-2ubuntu2.2 amd64
 vramsteg/jammy 1.1.0-1build2 amd64
 vrfy/jammy 990522-11 amd64
 vrfydmn/jammy 0.11.0-2 all
