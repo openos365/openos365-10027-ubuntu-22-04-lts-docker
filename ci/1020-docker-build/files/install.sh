@@ -101,6 +101,19 @@ function jabba_install()
 jabba_install
 
 
+apt install golang -y
+curl -s -S -L https://ghproxy.com/raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | bash
+source /root/.gvm/scripts/gvm
+gvm install go1.17
+gvm use go1.17
+
+git clone https://github.com/cooperspencer/gickup.git
+cd gickup
+go build .
+cp -fv ./gickup /usr/bin/gickup
+which gickup
+gickup --help
+
 
 function ostree_build()
 {
