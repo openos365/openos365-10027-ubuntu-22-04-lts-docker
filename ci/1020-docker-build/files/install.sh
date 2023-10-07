@@ -81,8 +81,8 @@ apt install -y cmake
 apt install -y libyaml-cpp-dev 
 apt install -y nlohmann-json3-dev 
 apt install -y libgtest-dev
-
-
+apt install -y default-jdk
+apt install -y maven
 function ostree_build()
 {
 cd ~
