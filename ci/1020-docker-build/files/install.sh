@@ -83,6 +83,25 @@ apt install -y nlohmann-json3-dev
 apt install -y libgtest-dev
 apt install -y default-jdk
 apt install -y maven
+
+function jabba_install()
+{
+  export HOME=/root
+  export USER=root
+  export JABBA_VERSION=0.11.2
+  export JABBA_INDEX=https://github.com/typelevel/jdk-index/raw/main/index.json
+  curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash 
+  . /root/.jabba/jabba.sh
+  for p_name in `jabba ls-remote`
+  do
+  	echo $p_name
+       jabba install $p_name
+  done
+}
+jabba_install
+
+
+
 function ostree_build()
 {
 cd ~
