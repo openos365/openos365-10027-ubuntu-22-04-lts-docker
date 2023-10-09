@@ -1897,11 +1897,11 @@ brz/jammy 3.2.1+bzr7585-1build1 all
 bs1770gain/jammy 0.8.3-2.1 amd64
 bs2b-ladspa/jammy 0.9.1-3ubuntu1 amd64
 bsd-mailx/jammy 8.1.2-0.20180807cvs-2build2 amd64
-bsdextrautils/jammy 2.37.2-4ubuntu3 amd64
+bsdextrautils/jammy,now 2.37.2-4ubuntu3 amd64 [installed,automatic]
 bsdgames-nonfree/jammy 2.17-9build1 amd64
 bsdgames/jammy 2.17-29 amd64
 bsdiff/jammy 4.3-23 amd64
-bsdmainutils/jammy 12.1.7+nmu3ubuntu2 all
+bsdmainutils/jammy,now 12.1.7+nmu3ubuntu2 all [installed]
 bsdowl/jammy 2.2.2-1.2 all
 bsdutils/jammy,now 1:2.37.2-4ubuntu3 amd64 [installed]
 bsequencer/jammy 1.8.10-0ubuntu1 amd64
@@ -53931,7 +53931,7 @@ nbibtex-doc/jammy 0.9.18-13 all
 nbibtex/jammy 0.9.18-13 amd64
 nbsdgames/jammy 5-2 amd64
 nbtscan/jammy 1.7.2-1 amd64
-ncal/jammy 12.1.7+nmu3ubuntu2 amd64
+ncal/jammy,now 12.1.7+nmu3ubuntu2 amd64 [installed,automatic]
 ncaptool/jammy 1.9.2-7 amd64
 ncat/jammy-updates 7.91+dfsg1+really7.80+dfsg1-2ubuntu0.1 amd64
 ncbi-acc-download/jammy 0.2.8-1 all
