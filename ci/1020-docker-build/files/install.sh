@@ -83,6 +83,9 @@ apt install -y nlohmann-json3-dev
 apt install -y libgtest-dev
 apt install -y default-jdk
 apt install -y maven
+# GVM couldn't find hexdump
+# https://askubuntu.com/questions/1131417/install-hexdump-in-an-ubuntu-docker-image
+apt install -y bsdmainutils
 
 function jabba_install()
 {
