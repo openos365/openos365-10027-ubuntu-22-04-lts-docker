@@ -67,7 +67,7 @@ apt install sudo -y
 apt install sqlite3 -y
 apt install jq -y
 apt install yq -y
-apt install ruby -y
+
 apt install vim -y
 apt install systemd-sysv -y
 apt install iputils-ping -y
@@ -75,7 +75,6 @@ apt install -y net-tools
 apt install linux-image-6.2.0-33-generic -y
 apt install libssl-dev -y
 apt install sqlite3 -y
-apt install ruby -y
 
 apt install -y cmake
 apt install -y libyaml-cpp-dev 
@@ -87,6 +86,12 @@ apt install -y postgresql-client
 # GVM couldn't find hexdump
 # https://askubuntu.com/questions/1131417/install-hexdump-in-an-ubuntu-docker-image
 apt install -y bsdmainutils
+apt install -y ruby
+apt install -y ruby-dev 
+apt install -y libpq-dev
+
+gem install pg
+
 
 function jabba_install()
 {
@@ -225,6 +230,8 @@ yarn cache dir > /etc/versions/yarn.cache.dir.origin.txt
 yarn cache list > /etc/versions/yarn.cache.list.origin.txt
 apt list > /etc/versions/apt.list.origin.txt
 apt list --installed > /etc/versions/apt.list.installed.origin.txt
+
+gem list > /etc/versions/gem.list.installed.origin.txt
 
 sed -i '$d' /etc/versions/yarn.list.origin.txt
 sed -i '$d' /etc/versions/yarn.creator.list.origin.txt
