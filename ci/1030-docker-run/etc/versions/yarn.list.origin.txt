@@ -9230,8 +9230,6 @@ yarn list v1.22.19
 ├─ proc-log@2.0.1
 ├─ process-nextick-args@2.0.1
 ├─ process@0.11.10
-├─ project-template@2.5.15-beta.14
-│  └─ @steedos/service-community@2.5.15-beta.14
 ├─ promise-all-reject-late@1.0.1
 ├─ promise-call-limit@1.0.1
 ├─ promise-inflight@1.0.1
