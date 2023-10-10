@@ -89,6 +89,7 @@ apt install -y bsdmainutils
 apt install -y ruby
 apt install -y ruby-dev 
 apt install -y libpq-dev
+apt install -y psmisc
 
 gem install pg
 
