@@ -32967,8 +32967,8 @@ libnetpbm10-dev/jammy 2:10.0-15.4 amd64
 libnetpbm10/jammy 2:10.0-15.4 amd64
 libnetpbm9-dev/jammy 2:10.0-15.4 amd64
 libnetpbm9/jammy 2:10.0-15.4 amd64
-libnetplan-dev/jammy-updates 0.106.1-7ubuntu0.22.04.2 amd64
-libnetplan0/jammy-updates 0.106.1-7ubuntu0.22.04.2 amd64
+libnetplan-dev/jammy-updates 0.105-0ubuntu2~22.04.3 amd64
+libnetplan0/jammy-updates 0.105-0ubuntu2~22.04.3 amd64
 libnetsds-kannel-perl/jammy 1.300-7 all
 libnetsds-perl/jammy 1.301-4 all
 libnetsds-util-perl/jammy 1.045-1 all
@@ -54048,7 +54048,7 @@ netpipe-openmpi/jammy 3.7.2-8 amd64
 netpipe-pvm/jammy 3.7.2-8 amd64
 netpipe-tcp/jammy 3.7.2-8 amd64
 netpipes/jammy 4.2-8build1 amd64
-netplan.io/jammy-updates 0.106.1-7ubuntu0.22.04.2 amd64
+netplan.io/jammy-updates 0.105-0ubuntu2~22.04.3 amd64
 netplug/jammy 1.2.9.2-3 amd64
 netproc/jammy 0.6.3-1 amd64
 netr/jammy 0.1.4-1 amd64
@@ -62188,7 +62188,7 @@ python3-makefun/jammy 1.9.5-2 all
 python3-mako/jammy-updates,jammy-security 1.1.3+ds1-2ubuntu0.1 all
 python3-mallard.ducktype/jammy 1.0.2-2 all
 python3-mando/jammy 0.6.4-6ubuntu1 all
-python3-manila-ui/jammy-updates 1:7.0.0-0ubuntu1.1 all
+python3-manila-ui/jammy 1:7.0.0-0ubuntu1 all
 python3-manila/jammy-updates 1:14.1.1-0ubuntu1 all
 python3-manilaclient/jammy 3.3.0-0ubuntu1 all
 python3-manuel/jammy 1.10.1-2 all
@@ -66985,7 +66985,7 @@ rtklib-qt/jammy 2.4.3.b34+dfsg-1 amd64
 rtklib/jammy 2.4.3.b34+dfsg-1 amd64
 rtl-433/jammy 21.12-1 amd64
 rtl-sdr/jammy 0.6.0-4 amd64
-rtl8812au-dkms/jammy-updates 4.3.8.12175.20140902+dfsg-0ubuntu17~22.04.2 all
+rtl8812au-dkms/jammy-updates 4.3.8.12175.20140902+dfsg-0ubuntu17~22.04.1 all
 rtl8821ce-dkms/jammy-updates 5.5.2.1-0ubuntu11~0.22.04.1 all
 rtmpdump/jammy 2.4+20151223.gitfa8646d.1-2build4 amd64
 rtorrent/jammy 0.9.8-1build1 amd64
