@@ -450,6 +450,7 @@ python3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.2 amd64 [installed,a
 python3/jammy-updates,jammy-security,now 3.10.6-1~22.04 amd64 [installed]
 rake/jammy,now 13.0.6-2 all [installed,automatic]
 readline-common/jammy,now 8.1.2-1 all [installed,automatic]
+rename/jammy,now 1.30-1 all [installed]
 rpcsvc-proto/jammy,now 1.4.2-0ubuntu6 amd64 [installed,automatic]
 rsync/jammy-updates,jammy-security,now 3.2.7-0ubuntu0.22.04.2 amd64 [installed]
 ruby-dev/jammy,now 1:3.0~exp1 amd64 [installed]
