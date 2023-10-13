@@ -18,7 +18,7 @@ voice:*::
 cdrom:*::
 floppy:*::
 tape:*::
-sudo:*::www
+sudo:*::www,runner
 audio:*::
 dip:*::
 www-data:*::
@@ -39,3 +39,12 @@ users:*::
 nogroup:*::
 www:!::
 runner:!::
+_ssh:!::
+systemd-journal:!::
+systemd-network:!::
+systemd-resolve:!::
+messagebus:!::
+systemd-timesync:!::
+input:!::
+sgx:!::
+kvm:!::
