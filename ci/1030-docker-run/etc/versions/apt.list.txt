@@ -17290,7 +17290,7 @@ libaom-dev/jammy 3.3.0-1 amd64
 libaom-doc/jammy 3.3.0-1 all
 libaom3/jammy 3.3.0-1 amd64
 libaopalliance-java-doc/jammy 20070526-6 all
-libaopalliance-java/jammy 20070526-6 all
+libaopalliance-java/jammy,now 20070526-6 all [installed,automatic]
 libaosd-dev/jammy 0.2.7-1.1ubuntu2 amd64
 libaosd-text2/jammy 0.2.7-1.1ubuntu2 amd64
 libaosd2/jammy 0.2.7-1.1ubuntu2 amd64
@@ -17313,7 +17313,7 @@ libapache-mod-jk-doc/jammy 1:1.2.48-1 all
 libapache-opennlp-java/jammy 1.9.4-1 all
 libapache-poi-java-doc/jammy 4.0.1-3 all
 libapache-poi-java/jammy 4.0.1-3 all
-libapache-pom-java/jammy 18-1 all
+libapache-pom-java/jammy,now 18-1 all [installed,automatic]
 libapache-session-browseable-perl/jammy 1.3.9-1 all
 libapache-session-ldap-perl/jammy 0.5-1 all
 libapache-session-memcached-perl/jammy 0.03-3 all
@@ -17693,7 +17693,7 @@ libatf-c-1/jammy 0.21-6 amd64
 libatf-dev/jammy 0.21-6 amd64
 libatfs1/jammy 1.4pl6-15 amd64
 libatinject-jsr330-api-java-doc/jammy 1.0+ds1-5 all
-libatinject-jsr330-api-java/jammy 1.0+ds1-5 all
+libatinject-jsr330-api-java/jammy,now 1.0+ds1-5 all [installed,automatic]
 libatinject-jsr330-tck-java/jammy 1.0+ds1-5 all
 libatk-adaptor/jammy 2.38.0-3 amd64
 libatk-bridge2.0-0/jammy,now 2.38.0-3 amd64 [installed,automatic]
@@ -19041,7 +19041,7 @@ libcddb-perl/jammy 1.222-1.1 all
 libcddb2-dev/jammy 1.3.2-7fakesync1 amd64
 libcddb2/jammy 1.3.2-7fakesync1 amd64
 libcdi-api-java-doc/jammy 1.2-3 all
-libcdi-api-java/jammy 1.2-3 all
+libcdi-api-java/jammy,now 1.2-3 all [installed,automatic]
 libcdi-dev/jammy 2.0.4-1 amd64
 libcdi0/jammy 2.0.4-1 amd64
 libcdio++-dev/jammy 2.1.0-3build1 amd64
@@ -19690,7 +19690,7 @@ libcommoncpp2-doc/jammy 1.8.1-10 all
 libcommonmark-perl/jammy 0.290000-2build2 amd64
 libcommons-beanutils-java-doc/jammy 1.9.4-1 all
 libcommons-beanutils-java/jammy 1.9.4-1 all
-libcommons-cli-java/jammy 1.4-2 all
+libcommons-cli-java/jammy,now 1.4-2 all [installed,automatic]
 libcommons-codec-java-doc/jammy 1.15-1 all
 libcommons-codec-java/jammy 1.15-1 all
 libcommons-collections3-java-doc/jammy 3.2.2-2 all
@@ -19718,7 +19718,7 @@ libcommons-fileupload-java/jammy 1.4-1 all
 libcommons-httpclient-java-doc/jammy 3.1-16 all
 libcommons-httpclient-java/jammy 3.1-16 all
 libcommons-io-java-doc/jammy 2.11.0-2 all
-libcommons-io-java/jammy 2.11.0-2 all
+libcommons-io-java/jammy,now 2.11.0-2 all [installed,automatic]
 libcommons-jci-eclipse-java/jammy 1.1-6 all
 libcommons-jci-groovy-java/jammy 1.1-6 all
 libcommons-jci-janino-java/jammy 1.1-6 all
@@ -19732,7 +19732,7 @@ libcommons-jxpath-java/jammy 1.3-10 all
 libcommons-lang-java-doc/jammy 2.6-9 all
 libcommons-lang-java/jammy 2.6-9 all
 libcommons-lang3-java-doc/jammy 3.11-1 all
-libcommons-lang3-java/jammy 3.11-1 all
+libcommons-lang3-java/jammy,now 3.11-1 all [installed,automatic]
 libcommons-logging-java-doc/jammy 1.2-2 all
 libcommons-logging-java/jammy 1.2-2 all
 libcommons-math-java-doc/jammy 2.2-8 all
@@ -19741,7 +19741,7 @@ libcommons-math3-java-doc/jammy 3.6.1-3 all
 libcommons-math3-java/jammy 3.6.1-3 all
 libcommons-net-java-doc/jammy-updates,jammy-security 3.6-1+deb11u1build0.22.04.1 all
 libcommons-net-java/jammy-updates,jammy-security 3.6-1+deb11u1build0.22.04.1 all
-libcommons-parent-java/jammy 43-1 all
+libcommons-parent-java/jammy,now 43-1 all [installed,automatic]
 libcommons-pool-java-doc/jammy 1.6-4 all
 libcommons-pool-java/jammy 1.6-4 all
 libcommons-pool2-java/jammy 2.10.0-1 all
@@ -22927,11 +22927,11 @@ libgeotranz3-dev/jammy 3.7-1.1build1 amd64
 libgeotranz3.7/jammy 3.7-1.1build1 amd64
 libgepub-0.6-0/jammy 0.6.0-2 amd64
 libgepub-0.6-dev/jammy 0.6.0-2 amd64
-libgeronimo-annotation-1.3-spec-java/jammy 1.3-1 all
+libgeronimo-annotation-1.3-spec-java/jammy,now 1.3-1 all [installed,automatic]
 libgeronimo-commonj-spec-java/jammy 1.1.1-4 all
 libgeronimo-concurrent-1.0-spec-java/jammy 1.0~alpha-1-1.1 all
 libgeronimo-ejb-3.2-spec-java/jammy 1.0~alpha-1-3 all
-libgeronimo-interceptor-3.0-spec-java/jammy 1.0.1-4fakesync all
+libgeronimo-interceptor-3.0-spec-java/jammy,now 1.0.1-4fakesync all [installed,automatic]
 libgeronimo-j2ee-connector-1.5-spec-java/jammy 2.0.0-2 all
 libgeronimo-j2ee-management-1.1-spec-java/jammy 1.0.1-1.1 all
 libgeronimo-jacc-1.1-spec-java/jammy 1.0.3-1 all
@@ -27611,7 +27611,7 @@ libguac-client-vnc0/jammy 1.3.0-1.1 amd64
 libguac-dev/jammy 1.3.0-1.1 amd64
 libguac19/jammy 1.3.0-1.1 amd64
 libguard-perl/jammy 1.023-1build7 amd64
-libguava-java/jammy 29.0-6 all
+libguava-java/jammy,now 29.0-6 all [installed,automatic]
 libguava-mini-java/jammy 0.1.3-1 all
 libguava-testlib-java/jammy 29.0-6 all
 libgucharmap-2-90-7/jammy 1:14.0.3-1 amd64
@@ -27645,7 +27645,7 @@ libguestfs-tools/jammy 1:1.46.2-10ubuntu3 amd64
 libguestfs-xfs/jammy 1:1.46.2-10ubuntu3 amd64
 libguestfs-zfs/jammy 1:1.46.2-10ubuntu3 amd64
 libguestfs0/jammy 1:1.46.2-10ubuntu3 amd64
-libguice-java/jammy 4.2.3-2 all
+libguice-java/jammy,now 4.2.3-2 all [installed,automatic]
 libguichan-0.8.1-1v5/jammy 0.8.2-20 amd64
 libguichan-allegro-0.8.1-1v5/jammy 0.8.2-20 amd64
 libguichan-dev/jammy 0.8.2-20 amd64
@@ -27810,7 +27810,7 @@ libhawtbuf-java/jammy 1.11-2 all
 libhawtdispatch-java/jammy 1.22-3 all
 libhawtjni-generator-java/jammy 1.17-1 all
 libhawtjni-maven-plugin-java/jammy 1.17-1 all
-libhawtjni-runtime-java/jammy 1.17-1 all
+libhawtjni-runtime-java/jammy,now 1.17-1 all [installed,automatic]
 libhbaapi-dev/jammy 2.2.9-3 amd64
 libhbaapi2/jammy 2.2.9-3 amd64
 libhbalinux-dev/jammy 1.0.16-2 amd64
@@ -28870,8 +28870,8 @@ libjamm-java/jammy 0.3.3-3 all
 libjamon-java/jammy 2.7-7 all
 libjanino-java-doc/jammy 2.7.0-2.1 all
 libjanino-java/jammy 2.7.0-2.1 all
-libjansi-java/jammy 1.18-1 all
-libjansi-native-java/jammy 1.8-1 all
+libjansi-java/jammy,now 1.18-1 all [installed,automatic]
+libjansi-native-java/jammy,now 1.8-1 all [installed,automatic]
 libjansson-dev/jammy 2.13.1-1.1build3 amd64
 libjansson-doc/jammy 2.13.1-1.1build3 all
 libjansson4/jammy 2.13.1-1.1build3 amd64
@@ -29618,7 +29618,7 @@ libjsp-api-java/jammy 2.3.4-3 all
 libjspeex-java/jammy 0.9.7-4.1 all
 libjsr166y-java-doc/jammy 1.7.0-2.1 all
 libjsr166y-java/jammy 1.7.0-2.1 all
-libjsr305-java/jammy 0.1~+svn49-11 all
+libjsr305-java/jammy,now 0.1~+svn49-11 all [installed,automatic]
 libjsr311-api-java-doc/jammy 1.1.1-1.1 all
 libjsr311-api-java/jammy 1.1.1-1.1 all
 libjss-java/jammy 5.0.0-1 amd64
@@ -31285,7 +31285,7 @@ libmaven-jar-plugin-java/jammy 3.1.2-1 all
 libmaven-javadoc-plugin-java/jammy 3.0.1-4 all
 libmaven-jaxb2-plugin-java/jammy 0.14.0-2 all
 libmaven-mapping-java/jammy 3.0.0-1.1 all
-libmaven-parent-java/jammy 31-2 all
+libmaven-parent-java/jammy,now 31-2 all [installed,automatic]
 libmaven-plugin-testing-java/jammy 3.3.0-1 all
 libmaven-plugin-tools-java/jammy 3.6.0-1 all
 libmaven-processor-plugin-java/jammy 3.3.3-1 all
@@ -31296,7 +31296,7 @@ libmaven-reporting-impl-java-doc/jammy 3.0.0-2 all
 libmaven-reporting-impl-java/jammy 3.0.0-2 all
 libmaven-repository-builder-java-doc/jammy 1.0-3 all
 libmaven-repository-builder-java/jammy 1.0-3 all
-libmaven-resolver-java/jammy 1.4.2-3build1 all
+libmaven-resolver-java/jammy,now 1.4.2-3build1 all [installed,automatic]
 libmaven-resolver-transport-http-java/jammy 1.4.2-3build1 all
 libmaven-resources-plugin-java/jammy 3.1.0-1 all
 libmaven-scm-java/jammy 1.12.0-1 all
@@ -31310,13 +31310,13 @@ libmaven-shared-io-java/jammy 3.0.0-3 all
 libmaven-shared-jar-java-doc/jammy 1.2-3 all
 libmaven-shared-jar-java/jammy 1.2-3 all
 libmaven-shared-utils-java-doc/jammy 3.3.0-1 all
-libmaven-shared-utils-java/jammy 3.3.0-1 all
+libmaven-shared-utils-java/jammy,now 3.3.0-1 all [installed,automatic]
 libmaven-site-plugin-java/jammy 3.6-4 all
 libmaven-source-plugin-java/jammy 3.0.1-2 all
 libmaven-verifier-java-doc/jammy 1.6-1 all
 libmaven-verifier-java/jammy 1.6-1 all
 libmaven-war-plugin-java/jammy 3.2.0-1 all
-libmaven3-core-java/jammy 3.6.3-5 all
+libmaven3-core-java/jammy,now 3.6.3-5 all [installed,automatic]
 libmavibot-java/jammy 1.0.0~M8-1 all
 libmawk-dev/jammy 1.0.2-3 all
 libmawk1/jammy 1.0.2-3 amd64
@@ -35041,14 +35041,14 @@ libplexus-ant-factory-java/jammy 1.0~alpha2.1-4 all
 libplexus-archiver-java/jammy 3.6.0-2 all
 libplexus-bsh-factory-java/jammy 1.0~alpha7-4.1 all
 libplexus-build-api-java/jammy 0.0.7-4 all
-libplexus-cipher-java/jammy 1.8-2 all
+libplexus-cipher-java/jammy,now 1.8-2 all [installed,automatic]
 libplexus-classworlds-java-doc/jammy 2.6.0-1 all
-libplexus-classworlds-java/jammy 2.6.0-1 all
+libplexus-classworlds-java/jammy,now 2.6.0-1 all [installed,automatic]
 libplexus-classworlds2-java/jammy 2.6.0-1 all
 libplexus-cli-java-doc/jammy 1.2-7 all
 libplexus-cli-java/jammy 1.2-7 all
 libplexus-compiler-java/jammy 2.8.8-2 all
-libplexus-component-annotations-java/jammy 2.1.0-1 all
+libplexus-component-annotations-java/jammy,now 2.1.0-1 all [installed,automatic]
 libplexus-component-metadata-java/jammy 2.1.0-1 all
 libplexus-container-default-java/jammy 2.1.0-1 all
 libplexus-container-default1.5-java/jammy 2.1.0-1 all
@@ -35056,14 +35056,14 @@ libplexus-digest-java/jammy 1.1-6 all
 libplexus-i18n-java/jammy 1.0-beta-10-5 all
 libplexus-interactivity-api-java-doc/jammy 1.0-alpha-6-8 all
 libplexus-interactivity-api-java/jammy 1.0-alpha-6-8 all
-libplexus-interpolation-java/jammy 1.26-1 all
+libplexus-interpolation-java/jammy,now 1.26-1 all [installed,automatic]
 libplexus-io-java/jammy 3.2.0-1.1 all
 libplexus-languages-java/jammy 0.9.10-2 all
 libplexus-resources-java/jammy 1.1.0-2 all
 libplexus-sec-dispatcher-java-doc/jammy 1.4-4 all
-libplexus-sec-dispatcher-java/jammy 1.4-4 all
+libplexus-sec-dispatcher-java/jammy,now 1.4-4 all [installed,automatic]
 libplexus-utils2-java-doc/jammy 3.3.0-1 all
-libplexus-utils2-java/jammy 3.3.0-1 all
+libplexus-utils2-java/jammy,now 3.3.0-1 all [installed,automatic]
 libplexus-velocity-java-doc/jammy 1.2-3.1 all
 libplexus-velocity-java/jammy 1.2-3.1 all
 libplf-colony-dev/jammy 6.33-1 amd64
@@ -38957,8 +38957,8 @@ libsiscone-spherical0v5/jammy 3.0.5-1 amd64
 libsiscone0v5/jammy 3.0.5-1 amd64
 libsisimai-perl/jammy 4.25.12-1 all
 libsisl-dev/jammy 4.6.0-2 amd64
-libsisu-inject-java/jammy 0.3.4-2 all
-libsisu-plexus-java/jammy 0.3.4-3 all
+libsisu-inject-java/jammy,now 0.3.4-2 all [installed,automatic]
+libsisu-plexus-java/jammy,now 0.3.4-3 all [installed,automatic]
 libsitemesh-java-doc/jammy 2.4.1+dfsg-7 all
 libsitemesh-java/jammy 2.4.1+dfsg-7 all
 libsitesummary-perl/jammy 0.1.51 all
@@ -38998,7 +38998,7 @@ libslepc64-complex3.15/jammy 3.15.2+dfsg1-2 amd64
 libslepc64-real-dev/jammy 3.15.2+dfsg1-2 all
 libslepc64-real3.15-dev/jammy 3.15.2+dfsg1-2 amd64
 libslepc64-real3.15/jammy 3.15.2+dfsg1-2 amd64
-libslf4j-java/jammy 1.7.32-1 all
+libslf4j-java/jammy,now 1.7.32-1 all [installed,automatic]
 libslice-java/jammy 0.10-2 all
 libslicot-dev/jammy 5.0+20101122-4build1 amd64
 libslicot-doc/jammy 5.0+20101122-4build1 all
@@ -41867,12 +41867,12 @@ libwaei2/jammy 3.6.2-9build1 amd64
 libwaffle-1-0/jammy 1.7.0-2 amd64
 libwaffle-dev/jammy 1.7.0-2 amd64
 libwaffle-doc/jammy 1.7.0-2 all
-libwagon-file-java/jammy 3.3.4-1 all
+libwagon-file-java/jammy,now 3.3.4-1 all [installed,automatic]
 libwagon-ftp-java/jammy 3.3.4-1 all
 libwagon-http-java/jammy 3.3.4-1 all
-libwagon-http-shaded-java/jammy 3.3.4-1 all
+libwagon-http-shaded-java/jammy,now 3.3.4-1 all [installed,automatic]
 libwagon-java/jammy 3.3.4-1 all
-libwagon-provider-api-java/jammy 3.3.4-1 all
+libwagon-provider-api-java/jammy,now 3.3.4-1 all [installed,automatic]
 libwagon-ssh-java/jammy 3.3.4-1 all
 libwaili-dev/jammy 19990723-22.1build2 amd64
 libwaili1c2/jammy 19990723-22.1build2 amd64
@@ -52597,7 +52597,7 @@ maven-ant-helper/jammy 8.6 all
 maven-cache-cleanup/jammy 1.0.4-1.2 all
 maven-debian-helper/jammy 2.6 all
 maven-repo-helper/jammy 1.10 all
-maven/jammy 3.6.3-5 all
+maven/jammy,now 3.6.3-5 all [installed]
 mawk/jammy,now 1.3.4.20200120-3 amd64 [installed]
 maxima-doc/jammy 5.45.1-8 all
 maxima-emacs/jammy 5.45.1-8 all
@@ -58870,9 +58870,9 @@ postgresql-14-wal2json/jammy 2.4-2 amd64
 postgresql-14/jammy-updates,jammy-security 14.9-0ubuntu0.22.04.1 amd64
 postgresql-all/jammy 238 all
 postgresql-autodoc/jammy 1.41+20200921-1 all
-postgresql-client-14/jammy-updates,jammy-security 14.9-0ubuntu0.22.04.1 amd64
-postgresql-client-common/jammy 238 all
-postgresql-client/jammy 14+238 all
+postgresql-client-14/jammy-updates,jammy-security,now 14.9-0ubuntu0.22.04.1 amd64 [installed,automatic]
+postgresql-client-common/jammy,now 238 all [installed,automatic]
+postgresql-client/jammy,now 14+238 all [installed]
 postgresql-common/jammy 238 all
 postgresql-comparator/jammy 2.3.2-2 amd64
 postgresql-contrib/jammy 14+238 all
