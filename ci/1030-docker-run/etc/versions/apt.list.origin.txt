@@ -54267,7 +54267,7 @@ nkf/jammy 1:2.1.5-1build3 amd64
 nlinline-dev/jammy 0.2.2-1 all
 nlkt/jammy 0.3.2.6-2build1 amd64
 nload/jammy 0.7.4-2build3 amd64
-nlohmann-json3-dev/jammy 3.10.5-2 all
+nlohmann-json3-dev/jammy,now 3.10.5-2 all [installed]
 nlopt-doc/jammy 2.7.1-3build1 all
 nm-tray-l10n/jammy 0.4.3-2ubuntu1 all
 nm-tray/jammy 0.4.3-2ubuntu1 amd64
