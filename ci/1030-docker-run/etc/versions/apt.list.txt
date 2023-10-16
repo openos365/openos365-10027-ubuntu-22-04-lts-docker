@@ -4568,7 +4568,6 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
-dive/now 0.11.0 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -14859,7 +14858,7 @@ jpegoptim/jammy 1.4.6-1 amd64
 jpegpixi/jammy 1.1.1-4.1build1 amd64
 jpegqs/jammy 1.20210408-2 amd64
 jpnevulator/jammy 2.3.6-1 amd64
-jq/jammy,now 1.6-2.1ubuntu3 amd64 [installed]
+jq/jammy 1.6-2.1ubuntu3 amd64
 jquery-alternative-doc/jammy 1.7+dfsg-1.1 all
 jruby-maven-plugins/jammy 1.1.5+ds1-2.1 all
 jruby-openssl/jammy 0.9.21-3 all
@@ -27324,7 +27323,7 @@ libgpiv3-dev/jammy 0.6.1-7.1build1 amd64
 libgpiv3-doc/jammy 0.6.1-7.1build1 all
 libgpiv3/jammy 0.6.1-7.1build1 amd64
 libgpm-dev/jammy 1.20.7-10build1 amd64
-libgpm2/jammy,now 1.20.7-10build1 amd64 [installed,automatic]
+libgpm2/jammy 1.20.7-10build1 amd64
 libgpod-cil-dev/jammy 0.8.3-16build2 amd64
 libgpod-cil/jammy 0.8.3-16build2 amd64
 libgpod-common/jammy 0.8.3-16build2 amd64
@@ -29211,7 +29210,7 @@ libjpfcodegen-java/jammy 0.4+dfsg1-1.1 all
 libjpgalleg4-dev/jammy 2:4.4.3.1-2 amd64
 libjpgalleg4.4/jammy 2:4.4.3.1-2 amd64
 libjq-dev/jammy 1.6-2.1ubuntu3 amd64
-libjq1/jammy,now 1.6-2.1ubuntu3 amd64 [installed,automatic]
+libjq1/jammy 1.6-2.1ubuntu3 amd64
 libjreen-qt5-1/jammy 1.2.0-2.1fakesync1build1 amd64
 libjreen-qt5-dbg/jammy 1.2.0-2.1fakesync1build1 amd64
 libjreen-qt5-dev/jammy 1.2.0-2.1fakesync1build1 amd64
@@ -33903,7 +33902,7 @@ libomxil-bellagio0/jammy 0.9.3-7ubuntu1 amd64
 libonemind-commons-invoke-java/jammy 1.1.0+cvs20090227-5 all
 libonemind-commons-java-java/jammy 1.5.5-7 all
 libonig-dev/jammy 6.9.7.1-2build1 amd64
-libonig5/jammy,now 6.9.7.1-2build1 amd64 [installed,automatic]
+libonig5/jammy 6.9.7.1-2build1 amd64
 libonnx-dev/jammy 1.7.0+dfsg-3ubuntu2 amd64
 libonnx-testdata/jammy 1.7.0+dfsg-3ubuntu2 all
 libonnx1/jammy 1.7.0+dfsg-3ubuntu2 amd64
@@ -35598,7 +35597,7 @@ libpython3.10-dev/jammy-updates,jammy-security 3.10.12-1~22.04.2 amd64
 libpython3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.2 amd64 [installed,automatic]
 libpython3.10-stdlib/jammy-updates,jammy-security,now 3.10.12-1~22.04.2 amd64 [installed,automatic]
 libpython3.10-testsuite/jammy-updates,jammy-security 3.10.12-1~22.04.2 all
-libpython3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.2 amd64 [installed,automatic]
+libpython3.10/jammy-updates,jammy-security 3.10.12-1~22.04.2 amd64
 libpython3.11-dbg/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-dev/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-minimal/jammy-updates 3.11.0~rc1-1~22.04 amd64
@@ -39124,7 +39123,7 @@ libsocksd0/jammy 1.4.2+dfsg-7build4 amd64
 libsocl-1.3-0/jammy 1.3.9+dfsg-1 amd64
 libsocl-contrib-1.3-0/jammy 1.3.9+dfsg-1 amd64
 libsodium-dev/jammy 1.0.18-1build2 amd64
-libsodium23/jammy,now 1.0.18-1build2 amd64 [installed,automatic]
+libsodium23/jammy 1.0.18-1build2 amd64
 libsofia-sip-ua-dev/jammy-updates,jammy-security 1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.1 amd64
 libsofia-sip-ua-glib-dev/jammy-updates,jammy-security 1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.1 amd64
 libsofia-sip-ua-glib3/jammy-updates,jammy-security 1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.1 amd64
@@ -70025,7 +70024,7 @@ suckless-tools/jammy 46-1 amd64
 sucrack/jammy 1.2.3-6 amd64
 sucrose/jammy 0.118-2 all
 sudo-ldap/jammy-updates,jammy-security 1.9.9-1ubuntu2.4 amd64
-sudo/jammy-updates,jammy-security,now 1.9.9-1ubuntu2.4 amd64 [installed]
+sudo/jammy-updates,jammy-security 1.9.9-1ubuntu2.4 amd64
 sudoku-solver/jammy 1.0.1-3 amd64
 sudoku/jammy 1.0.5-2build3 amd64
 suffixfsm/jammy 0.0~git20150829.56e4718-5 amd64
@@ -72662,7 +72661,7 @@ vim-athena/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.12 amd64
 vim-autopep8/jammy 1.2.0-2 all
 vim-bitbake/jammy 0~git20220408-1 all
 vim-command-t/jammy 5.0.2-5-g7147ba9-1build2 amd64
-vim-common/jammy-updates,jammy-security,now 2:8.2.3995-1ubuntu2.12 all [installed,automatic]
+vim-common/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.12 all
 vim-ctrlp/jammy 1.81-1 all
 vim-doc/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.12 all
 vim-editorconfig/jammy 0.3.3+dfsg-2.1 all
@@ -72687,7 +72686,7 @@ vim-puppet/jammy 4~20181115+git4793b074-2 all
 vim-python-jedi/jammy 0.18.0-1 all
 vim-rails/jammy 4.5~20110829-2 all
 vim-redact-pass/jammy 1.7.4-5 all
-vim-runtime/jammy-updates,jammy-security,now 2:8.2.3995-1ubuntu2.12 all [installed,automatic]
+vim-runtime/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.12 all
 vim-scripts/jammy 20210124.2 all
 vim-snipmate/jammy 0.87-6 all
 vim-snippets/jammy 1.0.0-7 all
@@ -72707,7 +72706,7 @@ vim-vimerl-syntax/jammy 1.4.1+git20120509.89111c7-2.1 all
 vim-vimerl/jammy 1.4.1+git20120509.89111c7-2.1 all
 vim-voom/jammy 5.3-8 all
 vim-youcompleteme/jammy 0+20200825+git2afee9d+ds-2 all
-vim/jammy-updates,jammy-security,now 2:8.2.3995-1ubuntu2.12 amd64 [installed]
+vim/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.12 amd64
 vinagre/jammy 3.22.0-8ubuntu2 amd64
 vinetto/jammy 1:0.8.0-3 all
 vino/jammy 3.22.0-6ubuntu3 amd64
@@ -74216,7 +74215,7 @@ xwit/jammy 3.4-16 amd64
 xwpe/jammy 1.5.30a-3 amd64
 xwrited/jammy 3-1 amd64
 xwrits/jammy 2.21-6.1build1 amd64
-xxd/jammy-updates,jammy-security,now 2:8.2.3995-1ubuntu2.12 amd64 [installed,automatic]
+xxd/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.12 amd64
 xxdiff-scripts/jammy 1:5.0~b1+git20211103+dfsg-1 all
 xxdiff/jammy 1:5.0~b1+git20211103+dfsg-1 amd64
 xxhash/jammy 0.8.1-1 amd64
