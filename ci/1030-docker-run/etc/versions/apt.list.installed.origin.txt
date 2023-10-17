@@ -438,7 +438,6 @@ postgresql-client-14/jammy-updates,jammy-security,now 14.9-0ubuntu0.22.04.1 amd6
 postgresql-client-common/jammy,now 238 all [installed,automatic]
 postgresql-client/jammy,now 14+238 all [installed]
 procps/jammy,now 2:3.3.17-6ubuntu2 amd64 [installed]
-psmisc/jammy,now 23.4-2build3 amd64 [installed]
 publicsuffix/jammy,now 20211207.1025-1 all [installed,automatic]
 python2-minimal/jammy,now 2.7.18-3 amd64 [installed,automatic]
 python2.7-minimal/jammy-updates,jammy-security,now 2.7.18-13ubuntu1.1 amd64 [installed,automatic]
