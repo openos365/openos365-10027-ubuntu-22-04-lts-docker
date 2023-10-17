@@ -59217,7 +59217,7 @@ psl/jammy 0.21.0-1.2build2 amd64
 pslib-dev/jammy 0.4.7-1 amd64
 pslib1/jammy 0.4.7-1 amd64
 pslist/jammy 1.4.0-3 all
-psmisc/jammy 23.4-2build3 amd64
+psmisc/jammy,now 23.4-2build3 amd64 [installed]
 psortb/jammy 3.0.6+dfsg-2build2 amd64
 pspg/jammy 5.5.3-1 amd64
 pspp/jammy 1.4.1-1build1 amd64
