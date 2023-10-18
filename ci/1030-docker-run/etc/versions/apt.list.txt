@@ -8735,7 +8735,7 @@ gccgo-sparc64-linux-gnu/jammy 4:11.2.0--1ubuntu1 amd64
 gccgo-x86-64-linux-gnux32/jammy 4:11.2.0--1ubuntu1 amd64
 gccgo/jammy 4:11.2.0-1ubuntu1 amd64
 gccintro/jammy 1.0-4 all
-gce-compute-image-packages/jammy-updates 20230808.00-0ubuntu1~22.04.0 all
+gce-compute-image-packages/jammy-updates 20230403.00-0ubuntu1~22.04.0 all
 gchempaint/jammy 0.14.17-6.1 amd64
 gcin-anthy/jammy 2.9.0+dfsg1-2build1 amd64
 gcin-data/jammy 2.9.0+dfsg1-2build1 all
@@ -12839,7 +12839,7 @@ google-android-platform-8-installer/jammy 8+r03+nmu5 all
 google-android-platform-9-installer/jammy 9+r02+nmu5 all
 google-android-sdk-docs-installer/jammy 24+r3 all
 google-compute-engine-oslogin/jammy-updates 20220714.00-0ubuntu1~22.04.1 amd64
-google-compute-engine/jammy-updates 20230808.00-0ubuntu1~22.04.0 all
+google-compute-engine/jammy-updates 20230403.00-0ubuntu1~22.04.0 all
 google-guest-agent/jammy-updates 20230426.00-0ubuntu2~22.04.0 amd64
 google-mock/jammy 1.11.0-3 amd64
 google-osconfig-agent/jammy-updates 20230504.00-0ubuntu1~22.04.0 amd64
