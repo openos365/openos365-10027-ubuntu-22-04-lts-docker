@@ -67,6 +67,7 @@ rsync -avzP --delete \
 --exclude=/iscsi/initiatorname.iscsi \
 --exclude=/nvme/hostid \
 --exclude=/nvme/hostnqn \
+--exclude=/ssl/certs/java/cacerts \
 /etc/ ./etc/
 chmod -R 777 ./etc/
 
