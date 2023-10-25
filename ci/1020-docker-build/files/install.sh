@@ -66,7 +66,6 @@ apt install python2 -y
 apt install sudo -y
 apt install sqlite3 -y
 apt install jq -y
-apt install yq -y
 
 apt install vim -y
 apt install systemd-sysv -y
