@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -x
+# set -x
 
 export CMD_PATH=$(cd `dirname $0`; pwd)
 export PROJECT_NAME="${CMD_PATH##*/}"
@@ -208,7 +208,7 @@ export PATH=$HOME/.meteor:$PATH
 echo $PATH
 which node
 node --version
-set -x
+# set -x
 
 npm  config set -g python /usr/bin/python2
 yarn config set python /usr/bin/python2 -g
