@@ -126,10 +126,15 @@ jabba_install
 apt install golang -y
 curl -s -S -L https://ghproxy.com/raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | bash
 source /root/.gvm/scripts/gvm
-gvm install go1.21
-gvm use go1.21
+
 
 git clone https://github.com/cooperspencer/gickup.git
+#export go_version=$(cat gickup/.github/workflows/go.yml | yq -y .jobs.build.steps[1].with | cut -d ":" -f 2 | tr -d " ")
+export go_version=$(cat gickup/.github/workflows/go.yml | grep "go-version" | cut -d ":" -f 2 | tr -d " ")
+
+gvm install go$go_version
+gvm use go$go_version
+
 cd gickup
 go build .
 cp -fv ./gickup /usr/bin/gickup
