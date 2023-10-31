@@ -289,7 +289,7 @@ sed -i '$d' /etc/versions/yarn.cache.list.origin.txt
 
 . ~/.bashrc
 
-env > /etv/versions/env.txt
+env > /etc/versions/env.txt
 
 ls -al /etc/versions
 date
