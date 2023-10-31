@@ -124,8 +124,8 @@ jabba_install
 apt install golang -y
 curl -s -S -L https://ghproxy.com/raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | bash
 source /root/.gvm/scripts/gvm
-gvm install go1.17
-gvm use go1.17
+gvm install go1.21
+gvm use go1.21
 
 git clone https://github.com/cooperspencer/gickup.git
 cd gickup
