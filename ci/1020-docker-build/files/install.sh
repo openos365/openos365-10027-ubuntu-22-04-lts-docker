@@ -94,6 +94,8 @@ apt install -y python3-pip
 
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 pip install sde
+pip install yq
+
 
 # 添加镜像源并移除默认源
 gem sources --add https://mirrors.tuna.tsinghua.edu.cn/rubygems/ --remove https://rubygems.org/
