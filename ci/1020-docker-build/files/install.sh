@@ -154,7 +154,7 @@ function ostree_build()
   make install
 }
 
-ostree_build
+# ostree_build
 
 
 
@@ -240,22 +240,22 @@ nvm use v14.21.3
 npm install -g node-gyp
 npm install -g yarn
 
-set -x
-cd ~
-while read -r line
-do
-  echo "$line"
-  mkdir -p packages/$line
-  cd packages/$line
-  line2=${line//@}
-  yarn init --yes
-  yarn add $line #--verbose
-  yarn #--verbose
-  yarn list > yarn.list.txt
-  sed -i '$d' yarn.list.txt
-  cd ~
-done < 3.npm.packages.list.txt
-set +x
+# set -x
+# cd ~
+# while read -r line
+# do
+#   echo "$line"
+#   mkdir -p packages/$line
+#   cd packages/$line
+#   line2=${line//@}
+#   yarn init --yes
+#   yarn add $line #--verbose
+#   yarn #--verbose
+#   yarn list > yarn.list.txt
+#   sed -i '$d' yarn.list.txt
+#   cd ~
+# done < 3.npm.packages.list.txt
+# set +x
 
 cd ~
 git clone https://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
