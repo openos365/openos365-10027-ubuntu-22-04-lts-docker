@@ -89,6 +89,10 @@ apt install -y ruby
 apt install -y ruby-dev 
 apt install -y libpq-dev
 apt install -y psmisc
+apt install python3-pip
+
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+pip install sde
 
 gem install pg
 
