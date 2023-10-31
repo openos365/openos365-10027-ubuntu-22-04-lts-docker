@@ -144,13 +144,14 @@ gickup --help
 
 function ostree_build()
 {
-cd ~
-git clone https://github.com/ostreedev/ostree.git
-git submodule update --init
-env NOCONFIGURE=1 ./autogen.sh
-./configure
-make
-make install
+  cd ~
+  git clone https://github.com/ostreedev/ostree.git
+  cd ostree
+  git submodule update --init
+  env NOCONFIGURE=1 ./autogen.sh
+  ./configure
+  make
+  make install
 }
 
 ostree_build
