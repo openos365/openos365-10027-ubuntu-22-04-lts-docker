@@ -240,6 +240,7 @@ nvm use v14.21.3
 npm install -g node-gyp
 npm install -g yarn
 
+set -x
 cd ~
 while read -r line
 do
@@ -254,6 +255,7 @@ do
   sed -i '$d' yarn.list.txt
   cd ~
 done < 3.npm.packages.list.txt
+set +x
 
 cd ~
 git clone https://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
