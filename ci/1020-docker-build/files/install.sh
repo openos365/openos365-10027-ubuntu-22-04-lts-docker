@@ -299,4 +299,6 @@ date
 apt-get clean autoclean
 apt-get autoremove --yes
 rm -rf /var/lib/{apt,dpkg,cache,log}/
+apt update -y
+apt upgrade -y
 
