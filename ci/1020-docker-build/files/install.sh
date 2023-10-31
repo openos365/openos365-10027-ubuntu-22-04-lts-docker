@@ -60,6 +60,7 @@ apt install rename -y
 apt install expect -y
 apt install curl -y
 apt install wget -y
+apt install -y bison
 
 apt install python3 -y
 apt install python2 -y
