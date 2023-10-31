@@ -293,3 +293,8 @@ env > /etc/versions/env.txt
 
 ls -al /etc/versions
 date
+
+apt-get clean autoclean
+apt-get autoremove --yes
+rm -rf /var/lib/{apt,dpkg,cache,log}/
+
