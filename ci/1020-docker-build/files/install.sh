@@ -298,11 +298,11 @@ date
 set -x
 apt-get clean autoclean
 apt-get autoremove --yes
-rm -rf /var/lib/{apt,dpkg,cache,log}/
-mkdir -p /var/lib/apt
-mkdir -p /var/lib/dpkg
-mkdir -p /var/lib/cache
-mkdir -p /var/lib/log
+# rm -rf /var/lib/{apt,dpkg,cache,log}/
+# mkdir -p /var/lib/apt
+# mkdir -p /var/lib/dpkg
+# mkdir -p /var/lib/cache
+# mkdir -p /var/lib/log
 apt update -y
 apt upgrade -y
 
