@@ -68,6 +68,7 @@ rsync -avzP --delete \
 --exclude=/nvme/hostid \
 --exclude=/nvme/hostnqn \
 --exclude=/ssl/certs/*.0 \
+--exclude=/ssl/certs/*.1 \
 --exclude=/ssl/certs/java/cacerts \
 /etc/ ./etc/
 chmod -R 777 ./etc/
