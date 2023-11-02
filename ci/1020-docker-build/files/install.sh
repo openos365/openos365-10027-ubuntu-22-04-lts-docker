@@ -241,20 +241,15 @@ npm install -g node-gyp
 npm install -g yarn
 
 # set -x
-# cd ~
-# while read -r line
-# do
-#   echo "$line"
-#   mkdir -p packages/$line
-#   cd packages/$line
-#   line2=${line//@}
-#   yarn init --yes
-#   yarn add $line #--verbose
-#   yarn #--verbose
-#   yarn list > yarn.list.txt
-#   sed -i '$d' yarn.list.txt
-#   cd ~
-# done < 3.npm.packages.list.txt
+cd ~
+mkdir -p npm-packages
+cd npm-packages
+while read -r line
+do
+  echo "$line"
+  yarn add $line
+done < ~/3.npm.packages.list.txt
+
 # set +x
 
 cd ~
