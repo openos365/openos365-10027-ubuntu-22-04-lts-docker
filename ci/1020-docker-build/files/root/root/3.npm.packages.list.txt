@@ -7,7 +7,6 @@
 @steedos/app-okr-management
 @steedos/app-project-management
 @steedos/auth
-@steedos/auth-utils
 @steedos-builder/design-system
 @steedos-builder/fiddle
 @steedos-builder/react
@@ -29,9 +28,7 @@
 @steedos/ee_mongodb-bi-connector
 @steedos/ee_plugin-field-encryption
 @steedos/ee_service-plugin-license
-@steedos/ee_sso
 @steedos/ee_sso-oidc
-@steedos/ee_stimulsoft-reports
 @steedos/ee_unpkg-local
 @steedos/ee_virus-scan
 @steedos/filters
@@ -74,7 +71,6 @@
 @steedos-labs/services
 @steedos-labs/shop
 @steedos-labs/site
-@steedos-labs/stimulsoft-reports
 @steedos-labs/surgery
 @steedos-labs/unpkg
 @steedos-labs/workflow
@@ -90,7 +86,6 @@
 @steedos/mongodb-bi-connector
 @steedos/mongodb-memory-server-core
 @steedos/node-red-app-template
-@steedos/node-red-contrib-mongodb-storage
 @steedos/node-red-contrib-steedos
 @steedos/oauth2-messenger
 @steedos/objectql
@@ -122,7 +117,6 @@
 @steedos/service-charts
 @steedos/service-cloud-init
 @steedos/service-community
-@steedos/service-enterprise
 @steedos/service-fields-indexs
 @steedos/service-files
 @steedos/service-i18n

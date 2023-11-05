@@ -26,3 +26,25 @@ cd 1010-shell-run
 ```
 
 #### 4 自定义ci 1.ci.run.sh
+
+@steedos/auth-utils 
+@steedos/ee_sso
+@steedos/ee_stimulsoft-reports
+@steedos-labs/stimulsoft-reports
+@steedos/node-red-contrib-mongodb-storage
+@steedos/service-enterprise
+@steedos/server-amis
+
+ 
+
+
+
+
+
+
+error bson@6.2.0: The engine "node" is incompatible with this module. Expected version ">=16.20.1". Got "14.21.3"
+error bson@6.2.0: The engine "node" is incompatible with this module. Expected version ">=16.20.1". Got "14.21.3"
+error @azure/core-util@1.6.1: The engine "node" is incompatible with this module. Expected version ">=16.0.0". Got "14.21.3"
+error bson@6.2.0: The engine "node" is incompatible with this module. Expected version ">=16.20.1". Got "14.21.3"
+@steedos/server-amis The engine "node" is incompatible with this module. Expected version ">=18.17.0". Got "14.21.3"
+
