@@ -240,7 +240,7 @@ nvm use v14.21.3
 npm install -g node-gyp
 npm install -g yarn
 
-
+mkdir /etc/versions
 cd ~
 mkdir -p npm-packages
 cd npm-packages
@@ -250,12 +250,13 @@ do
   echo "$line"
   yarn add $line
 done < ~/3.npm.packages.list.txt
+yarn
+yarn list > /etc/versions/yarn.npm.packages.list.txt
 
 cd ~
 git clone https://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
 
 cd ~
-mkdir /etc/versions
 rm -rf steedos-platform
 git clone --depth=1 -b 2.5 https://github.com/steedos/steedos-platform.git
 cd steedos-platform
@@ -282,6 +283,7 @@ gem list > /etc/versions/gem.list.installed.origin.txt
 sed -i '$d' /etc/versions/yarn.list.origin.txt
 sed -i '$d' /etc/versions/yarn.creator.list.origin.txt
 sed -i '$d' /etc/versions/yarn.cache.list.origin.txt
+sed -i '$d' /etc/versions/yarn.npm.packages.list.txt
 
 . ~/.bashrc
 
