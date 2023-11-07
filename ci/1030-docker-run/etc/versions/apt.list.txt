@@ -65315,7 +65315,7 @@ python3-uranium/jammy 4.13.0-1 all
 python3-uritemplate/jammy 3.0.1-1 all
 python3-uritools/jammy 3.0.2-1 all
 python3-url-normalize/jammy 1.4.3-2 all
-python3-urllib3/jammy 1.26.5-1~exp1 all
+python3-urllib3/jammy-security 1.26.5-1~exp1ubuntu0.1 all
 python3-urlobject/jammy 2.4.3-3 all
 python3-urwid-satext/jammy 0.8.0-1 all
 python3-urwid-utils/jammy 0.1.2.dev2-2 all
