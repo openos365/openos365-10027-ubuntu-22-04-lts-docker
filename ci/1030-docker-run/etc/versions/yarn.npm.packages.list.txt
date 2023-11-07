@@ -11676,10 +11676,10 @@ yarn list v1.22.19
 ├─ @types/long@4.0.2
 ├─ @types/mime@3.0.3
 ├─ @types/minimatch@5.1.2
-├─ @types/minimist@1.2.4
+├─ @types/minimist@1.2.5
 ├─ @types/node@20.8.10
 │  └─ undici-types@~5.26.4
-├─ @types/normalize-package-data@2.4.3
+├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.1
 ├─ @types/path-to-regexp@1.7.0
 │  ├─ path-to-regexp@*
