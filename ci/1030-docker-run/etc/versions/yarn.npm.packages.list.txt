@@ -11609,19 +11609,19 @@ yarn list v1.22.19
 ├─ @types/cors@2.8.16
 │  └─ @types/node@*
 ├─ @types/estree@1.0.5
-├─ @types/express-serve-static-core@4.17.40
+├─ @types/express-serve-static-core@4.17.41
 │  ├─ @types/node@*
 │  ├─ @types/qs@*
 │  ├─ @types/range-parser@*
 │  └─ @types/send@*
-├─ @types/express@4.17.20
+├─ @types/express@4.17.21
 │  ├─ @types/body-parser@*
 │  ├─ @types/express-serve-static-core@^4.17.33
 │  ├─ @types/qs@*
 │  └─ @types/serve-static@*
 ├─ @types/fs-capacitor@2.0.0
 │  └─ @types/node@*
-├─ @types/fs-extra-promise@1.0.12
+├─ @types/fs-extra-promise@1.0.13
 │  ├─ @types/bluebird@*
 │  ├─ @types/fs-extra@^4
 │  └─ @types/node@*
