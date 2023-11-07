@@ -11599,16 +11599,16 @@ yarn list v1.22.19
 │  └─ @types/node@*
 ├─ @types/connect@3.4.38
 │  └─ @types/node@*
-├─ @types/content-disposition@0.5.7
+├─ @types/content-disposition@0.5.8
 ├─ @types/cookie@0.4.1
-├─ @types/cookies@0.7.9
+├─ @types/cookies@0.7.10
 │  ├─ @types/connect@*
 │  ├─ @types/express@*
 │  ├─ @types/keygrip@*
 │  └─ @types/node@*
 ├─ @types/cors@2.8.16
 │  └─ @types/node@*
-├─ @types/estree@1.0.4
+├─ @types/estree@1.0.5
 ├─ @types/express-serve-static-core@4.17.40
 │  ├─ @types/node@*
 │  ├─ @types/qs@*
