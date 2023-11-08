@@ -15539,8 +15539,8 @@ kpackagelauncherqml/jammy 5.92.0-0ubuntu1 amd64
 kpackagetool5/jammy 5.92.0-0ubuntu1 amd64
 kpart5-kompare/jammy 4:21.12.3-0ubuntu1 amd64
 kpartloader/jammy 4:21.12.3-0ubuntu1 amd64
-kpartx-boot/jammy-updates,jammy-security 0.8.8-1ubuntu1.22.04.1 all
-kpartx/jammy-updates,jammy-security 0.8.8-1ubuntu1.22.04.1 amd64
+kpartx-boot/jammy-updates 0.8.8-1ubuntu1.22.04.3 all
+kpartx/jammy-updates 0.8.8-1ubuntu1.22.04.3 amd64
 kpat/jammy 4:21.12.3-0ubuntu1 amd64
 kpatch-build/jammy 0.8.0-0ubuntu8 amd64
 kpatch/jammy 0.8.0-0ubuntu8 amd64
@@ -52857,8 +52857,8 @@ littlewizard/jammy 1.2.2-4.1 amd64
 live-boot-doc/jammy 1:20210208 all
 live-boot-initramfs-tools/jammy 1:20210208 all
 live-boot/jammy 1:20210208 all
-live-build-cgi/jammy 3.0~a57-1ubuntu41 all
-live-build/jammy 3.0~a57-1ubuntu41 all
+live-build-cgi/jammy-updates 3.0~a57-1ubuntu41.22.04.1 all
+live-build/jammy-updates 3.0~a57-1ubuntu41.22.04.1 all
 live-clone/jammy 2.4-1 all
 live-config-doc/jammy 11.0.3build1 all
 live-config-systemd/jammy 11.0.3build1 all
@@ -54752,8 +54752,8 @@ multimedia-tasks/jammy 0.10 all
 multimedia-video/jammy 0.10 all
 multimon-ng/jammy 1.1.9+dfsg-2 amd64
 multimon/jammy 1.0-7.1build2 amd64
-multipath-tools-boot/jammy-updates,jammy-security 0.8.8-1ubuntu1.22.04.1 all
-multipath-tools/jammy-updates,jammy-security 0.8.8-1ubuntu1.22.04.1 amd64
+multipath-tools-boot/jammy-updates 0.8.8-1ubuntu1.22.04.3 all
+multipath-tools/jammy-updates 0.8.8-1ubuntu1.22.04.3 amd64
 multiplex/jammy 0.5.1-3 all
 multiqc/jammy 1.12+dfsg-1 all
 multistrap/jammy 2.2.11 all
@@ -65316,7 +65316,7 @@ python3-uranium/jammy 4.13.0-1 all
 python3-uritemplate/jammy 3.0.1-1 all
 python3-uritools/jammy 3.0.2-1 all
 python3-url-normalize/jammy 1.4.3-2 all
-python3-urllib3/jammy-security 1.26.5-1~exp1ubuntu0.1 all
+python3-urllib3/jammy-updates,jammy-security 1.26.5-1~exp1ubuntu0.1 all
 python3-urlobject/jammy 2.4.3-3 all
 python3-urwid-satext/jammy 0.8.0-1 all
 python3-urwid-utils/jammy 0.1.2.dev2-2 all
