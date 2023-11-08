@@ -20107,7 +20107,7 @@ yarn list v1.22.19
 │  ├─ react-clientside-effect@^1.2.5
 │  ├─ use-callback-ref@^1.2.5
 │  └─ use-sidecar@^1.0.5
-├─ react-grid-layout@1.4.2
+├─ react-grid-layout@1.4.3
 │  ├─ clsx@^2.0.0
 │  ├─ clsx@2.0.0
 │  ├─ fast-equals@^4.0.3
