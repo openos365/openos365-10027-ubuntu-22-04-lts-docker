@@ -19457,7 +19457,7 @@ yarn list v1.22.19
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.88.1
+├─ posthog-js@1.88.2
 │  └─ fflate@^0.4.1
 ├─ potpack@1.0.2
 ├─ preact-compat@3.19.0
