@@ -124,7 +124,7 @@ jabba_install
 
 
 apt install golang -y
-curl -s -S -L https://ghproxy.com/raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | bash
+curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | bash
 source /root/.gvm/scripts/gvm
 
 
