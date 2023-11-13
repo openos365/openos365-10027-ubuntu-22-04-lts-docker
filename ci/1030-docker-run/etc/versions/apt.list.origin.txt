@@ -6557,7 +6557,7 @@ firmware-b43-installer/jammy 1:019-7build2 all
 firmware-b43legacy-installer/jammy 1:019-7build2 all
 firmware-microbit-micropython-doc/jammy 1.0.1-2 all
 firmware-microbit-micropython/jammy 1.0.1-2 all
-firmware-sof-signed/jammy-updates 2.0-1ubuntu4.1 all
+firmware-sof-signed/jammy-updates 2.0-1ubuntu4.2 all
 firmware-tomu/jammy 2.0~rc7-2 all
 fis-gtm-6.3-014/jammy 6.3-014-3 amd64
 fis-gtm/jammy 6.3-014-3 amd64
