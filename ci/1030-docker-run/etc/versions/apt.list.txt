@@ -9380,7 +9380,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy 1.0.0+ds-1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.38.0 amd64 [installed]
+gh/unknown,now 2.39.0 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -35446,7 +35446,7 @@ libprocesscore9/jammy-updates 4:5.24.6-0ubuntu0.1 amd64
 libprocessing-core-java/jammy 1.2.1-2 all
 libprocessui9/jammy-updates 4:5.24.6-0ubuntu0.1 amd64
 libprocps-dev/jammy 2:3.3.17-6ubuntu2 amd64
-libprocps8/jammy,now 2:3.3.17-6ubuntu2 amd64 [installed]
+libprocps8/now 2:3.3.17-6ubuntu2.1 amd64 [installed,local]
 libprocyon-java/jammy 0.5.36-1 all
 libprogress-any-output-termprogressbarcolor-perl/jammy 0.249-1 all
 libprogress-any-perl/jammy 0.219-1 all
@@ -60257,7 +60257,7 @@ procinfo/jammy 1:2.0.304-6 amd64
 procmail-lib/jammy 1:2009.1202-4.1 all
 procmail/jammy 3.22-26build2 amd64
 procmeter3/jammy 3.6-3 amd64
-procps/jammy,now 2:3.3.17-6ubuntu2 amd64 [installed]
+procps/now 2:3.3.17-6ubuntu2.1 amd64 [installed,local]
 procserv/jammy 2.7.0-1build2 amd64
 procyon-decompiler/jammy 0.5.36-1 all
 proda/jammy 1.0-13 amd64
