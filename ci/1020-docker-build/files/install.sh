@@ -244,6 +244,7 @@ mkdir /etc/versions
 cd ~
 mkdir -p npm-packages
 cd npm-packages
+yarn init -y
 set -x
 while read -r line
 do
