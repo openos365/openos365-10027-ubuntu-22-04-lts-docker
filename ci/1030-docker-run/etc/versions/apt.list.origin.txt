@@ -677,7 +677,7 @@ apt-config-icons/jammy 0.15.2-2 all
 apt-cudf/jammy 7.0.0-1build1 amd64
 apt-dater-host/jammy 1.0.1-4 all
 apt-dater/jammy 1.0.4-5 amd64
-apt-doc/jammy-updates 2.4.10 all
+apt-doc/jammy-updates 2.4.11 all
 apt-file/jammy 3.2.2 all
 apt-forktracer/jammy 0.9 all
 apt-listchanges/jammy 3.24 all
@@ -691,14 +691,14 @@ apt-rollback/jammy 1.0.16-0ubuntu1 all
 apt-show-source/jammy 0.11+nmu1 all
 apt-show-versions/jammy 0.22.13 all
 apt-src/jammy 0.25.3 all
-apt-transport-https/jammy-updates 2.4.10 all
+apt-transport-https/jammy-updates 2.4.11 all
 apt-transport-in-toto/jammy 0.1.1-2 all
 apt-transport-s3/jammy 2.0.0-2 all
 apt-transport-tor/jammy 0.5 all
-apt-utils/jammy-updates 2.4.10 amd64
+apt-utils/jammy-updates 2.4.11 amd64
 apt-venv/jammy 1.0.0-3 all
 apt-xapian-index/jammy 0.51ubuntu1 all
-apt/jammy-updates,now 2.4.10 amd64 [installed]
+apt/jammy-updates,now 2.4.11 amd64 [installed]
 aptdaemon-data/jammy 1.1.1+bzr982-0ubuntu39 all
 aptdaemon/jammy 1.1.1+bzr982-0ubuntu39 all
 aptfs/jammy 2:1.0.1 all
@@ -4226,7 +4226,7 @@ dh-make-golang/jammy 0.6.0-1 amd64
 dh-make-perl/jammy 0.116 all
 dh-make/jammy 2.202102 all
 dh-migrations/jammy 0.3.6 all
-dh-modaliases/jammy-updates 1:0.9.6.2~0.22.04.4 all
+dh-modaliases/jammy-updates 1:0.9.6.2~0.22.04.6 all
 dh-ocaml/jammy 1.1.3 all
 dh-octave-autopkgtest/jammy 1.1.0 all
 dh-octave/jammy 1.1.0 all
@@ -6383,7 +6383,7 @@ fftw2/jammy 2.1.5-6 amd64
 ffuf/jammy 1.1.0-1 amd64
 fgallery/jammy 1.8.2-2.1 all
 fgetty/jammy 0.7-7 amd64
-fglrx-pxpress/jammy-updates 1:0.9.6.2~0.22.04.4 amd64
+fglrx-pxpress/jammy-updates 1:0.9.6.2~0.22.04.6 amd64
 fh2odg/jammy 0.9.6-3 amd64
 fheroes2-pkg/jammy 0+svn20150122r3274-2-2 all
 fhist/jammy 1.18-2.1 amd64
@@ -17489,10 +17489,10 @@ libaprutil1-dbd-sqlite3/jammy-updates,jammy-security 1.6.1-5ubuntu4.22.04.2 amd6
 libaprutil1-dev/jammy-updates,jammy-security 1.6.1-5ubuntu4.22.04.2 amd64
 libaprutil1-ldap/jammy-updates,jammy-security 1.6.1-5ubuntu4.22.04.2 amd64
 libaprutil1/jammy-updates,jammy-security 1.6.1-5ubuntu4.22.04.2 amd64
-libapt-pkg-dev/jammy-updates 2.4.10 amd64
-libapt-pkg-doc/jammy-updates 2.4.10 all
+libapt-pkg-dev/jammy-updates 2.4.11 amd64
+libapt-pkg-doc/jammy-updates 2.4.11 all
 libapt-pkg-perl/jammy 0.1.40build2 amd64
-libapt-pkg6.0/jammy-updates,now 2.4.10 amd64 [installed]
+libapt-pkg6.0/jammy-updates,now 2.4.11 amd64 [installed]
 libaqbanking-data/jammy 6.4.3beta-1 all
 libaqbanking-dev/jammy 6.4.3beta-1 amd64
 libaqbanking44/jammy 6.4.3beta-1 amd64
@@ -43900,7 +43900,7 @@ linux-crashdump/jammy-updates,jammy-security 5.15.0.88.85 amd64
 linux-doc/jammy-updates,jammy-security 5.15.0-88.98 all
 linux-firmware-xilinx-ap1302/jammy 2021.1-0ubuntu1 all
 linux-firmware-xilinx-vcu/jammy 2020.2-0ubuntu1 all
-linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.21 all
+linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.22 all
 linux-gcp-5.19-headers-5.19.0-1022/jammy-updates,jammy-security 5.19.0-1022.24~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1024/jammy-updates,jammy-security 5.19.0-1024.26~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1025/jammy-updates,jammy-security 5.19.0-1025.27~22.04.1 amd64
@@ -57220,7 +57220,7 @@ nvidia-384/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-cg-dev/jammy 3.1.0013-5 amd64
 nvidia-cg-doc/jammy 3.1.0013-5 all
 nvidia-cg-toolkit/jammy 3.1.0013-5 amd64
-nvidia-common/jammy-updates 1:0.9.6.2~0.22.04.4 amd64
+nvidia-common/jammy-updates 1:0.9.6.2~0.22.04.6 amd64
 nvidia-compute-utils-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-compute-utils-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-compute-utils-418/jammy 430.50-0ubuntu3 amd64
@@ -73153,7 +73153,7 @@ ubuntu-desktop-minimal/jammy-updates 1.481.1 amd64
 ubuntu-desktop/jammy-updates 1.481.1 amd64
 ubuntu-dev-tools/jammy-updates 0.193ubuntu4~22.04.2 all
 ubuntu-docs/jammy-updates 22.04.5 all
-ubuntu-drivers-common/jammy-updates 1:0.9.6.2~0.22.04.4 amd64
+ubuntu-drivers-common/jammy-updates 1:0.9.6.2~0.22.04.6 amd64
 ubuntu-fan/jammy 0.12.16 all
 ubuntu-gnome-default-settings/jammy 22.04.2 all
 ubuntu-gnome-desktop/jammy 0.92 amd64
