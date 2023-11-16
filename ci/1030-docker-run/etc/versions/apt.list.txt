@@ -14447,7 +14447,7 @@ intel-hdcp/jammy 20.3.0-1build1 amd64
 intel-ipu6-dkms/jammy-updates,jammy-security 0~git202211220708.278b7e3d-0ubuntu0.22.04.1 amd64
 intel-media-va-driver-non-free/jammy-updates 22.3.1+ds1-1ubuntu0.1 amd64
 intel-media-va-driver/jammy-updates 22.3.1+dfsg1-1ubuntu2 amd64
-intel-microcode/jammy-updates,jammy-security 3.20230808.0ubuntu0.22.04.1 amd64
+intel-microcode/jammy-updates,jammy-security 3.20231114.0ubuntu0.22.04.1 amd64
 intel-mkl-cluster/jammy 2020.4.304-2ubuntu3 amd64
 intel-mkl-doc/jammy 2020.4.304-2ubuntu3 all
 intel-mkl-full/jammy 2020.4.304-2ubuntu3 amd64
