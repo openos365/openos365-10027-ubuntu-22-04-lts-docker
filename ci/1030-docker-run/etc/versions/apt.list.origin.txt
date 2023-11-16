@@ -7483,11 +7483,11 @@ frogr/jammy 1.7-1 amd64
 frotz/jammy 2.53+dfsg-1 amd64
 frozen-bubble-data/jammy 2.212-10build1 all
 frozen-bubble/jammy 2.212-10build1 amd64
-frr-doc/jammy-updates,jammy-security 8.1-1ubuntu1.6 all
-frr-pythontools/jammy-updates,jammy-security 8.1-1ubuntu1.6 all
-frr-rpki-rtrlib/jammy-updates,jammy-security 8.1-1ubuntu1.6 amd64
-frr-snmp/jammy-updates,jammy-security 8.1-1ubuntu1.6 amd64
-frr/jammy-updates,jammy-security 8.1-1ubuntu1.6 amd64
+frr-doc/jammy-updates,jammy-security 8.1-1ubuntu1.7 all
+frr-pythontools/jammy-updates,jammy-security 8.1-1ubuntu1.7 all
+frr-rpki-rtrlib/jammy-updates,jammy-security 8.1-1ubuntu1.7 amd64
+frr-snmp/jammy-updates,jammy-security 8.1-1ubuntu1.7 amd64
+frr/jammy-updates,jammy-security 8.1-1ubuntu1.7 amd64
 fruit/jammy 2.1.dfsg-9 amd64
 fs-uae-arcade/jammy 3.1.63-2 all
 fs-uae/jammy 3.1.66-1 amd64
@@ -40682,8 +40682,8 @@ libtickit-widgets-perl/jammy 0.34-1 all
 libtickit3/jammy 0.4.1-1 amd64
 libticonv-dev/jammy 1.1.5-2 amd64
 libticonv8/jammy 1.1.5-2 amd64
-libtidy-dev/jammy 2:5.6.0-11build2 amd64
-libtidy5deb1/jammy 2:5.6.0-11build2 amd64
+libtidy-dev/jammy-updates,jammy-security 2:5.6.0-11ubuntu0.22.04.1 amd64
+libtidy5deb1/jammy-updates,jammy-security 2:5.6.0-11ubuntu0.22.04.1 amd64
 libtie-array-iterable-perl/jammy 0.03-2 all
 libtie-array-sorted-perl/jammy 1.41-3.1 all
 libtie-cache-perl/jammy 0.21-1 all
@@ -49645,13 +49645,15 @@ linux-nvidia-tegra-headers-5.15.0-1016/jammy-updates,jammy-security 5.15.0-1016.
 linux-nvidia-tegra-headers-5.15.0-1017/jammy-updates,jammy-security 5.15.0-1017.17 all
 linux-nvidia-tegra-headers-5.15.0-1018/jammy-updates,jammy-security 5.15.0-1018.18 all
 linux-nvidia-tegra-headers-5.15.0-1019/jammy-updates,jammy-security 5.15.0-1019.19 all
-linux-nvidia-tegra-igx-cloud-tools-common/jammy-updates,jammy-security 5.15.0-1005.5 all
+linux-nvidia-tegra-igx-cloud-tools-common/jammy-updates,jammy-security 5.15.0-1006.6 all
 linux-nvidia-tegra-igx-headers-5.15.0-1001/jammy-updates,jammy-security 5.15.0-1001.1 all
 linux-nvidia-tegra-igx-headers-5.15.0-1002/jammy-updates,jammy-security 5.15.0-1002.2 all
 linux-nvidia-tegra-igx-headers-5.15.0-1004/jammy-updates,jammy-security 5.15.0-1004.4 all
 linux-nvidia-tegra-igx-headers-5.15.0-1005/jammy-updates,jammy-security 5.15.0-1005.5 all
-linux-nvidia-tegra-igx-tools-common/jammy-updates,jammy-security 5.15.0-1005.5 all
-linux-nvidia-tegra-igx-tools-host/jammy-updates,jammy-security 5.15.0-1005.5 all
+linux-nvidia-tegra-igx-headers-5.15.0-1006/jammy-updates,jammy-security 5.15.0-1006.6 all
+linux-nvidia-tegra-igx-tegra-igpu-igx-defaults/jammy-updates,jammy-security 5.15.0-1006.6 all
+linux-nvidia-tegra-igx-tools-common/jammy-updates,jammy-security 5.15.0-1006.6 all
+linux-nvidia-tegra-igx-tools-host/jammy-updates,jammy-security 5.15.0-1006.6 all
 linux-nvidia-tegra-tools-common/jammy-updates,jammy-security 5.15.0-1019.19 all
 linux-nvidia-tegra-tools-host/jammy-updates,jammy-security 5.15.0-1019.19 all
 linux-nvidia-tools-5.15.0-1025/jammy-updates,jammy-security 5.15.0-1025.25 amd64
@@ -64048,8 +64050,8 @@ python3-pil.imagetk/jammy-updates,jammy-security 9.0.1-1ubuntu0.1 amd64
 python3-pil/jammy-updates,jammy-security 9.0.1-1ubuntu0.1 amd64
 python3-pilkit/jammy 2.0-4 all
 python3-pint/jammy 0.18-1 all
-python3-pip-whl/jammy-updates,jammy-security 22.0.2+dfsg-1ubuntu0.3 all
-python3-pip/jammy-updates,jammy-security,now 22.0.2+dfsg-1ubuntu0.3 all [installed]
+python3-pip-whl/jammy-updates,jammy-security 22.0.2+dfsg-1ubuntu0.4 all
+python3-pip/jammy-updates,jammy-security,now 22.0.2+dfsg-1ubuntu0.4 all [installed]
 python3-pipdeptree/jammy 2.2.0-3 amd64
 python3-piston-mini-client/jammy 0.7.5-0ubuntu7 all
 python3-pivy/jammy-updates 0.6.5-1ubuntu0.22.04.1 amd64
@@ -72498,7 +72500,7 @@ ticgitweb/jammy 1.0.2.17-2.1 all
 ticker/jammy 1.13 amd64
 tickr/jammy 0.7.1-1 amd64
 tiddit/jammy 2.12.2+dfsg-1build1 amd64
-tidy/jammy 2:5.6.0-11build2 amd64
+tidy/jammy-updates,jammy-security 2:5.6.0-11ubuntu0.22.04.1 amd64
 tiemu-skinedit/jammy 1.28~20200818-1build1 amd64
 tiemu/jammy 3.04~git20110801-nogdb+dfsg1-2build1 amd64
 tig/jammy 2.5.1-1 amd64
