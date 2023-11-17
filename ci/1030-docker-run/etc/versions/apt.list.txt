@@ -4240,7 +4240,7 @@ dh-ros/jammy 0.5.0 all
 dh-runit/jammy 2.10.3ubuntu3 all
 dh-strip-nondeterminism/jammy 1.13.0-1 all
 dh-sysuser/jammy 1.3.7+really1.4.1 all
-dh-translations/jammy 149 all
+dh-translations/jammy-updates 149.22.04.0 all
 dh-vim-addon/jammy 0.4 all
 dh-virtualenv/jammy 1.2.2-1.1build1 all
 dh-xsp/jammy 4.2-2.3 all
@@ -59766,7 +59766,7 @@ pkg-perl-autopkgtest/jammy 0.65 all
 pkg-perl-tools/jammy 0.65 all
 pkg-php-tools/jammy 1.42build1 all
 pkg-r-autopkgtest/jammy 20210218ubuntu1 all
-pkgbinarymangler/jammy 149 all
+pkgbinarymangler/jammy-updates 149.22.04.0 all
 pkgconf/jammy 1.8.0-1 amd64
 pkgdiff/jammy 1.7.2-1 all
 pkgsync/jammy 1.28 all
@@ -73134,8 +73134,8 @@ ublock-origin-doc/jammy 1.40.2+dfsg-1 all
 ubufox/jammy 3.4-0ubuntu1.17.10.1 all
 ubumirror/jammy 0.5 all
 ubuntu-advantage-desktop-daemon/jammy-updates 1.10~22.04.1 amd64
-ubuntu-advantage-pro/jammy-updates 29.4~22.04 all
-ubuntu-advantage-tools/jammy-updates 29.4~22.04 amd64
+ubuntu-advantage-pro/jammy-updates 30~22.04 all
+ubuntu-advantage-tools/jammy-updates 30~22.04 amd64
 ubuntu-artwork/jammy 1:20.10-0ubuntu2 all
 ubuntu-budgie-desktop/jammy 0.94 amd64
 ubuntu-budgie-themes/jammy 0.14.4 all
@@ -73227,6 +73227,7 @@ ubuntu-packaging-guide-pdf-uk/jammy 1.0.4 all
 ubuntu-packaging-guide-pdf/jammy 1.0.4 all
 ubuntu-packaging-guide/jammy 1.0.4 all
 ubuntu-policy/jammy 3.8.2.0ubuntu3 all
+ubuntu-pro-client-l10n/jammy-updates 30~22.04 amd64
 ubuntu-raspi-settings/jammy 22.04.6 all
 ubuntu-release-upgrader-core/jammy-updates 1:22.04.17 all
 ubuntu-release-upgrader-gtk/jammy-updates 1:22.04.17 all
