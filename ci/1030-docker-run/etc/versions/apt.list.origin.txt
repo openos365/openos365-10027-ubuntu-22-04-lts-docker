@@ -10933,6 +10933,10 @@ golang-1.20-doc/jammy-updates 1.20.3-1ubuntu0.1~22.04 all
 golang-1.20-go/jammy-updates 1.20.3-1ubuntu0.1~22.04 amd64
 golang-1.20-src/jammy-updates 1.20.3-1ubuntu0.1~22.04 all
 golang-1.20/jammy-updates 1.20.3-1ubuntu0.1~22.04 all
+golang-1.21-doc/jammy-updates 1.21.1-1~ubuntu22.04.1 all
+golang-1.21-go/jammy-updates 1.21.1-1~ubuntu22.04.1 amd64
+golang-1.21-src/jammy-updates 1.21.1-1~ubuntu22.04.1 all
+golang-1.21/jammy-updates 1.21.1-1~ubuntu22.04.1 all
 golang-android-soong-dev/jammy 0.0~git20201014.17e97d9-2 all
 golang-any/jammy 2:1.18~0ubuntu2 amd64
 golang-ar-dev/jammy 0.0~git20150512-0ubuntu2 all
