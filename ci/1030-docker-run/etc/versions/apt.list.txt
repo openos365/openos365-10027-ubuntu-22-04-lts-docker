@@ -3676,7 +3676,7 @@ cubicsdr/jammy 0.2.5+dfsg-3build3 amd64
 cucumber/jammy 2.4.0-4 all
 cuda-drivers-fabricmanager-450/jammy-updates,jammy-security 450.248.02-0ubuntu0.22.04.1 amd64
 cuda-drivers-fabricmanager-460/jammy-updates,jammy-security 510.85.02-0ubuntu0.22.04.1 amd64
-cuda-drivers-fabricmanager-470/jammy-updates,jammy-security 470.199.02-0ubuntu0.22.04.1 amd64
+cuda-drivers-fabricmanager-470/jammy-updates,jammy-security 470.223.02-0ubuntu0.22.04.1 amd64
 cuda-drivers-fabricmanager-510/jammy-updates,jammy-security 515.105.01-0ubuntu0.22.04.1 amd64
 cuda-drivers-fabricmanager-515/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
 cuda-drivers-fabricmanager-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
@@ -33510,7 +33510,7 @@ libnvidia-ifr1-470/jammy-updates,jammy-security 470.223.02-0ubuntu0.22.04.1 amd6
 libnvidia-ml-dev/jammy 11.5.50~11.5.1-1ubuntu1 amd64
 libnvidia-nscq-450/jammy-updates,jammy-security 450.248.02-0ubuntu0.22.04.1 amd64
 libnvidia-nscq-460/jammy-updates,jammy-security 510.85.02-0ubuntu0.22.04.1 amd64
-libnvidia-nscq-470/jammy-updates,jammy-security 470.199.02-0ubuntu0.22.04.1 amd64
+libnvidia-nscq-470/jammy-updates,jammy-security 470.223.02-0ubuntu0.22.04.1 amd64
 libnvidia-nscq-510/jammy-updates,jammy-security 515.105.01-0ubuntu0.22.04.1 amd64
 libnvidia-nscq-515/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
 libnvidia-nscq-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
@@ -57324,14 +57324,14 @@ nvidia-driver-535-server/jammy-updates,jammy-security 535.129.03-0ubuntu0.22.04.
 nvidia-driver-535/jammy-updates,jammy-security 535.129.03-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-450/jammy-updates,jammy-security 450.248.02-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-460/jammy-updates,jammy-security 510.85.02-0ubuntu0.22.04.1 amd64
-nvidia-fabricmanager-470/jammy-updates,jammy-security 470.199.02-0ubuntu0.22.04.1 amd64
+nvidia-fabricmanager-470/jammy-updates,jammy-security 470.223.02-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-510/jammy-updates,jammy-security 515.105.01-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-515/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-535/jammy-updates,jammy-security 535.129.03-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-dev-450/jammy-updates,jammy-security 450.248.02-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-dev-460/jammy-updates,jammy-security 510.85.02-0ubuntu0.22.04.1 amd64
-nvidia-fabricmanager-dev-470/jammy-updates,jammy-security 470.199.02-0ubuntu0.22.04.1 amd64
+nvidia-fabricmanager-dev-470/jammy-updates,jammy-security 470.223.02-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-dev-510/jammy-updates,jammy-security 515.105.01-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-dev-515/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-dev-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
