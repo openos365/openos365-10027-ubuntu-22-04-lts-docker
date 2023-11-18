@@ -19,7 +19,7 @@ ca-certificates-java/jammy-updates,jammy-security,now 20190909ubuntu1.2 all [ins
 ca-certificates/jammy-updates,jammy-security,now 20230311ubuntu0.22.04.1 all [installed]
 cmake-data/jammy-updates,now 3.22.1-1ubuntu1.22.04.1 all [installed,automatic]
 cmake/jammy-updates,now 3.22.1-1ubuntu1.22.04.1 amd64 [installed]
-code-server/now 4.18.0 amd64 [installed,local]
+code-server/now 4.19.0 amd64 [installed,local]
 coreutils/jammy,now 8.32-4.1ubuntu1 amd64 [installed]
 cpio/jammy,now 2.13+dfsg-7 amd64 [installed,automatic]
 cpp-11/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 amd64 [installed,automatic]
