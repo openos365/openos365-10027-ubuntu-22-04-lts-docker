@@ -12448,7 +12448,7 @@ yarn list v1.22.21
 ├─ bcryptjs@2.4.3
 ├─ beautifymarker@1.0.9
 ├─ before-after-hook@2.2.3
-├─ big-integer@1.6.51
+├─ big-integer@1.6.52
 ├─ big-number@1.0.0
 ├─ big-rat@1.0.4
 │  ├─ bit-twiddle@^1.0.2
