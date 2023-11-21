@@ -4901,6 +4901,17 @@ yarn list v1.22.21
 │  │  ├─ loose-envify@^1.1.0
 │  │  └─ object-assign@^4.1.1
 │  └─ underscore@^1.9.1
+├─ @steedos/plugin-welink@2.5.14
+│  ├─ axios@1.5.0
+│  ├─ axios@1.5.0
+│  │  ├─ follow-redirects@^1.15.0
+│  │  ├─ form-data@^4.0.0
+│  │  └─ proxy-from-env@^1.1.0
+│  ├─ form-data@4.0.0
+│  │  ├─ asynckit@^0.4.0
+│  │  ├─ combined-stream@^1.0.8
+│  │  └─ mime-types@^2.1.12
+│  └─ moment@2.29.4
 ├─ @steedos/process@2.5.19
 │  ├─ @steedos/auth@2.5.19
 │  ├─ @steedos/objectql@2.5.19
@@ -7275,6 +7286,9 @@ yarn list v1.22.21
 │  │  ├─ range-parser@~1.2.1
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
+├─ @steedos/service-license@2.5.14
+│  ├─ @steedos/license@2.5.14
+│  └─ axios@^0.21.4
 ├─ @steedos/service-metadata-apps@2.5.19
 │  ├─ @steedos/i18n@2.5.19
 │  ├─ @steedos/objectql@2.5.19
