@@ -1047,7 +1047,7 @@ yarn list v1.22.21
 ├─ @chakra-ui/icons@1.1.7
 │  ├─ @chakra-ui/icon@2.0.5
 │  ├─ @types/react@^17.0.15
-│  └─ @types/react@17.0.70
+│  └─ @types/react@17.0.71
 │     ├─ @types/prop-types@*
 │     ├─ @types/scheduler@*
 │     └─ csstype@^3.0.2
@@ -3287,7 +3287,7 @@ yarn list v1.22.21
 │  ├─ @react-native-community/cli-debugger-ui@^3.0.0
 │  ├─ @react-native-community/cli-tools@^3.0.0
 │  ├─ @react-native-community/cli-types@^3.0.0
-│  ├─ @types/yargs@15.0.18
+│  ├─ @types/yargs@15.0.19
 │  │  └─ @types/yargs-parser@*
 │  ├─ ansi-regex@4.1.1
 │  ├─ chalk@^2.4.2
@@ -11488,12 +11488,12 @@ yarn list v1.22.21
 │  └─ @types/node@*
 ├─ @types/lodash.mergewith@4.6.6
 │  └─ @types/lodash@*
-├─ @types/lodash@4.14.201
+├─ @types/lodash@4.14.202
 ├─ @types/long@4.0.2
 ├─ @types/mime@3.0.4
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@20.9.2
+├─ @types/node@20.9.3
 │  └─ undici-types@~5.26.4
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
@@ -11504,12 +11504,12 @@ yarn list v1.22.21
 ├─ @types/q@1.5.8
 ├─ @types/qs@6.9.10
 ├─ @types/range-parser@1.2.7
-├─ @types/react-redux@7.1.30
+├─ @types/react-redux@7.1.31
 │  ├─ @types/hoist-non-react-statics@^3.3.0
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.37
+├─ @types/react@18.2.38
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
