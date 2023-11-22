@@ -516,15 +516,15 @@ aom-tools/jammy 3.3.0-1 amd64
 aosd-cat/jammy 0.2.7-1.1ubuntu2 amd64
 ap-utils/jammy 1.5-5 amd64
 ap51-flash/jammy 2019.0.1-3 amd64
-apache2-bin/jammy-security 2.4.52-1ubuntu4.7 amd64
-apache2-data/jammy-security 2.4.52-1ubuntu4.7 all
-apache2-dev/jammy-security 2.4.52-1ubuntu4.7 amd64
-apache2-doc/jammy-security 2.4.52-1ubuntu4.7 all
-apache2-ssl-dev/jammy-security 2.4.52-1ubuntu4.7 amd64
-apache2-suexec-custom/jammy-security 2.4.52-1ubuntu4.7 amd64
-apache2-suexec-pristine/jammy-security 2.4.52-1ubuntu4.7 amd64
-apache2-utils/jammy-security 2.4.52-1ubuntu4.7 amd64
-apache2/jammy-security 2.4.52-1ubuntu4.7 amd64
+apache2-bin/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
+apache2-data/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 all
+apache2-dev/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
+apache2-doc/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 all
+apache2-ssl-dev/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
+apache2-suexec-custom/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
+apache2-suexec-pristine/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
+apache2-utils/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
+apache2/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
 apacheds/jammy 2.0.0~M24-4 all
 apachetop/jammy 0.19.7-3 amd64
 apbs-data/jammy 3.0.0+dfsg1-3build2 all
@@ -9962,10 +9962,10 @@ glue-sprite/jammy 0.13-6 all
 glueviz/jammy 1.0.1+dfsg-2 all
 glulxe/jammy 0.5.4-1 amd64
 glurp/jammy 0.12.3-1.1 amd64
-glusterfs-cli/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
-glusterfs-client/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
-glusterfs-common/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
-glusterfs-server/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
+glusterfs-cli/jammy-security 10.1-1ubuntu0.2 amd64
+glusterfs-client/jammy-security 10.1-1ubuntu0.2 amd64
+glusterfs-common/jammy-security 10.1-1ubuntu0.2 amd64
+glusterfs-server/jammy-security 10.1-1ubuntu0.2 amd64
 glymur-bin/jammy 0.9.7-2 all
 glyphsinfo/jammy 1193-1 all
 glyphslib/jammy 5.3.2+ds1-1 all
@@ -17372,7 +17372,7 @@ libapache2-mod-log-sql-ssl/jammy 1.100-16.3build2 amd64
 libapache2-mod-log-sql/jammy 1.100-16.3build2 amd64
 libapache2-mod-lookup-identity/jammy 1.0.0-1 amd64
 libapache2-mod-mapcache/jammy 1.12.0-1 amd64
-libapache2-mod-md/jammy-security 2.4.52-1ubuntu4.7 amd64
+libapache2-mod-md/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
 libapache2-mod-mime-xattr/jammy 0.4-6 amd64
 libapache2-mod-mono/jammy 3.8-3 amd64
 libapache2-mod-musicindex/jammy 1.4.1-3.1 amd64
@@ -17387,7 +17387,7 @@ libapache2-mod-php7.4/jammy-updates,jammy-security 8.1.2-1ubuntu2.14 amd64
 libapache2-mod-php8.0/jammy-updates,jammy-security 8.1.2-1ubuntu2.14 amd64
 libapache2-mod-php8.1/jammy-updates,jammy-security 8.1.2-1ubuntu2.14 amd64
 libapache2-mod-php/jammy 2:8.1+92ubuntu1 all
-libapache2-mod-proxy-uwsgi/jammy-security 2.4.52-1ubuntu4.7 amd64
+libapache2-mod-proxy-uwsgi/jammy-updates,jammy-security 2.4.52-1ubuntu4.7 amd64
 libapache2-mod-python-doc/jammy 3.5.0+git20211031-0ubuntu1 all
 libapache2-mod-python/jammy 3.5.0+git20211031-0ubuntu1 amd64
 libapache2-mod-qos/jammy 11.63-1build1 amd64
@@ -22994,13 +22994,13 @@ libgfal-srm-ifce1/jammy 1.24.5-1build1 amd64
 libgfal-transfer2/jammy 2.20.3-1 amd64
 libgfal2-2/jammy 2.20.3-1 amd64
 libgfal2-dev/jammy 2.20.3-1 amd64
-libgfapi0/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
+libgfapi0/jammy-security 10.1-1ubuntu0.2 amd64
 libgfarm-dev/jammy 2.7.17+dfsg-1build2 amd64
 libgfarm1/jammy 2.7.17+dfsg-1build2 amd64
 libgfbgraph-0.2-0/jammy 0.2.5-2 amd64
 libgfbgraph-0.2-dev/jammy 0.2.5-2 amd64
 libgfbgraph-doc/jammy 0.2.5-2 all
-libgfchangelog0/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
+libgfchangelog0/jammy-security 10.1-1ubuntu0.2 amd64
 libgff-dev/jammy 2.0.0-3 amd64
 libgflags-dev/jammy 2.2.2-2 amd64
 libgflags-doc/jammy 2.2.2-2 all
@@ -23114,7 +23114,7 @@ libgfortran5-sh4-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 
 libgfortran5-sparc64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 libgfortran5-x32-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 libgfortran5/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04 amd64
-libgfrpc0/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
+libgfrpc0/jammy-security 10.1-1ubuntu0.2 amd64
 libgfs-1.3-2/jammy 20131206+dfsg-19 amd64
 libgfs-dev/jammy 20131206+dfsg-19 amd64
 libgfsgl-dev/jammy 20121130+dfsg-7 amd64
@@ -23122,7 +23122,7 @@ libgfsgl0/jammy 20121130+dfsg-7 amd64
 libgfshare-bin/jammy 2.0.0-5 amd64
 libgfshare-dev/jammy 2.0.0-5 amd64
 libgfshare2/jammy 2.0.0-5 amd64
-libgfxdr0/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
+libgfxdr0/jammy-security 10.1-1ubuntu0.2 amd64
 libgg-dev/jammy 2.0.7-1 amd64
 libgg2/jammy 2.0.7-1 amd64
 libghc-abstract-deque-dev/jammy 0.3-10build2 amd64
@@ -26536,9 +26536,9 @@ libgluegen2-build-java/jammy 2.3.2-8 all
 libgluegen2-doc/jammy 2.3.2-8 all
 libgluegen2-jni/jammy 2.3.2-8 amd64
 libgluegen2-rt-java/jammy 2.3.2-8 all
-libglusterd0/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
-libglusterfs-dev/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
-libglusterfs0/jammy-updates,jammy-security 10.1-1ubuntu0.1 amd64
+libglusterd0/jammy-security 10.1-1ubuntu0.2 amd64
+libglusterfs-dev/jammy-security 10.1-1ubuntu0.2 amd64
+libglusterfs0/jammy-security 10.1-1ubuntu0.2 amd64
 libglvnd-core-dev/jammy 1.4.0-1 amd64
 libglvnd-dev/jammy 1.4.0-1 amd64
 libglvnd0/jammy,now 1.4.0-1 amd64 [installed,automatic]
@@ -33042,9 +33042,9 @@ libnftables1/jammy-updates 1.0.2-1ubuntu3 amd64
 libnftnl-dev-doc/jammy 1.2.1-1build1 all
 libnftnl-dev/jammy 1.2.1-1build1 amd64
 libnftnl11/jammy 1.2.1-1build1 amd64
-libnghttp2-14/jammy-security,now 1.43.0-1ubuntu0.1 amd64 [installed,automatic]
-libnghttp2-dev/jammy-security 1.43.0-1ubuntu0.1 amd64
-libnghttp2-doc/jammy-security 1.43.0-1ubuntu0.1 all
+libnghttp2-14/jammy-updates,jammy-security,now 1.43.0-1ubuntu0.1 amd64 [installed,automatic]
+libnghttp2-dev/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 amd64
+libnghttp2-doc/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 all
 libnghttp3-0/jammy 0.1.1-1 amd64
 libnghttp3-dev/jammy 0.1.1-1 amd64
 libnginx-mod-http-auth-pam/jammy-updates 1.18.0-6ubuntu14.4 amd64
@@ -55885,10 +55885,10 @@ ng-common/jammy 1.5~beta1-10 all
 ng-latin/jammy 1.5~beta1-10 amd64
 ng-utils/jammy 1.0-1build1 amd64
 ngetty/jammy 1.1-9 amd64
-nghttp2-client/jammy-security 1.43.0-1ubuntu0.1 amd64
-nghttp2-proxy/jammy-security 1.43.0-1ubuntu0.1 amd64
-nghttp2-server/jammy-security 1.43.0-1ubuntu0.1 amd64
-nghttp2/jammy-security 1.43.0-1ubuntu0.1 all
+nghttp2-client/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 amd64
+nghttp2-proxy/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 amd64
+nghttp2-server/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 amd64
+nghttp2/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 all
 nginx-common/jammy-updates 1.18.0-6ubuntu14.4 all
 nginx-confgen/jammy 2.0-1 amd64
 nginx-core/jammy-updates 1.18.0-6ubuntu14.4 amd64
