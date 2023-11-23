@@ -3075,6 +3075,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
+code-server/now 4.19.0 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -4568,6 +4569,7 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
+dive/now 0.11.0 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -5958,7 +5960,7 @@ exonerate/jammy 2.4.0-5 amd64
 expand-region-el/jammy 0.11.0+36-1 all
 expat/jammy-updates,jammy-security 2.4.7-1ubuntu0.2 amd64
 expect-lite/jammy 4.9.0-0ubuntu1 all
-expect/jammy 5.45.4-2build1 amd64
+expect/jammy,now 5.45.4-2build1 amd64 [installed]
 expeyes-clib/jammy 4.8.8+repack-2 amd64
 expeyes-doc-common/jammy 4.3-3 all
 expeyes-doc-en/jammy 4.3-3 all
@@ -40187,7 +40189,7 @@ libtcd-dev/jammy 2.2.2-2.1 amd64
 libtcd0/jammy 2.2.2-2.1 amd64
 libtcl-chiark-1/jammy 1.3.5 amd64
 libtcl-perl/jammy 1.27+ds-1build3 amd64
-libtcl8.6/jammy 8.6.12+dfsg-1build1 amd64
+libtcl8.6/jammy,now 8.6.12+dfsg-1build1 amd64 [installed,automatic]
 libtclap-dev/jammy 1.2.5-1 amd64
 libtclcl1-dev/jammy 1.20-9.1 amd64
 libtclcl1/jammy 1.20-9.1 amd64
@@ -72348,7 +72350,7 @@ tcl-combat/jammy 0.8.1-1 all
 tcl-dev/jammy 8.6.11+1build2 amd64
 tcl-doc/jammy 8.6.11+1build2 all
 tcl-expect-dev/jammy 5.45.4-2build1 amd64
-tcl-expect/jammy 5.45.4-2build1 amd64
+tcl-expect/jammy,now 5.45.4-2build1 amd64 [installed,automatic]
 tcl-fitstcl/jammy 2.4-4build2 amd64
 tcl-funtools/jammy 1.4.8-1 amd64
 tcl-hamlib/jammy 4.3.1-1build2 amd64
@@ -72384,7 +72386,7 @@ tcl8.6-tdbc-odbc/jammy 1.1.3-2 amd64
 tcl8.6-tdbc-postgres/jammy 1.1.3-2 amd64
 tcl8.6-tdbc-sqlite3/jammy 1.1.3-2 all
 tcl8.6-tdbc/jammy 1.1.3-2 amd64
-tcl8.6/jammy 8.6.12+dfsg-1build1 amd64
+tcl8.6/jammy,now 8.6.12+dfsg-1build1 amd64 [installed,automatic]
 tcl/jammy 8.6.11+1build2 amd64
 tclcl-dbg/jammy 1.20-9.1 amd64
 tclcl-dev/jammy 1.20-9.1 all
@@ -73510,7 +73512,7 @@ typecatcher/jammy 0.3-1.2 all
 typespeed/jammy 0.6.5-4 amd64
 tz-converter/jammy 1.0.1-1 all
 tzc/jammy 2.6.15-5.4 amd64
-tzdata/jammy-updates 2023c-0ubuntu0.22.04.2 all
+tzdata/jammy-updates,now 2023c-0ubuntu0.22.04.2 all [installed,automatic]
 tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
@@ -74822,7 +74824,7 @@ wgalician-minimos/jammy 0.5-48 all
 wgerman-medical/jammy 20160103-6 all
 wget2-dev/jammy 1.99.1-2.2 amd64
 wget2/jammy 1.99.1-2.2 amd64
-wget/jammy 1.21.2-2ubuntu1 amd64
+wget/jammy,now 1.21.2-2ubuntu1 amd64 [installed]
 whalebuilder/jammy 0.8 all
 wham-align/jammy 0.1.5-8 amd64
 what-utils/jammy 1.5-0ubuntu1 all
