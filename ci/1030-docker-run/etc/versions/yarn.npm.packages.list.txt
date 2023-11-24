@@ -3567,6 +3567,8 @@ yarn list v1.22.21
 ├─ @steedos-labs/amis-lib@0.0.3
 │  ├─ lodash@^4.17.21
 │  └─ uglify-js@^3.17.0
+├─ @steedos-labs/analytics@0.0.9
+│  └─ @steedos/utils@^2.5.11-beta.10
 ├─ @steedos-labs/asset@2.2.8
 │  └─ @steedos-labs/master@2.2.8
 ├─ @steedos-labs/attendance@2.2.8
@@ -4764,7 +4766,6 @@ yarn list v1.22.21
 │  ├─ jsonwebtoken@8.5.1
 │  ├─ lodash@^4.17.21
 │  ├─ mingo@^6.0.5
-│  ├─ mingo@6.4.9
 │  ├─ mkdirp@1.0.4
 │  ├─ moleculer-apollo-server@^0.3.6
 │  ├─ moleculer@^0.14.25
@@ -5274,7 +5275,6 @@ yarn list v1.22.21
 │  ├─ ini@2.0.0
 │  ├─ lru-cache@7.18.3
 │  ├─ mime@1.6.0
-│  ├─ mingo@6.4.9
 │  ├─ mkdirp@1.0.4
 │  ├─ ms@2.0.0
 │  ├─ qs@6.10.3
@@ -6813,6 +6813,7 @@ yarn list v1.22.21
 │  │  └─ strip-bom@^2.0.0
 │  ├─ lodash@^4.17.21
 │  ├─ md5@^2.3.0
+│  ├─ mingo@4.4.1
 │  ├─ mkdirp@0.3.5
 │  ├─ moleculer@^0.14.14
 │  ├─ moment@^2.29.1
@@ -9114,6 +9115,7 @@ yarn list v1.22.21
 │  │  ├─ pify@2.3.0
 │  │  ├─ pinkie-promise@^2.0.0
 │  │  └─ strip-bom@^2.0.0
+│  ├─ mingo@4.4.1
 │  ├─ mkdirp@0.3.5
 │  ├─ mongodb-core@3.1.5
 │  │  ├─ bson@^1.1.0
@@ -10858,6 +10860,7 @@ yarn list v1.22.21
 │  │  ├─ pify@2.3.0
 │  │  ├─ pinkie-promise@^2.0.0
 │  │  └─ strip-bom@^2.0.0
+│  ├─ mingo@4.4.1
 │  ├─ mkdirp@0.3.5
 │  ├─ mongodb-core@3.1.5
 │  │  ├─ bson@^1.1.0
@@ -11218,6 +11221,23 @@ yarn list v1.22.21
 ├─ @steedos/tailwind@2.1.116
 │  └─ cssnano@^4.1.10
 ├─ @steedos/unpkg@2.5.19
+├─ @steedos/utils@2.5.19
+│  ├─ @babel/runtime@7.12.18
+│  │  └─ regenerator-runtime@^0.13.4
+│  ├─ @steedos/filters@2.5.11-beta.10
+│  ├─ @steedos/filters@2.5.11-beta.10
+│  │  ├─ @babel/runtime@7.12.18
+│  │  ├─ lodash@4.17.21
+│  │  └─ moment@^2.24.0
+│  ├─ @steedos/odata-v4-mongodb@2.5.11-beta.10
+│  ├─ @steedos/odata-v4-mongodb@2.5.11-beta.10
+│  │  ├─ @steedos/odata-v4-parser@2.5.11-beta.10
+│  │  └─ odata-v4-literal@^0.1.0
+│  ├─ @steedos/odata-v4-parser@2.5.11-beta.10
+│  ├─ clone@^2.1.2
+│  ├─ mingo@^6.0.5
+│  ├─ underscore@1.5.2
+│  └─ underscore@1.5.2
 ├─ @steedos/webapp-accounts@2.5.19
 │  └─ lodash@^4.17.21
 ├─ @steedos/webapp-desktop@2.5.19
@@ -13751,7 +13771,7 @@ yarn list v1.22.21
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.42.1
+├─ docxtemplater@3.42.2
 │  └─ @xmldom/xmldom@^0.8.10
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
@@ -17486,7 +17506,7 @@ yarn list v1.22.21
 ├─ mimic-fn@2.1.0
 ├─ mimic-response@1.0.1
 ├─ min-indent@1.0.1
-├─ mingo@4.4.1
+├─ mingo@6.4.9
 ├─ mini-css-extract-plugin@0.5.0
 │  ├─ loader-utils@^1.1.0
 │  ├─ schema-utils@^1.0.0
@@ -20859,7 +20879,7 @@ yarn list v1.22.21
 │  ├─ jest-worker@^24.0.0
 │  ├─ serialize-javascript@^2.1.2
 │  └─ uglify-js@^3.4.9
-├─ rollup-plugin-visualizer@5.9.2
+├─ rollup-plugin-visualizer@5.9.3
 │  ├─ cliui@8.0.1
 │  │  ├─ string-width@^4.2.0
 │  │  ├─ strip-ansi@^6.0.1
