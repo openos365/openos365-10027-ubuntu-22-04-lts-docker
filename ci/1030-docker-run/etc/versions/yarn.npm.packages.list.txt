@@ -17825,7 +17825,7 @@ yarn list v1.22.21
 │  ├─ object-assign@^4.0.1
 │  └─ thenify-all@^1.0.0
 ├─ nan@2.18.0
-├─ nano-css@5.6.0
+├─ nano-css@5.6.1
 │  ├─ @jridgewell/sourcemap-codec@^1.4.15
 │  ├─ css-tree@^1.1.2
 │  ├─ csstype@^3.1.2
