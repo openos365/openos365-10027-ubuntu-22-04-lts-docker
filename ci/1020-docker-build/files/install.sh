@@ -181,6 +181,7 @@ function code_server_install()
   
   systemctl enable code-server@www
 }
+code_server_install
 
 # https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
