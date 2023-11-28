@@ -167,17 +167,20 @@ curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-lin
 install container-diff-linux-amd64 /usr/bin/container-diff
 rm -rf container-diff-linux-amd64
 
-export DIVE_VERSION=$(curl -sL "https://api.github.com/repos/wagoodman/dive/releases/latest" | grep '"tag_name":' | sed -E 's/.*"v([^"]+)".*/\1/')
-curl -OL https://github.com/wagoodman/dive/releases/download/v${DIVE_VERSION}/dive_${DIVE_VERSION}_linux_amd64.deb
-sudo apt install ./dive_${DIVE_VERSION}_linux_amd64.deb
-
-curl -fsSL https://code-server.dev/install.sh | sh
-
-# systemctl enable code-server@root
-
-# systemctl enable code-server@runner
-
-systemctl enable code-server@www
+function code_server_install()
+{
+  export DIVE_VERSION=$(curl -sL "https://api.github.com/repos/wagoodman/dive/releases/latest" | grep '"tag_name":' | sed -E 's/.*"v([^"]+)".*/\1/')
+  curl -OL https://github.com/wagoodman/dive/releases/download/v${DIVE_VERSION}/dive_${DIVE_VERSION}_linux_amd64.deb
+  sudo apt install ./dive_${DIVE_VERSION}_linux_amd64.deb
+  
+  curl -fsSL https://code-server.dev/install.sh | sh
+  
+  # systemctl enable code-server@root
+  
+  # systemctl enable code-server@runner
+  
+  systemctl enable code-server@www
+}
 
 # https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
