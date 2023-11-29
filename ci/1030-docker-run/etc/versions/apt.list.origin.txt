@@ -14220,7 +14220,7 @@ iftop/jammy 1.0~pre4-7 amd64
 ifupdown-extra/jammy 0.33 all
 ifupdown-multi/jammy 1.0.0 all
 ifupdown-ng/jammy 0.11.4~rc1-1build1 amd64
-ifupdown/jammy 0.8.36+nmu1ubuntu3 amd64
+ifupdown/jammy-updates 0.8.36+nmu1ubuntu3.1 amd64
 ifuse/jammy 1.1.4~git20181007.3b00243-1 amd64
 igaelic/jammy 0.50-13.1 amd64
 igal2/jammy 3.1-1 all
@@ -39148,13 +39148,13 @@ libsoldout-utils/jammy 1.4-5 amd64
 libsoldout1/jammy 1.4-5 amd64
 libsollya-dev/jammy 7.0+ds-5 amd64
 libsollya7/jammy 7.0+ds-5 amd64
-libsolv-dev/jammy 0.7.20-1build2 amd64
-libsolv-doc/jammy 0.7.20-1build2 all
-libsolv-perl/jammy 0.7.20-1build2 amd64
-libsolv-tools/jammy 0.7.20-1build2 amd64
-libsolv1/jammy 0.7.20-1build2 amd64
-libsolvext-dev/jammy 0.7.20-1build2 amd64
-libsolvext1/jammy 0.7.20-1build2 amd64
+libsolv-dev/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
+libsolv-doc/jammy-updates 0.7.20-1ubuntu0.22.04.1 all
+libsolv-perl/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
+libsolv-tools/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
+libsolv1/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
+libsolvext-dev/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
+libsolvext1/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
 libsombok-dev/jammy 2.4.0-2 amd64
 libsombok3/jammy 2.4.0-2 amd64
 libsonic-dev/jammy 0.2.0-11build1 amd64
@@ -58543,25 +58543,25 @@ openimageio-tools/jammy 2.2.18.0+dfsg-1ubuntu2 amd64
 openipmi/jammy 2.0.29-0.1ubuntu6 amd64
 openjade/jammy 1.4devel1-22 amd64
 openjazz/jammy 20190106-3build1 amd64
-openjdk-11-dbg/jammy-updates,jammy-security 11.0.20.1+1-0ubuntu1~22.04 amd64
-openjdk-11-demo/jammy-updates,jammy-security 11.0.20.1+1-0ubuntu1~22.04 amd64
-openjdk-11-doc/jammy-updates,jammy-security 11.0.20.1+1-0ubuntu1~22.04 all
-openjdk-11-jdk-headless/jammy-updates,jammy-security,now 11.0.20.1+1-0ubuntu1~22.04 amd64 [installed,automatic]
-openjdk-11-jdk/jammy-updates,jammy-security,now 11.0.20.1+1-0ubuntu1~22.04 amd64 [installed,automatic]
+openjdk-11-dbg/jammy-updates,jammy-security 11.0.21+9-0ubuntu1~22.04 amd64
+openjdk-11-demo/jammy-updates,jammy-security 11.0.21+9-0ubuntu1~22.04 amd64
+openjdk-11-doc/jammy-updates,jammy-security 11.0.21+9-0ubuntu1~22.04 all
+openjdk-11-jdk-headless/jammy-updates,jammy-security,now 11.0.21+9-0ubuntu1~22.04 amd64 [installed,automatic]
+openjdk-11-jdk/jammy-updates,jammy-security,now 11.0.21+9-0ubuntu1~22.04 amd64 [installed,automatic]
 openjdk-11-jre-dcevm/jammy 11.0.12+7-1 amd64
-openjdk-11-jre-headless/jammy-updates,jammy-security,now 11.0.20.1+1-0ubuntu1~22.04 amd64 [installed,automatic]
-openjdk-11-jre-zero/jammy-updates,jammy-security 11.0.20.1+1-0ubuntu1~22.04 amd64
-openjdk-11-jre/jammy-updates,jammy-security,now 11.0.20.1+1-0ubuntu1~22.04 amd64 [installed,automatic]
-openjdk-11-source/jammy-updates,jammy-security 11.0.20.1+1-0ubuntu1~22.04 all
-openjdk-17-dbg/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 amd64
-openjdk-17-demo/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 amd64
-openjdk-17-doc/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 all
-openjdk-17-jdk-headless/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 amd64
-openjdk-17-jdk/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 amd64
-openjdk-17-jre-headless/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 amd64
-openjdk-17-jre-zero/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 amd64
-openjdk-17-jre/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 amd64
-openjdk-17-source/jammy-updates,jammy-security 17.0.8.1+1~us1-0ubuntu1~22.04 all
+openjdk-11-jre-headless/jammy-updates,jammy-security,now 11.0.21+9-0ubuntu1~22.04 amd64 [installed,automatic]
+openjdk-11-jre-zero/jammy-updates,jammy-security 11.0.21+9-0ubuntu1~22.04 amd64
+openjdk-11-jre/jammy-updates,jammy-security,now 11.0.21+9-0ubuntu1~22.04 amd64 [installed,automatic]
+openjdk-11-source/jammy-updates,jammy-security 11.0.21+9-0ubuntu1~22.04 all
+openjdk-17-dbg/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64
+openjdk-17-demo/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64
+openjdk-17-doc/jammy-updates,jammy-security 17.0.9+9-1~22.04 all
+openjdk-17-jdk-headless/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64
+openjdk-17-jdk/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64
+openjdk-17-jre-headless/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64
+openjdk-17-jre-zero/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64
+openjdk-17-jre/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64
+openjdk-17-source/jammy-updates,jammy-security 17.0.9+9-1~22.04 all
 openjdk-18-dbg/jammy-updates,jammy-security 18.0.2+9-2~22.04 amd64
 openjdk-18-demo/jammy-updates,jammy-security 18.0.2+9-2~22.04 amd64
 openjdk-18-doc/jammy-updates,jammy-security 18.0.2+9-2~22.04 all
@@ -58580,15 +58580,15 @@ openjdk-19-jre-headless/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd
 openjdk-19-jre-zero/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd64
 openjdk-19-jre/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd64
 openjdk-19-source/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 all
-openjdk-8-dbg/jammy-updates,jammy-security 8u382-ga-1~22.04.1 amd64
-openjdk-8-demo/jammy-updates,jammy-security 8u382-ga-1~22.04.1 amd64
-openjdk-8-doc/jammy-updates,jammy-security 8u382-ga-1~22.04.1 all
-openjdk-8-jdk-headless/jammy-updates,jammy-security 8u382-ga-1~22.04.1 amd64
-openjdk-8-jdk/jammy-updates,jammy-security 8u382-ga-1~22.04.1 amd64
-openjdk-8-jre-headless/jammy-updates,jammy-security 8u382-ga-1~22.04.1 amd64
-openjdk-8-jre-zero/jammy-updates,jammy-security 8u382-ga-1~22.04.1 amd64
-openjdk-8-jre/jammy-updates,jammy-security 8u382-ga-1~22.04.1 amd64
-openjdk-8-source/jammy-updates,jammy-security 8u382-ga-1~22.04.1 all
+openjdk-8-dbg/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
+openjdk-8-demo/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
+openjdk-8-doc/jammy-updates,jammy-security 8u392-ga-1~22.04 all
+openjdk-8-jdk-headless/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
+openjdk-8-jdk/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
+openjdk-8-jre-headless/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
+openjdk-8-jre-zero/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
+openjdk-8-jre/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
+openjdk-8-source/jammy-updates,jammy-security 8u392-ga-1~22.04 all
 openjfx-source/jammy 11.0.11+0-1 all
 openjfx/jammy 11.0.11+0-1 amd64
 openjpeg-doc/jammy 2.4.0-6 all
@@ -65493,7 +65493,7 @@ python3-socksio/jammy-backports 1.0.0-2~bpo22.04.1 all
 python3-socksipychain/jammy 2.1.2-1 all
 python3-softlayer/jammy 5.9.8-2 all
 python3-software-properties/jammy-updates 0.99.22.8 all
-python3-solv/jammy 0.7.20-1build2 amd64
+python3-solv/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
 python3-sop/jammy 0.2.0-1.3 all
 python3-sorl-thumbnail/jammy 12.7.0-1 all
 python3-sorted-nearest/jammy 0.0.31+dfsg-1build1 amd64
