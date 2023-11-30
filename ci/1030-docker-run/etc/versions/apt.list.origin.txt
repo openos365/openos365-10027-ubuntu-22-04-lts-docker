@@ -1628,7 +1628,7 @@ birdtray/jammy 1.9.0+ds-2 amd64
 birthday/jammy 1.6.2-4.1 amd64
 bison++/jammy 1.21.11-5 amd64
 bison-doc/jammy 1:3.8.2+repack-1 all
-bison/jammy 2:3.8.2+dfsg-1build1 amd64
+bison/jammy,now 2:3.8.2+dfsg-1build1 amd64 [installed]
 bisonc++-doc/jammy 6.04.03-2 all
 bisonc++/jammy 6.04.03-2 amd64
 bit-babbler-dbg/jammy 0.9 amd64
@@ -3076,6 +3076,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
+code-server/now 4.19.1 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -4569,6 +4570,7 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
+dive/now 0.11.0 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -38915,7 +38917,7 @@ libsigscan-dev/jammy 20201117-1build1 amd64
 libsigscan-utils/jammy 20201117-1build1 amd64
 libsigscan1/jammy 20201117-1build1 amd64
 libsigsegv-dev/jammy 2.13-1ubuntu3 amd64
-libsigsegv2/jammy 2.13-1ubuntu3 amd64
+libsigsegv2/jammy,now 2.13-1ubuntu3 amd64 [installed,automatic]
 libsilly-dev/jammy 0.1.0-8.1 amd64
 libsilly-doc/jammy 0.1.0-8.1 all
 libsilly/jammy 0.1.0-8.1 amd64
@@ -54156,7 +54158,7 @@ m17n-lib-mimx/jammy 1.8.0-4 amd64
 m2r/jammy 0.2.1-5 all
 m2vrequantiser/jammy 1.1-5 amd64
 m4-doc/jammy 1.4.18-5ubuntu2 all
-m4/jammy 1.4.18-5ubuntu2 amd64
+m4/jammy,now 1.4.18-5ubuntu2 amd64 [installed,automatic]
 m4api/jammy 0.3~0.9646fd-2 amd64
 mac-robber/jammy 1.02-13 amd64
 macaulay2-common/jammy 1.19.1+ds-6 all
@@ -75055,7 +75057,7 @@ wgalician-minimos/jammy 0.5-48 all
 wgerman-medical/jammy 20160103-6 all
 wget2-dev/jammy 1.99.1-2.2 amd64
 wget2/jammy 1.99.1-2.2 amd64
-wget/jammy 1.21.2-2ubuntu1 amd64
+wget/jammy,now 1.21.2-2ubuntu1 amd64 [installed]
 whalebuilder/jammy 0.8 all
 wham-align/jammy 0.1.5-8 amd64
 what-utils/jammy 1.5-0ubuntu1 all
