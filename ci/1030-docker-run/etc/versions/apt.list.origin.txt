@@ -58741,6 +58741,15 @@ openjdk-19-jre-headless/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd
 openjdk-19-jre-zero/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd64
 openjdk-19-jre/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd64
 openjdk-19-source/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 all
+openjdk-21-dbg/jammy-updates 21.0.1+12-2~22.04 amd64
+openjdk-21-demo/jammy-updates 21.0.1+12-2~22.04 amd64
+openjdk-21-doc/jammy-updates 21.0.1+12-2~22.04 all
+openjdk-21-jdk-headless/jammy-updates 21.0.1+12-2~22.04 amd64
+openjdk-21-jdk/jammy-updates 21.0.1+12-2~22.04 amd64
+openjdk-21-jre-headless/jammy-updates 21.0.1+12-2~22.04 amd64
+openjdk-21-jre-zero/jammy-updates 21.0.1+12-2~22.04 amd64
+openjdk-21-jre/jammy-updates 21.0.1+12-2~22.04 amd64
+openjdk-21-source/jammy-updates 21.0.1+12-2~22.04 all
 openjdk-8-dbg/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
 openjdk-8-demo/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64
 openjdk-8-doc/jammy-updates,jammy-security 8u392-ga-1~22.04 all
