@@ -14524,7 +14524,7 @@ ipset/jammy 7.15-1build1 amd64
 ipsvd/jammy 1.0.0-3.1 amd64
 iptables-converter-doc/jammy 0.9.8-1.2 all
 iptables-converter/jammy 0.9.8-1.2 all
-iptables-netflow-dkms/jammy 2.6-2ubuntu1 amd64
+iptables-netflow-dkms/jammy-updates 2.6-2ubuntu3 amd64
 iptables-persistent/jammy 1.0.16 all
 iptables/jammy-updates 1.8.7-1ubuntu5.1 amd64
 iptotal/jammy 0.3.3-16 amd64
@@ -14578,7 +14578,7 @@ ironseed/jammy 0.3.6-5 amd64
 irony-server/jammy 1.5.0-2 amd64
 irpas/jammy 0.10-9 amd64
 irqbalance/jammy-updates 1.8.0-1ubuntu0.2 amd64
-irqtop/jammy 2.6-2ubuntu1 all
+irqtop/jammy-updates 2.6-2ubuntu3 all
 irsim/jammy 9.7.104-1 amd64
 irssi-dev/jammy 1.2.3-1ubuntu4 amd64
 irssi-plugin-otr/jammy 1.2.3-1ubuntu4 amd64
