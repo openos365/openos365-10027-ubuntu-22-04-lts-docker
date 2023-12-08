@@ -36,6 +36,7 @@
 @steedos/i18n
 @steedos-labs/amis-lib
 @steedos-labs/analytics
+@steedos-labs/analytics-frontend
 @steedos-labs/asset
 @steedos-labs/attendance
 @steedos-labs/budget
