@@ -20935,7 +20935,7 @@ yarn list v1.22.21
 │  ├─ jest-worker@^24.0.0
 │  ├─ serialize-javascript@^2.1.2
 │  └─ uglify-js@^3.4.9
-├─ rollup-plugin-visualizer@5.10.0
+├─ rollup-plugin-visualizer@5.11.0
 │  ├─ cliui@8.0.1
 │  │  ├─ string-width@^4.2.0
 │  │  ├─ strip-ansi@^6.0.1
