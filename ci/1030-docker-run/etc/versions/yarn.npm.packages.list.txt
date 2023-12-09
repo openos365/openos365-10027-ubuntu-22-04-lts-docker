@@ -4888,7 +4888,7 @@ yarn list v1.22.21
 │  │  ├─ object-assign@^4.1.1
 │  │  ├─ prop-types@^15.6.2
 │  │  └─ scheduler@^0.19.1
-│  ├─ react-monaco-editor@0.54.0
+│  ├─ react-monaco-editor@0.55.0
 │  │  └─ prop-types@^15.8.1
 │  ├─ react-monaco-editor@latest
 │  ├─ react@^16.13.1
