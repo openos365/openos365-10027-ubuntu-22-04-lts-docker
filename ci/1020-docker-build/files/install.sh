@@ -222,6 +222,7 @@ do
   nvm use $node_version
   npm install yarn -g
   npm install pnpm -g
+  yarn global add prettier
 done
 
 nvm use v14.21.3
