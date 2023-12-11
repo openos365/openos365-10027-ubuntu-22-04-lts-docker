@@ -72762,9 +72762,9 @@ tapecalc/jammy 20220117-1 amd64
 tappy/jammy 3.1-1 all
 taptempo/jammy 1.4.5-1 amd64
 tar-doc/jammy 1.34-1 all
-tar-scripts/jammy-updates,jammy-security 1.34+dfsg-1ubuntu0.1.22.04.1 amd64
+tar-scripts/jammy-updates,jammy-security 1.34+dfsg-1ubuntu0.1.22.04.2 amd64
 tar-split/jammy 0.11.1-2 amd64
-tar/jammy-updates,jammy-security,now 1.34+dfsg-1ubuntu0.1.22.04.1 amd64 [installed]
+tar/jammy-updates,jammy-security,now 1.34+dfsg-1ubuntu0.1.22.04.2 amd64 [installed]
 tarantool-common/jammy 2.6.0-1ubuntu3 all
 tarantool-dev/jammy 2.6.0-1ubuntu3 amd64
 tarantool/jammy 2.6.0-1ubuntu3 amd64
