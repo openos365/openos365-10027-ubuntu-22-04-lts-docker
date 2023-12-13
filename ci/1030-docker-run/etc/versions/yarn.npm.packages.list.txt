@@ -1048,7 +1048,7 @@ yarn list v1.22.21
 ├─ @chakra-ui/icons@1.1.7
 │  ├─ @chakra-ui/icon@2.0.5
 │  ├─ @types/react@^17.0.15
-│  └─ @types/react@17.0.72
+│  └─ @types/react@17.0.73
 │     ├─ @types/prop-types@*
 │     ├─ @types/scheduler@*
 │     └─ csstype@^3.0.2
@@ -11600,7 +11600,7 @@ yarn list v1.22.21
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.44
+├─ @types/react@18.2.45
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
