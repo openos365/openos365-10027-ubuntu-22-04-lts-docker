@@ -3618,11 +3618,11 @@ cryptmount/jammy 5.3.3-1 amd64
 crypto-policies/jammy 20190816git-1 all
 cryptol/jammy 2.8.0-1build5.1 amd64
 cryptominisat/jammy 5.8.0+dfsg1-2 amd64
-cryptsetup-bin/jammy-updates 2:2.4.3-1ubuntu1.1 amd64
-cryptsetup-initramfs/jammy-updates 2:2.4.3-1ubuntu1.1 all
-cryptsetup-run/jammy-updates 2:2.4.3-1ubuntu1.1 all
-cryptsetup-suspend/jammy-updates 2:2.4.3-1ubuntu1.1 amd64
-cryptsetup/jammy-updates 2:2.4.3-1ubuntu1.1 amd64
+cryptsetup-bin/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
+cryptsetup-initramfs/jammy-updates 2:2.4.3-1ubuntu1.2 all
+cryptsetup-run/jammy-updates 2:2.4.3-1ubuntu1.2 all
+cryptsetup-suspend/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
+cryptsetup/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
 crystal-facet-uml/jammy 1.34.1-1 amd64
 crystalcursors/jammy 1.1.1-14.1 all
 cs/jammy 2.7.1-1 all
@@ -10244,10 +10244,10 @@ gnome-common/jammy 3.18.0-4 all
 gnome-connections/jammy 42.1.2-1 amd64
 gnome-console/jammy 42~beta-1 amd64
 gnome-contacts/jammy 41.0-2 amd64
-gnome-control-center-data/jammy-updates 1:41.7-0ubuntu0.22.04.7 all
-gnome-control-center-dev/jammy-updates 1:41.7-0ubuntu0.22.04.7 all
-gnome-control-center-faces/jammy-updates 1:41.7-0ubuntu0.22.04.7 all
-gnome-control-center/jammy-updates 1:41.7-0ubuntu0.22.04.7 amd64
+gnome-control-center-data/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 all
+gnome-control-center-dev/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 all
+gnome-control-center-faces/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 all
+gnome-control-center/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 amd64
 gnome-core/jammy 1:42+3 amd64
 gnome-desktop-3-tests/jammy-updates 42.9-0ubuntu1 amd64
 gnome-desktop-testing/jammy 2021.1-2 amd64
@@ -20081,8 +20081,8 @@ libcryptokit-ocaml-dev/jammy 1.16.1-1build3 amd64
 libcryptokit-ocaml/jammy 1.16.1-1build3 amd64
 libcryptominisat5-5.8/jammy 5.8.0+dfsg1-2 amd64
 libcryptominisat5-dev/jammy 5.8.0+dfsg1-2 amd64
-libcryptsetup-dev/jammy-updates 2:2.4.3-1ubuntu1.1 amd64
-libcryptsetup12/jammy-updates,now 2:2.4.3-1ubuntu1.1 amd64 [installed,automatic]
+libcryptsetup-dev/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
+libcryptsetup12/jammy-updates,now 2:2.4.3-1ubuntu1.2 amd64 [installed,automatic]
 libcryptui-dev/jammy 3.12.2-6 amd64
 libcryptui-doc/jammy 3.12.2-6 all
 libcryptui0a/jammy 3.12.2-6 amd64
