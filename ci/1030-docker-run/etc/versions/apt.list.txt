@@ -9381,7 +9381,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy 1.0.0+ds-1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.40.0 amd64 [installed]
+gh/unknown,now 2.40.1 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -76494,7 +76494,7 @@ xnec2c/jammy 1:4.3.4-1 amd64
 xnecview/jammy 1.37-2 amd64
 xnee-doc/jammy 3.19-8 all
 xnee/jammy 3.19-8 all
-xnest/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 amd64
+xnest/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 amd64
 xneur/jammy 0.20.0-3 amd64
 xonix/jammy 1.4-34 amd64
 xonsh-doc/jammy 0.11.0+dfsg-1 all
@@ -76503,7 +76503,7 @@ xorg-dev/jammy 1:7.7+23ubuntu2 all
 xorg-docs-core/jammy 1:1.7.1-1.2 all
 xorg-docs/jammy 1:1.7.1-1.2 all
 xorg-server-source-hwe-18.04/jammy 3:14.6 amd64
-xorg-server-source/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 all
+xorg-server-source/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 all
 xorg-sgml-doctools/jammy,now 1:1.11-1.1 all [installed,automatic]
 xorg/jammy 1:7.7+23ubuntu2 amd64
 xorgxrdp/jammy 1:0.2.17-1build1 amd64
@@ -76582,13 +76582,13 @@ xsddiagram/jammy 1.0-1 all
 xsecurelock/jammy 1.5.1-1 amd64
 xsel/jammy 1.2.0+git9bfc13d.20180109-3 amd64
 xsensors/jammy 0.70-5build1 amd64
-xserver-common/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 all
+xserver-common/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 all
 xserver-xephyr-hwe-18.04/jammy 3:14.6 amd64
-xserver-xephyr/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 amd64
+xserver-xephyr/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 amd64
 xserver-xorg-core-hwe-18.04/jammy 3:14.6 amd64
-xserver-xorg-core/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 amd64
+xserver-xorg-core/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 amd64
 xserver-xorg-dev-hwe-18.04/jammy 3:14.6 amd64
-xserver-xorg-dev/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 amd64
+xserver-xorg-dev/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 amd64
 xserver-xorg-hwe-18.04/jammy 3:14.6 amd64
 xserver-xorg-input-all-hwe-18.04/jammy 3:14.6 amd64
 xserver-xorg-input-all/jammy 1:7.7+23ubuntu2 amd64
@@ -76617,7 +76617,7 @@ xserver-xorg-input-wacom-hwe-18.04/jammy 3:14.6 amd64
 xserver-xorg-input-wacom/jammy 1:1.0.0-3ubuntu1 amd64
 xserver-xorg-input-xwiimote/jammy 0.5-1build3 amd64
 xserver-xorg-legacy-hwe-18.04/jammy 3:14.6 amd64
-xserver-xorg-legacy/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 amd64
+xserver-xorg-legacy/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 amd64
 xserver-xorg-video-all-hwe-18.04/jammy 3:14.6 amd64
 xserver-xorg-video-all/jammy 1:7.7+23ubuntu2 amd64
 xserver-xorg-video-amdgpu-hwe-18.04/jammy 3:14.6 amd64
@@ -76747,7 +76747,7 @@ xutils-dev/jammy 1:7.7+6ubuntu1 amd64
 xutils/jammy 1:7.7+23ubuntu2 all
 xva-img/jammy 1.4.2-1build1 amd64
 xvattr/jammy 1.3-0.6ubuntu2 amd64
-xvfb/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.2 amd64
+xvfb/jammy-updates,jammy-security 2:21.1.4-2ubuntu1.7~22.04.5 amd64
 xvid4conf/jammy 1.12-dmo2ubuntu2 amd64
 xvidenc/jammy 8.4.3~dfsg-0ubuntu1 all
 xvier/jammy 1.0-7.6 amd64
@@ -76757,7 +76757,7 @@ xwallpaper/jammy 0.7.3-1 amd64
 xwatch/jammy 2.11-16 amd64
 xwax/jammy 1.8-1 amd64
 xwayland-hwe-18.04/jammy 3:14.6 amd64
-xwayland/jammy-updates,jammy-security 2:22.1.1-1ubuntu0.7 amd64
+xwayland/jammy-updates,jammy-security 2:22.1.1-1ubuntu0.9 amd64
 xwelltris/jammy 1.0.1-18 amd64
 xwiimote/jammy 2-4 amd64
 xwit/jammy 3.4-16 amd64
