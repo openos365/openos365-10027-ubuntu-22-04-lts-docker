@@ -7677,7 +7677,7 @@ yarn list v1.22.21
 ├─ @steedos/standard-collaboration@2.5.20
 ├─ @steedos/standard-object-database@2.5.20
 │  ├─ @steedos-widgets/amis-lib@^1.0.22
-│  ├─ @steedos-widgets/amis-lib@1.3.20
+│  ├─ @steedos-widgets/amis-lib@1.3.21
 │  │  ├─ i18next@22.5.1
 │  │  ├─ lodash@^4.17.21
 │  │  └─ react-i18next@12.3.1
@@ -11486,7 +11486,7 @@ yarn list v1.22.21
 │  ├─ @types/babel__generator@*
 │  ├─ @types/babel__template@*
 │  └─ @types/babel__traverse@*
-├─ @types/babel__generator@7.6.7
+├─ @types/babel__generator@7.6.8
 │  └─ @babel/types@^7.0.0
 ├─ @types/babel__template@7.4.4
 │  ├─ @babel/parser@^7.1.0
