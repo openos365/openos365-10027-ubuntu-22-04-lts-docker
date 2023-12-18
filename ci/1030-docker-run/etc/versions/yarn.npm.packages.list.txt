@@ -11584,7 +11584,7 @@ yarn list v1.22.21
 ├─ @types/mime@3.0.4
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@20.10.4
+├─ @types/node@20.10.5
 │  └─ undici-types@~5.26.4
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
