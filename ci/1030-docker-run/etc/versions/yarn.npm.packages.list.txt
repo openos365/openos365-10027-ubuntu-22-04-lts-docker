@@ -19439,7 +19439,7 @@ yarn list v1.22.21
 ├─ prosemirror-transform@1.8.0
 │  └─ prosemirror-model@^1.0.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.32.6
+├─ prosemirror-view@1.32.7
 │  ├─ prosemirror-model@^1.16.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
