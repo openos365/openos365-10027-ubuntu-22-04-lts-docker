@@ -20667,7 +20667,7 @@ yarn list v1.22.21
 │  ├─ parse-rect@^1.2.0
 │  ├─ pick-by-alias@^1.2.0
 │  └─ to-float32@^1.1.0
-├─ regl-scatter2d@3.2.9
+├─ regl-scatter2d@3.3.0
 │  ├─ @plotly/point-cluster@^3.1.9
 │  ├─ array-range@^1.0.1
 │  ├─ array-rearrange@^2.2.2
