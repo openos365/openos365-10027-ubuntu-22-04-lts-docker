@@ -4954,6 +4954,7 @@ yarn list v1.22.21
 │  │  ├─ asynckit@^0.4.0
 │  │  ├─ combined-stream@^1.0.8
 │  │  └─ mime-types@^2.1.12
+│  ├─ moment@2.29.4
 │  └─ moment@2.29.4
 ├─ @steedos/process@2.5.20
 │  ├─ @steedos/auth@2.5.20
@@ -17705,7 +17706,7 @@ yarn list v1.22.21
 │  └─ recursive-watch@^1.1.4
 ├─ moment-timezone@0.5.33
 │  └─ moment@>= 2.9.0
-├─ moment@2.29.4
+├─ moment@2.30.0
 ├─ monaco-editor@0.33.0
 ├─ mongo-object@0.1.4
 ├─ mongodb-core@3.2.7
