@@ -3585,12 +3585,12 @@ yarn list v1.22.21
 │  ├─ moment-timezone@0.5.43
 │  │  └─ moment@^2.29.4
 │  └─ ttag@^1.7.29
-├─ @steedos-labs/asset@2.5.6
-│  ├─ @steedos-labs/master@2.5.6
-│  └─ @steedos-labs/workflow@2.5.6
-├─ @steedos-labs/attendance@2.5.6
-│  ├─ @steedos-labs/master@2.5.6
-│  ├─ @steedos-labs/workflow@2.5.6
+├─ @steedos-labs/asset@2.6.1
+│  ├─ @steedos-labs/master@2.6.1
+│  └─ @steedos-labs/workflow@2.6.1
+├─ @steedos-labs/attendance@2.6.1
+│  ├─ @steedos-labs/master@2.6.1
+│  ├─ @steedos-labs/workflow@2.6.1
 │  └─ moleculer-cron@^0.0.2
 ├─ @steedos-labs/budget@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
@@ -3604,32 +3604,33 @@ yarn list v1.22.21
 │  ├─ @steedos-labs/flows@2.2.1
 │  │  └─ @steedos-labs/master@2.2.1
 │  └─ @steedos-labs/master@2.2.1
-├─ @steedos-labs/contract@2.5.6
-│  ├─ @steedos-labs/finance@2.5.6
-│  └─ @steedos-labs/master@2.5.6
+├─ @steedos-labs/contract@2.6.1
+│  ├─ @steedos-labs/finance@2.6.1
+│  ├─ @steedos-labs/invoice@2.6.1
+│  └─ @steedos-labs/master@2.6.1
 ├─ @steedos-labs/cost-ee@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.2.9-beta.3
 │  │  └─ @steedos-labs/master@2.2.9-beta.3
 │  └─ @steedos-labs/master@2.2.9-beta.3
-├─ @steedos-labs/cost@2.5.6
-│  ├─ @steedos-labs/invoice@2.5.6
-│  ├─ @steedos-labs/master@2.5.6
-│  ├─ @steedos-labs/project@2.5.6
-│  └─ @steedos-labs/workflow@2.5.6
-├─ @steedos-labs/crm@2.5.6
-│  └─ @steedos-labs/master@2.5.6
-├─ @steedos-labs/demo-ee@2.5.6
-│  ├─ @steedos-labs/asset@2.5.6
-│  ├─ @steedos-labs/contract@2.5.6
-│  ├─ @steedos-labs/cost@2.5.6
-│  ├─ @steedos-labs/crm@2.5.6
-│  ├─ @steedos-labs/finance@2.5.6
-│  ├─ @steedos-labs/master@2.5.6
-│  ├─ @steedos-labs/meeting@2.5.6
-│  ├─ @steedos-labs/oa@2.5.6
-│  ├─ @steedos-labs/okr@2.5.6
-│  ├─ @steedos-labs/project@2.5.6
+├─ @steedos-labs/cost@2.6.1
+│  ├─ @steedos-labs/invoice@2.6.1
+│  ├─ @steedos-labs/master@2.6.1
+│  ├─ @steedos-labs/project@2.6.1
+│  └─ @steedos-labs/workflow@2.6.1
+├─ @steedos-labs/crm@2.6.1
+│  └─ @steedos-labs/master@2.6.1
+├─ @steedos-labs/demo-ee@2.6.1
+│  ├─ @steedos-labs/asset@2.6.1
+│  ├─ @steedos-labs/contract@2.6.1
+│  ├─ @steedos-labs/cost@2.6.1
+│  ├─ @steedos-labs/crm@2.6.1
+│  ├─ @steedos-labs/finance@2.6.1
+│  ├─ @steedos-labs/master@2.6.1
+│  ├─ @steedos-labs/meeting@2.6.1
+│  ├─ @steedos-labs/oa@2.6.1
+│  ├─ @steedos-labs/okr@2.6.1
+│  ├─ @steedos-labs/project@2.6.1
 │  ├─ @steedos-labs/purchase@2.2.9-beta.3
 │  ├─ @steedos-labs/purchase@2.2.9-beta.3
 │  │  ├─ @steedos-labs/master@2.2.9-beta.3
@@ -3663,16 +3664,16 @@ yarn list v1.22.21
 │  │  └─ @steedos-labs/master@2.2.1
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
-├─ @steedos-labs/finance@2.5.6
-│  ├─ @steedos-labs/invoice@2.5.6
-│  ├─ @steedos-labs/master@2.5.6
+├─ @steedos-labs/finance@2.6.1
+│  ├─ @steedos-labs/invoice@2.6.1
+│  ├─ @steedos-labs/master@2.6.1
 │  └─ bignumber.js@^9.1.1
 ├─ @steedos-labs/flows@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
-├─ @steedos-labs/gw@2.5.6
-│  ├─ @steedos-labs/master@2.5.6
-│  └─ @steedos-labs/workflow@2.5.6
+├─ @steedos-labs/gw@2.6.1
+│  ├─ @steedos-labs/master@2.6.1
+│  └─ @steedos-labs/workflow@2.6.1
 ├─ @steedos-labs/hr-ee@2.2.8
 │  ├─ @steedos-labs/flows@2.2.1
 │  ├─ @steedos-labs/flows@2.2.1
@@ -3680,22 +3681,22 @@ yarn list v1.22.21
 │  │  └─ @steedos-labs/master@2.2.1
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
-├─ @steedos-labs/hr@2.5.6
-│  └─ @steedos-labs/master@2.5.6
-├─ @steedos-labs/invoice@2.5.6
+├─ @steedos-labs/hr@2.6.1
+│  └─ @steedos-labs/master@2.6.1
+├─ @steedos-labs/invoice@2.6.1
 │  ├─ bignumber.js@^9.1.1
 │  └─ request@^2.88.2
 ├─ @steedos-labs/it@2.1.22
 ├─ @steedos-labs/learning@2.1.62
 │  └─ pug@^3.0.2
-├─ @steedos-labs/master@2.5.6
-├─ @steedos-labs/meeting@2.5.6
+├─ @steedos-labs/master@2.6.1
+├─ @steedos-labs/meeting@2.6.1
 ├─ @steedos-labs/merchant@2.1.64
 ├─ @steedos-labs/npm-scopes@2.1.63
-├─ @steedos-labs/oa@2.5.6
+├─ @steedos-labs/oa@2.6.1
 │  └─ @steedos/utils@^2.5.11-beta.10
-├─ @steedos-labs/okr@2.5.6
-│  └─ @steedos-labs/master@2.5.6
+├─ @steedos-labs/okr@2.6.1
+│  └─ @steedos-labs/master@2.6.1
 ├─ @steedos-labs/order@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
@@ -3704,8 +3705,8 @@ yarn list v1.22.21
 │  ├─ pug@^3.0.2
 │  ├─ request@^2.54.0
 │  └─ xml2js@^0.4.6
-├─ @steedos-labs/performance@2.5.6
-├─ @steedos-labs/project-ee@2.5.6
+├─ @steedos-labs/performance@2.6.1
+├─ @steedos-labs/project-ee@2.6.1
 │  ├─ @steedos-labs/budget@2.2.9-beta.3
 │  ├─ @steedos-labs/budget@2.2.9-beta.3
 │  │  ├─ @steedos-labs/master@2.2.9-beta.3
@@ -3717,20 +3718,20 @@ yarn list v1.22.21
 │  │  │  └─ @steedos-labs/master@2.2.9-beta.3
 │  │  ├─ @steedos-labs/flows@2.2.1
 │  │  └─ @steedos-labs/master@2.2.9-beta.3
-│  ├─ @steedos-labs/contract@2.5.6
+│  ├─ @steedos-labs/contract@2.6.1
 │  ├─ @steedos-labs/cost-ee@2.2.9-beta.3
-│  ├─ @steedos-labs/cost@2.5.6
-│  ├─ @steedos-labs/demo-ee@2.5.6
-│  ├─ @steedos-labs/finance@2.5.6
+│  ├─ @steedos-labs/cost@2.6.1
+│  ├─ @steedos-labs/demo-ee@2.6.1
+│  ├─ @steedos-labs/finance@2.6.1
 │  ├─ @steedos-labs/flows@2.2.1
 │  │  ├─ @steedos-labs/master@2.2.1
 │  │  └─ @steedos-labs/master@2.2.1
-│  ├─ @steedos-labs/master@2.5.6
-│  └─ @steedos-labs/project@2.5.6
-├─ @steedos-labs/project@2.5.6
-│  ├─ @steedos-labs/contract@2.5.6
-│  ├─ @steedos-labs/finance@2.5.6
-│  └─ @steedos-labs/master@2.5.6
+│  ├─ @steedos-labs/master@2.6.1
+│  └─ @steedos-labs/project@2.6.1
+├─ @steedos-labs/project@2.6.1
+│  ├─ @steedos-labs/contract@2.6.1
+│  ├─ @steedos-labs/finance@2.6.1
+│  └─ @steedos-labs/master@2.6.1
 ├─ @steedos-labs/purchase@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
@@ -3815,7 +3816,7 @@ yarn list v1.22.21
 │  │  └─ webidl-conversions@^4.0.2
 │  └─ yallist@3.1.1
 ├─ @steedos-labs/work-order@2.1.61
-├─ @steedos-labs/workflow@2.5.6
+├─ @steedos-labs/workflow@2.6.1
 ├─ @steedos-labs/xz@2.2.8
 │  ├─ @steedos-labs/flows@2.2.1
 │  ├─ @steedos-labs/flows@2.2.1
@@ -6713,7 +6714,7 @@ yarn list v1.22.21
 │  │     └─ moment@^2.29.4
 │  ├─ cross-env@^7.0.3
 │  ├─ cryptiles@3.1.4
-│  │  ├─ boom@5.3.2
+│  │  ├─ boom@5.3.3
 │  │  │  └─ hoek@4.x.x
 │  │  └─ boom@5.x.x
 │  ├─ crypto-js@^4.0.0
@@ -9040,7 +9041,7 @@ yarn list v1.22.21
 │  │  └─ moment-timezone@0.5.43
 │  │     └─ moment@^2.29.4
 │  ├─ cryptiles@3.1.4
-│  │  ├─ boom@5.3.2
+│  │  ├─ boom@5.3.3
 │  │  │  └─ hoek@4.x.x
 │  │  └─ boom@5.x.x
 │  ├─ debug@2.6.9
@@ -10785,7 +10786,7 @@ yarn list v1.22.21
 │  │  └─ moment-timezone@0.5.43
 │  │     └─ moment@^2.29.4
 │  ├─ cryptiles@3.1.4
-│  │  ├─ boom@5.3.2
+│  │  ├─ boom@5.3.3
 │  │  │  └─ hoek@4.x.x
 │  │  └─ boom@5.x.x
 │  ├─ debug@2.6.9
