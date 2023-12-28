@@ -11545,7 +11545,7 @@ yarn list v1.22.21
 │  ├─ fs-capacitor@8.0.0
 │  ├─ graphql@0.13.1 - 16
 │  └─ graphql@16.8.1
-├─ @types/hast@2.3.8
+├─ @types/hast@2.3.9
 │  └─ @types/unist@^2
 ├─ @types/hoist-non-react-statics@3.3.5
 │  ├─ @types/react@*
@@ -12820,7 +12820,7 @@ yarn list v1.22.21
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001571
+├─ caniuse-lite@1.0.30001572
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -12970,7 +12970,7 @@ yarn list v1.22.21
 ├─ class-validator@0.8.5
 │  ├─ validator@9.2.0
 │  └─ validator@9.2.0
-├─ classnames@2.4.0
+├─ classnames@2.5.0
 ├─ clean-css@3.4.28
 │  ├─ commander@2.8.1
 │  │  └─ graceful-readlink@>= 1.0.0
@@ -17899,7 +17899,7 @@ yarn list v1.22.21
 │  ├─ rtl-css-js@^1.16.1
 │  ├─ stacktrace-js@^2.0.2
 │  ├─ stylis@^4.3.0
-│  └─ stylis@4.3.0
+│  └─ stylis@4.3.1
 ├─ nano-time@1.0.0
 │  └─ big-integer@^1.6.16
 ├─ nanoid@1.0.2
@@ -20949,7 +20949,7 @@ yarn list v1.22.21
 │  ├─ jest-worker@^24.0.0
 │  ├─ serialize-javascript@^2.1.2
 │  └─ uglify-js@^3.4.9
-├─ rollup-plugin-visualizer@5.11.0
+├─ rollup-plugin-visualizer@5.12.0
 │  ├─ cliui@8.0.1
 │  │  ├─ string-width@^4.2.0
 │  │  ├─ strip-ansi@^6.0.1
