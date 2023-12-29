@@ -2753,7 +2753,7 @@ yarn list v1.22.21
 │  │  └─ esprima@^4.0.0
 │  ├─ media-typer@1.1.0
 │  ├─ media-typer@1.1.0
-│  ├─ moment-timezone@0.5.43
+│  ├─ moment-timezone@0.5.44
 │  │  └─ moment@^2.29.4
 │  ├─ mqtt@4.2.6
 │  ├─ ms@2.0.0
@@ -3033,7 +3033,7 @@ yarn list v1.22.21
 ├─ @oclif/core@2.15.0
 │  ├─ @types/cli-progress@^3.11.0
 │  ├─ acorn-walk@8.3.1
-│  ├─ acorn@8.11.2
+│  ├─ acorn@8.11.3
 │  ├─ ansi-escapes@^4.3.2
 │  ├─ ansi-escapes@4.3.2
 │  │  └─ type-fest@^0.21.3
@@ -3582,7 +3582,7 @@ yarn list v1.22.21
 ├─ @steedos-labs/analytics@0.1.1
 │  ├─ @steedos/utils@^2.5.11-beta.10
 │  ├─ moment-timezone@^0.5.43
-│  ├─ moment-timezone@0.5.43
+│  ├─ moment-timezone@0.5.44
 │  │  └─ moment@^2.29.4
 │  └─ ttag@^1.7.29
 ├─ @steedos-labs/asset@2.6.1
@@ -4357,16 +4357,16 @@ yarn list v1.22.21
 │  ├─ lodash@^4.17.21
 │  └─ node-xlsx@^0.16.1
 ├─ @steedos/design-system-react@2.1.116
-├─ @steedos/ee_audit-records@2.5.23
-├─ @steedos/ee_branding@2.5.23
-├─ @steedos/ee_community-users@2.5.23
-├─ @steedos/ee_mongodb-bi-connector@2.5.23
+├─ @steedos/ee_audit-records@2.5.24
+├─ @steedos/ee_branding@2.5.24
+├─ @steedos/ee_community-users@2.5.24
+├─ @steedos/ee_mongodb-bi-connector@2.5.24
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ moleculer@^0.14.25
 │  ├─ mongodb-uri@0.9.7
 │  └─ mongodb@^3.7.3
-├─ @steedos/ee_plugin-field-encryption@2.5.23
+├─ @steedos/ee_plugin-field-encryption@2.5.24
 │  ├─ chalk@4.1.2
 │  ├─ chalk@4.1.2
 │  │  ├─ ansi-styles@^4.1.0
@@ -4469,7 +4469,7 @@ yarn list v1.22.21
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
 ├─ @steedos/ee_unpkg-local@2.4.18
-├─ @steedos/ee_virus-scan@2.5.23
+├─ @steedos/ee_virus-scan@2.5.24
 ├─ @steedos/filters@2.5.20
 │  ├─ @babel/runtime@7.12.18
 │  ├─ @babel/runtime@7.12.18
@@ -4483,7 +4483,7 @@ yarn list v1.22.21
 │  ├─ i18next@^19.3.4
 │  ├─ underscore@1.13.4
 │  └─ underscore@1.13.4
-├─ @steedos/license@2.5.23
+├─ @steedos/license@2.5.24
 │  ├─ abort-controller@^3.0.0
 │  ├─ crypto@^1.0.1
 │  ├─ node-fetch@^2.6.0
@@ -4858,7 +4858,7 @@ yarn list v1.22.21
 ├─ @steedos/pdfjs-dist@1.0.0
 ├─ @steedos/plugin-company@2.5.20
 ├─ @steedos/plugin-contact@2.0.8
-├─ @steedos/plugin-dingtalk@2.5.23
+├─ @steedos/plugin-dingtalk@2.5.24
 │  ├─ cookies@^0.8.0
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ express@^4.17.1
@@ -4902,7 +4902,7 @@ yarn list v1.22.21
 │  └─ scheduler@0.19.1
 │     ├─ loose-envify@^1.1.0
 │     └─ object-assign@^4.1.1
-├─ @steedos/plugin-qywx@2.5.23
+├─ @steedos/plugin-qywx@2.5.24
 │  ├─ cookies@^0.8.0
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ jsdom@^16.2.2
@@ -4945,7 +4945,7 @@ yarn list v1.22.21
 │  │  ├─ loose-envify@^1.1.0
 │  │  └─ object-assign@^4.1.1
 │  └─ underscore@^1.9.1
-├─ @steedos/plugin-welink@2.5.23
+├─ @steedos/plugin-welink@2.5.24
 │  ├─ axios@1.5.0
 │  ├─ axios@1.5.0
 │  │  ├─ follow-redirects@^1.15.0
@@ -6710,7 +6710,7 @@ yarn list v1.22.21
 │  ├─ cron-parser@2.18.0
 │  │  ├─ is-nan@^1.3.0
 │  │  ├─ moment-timezone@^0.5.31
-│  │  └─ moment-timezone@0.5.43
+│  │  └─ moment-timezone@0.5.44
 │  │     └─ moment@^2.29.4
 │  ├─ cross-env@^7.0.3
 │  ├─ cryptiles@3.1.4
@@ -7331,8 +7331,8 @@ yarn list v1.22.21
 │  │  ├─ range-parser@~1.2.1
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
-├─ @steedos/service-license@2.5.23
-│  ├─ @steedos/license@2.5.23
+├─ @steedos/service-license@2.5.24
+│  ├─ @steedos/license@2.5.24
 │  └─ axios@^0.21.4
 ├─ @steedos/service-metadata-apps@2.5.20
 │  ├─ @steedos/i18n@2.5.20
@@ -9038,7 +9038,7 @@ yarn list v1.22.21
 │  ├─ cron-parser@2.18.0
 │  │  ├─ is-nan@^1.3.0
 │  │  ├─ moment-timezone@^0.5.31
-│  │  └─ moment-timezone@0.5.43
+│  │  └─ moment-timezone@0.5.44
 │  │     └─ moment@^2.29.4
 │  ├─ cryptiles@3.1.4
 │  │  ├─ boom@5.3.3
@@ -10783,7 +10783,7 @@ yarn list v1.22.21
 │  ├─ cron-parser@2.18.0
 │  │  ├─ is-nan@^1.3.0
 │  │  ├─ moment-timezone@^0.5.31
-│  │  └─ moment-timezone@0.5.43
+│  │  └─ moment-timezone@0.5.44
 │  │     └─ moment@^2.29.4
 │  ├─ cryptiles@3.1.4
 │  │  ├─ boom@5.3.3
@@ -11746,7 +11746,7 @@ yarn list v1.22.21
 ├─ accepts@1.3.8
 │  ├─ mime-types@~2.1.34
 │  └─ negotiator@0.6.3
-├─ ace-builds@1.32.2
+├─ ace-builds@1.32.3
 ├─ acorn-dynamic-import@4.0.0
 ├─ acorn-globals@4.3.4
 │  ├─ acorn-walk@^6.0.1
@@ -16319,7 +16319,7 @@ yarn list v1.22.21
 │  │  ├─ acorn@^7.1.1
 │  │  └─ acorn@7.4.1
 │  ├─ acorn@^8.2.4
-│  ├─ acorn@8.11.2
+│  ├─ acorn@8.11.3
 │  ├─ cssom@^0.4.4
 │  ├─ cssom@0.4.4
 │  ├─ cssstyle@^2.3.0
@@ -21836,7 +21836,7 @@ yarn list v1.22.21
 │  ├─ mime@^2.0.2
 │  ├─ mkdirp@^1.0.4
 │  ├─ mkdirp@1.0.4
-│  ├─ moment-timezone@0.5.43
+│  ├─ moment-timezone@0.5.44
 │  │  └─ moment@^2.29.4
 │  ├─ mongodb@^3.7.3
 │  ├─ negotiator@^0.6.1
@@ -22630,7 +22630,7 @@ yarn list v1.22.21
 │  ├─ acorn-walk@^8.2.0
 │  ├─ acorn-walk@8.3.1
 │  ├─ acorn@^8.7.0
-│  └─ acorn@8.11.2
+│  └─ acorn@8.11.3
 ├─ void-elements@3.1.0
 ├─ vt-pbf@3.1.3
 │  ├─ @mapbox/point-geometry@0.1.0
