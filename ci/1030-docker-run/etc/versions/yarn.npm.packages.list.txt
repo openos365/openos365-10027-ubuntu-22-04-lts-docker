@@ -1048,7 +1048,7 @@ yarn list v1.22.21
 ├─ @chakra-ui/icons@1.1.7
 │  ├─ @chakra-ui/icon@2.0.5
 │  ├─ @types/react@^17.0.15
-│  └─ @types/react@17.0.73
+│  └─ @types/react@17.0.74
 │     ├─ @types/prop-types@*
 │     ├─ @types/scheduler@*
 │     └─ csstype@^3.0.2
@@ -11602,7 +11602,7 @@ yarn list v1.22.21
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.45
+├─ @types/react@18.2.46
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
@@ -13356,9 +13356,9 @@ yarn list v1.22.21
 ├─ copy-descriptor@0.1.1
 ├─ copy-to-clipboard@3.3.3
 │  └─ toggle-selection@^1.0.6
-├─ core-js-compat@3.34.0
+├─ core-js-compat@3.35.0
 │  └─ browserslist@^4.22.2
-├─ core-js-pure@3.34.0
+├─ core-js-pure@3.35.0
 ├─ core-js@2.6.12
 ├─ core-util-is@1.0.3
 ├─ cors@2.8.5
@@ -19887,7 +19887,7 @@ yarn list v1.22.21
 │  └─ prop-types@^15.7.2
 ├─ react-app-polyfill@1.0.6
 │  ├─ core-js@^3.5.0
-│  ├─ core-js@3.34.0
+│  ├─ core-js@3.35.0
 │  ├─ object-assign@^4.1.1
 │  ├─ promise@^8.0.3
 │  ├─ promise@8.3.0
