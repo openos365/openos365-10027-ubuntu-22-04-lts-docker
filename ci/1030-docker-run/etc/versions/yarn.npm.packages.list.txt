@@ -21582,8 +21582,14 @@ yarn list v1.22.21
 ├─ standalone-react-addons-pure-render-mixin@0.1.1
 ├─ standard-as-callback@2.1.0
 ├─ state-local@1.0.7
-├─ static-eval@2.1.0
-│  └─ escodegen@^1.11.1
+├─ static-eval@2.1.1
+│  ├─ escodegen@^2.1.0
+│  ├─ escodegen@2.1.0
+│  │  ├─ esprima@^4.0.1
+│  │  ├─ estraverse@^5.2.0
+│  │  ├─ esutils@^2.0.2
+│  │  └─ source-map@~0.6.1
+│  └─ estraverse@5.3.0
 ├─ static-extend@0.1.2
 │  ├─ define-property@^0.2.5
 │  └─ object-copy@^0.1.0
@@ -22120,7 +22126,7 @@ yarn list v1.22.21
 ├─ syntax-error@1.4.0
 │  └─ acorn-node@^1.2.0
 ├─ systeminformation@5.9.17
-├─ systemjs@6.14.2
+├─ systemjs@6.14.3
 ├─ table@6.8.1
 │  ├─ ajv@^8.0.1
 │  ├─ ajv@8.12.0
