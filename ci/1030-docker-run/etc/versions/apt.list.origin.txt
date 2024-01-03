@@ -244,7 +244,7 @@ akonadiconsole/jammy 4:21.12.3-0ubuntu1 amd64
 akqml/jammy 8.8.0+dfsg-1 amd64
 akregator/jammy 4:21.12.3-0ubuntu1 amd64
 alac-decoder/jammy 0.2.0-0ubuntu2 amd64
-alacarte/jammy 3.44.1-1 all
+alacarte/jammy-updates 3.44.1-1ubuntu0.1 all
 aladin/jammy 11.024+dfsg2-1 all
 album-data/jammy 4.05-7.2 all
 album/jammy 4.15-1 all
@@ -4563,8 +4563,8 @@ distcc-pump/jammy 3.4+really3.3.5-3build1 amd64
 distcc/jammy 3.4+really3.3.5-3build1 amd64
 distccmon-gnome/jammy 3.4+really3.3.5-3build1 amd64
 distributed-net/jammy 2.9112.521+arm64-2 amd64
-distro-info-data/jammy-updates 0.52ubuntu0.5 all
-distro-info/jammy-updates 1.1ubuntu0.1 amd64
+distro-info-data/jammy-updates 0.52ubuntu0.6 all
+distro-info/jammy-updates 1.1ubuntu0.2 amd64
 disulfinder-data/jammy 1.2.11-12 all
 disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
@@ -20901,7 +20901,7 @@ libdistlib-java-doc/jammy 1.0-2 all
 libdistlib-java/jammy 1.0-2 all
 libdistorm3-3/jammy 3.4.1-5 amd64
 libdistorm3-dev/jammy 3.4.1-5 amd64
-libdistro-info-perl/jammy-updates 1.1ubuntu0.1 all
+libdistro-info-perl/jammy-updates 1.1ubuntu0.2 all
 libdivide-dev/jammy 3.0-1 all
 libdivsufsort-dev/jammy 2.0.1-5 amd64
 libdivsufsort3/jammy 2.0.1-5 amd64
@@ -63666,7 +63666,7 @@ python3-distance/jammy 0+git20131122.ad7f9dc-5 all
 python3-distlib/jammy 0.3.4-1 all
 python3-distorm3/jammy 3.4.1-5 all
 python3-distributed/jammy 2022.01.0+ds.1-1 all
-python3-distro-info/jammy-updates 1.1ubuntu0.1 all
+python3-distro-info/jammy-updates 1.1ubuntu0.2 all
 python3-distro/jammy 1.7.0-1 all
 python3-distupgrade/jammy-updates 1:22.04.17 all
 python3-distutils-extra/jammy 2.45 all
@@ -66306,7 +66306,7 @@ python3-socks/jammy 1.7.1+dfsg-1 all
 python3-socksio/jammy-backports 1.0.0-2~bpo22.04.1 all
 python3-socksipychain/jammy 2.1.2-1 all
 python3-softlayer/jammy 5.9.8-2 all
-python3-software-properties/jammy-updates 0.99.22.8 all
+python3-software-properties/jammy-updates 0.99.22.9 all
 python3-solv/jammy-updates 0.7.20-1ubuntu0.22.04.1 amd64
 python3-sop/jammy 0.2.0-1.3 all
 python3-sorl-thumbnail/jammy 12.7.0-1 all
@@ -72100,9 +72100,9 @@ softhsm-common/jammy 2.6.1-2ubuntu1 all
 softhsm2-common/jammy 2.6.1-2ubuntu1 amd64
 softhsm2/jammy 2.6.1-2ubuntu1 amd64
 softhsm/jammy 2.6.1-2ubuntu1 all
-software-properties-common/jammy-updates 0.99.22.8 all
-software-properties-gtk/jammy-updates 0.99.22.8 all
-software-properties-qt/jammy-updates 0.99.22.8 all
+software-properties-common/jammy-updates 0.99.22.9 all
+software-properties-gtk/jammy-updates 0.99.22.9 all
+software-properties-qt/jammy-updates 0.99.22.9 all
 sogo-activesync/jammy 5.5.1-1 amd64
 sogo-common/jammy 5.5.1-1 all
 sogo/jammy 5.5.1-1 amd64
