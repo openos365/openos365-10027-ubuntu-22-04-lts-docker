@@ -33146,8 +33146,8 @@ libnmz7-dev/jammy 2.0.21-23 amd64
 libnmz7/jammy 2.0.21-23 amd64
 libnng-dev/jammy 1.5.2-1build1 amd64
 libnng1/jammy 1.5.2-1build1 amd64
-libnode-dev/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.2 amd64
-libnode72/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.2 amd64
+libnode-dev/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.3 amd64
+libnode72/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.3 amd64
 libnodelet-dev/jammy 1.10.2-1build3 amd64
 libnodelet-topic-tools-dev/jammy 1.10.2-1build3 amd64
 libnodeletlib-dev/jammy 1.10.2-1build3 amd64
@@ -58304,8 +58304,8 @@ node-zkochan-cmd-shim/jammy 5.2.1+~1.0.2-3 all
 node-zmodem.js/jammy 0.1.10+dfsg-2 all
 node-zrender/jammy 5.2.1+dfsg-1 all
 nodeenv/jammy 0.13.4-1.1 all
-nodejs-doc/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.2 all
-nodejs/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.2 amd64
+nodejs-doc/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.3 all
+nodejs/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.3 amd64
 nodeunit/jammy 0.11.3+ds-2 all
 nodm/jammy 0.13-6build1 amd64
 nohang/jammy 0.2.0-1 all
