@@ -12853,7 +12853,7 @@ google-perftools/jammy 2.9.1-0ubuntu3 all
 google-wire/jammy 0.5.0-1 amd64
 googler/jammy 4.3.2-1 all
 googletest-tools/jammy 1.11.0-3 amd64
-googletest/jammy 1.11.0-3 all
+googletest/jammy,now 1.11.0-3 all [installed,automatic]
 gopass/jammy 1.5.0-1 amd64
 gopchop/jammy 1.1.8-7build2 amd64
 gopher/jammy 3.0.17.3+nmu1 amd64
@@ -27503,7 +27503,7 @@ libgstreamermm-1.0-dev/jammy 1.10.0+dfsg-4 amd64
 libgstreamermm-1.0-doc/jammy 1.10.0+dfsg-4 all
 libgstrtspserver-1.0-0/jammy 1.20.1-1 amd64
 libgstrtspserver-1.0-dev/jammy 1.20.1-1 amd64
-libgtest-dev/jammy 1.11.0-3 amd64
+libgtest-dev/jammy,now 1.11.0-3 amd64 [installed]
 libgtextutils-dev/jammy 0.7-7 amd64
 libgtextutils0v5/jammy 0.7-7 amd64
 libgtg-dev/jammy 0.2-2+dfsg-7 amd64
