@@ -13492,9 +13492,9 @@ happycoders-libdbg-dev/jammy 1.2-2ubuntu5 amd64
 happycoders-libdbg/jammy 1.2-2ubuntu5 amd64
 happycoders-libsocket-dev/jammy 1.6-1ubuntu5 amd64
 happycoders-libsocket/jammy 1.6-1ubuntu5 amd64
-haproxy-doc/jammy-updates,jammy-security 2.4.22-0ubuntu0.22.04.3 all
+haproxy-doc/jammy-updates 2.4.24-0ubuntu0.22.04.1 all
 haproxy-log-analysis/jammy 2.0~b0-2 all
-haproxy/jammy-updates,jammy-security 2.4.22-0ubuntu0.22.04.3 amd64
+haproxy/jammy-updates 2.4.24-0ubuntu0.22.04.1 amd64
 haproxyctl/jammy 1.4.3-1 all
 harden-doc/jammy 3.19+nmu1 all
 hardening-runtime/jammy 2 all
@@ -75252,7 +75252,7 @@ vim-gitgutter/jammy 0~20200414-2 all
 vim-gtk3/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.15 amd64
 vim-gtk/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.15 all
 vim-gui-common/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.15 all
-vim-haproxy/jammy-updates,jammy-security 2.4.22-0ubuntu0.22.04.3 all
+vim-haproxy/jammy-updates 2.4.24-0ubuntu0.22.04.1 all
 vim-icinga2/jammy 2.13.2-1build2 all
 vim-julia/jammy 0.0~git20211208.e497299-1 all
 vim-khuno/jammy 1.0.3-3 all
