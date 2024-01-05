@@ -22381,7 +22381,7 @@ yarn list v1.22.21
 ├─ tsutils@3.21.0
 │  ├─ tslib@^1.8.1
 │  └─ tslib@1.14.1
-├─ ttag@1.8.5
+├─ ttag@1.8.6
 │  ├─ dedent@1.5.1
 │  ├─ dedent@1.5.1
 │  └─ plural-forms@^0.5.3
