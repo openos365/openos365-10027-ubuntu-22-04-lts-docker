@@ -11586,7 +11586,7 @@ yarn list v1.22.21
 ├─ @types/mime@3.0.4
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@20.10.6
+├─ @types/node@20.10.7
 │  └─ undici-types@~5.26.4
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
@@ -12821,7 +12821,7 @@ yarn list v1.22.21
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001574
+├─ caniuse-lite@1.0.30001576
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
