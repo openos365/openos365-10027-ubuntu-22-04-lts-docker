@@ -10916,11 +10916,11 @@ gojay/jammy 1.2.13-5 amd64
 gojq/jammy 0.12.6-1 amd64
 gokey/jammy 0.1.0-1build2 amd64
 golang-1.12-race-detector-runtime/jammy 0.0+svn332029-0ubuntu1 amd64
-golang-1.13-doc/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.1 all
-golang-1.13-go/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.1 amd64
+golang-1.13-doc/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.2 all
+golang-1.13-go/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.2 amd64
 golang-1.13-race-detector-runtime/jammy 0.0+svn332029-0ubuntu2 amd64
-golang-1.13-src/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.1 amd64
-golang-1.13/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.1 all
+golang-1.13-src/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.2 amd64
+golang-1.13/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.2 all
 golang-1.17-doc/jammy-updates 1.17.13-3ubuntu1 all
 golang-1.17-go/jammy-updates 1.17.13-3ubuntu1 amd64
 golang-1.17-src/jammy-updates 1.17.13-3ubuntu1 all
