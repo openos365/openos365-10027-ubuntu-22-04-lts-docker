@@ -21238,11 +21238,12 @@ yarn list v1.22.21
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
 ├─ set-blocking@2.0.0
-├─ set-function-length@1.1.1
+├─ set-function-length@1.2.0
 │  ├─ define-data-property@^1.1.1
-│  ├─ get-intrinsic@^1.2.1
+│  ├─ function-bind@^1.1.2
+│  ├─ get-intrinsic@^1.2.2
 │  ├─ gopd@^1.0.1
-│  └─ has-property-descriptors@^1.0.0
+│  └─ has-property-descriptors@^1.0.1
 ├─ set-function-name@2.0.1
 │  ├─ define-data-property@^1.0.1
 │  ├─ functions-have-names@^1.2.3
