@@ -1047,7 +1047,7 @@ yarn list v1.22.21
 ├─ @chakra-ui/icons@1.1.7
 │  ├─ @chakra-ui/icon@2.0.5
 │  ├─ @types/react@^17.0.15
-│  └─ @types/react@17.0.74
+│  └─ @types/react@17.0.75
 │     ├─ @types/prop-types@*
 │     ├─ @types/scheduler@*
 │     └─ csstype@^3.0.2
@@ -11619,7 +11619,7 @@ yarn list v1.22.21
 ├─ @types/mime@3.0.4
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@20.11.0
+├─ @types/node@20.11.2
 │  └─ undici-types@~5.26.4
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
@@ -11635,7 +11635,7 @@ yarn list v1.22.21
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.47
+├─ @types/react@18.2.48
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
