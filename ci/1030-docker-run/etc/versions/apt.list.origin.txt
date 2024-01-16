@@ -74589,7 +74589,7 @@ typecatcher/jammy 0.3-1.2 all
 typespeed/jammy 0.6.5-4 amd64
 tz-converter/jammy 1.0.1-1 all
 tzc/jammy 2.6.15-5.4 amd64
-tzdata/jammy-updates,now 2023c-0ubuntu0.22.04.2 all [installed,automatic]
+tzdata/jammy-updates,now 2023d-0ubuntu0.22.04 all [installed,automatic]
 tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
