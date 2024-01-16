@@ -11619,7 +11619,7 @@ yarn list v1.22.21
 ├─ @types/mime@3.0.4
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@20.11.2
+├─ @types/node@20.11.3
 │  └─ undici-types@~5.26.4
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
@@ -13974,7 +13974,7 @@ yarn list v1.22.21
 │  └─ yargs@^16.0.0
 ├─ ejs@3.1.9
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.4.630
+├─ electron-to-chromium@1.4.631
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
@@ -17061,9 +17061,9 @@ yarn list v1.22.21
 │  └─ quat-slerp@^1.0.0
 ├─ mat4-recompose@1.0.4
 │  └─ gl-mat4@^1.0.1
-├─ match-sorter@6.3.1
+├─ match-sorter@6.3.2
 │  ├─ @babel/runtime@^7.12.5
-│  └─ remove-accents@0.4.2
+│  └─ remove-accents@0.5.0
 ├─ material-design-iconic-font@2.2.0
 ├─ math-log2@1.0.1
 ├─ matrix-camera-controller@2.1.4
@@ -20759,7 +20759,7 @@ yarn list v1.22.21
 │  └─ socketcluster-client@^14.2.1
 ├─ remotedev-serialize@0.1.9
 │  └─ jsan@^3.1.13
-├─ remove-accents@0.4.2
+├─ remove-accents@0.5.0
 ├─ remove-trailing-separator@1.1.0
 ├─ renderkid@2.0.7
 │  ├─ ansi-regex@2.1.1
@@ -21041,9 +21041,9 @@ yarn list v1.22.21
 ├─ rxjs@6.6.7
 │  ├─ tslib@^1.9.0
 │  └─ tslib@1.14.1
-├─ safe-array-concat@1.0.1
-│  ├─ call-bind@^1.0.2
-│  ├─ get-intrinsic@^1.2.1
+├─ safe-array-concat@1.1.0
+│  ├─ call-bind@^1.0.5
+│  ├─ get-intrinsic@^1.2.2
 │  ├─ has-symbols@^1.0.3
 │  ├─ isarray@^2.0.5
 │  └─ isarray@2.0.5
