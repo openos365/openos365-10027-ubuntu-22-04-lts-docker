@@ -6405,8 +6405,8 @@ file/jammy-updates,jammy-security 1:5.41-3ubuntu0.1 amd64
 filelight/jammy 4:21.12.3-0ubuntu1 amd64
 filetea/jammy 0.1.18-1 amd64
 filetraq/jammy 0.3+nmu1 all
-filezilla-common/jammy-updates,jammy-security 3.58.0-1ubuntu0.1 all
-filezilla/jammy-updates,jammy-security 3.58.0-1ubuntu0.1 amd64
+filezilla-common/jammy 3.58.0-1 all
+filezilla/jammy 3.58.0-1 amd64
 filler/jammy 1.02-6.3 all
 fillets-ng-data-cs/jammy 1.0.1-1.1 all
 fillets-ng-data-nl/jammy 1.0.1-1.1 all
@@ -14295,7 +14295,7 @@ imgsizer/jammy 2.10-0.2 all
 imgvtopgm/jammy 2.0-9.1 amd64
 impass/jammy 0.12.2-1 all
 impose+/jammy 0.2-12.2 all
-impressive/jammy-updates 0.13.0~beta2-2ubuntu0.1 all
+impressive/jammy 0.13.0~beta2-2 all
 imv/jammy 4.3.0-1build1 amd64
 imview/jammy 1.1.9h-3 amd64
 imvirt-helper/jammy 0.9.6-9 amd64
@@ -34496,8 +34496,8 @@ libpam-ldap/jammy 186-4ubuntu2 amd64
 libpam-ldapd/jammy 0.9.12-2 amd64
 libpam-malcontent/jammy 0.10.4-1 amd64
 libpam-mklocaluser/jammy 0.18 all
-libpam-modules-bin/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.3 amd64 [installed]
-libpam-modules/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.3 amd64 [installed]
+libpam-modules-bin/now 1.4.0-11ubuntu2.4 amd64 [installed,local]
+libpam-modules/now 1.4.0-11ubuntu2.4 amd64 [installed,local]
 libpam-mount-bin/jammy 2.18-2build2 amd64
 libpam-mount/jammy 2.18-2build2 amd64
 libpam-mysql/jammy 0.8.1-5build1 amd64
@@ -34516,7 +34516,7 @@ libpam-pwquality/jammy 1.4.4-1build2 amd64
 libpam-python-doc/jammy 1.0.9-2 all
 libpam-python/jammy 1.0.9-2 amd64
 libpam-radius-auth/jammy 2.0.0-1 amd64
-libpam-runtime/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.3 all [installed]
+libpam-runtime/now 1.4.0-11ubuntu2.4 all [installed,local]
 libpam-script/jammy 1.1.9-5 amd64
 libpam-shield/jammy 0.9.6-1.3build2 amd64
 libpam-shishi/jammy 1.0.2-11 amd64
@@ -34538,7 +34538,7 @@ libpam-x2go/jammy 0.0.2.0-3 amd64
 libpam-yubico/jammy 2.26-1.1build1 amd64
 libpam-zfs/jammy-updates,jammy-security 2.1.5-1ubuntu6~22.04.2 amd64
 libpam0g-dev/jammy-updates,jammy-security 1.4.0-11ubuntu2.3 amd64
-libpam0g/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.3 amd64 [installed]
+libpam0g/now 1.4.0-11ubuntu2.4 amd64 [installed,local]
 libpamtest0-dev/jammy 1.1.4-1build1 amd64
 libpamtest0/jammy 1.1.4-1build1 amd64
 libpandoc-elements-perl/jammy 0.38-3 all
@@ -61382,7 +61382,7 @@ plaso/jammy 20201007-2 all
 plast-example/jammy 2.3.2+dfsg-8 all
 plast/jammy 2.3.2+dfsg-8 amd64
 plastex/jammy 2.1-2 all
-plater/jammy-updates 2.0.0~rc7-1ubuntu0.1 all
+plater/jammy 2.0.0~rc7-1build1 all
 platformio-doc/jammy 4.3.4-2 all
 platformio/jammy 4.3.4-2 all
 play.it/jammy 2.13.3-1 all
@@ -61793,7 +61793,7 @@ princeprocessor/jammy 0.22-3 amd64
 prinseq-lite-examples/jammy 0.20.4-6 all
 prinseq-lite/jammy 0.20.4-6 all
 print-manager/jammy 4:21.12.3-0ubuntu1 amd64
-printcore/jammy-updates 2.0.0~rc7-1ubuntu0.1 amd64
+printcore/jammy 2.0.0~rc7-1build1 amd64
 printemf/jammy 1.0.13-3 amd64
 printer-driver-all-enforce/jammy 0.20210903 all
 printer-driver-all/jammy 0.20210903 all
@@ -61820,8 +61820,8 @@ printer-driver-ptouch/jammy 1.6-2build1 amd64
 printer-driver-pxljr/jammy 1.4+repack0-6build1 amd64
 printer-driver-sag-gdi/jammy 0.1-8 all
 printer-driver-splix/jammy-updates,jammy-security 2.0.0+svn315-7fakesync1ubuntu0.22.04.1 amd64
-printrun-common/jammy-updates 2.0.0~rc7-1ubuntu0.1 all
-printrun/jammy-updates 2.0.0~rc7-1ubuntu0.1 all
+printrun-common/jammy 2.0.0~rc7-1build1 all
+printrun/jammy 2.0.0~rc7-1build1 all
 prips/jammy 1.2.0-1build1 amd64
 prism2-usb-firmware-installer/jammy 0.2.9+dfsg-6 amd64
 pristine-lfs/jammy 20210404.1-1 amd64
@@ -61950,8 +61950,8 @@ prometheus-trafficserver-exporter/jammy 0.3.2-1 all
 prometheus-varnish-exporter/jammy 1.6-1 amd64
 prometheus-xmpp-alerts/jammy 0.4.2-1 all
 prometheus/jammy-updates,jammy-security 2.31.2+ds1-1ubuntu1.22.04.2 amd64
-pronsole/jammy-updates 2.0.0~rc7-1ubuntu0.1 all
-pronterface/jammy-updates 2.0.0~rc7-1ubuntu0.1 all
+pronsole/jammy 2.0.0~rc7-1build1 all
+pronterface/jammy 2.0.0~rc7-1build1 all
 proofgeneral-doc/jammy 4.4.1~pre170114-1.2 all
 proofgeneral/jammy 4.4.1~pre170114-1.2 all
 prooftree/jammy 0.13-2build4 amd64
