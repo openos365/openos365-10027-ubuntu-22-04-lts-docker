@@ -16322,7 +16322,7 @@ yarn list v1.22.21
 │  └─ jest-cli@^24.7.1
 ├─ jetifier@1.6.8
 ├─ jquery@3.7.1
-├─ js-base64@3.7.5
+├─ js-base64@3.7.6
 ├─ js-beautify@1.14.11
 │  ├─ abbrev@2.0.0
 │  ├─ config-chain@^1.1.13
