@@ -20472,7 +20472,7 @@ yarn list v1.22.21
 │  └─ prop-types@^15.5.7
 ├─ react-to-webcomponent@1.7.6
 ├─ react-universal-interface@0.6.2
-├─ react-use@17.4.3
+├─ react-use@17.4.4
 │  ├─ @types/js-cookie@^2.2.6
 │  ├─ @xobotyi/scrollbar-width@^1.9.5
 │  ├─ copy-to-clipboard@^3.3.1
