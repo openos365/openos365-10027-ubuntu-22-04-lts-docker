@@ -3578,7 +3578,7 @@ yarn list v1.22.21
 │  │  └─ loose-envify@^1.1.0
 │  └─ scheduler@0.23.0
 │     └─ loose-envify@^1.1.0
-├─ @steedos-labs/analytics@0.1.8
+├─ @steedos-labs/analytics@0.1.9
 │  ├─ @steedos/utils@^2.5.11-beta.10
 │  ├─ moment-timezone@^0.5.43
 │  ├─ moment-timezone@0.5.44
