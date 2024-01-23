@@ -145,7 +145,7 @@ yarn list v1.22.21
 │  └─ @jridgewell/trace-mapping@^0.3.9
 ├─ @ant-design/colors@6.0.0
 │  └─ @ctrl/tinycolor@^3.4.0
-├─ @ant-design/icons-svg@4.3.1
+├─ @ant-design/icons-svg@4.3.2
 ├─ @ant-design/icons@4.8.1
 │  ├─ @ant-design/colors@^6.0.0
 │  ├─ @ant-design/icons-svg@^4.3.0
