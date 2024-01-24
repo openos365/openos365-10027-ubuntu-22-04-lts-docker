@@ -33314,6 +33314,7 @@ libnvidia-cfg1-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd6
 libnvidia-cfg1-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-cfg1-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-cfg1-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+libnvidia-cfg1-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-common-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 all
 libnvidia-common-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 all
 libnvidia-common-418/jammy 430.50-0ubuntu3 all
@@ -33340,6 +33341,7 @@ libnvidia-common-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 al
 libnvidia-common-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 all
 libnvidia-common-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 all
 libnvidia-common-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 all
+libnvidia-common-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 all
 libnvidia-compute-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 libnvidia-compute-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 libnvidia-compute-418/jammy 430.50-0ubuntu3 amd64
@@ -33366,6 +33368,7 @@ libnvidia-compute-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 a
 libnvidia-compute-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-compute-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-compute-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+libnvidia-compute-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-decode-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 libnvidia-decode-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 libnvidia-decode-418/jammy 430.50-0ubuntu3 amd64
@@ -33392,6 +33395,7 @@ libnvidia-decode-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 am
 libnvidia-decode-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-decode-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-decode-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+libnvidia-decode-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-egl-gbm1/jammy 1.1.0-1 amd64
 libnvidia-egl-wayland-dev/jammy 1:1.1.9-1.1 amd64
 libnvidia-egl-wayland1/jammy 1:1.1.9-1.1 amd64
@@ -33421,6 +33425,7 @@ libnvidia-encode-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 am
 libnvidia-encode-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-encode-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-encode-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+libnvidia-encode-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-extra-440-server/jammy-updates,jammy-security 450.248.02-0ubuntu0.22.04.1 amd64
 libnvidia-extra-440/jammy 450.119.03-0ubuntu1 amd64
 libnvidia-extra-450-server/jammy-updates,jammy-security 450.248.02-0ubuntu0.22.04.1 amd64
@@ -33442,6 +33447,7 @@ libnvidia-extra-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd
 libnvidia-extra-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-extra-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-extra-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+libnvidia-extra-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-fbc1-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 libnvidia-fbc1-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 libnvidia-fbc1-418/jammy 430.50-0ubuntu3 amd64
@@ -33468,6 +33474,7 @@ libnvidia-fbc1-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd6
 libnvidia-fbc1-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-fbc1-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-fbc1-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+libnvidia-fbc1-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-gl-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 libnvidia-gl-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 libnvidia-gl-418/jammy 430.50-0ubuntu3 amd64
@@ -33494,6 +33501,7 @@ libnvidia-gl-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
 libnvidia-gl-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-gl-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 libnvidia-gl-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+libnvidia-gl-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-ifr1-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 libnvidia-ifr1-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 libnvidia-ifr1-418/jammy 430.50-0ubuntu3 amd64
@@ -58787,6 +58795,7 @@ nvidia-compute-utils-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.
 nvidia-compute-utils-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-compute-utils-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-compute-utils-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-compute-utils-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-cuda-dev/jammy 11.5.1-1ubuntu1 amd64
 nvidia-cuda-gdb/jammy 11.5.114~11.5.1-1ubuntu1 amd64
 nvidia-cuda-toolkit-doc/jammy 11.5.1-1ubuntu1 all
@@ -58825,6 +58834,8 @@ nvidia-dkms-535-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 am
 nvidia-dkms-535-server-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-dkms-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-dkms-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-dkms-545-open/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
+nvidia-dkms-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-driver-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-driver-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-driver-418/jammy 430.50-0ubuntu3 amd64
@@ -58857,6 +58868,8 @@ nvidia-driver-535-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 
 nvidia-driver-535-server-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-driver-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-driver-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-driver-545-open/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
+nvidia-driver-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-fabricmanager-450/jammy-updates,jammy-security 450.248.02-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-460/jammy-updates,jammy-security 510.85.02-0ubuntu0.22.04.1 amd64
 nvidia-fabricmanager-470/jammy-updates,jammy-security 470.223.02-0ubuntu0.22.04.1 amd64
@@ -58883,6 +58896,7 @@ nvidia-firmware-535-server-535.104.12/jammy-updates,jammy-security 535.104.12-0u
 nvidia-firmware-535-server-535.129.03/jammy-updates,jammy-security 535.129.03-0ubuntu0.22.04.1 amd64
 nvidia-firmware-535-server-535.154.05/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-firmware-535-server-535.54.03/jammy-updates,jammy-security 535.54.03-0ubuntu0.22.04.1 amd64
+nvidia-firmware-545-545.29.06/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-headless-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-headless-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-headless-418/jammy 430.50-0ubuntu3 amd64
@@ -58915,6 +58929,8 @@ nvidia-headless-535-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.
 nvidia-headless-535-server-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-headless-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-headless-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-headless-545-open/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
+nvidia-headless-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-headless-no-dkms-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-headless-no-dkms-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-headless-no-dkms-418/jammy 430.50-0ubuntu3 amd64
@@ -58947,6 +58963,8 @@ nvidia-headless-no-dkms-535-open/jammy-updates,jammy-security 535.154.05-0ubuntu
 nvidia-headless-no-dkms-535-server-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-headless-no-dkms-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-headless-no-dkms-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-headless-no-dkms-545-open/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
+nvidia-headless-no-dkms-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-kernel-common-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-kernel-common-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-kernel-common-418/jammy 430.50-0ubuntu3 amd64
@@ -58973,6 +58991,7 @@ nvidia-kernel-common-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.
 nvidia-kernel-common-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-kernel-common-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-kernel-common-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-kernel-common-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-kernel-source-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-kernel-source-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-kernel-source-418/jammy 430.50-0ubuntu3 amd64
@@ -59005,6 +59024,8 @@ nvidia-kernel-source-535-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.2
 nvidia-kernel-source-535-server-open/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-kernel-source-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-kernel-source-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-kernel-source-545-open/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
+nvidia-kernel-source-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-libopencl1-340/jammy 340.108-0ubuntu8 amd64
 nvidia-libopencl1-384/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-modprobe/jammy 470.103.01-1 amd64
@@ -59042,6 +59063,7 @@ nvidia-utils-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.22.04.1 amd64
 nvidia-utils-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-utils-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 nvidia-utils-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+nvidia-utils-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 nvidia-visual-profiler/jammy 11.5.114~11.5.1-1ubuntu1 amd64
 nvme-cli/jammy-updates 1.16-3ubuntu0.1 amd64
 nvme-stas/jammy-updates 2.2.1-1~ubuntu22.04 all
@@ -76953,6 +76975,7 @@ xserver-xorg-video-nvidia-525/jammy-updates,jammy-security 525.147.05-0ubuntu0.2
 xserver-xorg-video-nvidia-530/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 xserver-xorg-video-nvidia-535-server/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
 xserver-xorg-video-nvidia-535/jammy-updates,jammy-security 535.154.05-0ubuntu0.22.04.1 amd64
+xserver-xorg-video-nvidia-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 xserver-xorg-video-openchrome-hwe-18.04/jammy 3:14.6 amd64
 xserver-xorg-video-openchrome/jammy 1:0.6.0-5 amd64
 xserver-xorg-video-qxl-hwe-18.04/jammy 3:14.6 amd64
