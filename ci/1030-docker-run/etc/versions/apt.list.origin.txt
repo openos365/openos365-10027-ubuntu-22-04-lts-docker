@@ -55219,7 +55219,7 @@ manpages-vi/jammy 4.13-4 all
 manpages-zh/jammy 1.6.3.6-1 all
 manpages/jammy,now 5.10-1ubuntu1 all [installed,automatic]
 mantis-xray/jammy 3.0.11-4 all
-manuskript/jammy 0.12.0-1 all
+manuskript/jammy-updates 0.12.0-1ubuntu0.22.04.2 all
 mapcache-cgi/jammy 1.12.0-1 amd64
 mapcache-tools/jammy 1.12.0-1 amd64
 mapcode/jammy 2.5.5-4 amd64
@@ -62216,11 +62216,11 @@ puppet-terminus-puppetdb/jammy 6.2.0-5 all
 puppet/jammy-updates 5.5.22-4ubuntu0.2 all
 puppetdb-doc/jammy 6.2.0-5 all
 puppetdb/jammy 6.2.0-5 all
-pure-ftpd-common/jammy 1.0.50-2.1 all
-pure-ftpd-ldap/jammy 1.0.50-2.1 amd64
-pure-ftpd-mysql/jammy 1.0.50-2.1 amd64
-pure-ftpd-postgresql/jammy 1.0.50-2.1 amd64
-pure-ftpd/jammy 1.0.50-2.1 amd64
+pure-ftpd-common/jammy-updates 1.0.50-2.1ubuntu0.22.04.1 all
+pure-ftpd-ldap/jammy-updates 1.0.50-2.1ubuntu0.22.04.1 amd64
+pure-ftpd-mysql/jammy-updates 1.0.50-2.1ubuntu0.22.04.1 amd64
+pure-ftpd-postgresql/jammy-updates 1.0.50-2.1ubuntu0.22.04.1 amd64
+pure-ftpd/jammy-updates 1.0.50-2.1ubuntu0.22.04.1 amd64
 pureadmin/jammy 0.4-0ubuntu4 amd64
 puredata-core/jammy 0.52.1+ds0-1 amd64
 puredata-dev/jammy 0.52.1+ds0-1 all
