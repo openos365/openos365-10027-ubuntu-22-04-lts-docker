@@ -62938,7 +62938,7 @@ python-pybtex-doc/jammy 0.23.0-1 all
 python-pybtex-docutils-doc/jammy 1.0.1-1 all
 python-pycares-doc/jammy 4.1.2-2build1 all
 python-pycoast-doc/jammy 1.5.0+dfsg-2 all
-python-pycryptodome-doc/jammy 3.11.0+dfsg1-3build1 all
+python-pycryptodome-doc/jammy-updates,jammy-security 3.11.0+dfsg1-3ubuntu0.1 all
 python-pycuda-doc/jammy 2021.1~dfsg-2build2 all
 python-pycurl-doc/jammy 7.44.1-4build1 all
 python-pydata-sphinx-theme-doc/jammy 0.7.2-2 all
@@ -65784,7 +65784,7 @@ python3-pycodestyle/jammy 2.8.0-2 all
 python3-pycosat/jammy 0.6.3+dfsg-3build1 amd64
 python3-pycountry/jammy 20.7.3+ds1-3 all
 python3-pycparser/jammy 2.21-1 all
-python3-pycryptodome/jammy 3.11.0+dfsg1-3build1 amd64
+python3-pycryptodome/jammy-updates,jammy-security 3.11.0+dfsg1-3ubuntu0.1 amd64
 python3-pycsw/jammy 2.6.1+dfsg-2 all
 python3-pyct/jammy 0.4.7a3-2 all
 python3-pycuda/jammy 2021.1~dfsg-2build2 amd64
