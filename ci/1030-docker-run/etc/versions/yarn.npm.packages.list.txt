@@ -11552,7 +11552,7 @@ yarn list v1.22.21
 ├─ @types/cors@2.8.17
 │  └─ @types/node@*
 ├─ @types/estree@1.0.5
-├─ @types/express-serve-static-core@4.17.41
+├─ @types/express-serve-static-core@4.17.42
 │  ├─ @types/node@*
 │  ├─ @types/qs@*
 │  ├─ @types/range-parser@*
@@ -16917,7 +16917,7 @@ yarn list v1.22.21
 │     ├─ which-module@^2.0.0
 │     ├─ y18n@^3.2.1 || ^4.0.0
 │     └─ yargs-parser@^11.1.1
-├─ loglevel@1.9.0
+├─ loglevel@1.9.1
 ├─ lolex@2.3.1
 ├─ long-timeout@0.1.1
 ├─ long@5.2.3
@@ -18841,7 +18841,7 @@ yarn list v1.22.21
 ├─ path-parse@1.0.7
 ├─ path-scurry@1.10.1
 │  ├─ lru-cache@^9.1.1 || ^10.0.0
-│  ├─ lru-cache@10.1.0
+│  ├─ lru-cache@10.2.0
 │  ├─ minipass@^5.0.0 || ^6.0.2 || ^7.0.0
 │  └─ minipass@7.0.4
 ├─ path-to-regexp@0.1.7
