@@ -4360,16 +4360,16 @@ yarn list v1.22.21
 │  ├─ lodash@^4.17.21
 │  └─ node-xlsx@^0.16.1
 ├─ @steedos/design-system-react@2.1.116
-├─ @steedos/ee_audit-records@2.5.28
-├─ @steedos/ee_branding@2.5.28
-├─ @steedos/ee_community-users@2.5.28
-├─ @steedos/ee_mongodb-bi-connector@2.5.28
+├─ @steedos/ee_audit-records@2.5.29
+├─ @steedos/ee_branding@2.5.29
+├─ @steedos/ee_community-users@2.5.29
+├─ @steedos/ee_mongodb-bi-connector@2.5.29
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ moleculer@^0.14.25
 │  ├─ mongodb-uri@0.9.7
 │  └─ mongodb@^3.7.3
-├─ @steedos/ee_plugin-field-encryption@2.5.28
+├─ @steedos/ee_plugin-field-encryption@2.5.29
 │  ├─ chalk@4.1.2
 │  ├─ chalk@4.1.2
 │  │  ├─ ansi-styles@^4.1.0
@@ -4472,7 +4472,7 @@ yarn list v1.22.21
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
 ├─ @steedos/ee_unpkg-local@2.4.18
-├─ @steedos/ee_virus-scan@2.5.28
+├─ @steedos/ee_virus-scan@2.5.29
 ├─ @steedos/filters@2.6.5
 │  ├─ @babel/runtime@7.12.18
 │  ├─ @babel/runtime@7.12.18
@@ -11544,7 +11544,7 @@ yarn list v1.22.21
 │  └─ @types/node@*
 ├─ @types/content-disposition@0.5.8
 ├─ @types/cookie@0.4.1
-├─ @types/cookies@0.7.10
+├─ @types/cookies@0.9.0
 │  ├─ @types/connect@*
 │  ├─ @types/express@*
 │  ├─ @types/keygrip@*
