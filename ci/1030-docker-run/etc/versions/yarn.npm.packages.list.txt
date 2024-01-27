@@ -4486,7 +4486,7 @@ yarn list v1.22.21
 │  ├─ i18next@^19.3.4
 │  ├─ underscore@1.13.4
 │  └─ underscore@1.13.4
-├─ @steedos/license@2.5.28
+├─ @steedos/license@2.5.29
 │  ├─ abort-controller@^3.0.0
 │  ├─ crypto@^1.0.1
 │  ├─ node-fetch@^2.6.0
@@ -4888,7 +4888,7 @@ yarn list v1.22.21
 ├─ @steedos/pdfjs-dist@1.0.0
 ├─ @steedos/plugin-company@2.6.5
 ├─ @steedos/plugin-contact@2.0.8
-├─ @steedos/plugin-dingtalk@2.5.28
+├─ @steedos/plugin-dingtalk@2.5.29
 │  ├─ cookies@^0.8.0
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ express@^4.17.1
@@ -4932,7 +4932,7 @@ yarn list v1.22.21
 │  └─ scheduler@0.19.1
 │     ├─ loose-envify@^1.1.0
 │     └─ object-assign@^4.1.1
-├─ @steedos/plugin-qywx@2.5.28
+├─ @steedos/plugin-qywx@2.5.29
 │  ├─ cookies@^0.8.0
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ jsdom@^16.2.2
@@ -4975,7 +4975,7 @@ yarn list v1.22.21
 │  │  ├─ loose-envify@^1.1.0
 │  │  └─ object-assign@^4.1.1
 │  └─ underscore@^1.9.1
-├─ @steedos/plugin-welink@2.5.28
+├─ @steedos/plugin-welink@2.5.29
 │  ├─ axios@1.5.0
 │  ├─ axios@1.5.0
 │  │  ├─ follow-redirects@^1.15.0
@@ -7361,8 +7361,8 @@ yarn list v1.22.21
 │  │  ├─ range-parser@~1.2.1
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
-├─ @steedos/service-license@2.5.28
-│  ├─ @steedos/license@2.5.28
+├─ @steedos/service-license@2.5.29
+│  ├─ @steedos/license@2.5.29
 │  └─ axios@^0.21.4
 ├─ @steedos/service-metadata-apps@2.6.5
 │  ├─ @steedos/i18n@2.6.5
