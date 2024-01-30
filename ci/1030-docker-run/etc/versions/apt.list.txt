@@ -311,9 +311,9 @@ altree/jammy 1.3.2-1build2 amd64
 alttab/jammy 1.5.0-2 amd64
 alure-doc/jammy 1.2-9 all
 alure-utils/jammy 1.2-9 amd64
-amanda-client/jammy-security 1:3.5.1-8ubuntu1.4 amd64
-amanda-common/jammy-security 1:3.5.1-8ubuntu1.4 amd64
-amanda-server/jammy-security 1:3.5.1-8ubuntu1.4 amd64
+amanda-client/jammy-updates,jammy-security 1:3.5.1-8ubuntu1.3 amd64
+amanda-common/jammy-updates,jammy-security 1:3.5.1-8ubuntu1.3 amd64
+amanda-server/jammy-updates,jammy-security 1:3.5.1-8ubuntu1.3 amd64
 amap-align/jammy 2.2+git20080214.600fc29+dfsg-2 amd64
 amavisd-milter/jammy 1.7.1-2 amd64
 amavisd-new-postfix/jammy 1:2.12.2-1ubuntu1 all
@@ -40780,11 +40780,11 @@ libtinygltf-dev/jammy 2.5.0+dfsg-4 amd64
 libtinygltf1d/jammy 2.5.0+dfsg-4 amd64
 libtinyobjloader-dev/jammy 2.0.0~rc5+dfsg1-5build1 amd64
 libtinyobjloader1/jammy 2.0.0~rc5+dfsg1-5build1 amd64
-libtinyxml-dev/jammy-updates,jammy-security 2.6.2-6ubuntu0.22.04.1 amd64
-libtinyxml-doc/jammy-updates,jammy-security 2.6.2-6ubuntu0.22.04.1 all
+libtinyxml-dev/jammy 2.6.2-6 amd64
+libtinyxml-doc/jammy 2.6.2-6 all
 libtinyxml2-9/jammy 9.0.0+dfsg-3 amd64
 libtinyxml2-dev/jammy 9.0.0+dfsg-3 amd64
-libtinyxml2.6.2v5/jammy-updates,jammy-security 2.6.2-6ubuntu0.22.04.1 amd64
+libtinyxml2.6.2v5/jammy 2.6.2-6 amd64
 libtirpc-common/jammy-updates,jammy-security,now 1.3.2-2ubuntu0.1 all [installed]
 libtirpc-dev/jammy-updates,jammy-security,now 1.3.2-2ubuntu0.1 amd64 [installed,automatic]
 libtirpc3/jammy-updates,jammy-security,now 1.3.2-2ubuntu0.1 amd64 [installed]
