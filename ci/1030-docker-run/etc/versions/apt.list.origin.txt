@@ -55255,7 +55255,7 @@ lswm/jammy 0.6.91-2ubuntu1 amd64
 lsyncd/jammy 2.2.3-1 amd64
 lto-disabled-list/jammy,now 24 all [installed,automatic]
 ltpanel/jammy 0.2-8 amd64
-ltrace/jammy-updates 0.7.3-6.1ubuntu6.22.04.1 amd64
+ltrace/jammy 0.7.3-6.1ubuntu6 amd64
 ltris/jammy 1.0.19-3build1 amd64
 ltrsift/jammy 1.0.2-9build1 amd64
 ltsp/jammy 22.01-2 all
