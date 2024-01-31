@@ -12844,9 +12844,9 @@ google-android-platform-7-installer/jammy 7+r03+nmu5 all
 google-android-platform-8-installer/jammy 8+r03+nmu5 all
 google-android-platform-9-installer/jammy 9+r02+nmu5 all
 google-android-sdk-docs-installer/jammy 24+r3 all
-google-compute-engine-oslogin/jammy-updates 20231004.00-0ubuntu1~22.04.1 amd64
+google-compute-engine-oslogin/jammy-security 20231004.00-0ubuntu1~22.04.2 amd64
 google-compute-engine/jammy-updates 20230808.00-0ubuntu1~22.04.0 all
-google-guest-agent/jammy-updates 20231004.02-0ubuntu1~22.04.2 amd64
+google-guest-agent/jammy-security 20231004.02-0ubuntu1~22.04.3 amd64
 google-mock/jammy 1.11.0-3 amd64
 google-osconfig-agent/jammy-updates 20230504.00-0ubuntu1~22.04.0 amd64
 google-perftools/jammy 2.9.1-0ubuntu3 all
@@ -44071,7 +44071,7 @@ linux-crashdump/jammy-updates,jammy-security 5.15.0.92.89 amd64
 linux-doc/jammy-updates,jammy-security 5.15.0-92.102 all
 linux-firmware-xilinx-ap1302/jammy 2021.1-0ubuntu1 all
 linux-firmware-xilinx-vcu/jammy 2020.2-0ubuntu1 all
-linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.24 all
+linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.26 all
 linux-gcp-5.19-headers-5.19.0-1022/jammy-updates,jammy-security 5.19.0-1022.24~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1024/jammy-updates,jammy-security 5.19.0-1024.26~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1025/jammy-updates,jammy-security 5.19.0-1025.27~22.04.1 amd64
@@ -63475,7 +63475,7 @@ python-pex-doc/jammy 1.1.14-3.1 all
 python-pexpect-doc/jammy 4.8.0-2ubuntu1 all
 python-pg8000-doc/jammy 1.23.0-0ubuntu1 all
 python-pika-doc/jammy 1.2.0-1 all
-python-pil-doc/jammy-updates,jammy-security 9.0.1-1ubuntu0.1 all
+python-pil-doc/jammy-security 9.0.1-1ubuntu0.2 all
 python-pint-doc/jammy 0.18-1 all
 python-pip/jammy 20.3.4+dfsg-4 all
 python-pkg-resources/jammy-updates,jammy-security 44.1.1-1.2ubuntu0.22.04.1 all
@@ -66178,8 +66178,8 @@ python3-piexif/jammy 1.1.3-2 all
 python3-pigpio/jammy 1.78-1 all
 python3-pika/jammy 1.2.0-1 all
 python3-pikepdf/jammy 5.0.1+dfsg-1 amd64
-python3-pil.imagetk/jammy-updates,jammy-security 9.0.1-1ubuntu0.1 amd64
-python3-pil/jammy-updates,jammy-security 9.0.1-1ubuntu0.1 amd64
+python3-pil.imagetk/jammy-security 9.0.1-1ubuntu0.2 amd64
+python3-pil/jammy-security 9.0.1-1ubuntu0.2 amd64
 python3-pilkit/jammy 2.0-4 all
 python3-pint/jammy 0.18-1 all
 python3-pip-whl/jammy-updates,jammy-security 22.0.2+dfsg-1ubuntu0.4 all
