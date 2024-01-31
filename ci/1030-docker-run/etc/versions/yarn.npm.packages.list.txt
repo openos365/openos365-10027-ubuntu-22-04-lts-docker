@@ -145,7 +145,7 @@ yarn list v1.22.21
 │  └─ @jridgewell/trace-mapping@^0.3.9
 ├─ @ant-design/colors@6.0.0
 │  └─ @ctrl/tinycolor@^3.4.0
-├─ @ant-design/icons-svg@4.3.2
+├─ @ant-design/icons-svg@4.4.0
 ├─ @ant-design/icons@4.8.1
 │  ├─ @ant-design/colors@^6.0.0
 │  ├─ @ant-design/icons-svg@^4.3.0
@@ -444,7 +444,7 @@ yarn list v1.22.21
 │  ├─ semver@^6.3.1
 │  ├─ semver@6.3.1
 │  └─ yallist@3.1.1
-├─ @babel/helper-create-class-features-plugin@7.23.9
+├─ @babel/helper-create-class-features-plugin@7.23.10
 │  ├─ @babel/helper-annotate-as-pure@^7.22.5
 │  ├─ @babel/helper-environment-visitor@^7.22.20
 │  ├─ @babel/helper-function-name@^7.23.0
