@@ -11623,7 +11623,7 @@ yarn list v1.22.21
 ├─ @types/mime@3.0.4
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@20.11.13
+├─ @types/node@20.11.14
 │  └─ undici-types@~5.26.4
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
@@ -19500,8 +19500,6 @@ yarn list v1.22.21
 │  ├─ @protobufjs/pool@^1.1.0
 │  ├─ @protobufjs/utf8@^1.1.0
 │  ├─ @types/node@>=13.7.0
-│  ├─ @types/node@20.11.14
-│  │  └─ undici-types@~5.26.4
 │  └─ long@^5.0.0
 ├─ protocol-buffers-schema@3.6.0
 ├─ protocols@1.4.8
@@ -21807,8 +21805,6 @@ yarn list v1.22.21
 │  ├─ @steedos/standard-objects@2.6.6
 │  ├─ @steedos/webapp@2.2.25
 │  ├─ @steedos/webapp@2.2.25
-│  ├─ @types/node@20.11.14
-│  │  └─ undici-types@~5.26.4
 │  ├─ ansi-regex@2.1.1
 │  ├─ ansi-styles@2.2.1
 │  ├─ basic-auth@^2.0.1
