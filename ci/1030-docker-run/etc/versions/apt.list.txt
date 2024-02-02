@@ -290,7 +290,7 @@ alsa-source/jammy 1.0.25+dfsg-0ubuntu7 all
 alsa-tools-gui/jammy 1.2.5-2 amd64
 alsa-tools/jammy 1.2.5-2 amd64
 alsa-topology-conf/jammy,now 1.2.5.1-2 all [installed,automatic]
-alsa-ucm-conf/jammy-updates,now 1.2.6.3-1ubuntu1.9 all [installed,automatic]
+alsa-ucm-conf/jammy-updates,now 1.2.6.3-1ubuntu1.10 all [installed,automatic]
 alsa-utils/jammy 1.2.6-1ubuntu1 amd64
 alsamixergui/jammy 0.9.0rc2-1-10.1 amd64
 alsaplayer-alsa/jammy 0.99.81-2build3 amd64
@@ -72758,7 +72758,7 @@ smart-notifier/jammy 0.28-8 all
 smartdns/jammy 35+dfsg-1 amd64
 smartleia/jammy 1.0.1-2 all
 smartlist/jammy 3.15-25build1 amd64
-smartmontools/jammy 7.2-1build2 amd64
+smartmontools/jammy-updates 7.2-1ubuntu0.1 amd64
 smarty-gettext/jammy 1.6.1-2 all
 smarty-lexer/jammy 3.1.32+dfsg1-4 all
 smarty-validate/jammy 3.0.3-4 all

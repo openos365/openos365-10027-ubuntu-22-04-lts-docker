@@ -1,5 +1,5 @@
 alsa-topology-conf/jammy,now 1.2.5.1-2 all [installed,automatic]
-alsa-ucm-conf/jammy-updates,now 1.2.6.3-1ubuntu1.9 all [installed,automatic]
+alsa-ucm-conf/jammy-updates,now 1.2.6.3-1ubuntu1.10 all [installed,automatic]
 apt/jammy-updates,now 2.4.11 amd64 [installed]
 at-spi2-core/jammy,now 2.44.0-3 amd64 [installed,automatic]
 base-files/jammy-updates,now 12ubuntu4.5 amd64 [installed]
