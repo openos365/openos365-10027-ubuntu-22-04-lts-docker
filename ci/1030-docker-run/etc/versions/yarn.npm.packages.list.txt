@@ -15822,10 +15822,9 @@ yarn list v1.22.21
 ├─ is-arguments@1.1.1
 │  ├─ call-bind@^1.0.2
 │  └─ has-tostringtag@^1.0.0
-├─ is-array-buffer@3.0.2
+├─ is-array-buffer@3.0.4
 │  ├─ call-bind@^1.0.2
-│  ├─ get-intrinsic@^1.2.0
-│  └─ is-typed-array@^1.1.10
+│  └─ get-intrinsic@^1.2.1
 ├─ is-arrayish@0.2.1
 ├─ is-bigint@1.0.4
 │  └─ has-bigints@^1.0.1
