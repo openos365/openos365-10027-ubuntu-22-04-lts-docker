@@ -11640,7 +11640,7 @@ yarn list v1.22.21
 ├─ @types/cors@2.8.17
 │  └─ @types/node@*
 ├─ @types/estree@1.0.5
-├─ @types/express-serve-static-core@4.17.42
+├─ @types/express-serve-static-core@4.17.43
 │  ├─ @types/node@*
 │  ├─ @types/qs@*
 │  ├─ @types/range-parser@*
