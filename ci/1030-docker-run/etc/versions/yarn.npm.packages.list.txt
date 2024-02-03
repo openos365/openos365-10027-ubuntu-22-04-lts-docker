@@ -11580,6 +11580,7 @@ yarn list v1.22.21
 ├─ @techpass/passport-openidconnect@0.3.3
 │  ├─ base64url@^3.0.1
 │  ├─ oauth@^0.9.15
+│  ├─ oauth@0.9.15
 │  ├─ passport-strategy@^1.0.0
 │  ├─ request@^2.88.0
 │  └─ webfinger@^0.4.2
@@ -11723,7 +11724,7 @@ yarn list v1.22.21
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.51
+├─ @types/react@18.2.52
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
@@ -14064,7 +14065,7 @@ yarn list v1.22.21
 │  └─ yargs@^16.0.0
 ├─ ejs@3.1.9
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.4.655
+├─ electron-to-chromium@1.4.656
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
@@ -18611,7 +18612,7 @@ yarn list v1.22.21
 ├─ numeric@1.2.6
 ├─ nwsapi@2.2.7
 ├─ oauth-sign@0.8.2
-├─ oauth@0.9.15
+├─ oauth@0.10.0
 ├─ oauth2-server@2.4.1
 │  ├─ basic-auth@~0.0.1
 │  └─ basic-auth@0.0.1
@@ -18904,9 +18905,9 @@ yarn list v1.22.21
 │  └─ passport-strategy@^1.0.0
 ├─ passport-oauth2-client-password@0.1.2
 │  └─ passport-strategy@1.x.x
-├─ passport-oauth2@1.7.0
+├─ passport-oauth2@1.8.0
 │  ├─ base64url@3.x.x
-│  ├─ oauth@0.9.x
+│  ├─ oauth@0.10.x
 │  ├─ passport-strategy@1.x.x
 │  ├─ uid2@0.0.x
 │  └─ utils-merge@1.x.x
