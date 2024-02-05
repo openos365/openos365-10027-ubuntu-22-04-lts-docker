@@ -11724,7 +11724,7 @@ yarn list v1.22.21
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.52
+├─ @types/react@18.2.53
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
@@ -12229,13 +12229,14 @@ yarn list v1.22.21
 │  ├─ es-abstract@^1.22.1
 │  ├─ es-array-method-boxes-properly@^1.0.0
 │  └─ is-string@^1.0.7
-├─ arraybuffer.prototype.slice@1.0.2
-│  ├─ array-buffer-byte-length@^1.0.0
-│  ├─ call-bind@^1.0.2
-│  ├─ define-properties@^1.2.0
-│  ├─ es-abstract@^1.22.1
-│  ├─ get-intrinsic@^1.2.1
-│  ├─ is-array-buffer@^3.0.2
+├─ arraybuffer.prototype.slice@1.0.3
+│  ├─ array-buffer-byte-length@^1.0.1
+│  ├─ call-bind@^1.0.5
+│  ├─ define-properties@^1.2.1
+│  ├─ es-abstract@^1.22.3
+│  ├─ es-errors@^1.2.1
+│  ├─ get-intrinsic@^1.2.3
+│  ├─ is-array-buffer@^3.0.4
 │  └─ is-shared-array-buffer@^1.0.2
 ├─ arraybuffer.slice@0.0.7
 ├─ arrify@1.0.1
@@ -12945,7 +12946,7 @@ yarn list v1.22.21
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001583
+├─ caniuse-lite@1.0.30001584
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -14185,7 +14186,7 @@ yarn list v1.22.21
 │  ├─ unbox-primitive@^1.0.2
 │  └─ which-typed-array@^1.1.13
 ├─ es-array-method-boxes-properly@1.0.0
-├─ es-errors@1.0.0
+├─ es-errors@1.3.0
 ├─ es-set-tostringtag@2.0.2
 │  ├─ get-intrinsic@^1.2.2
 │  ├─ has-tostringtag@^1.0.0
