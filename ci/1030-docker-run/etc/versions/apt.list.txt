@@ -3075,7 +3075,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
-code-server/now 4.20.1 amd64 [installed,local]
+code-server/now 4.21.0 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -35392,7 +35392,7 @@ libppx-variants-conv-ocaml/jammy 0.14.2-1build1 amd64
 libppx-visitors-ocaml-dev/jammy 20210608-1build1 amd64
 libppx-visitors-ocaml-doc/jammy 20210608-1build1 all
 libppxlib-ocaml-dev/jammy 0.24.0-1build2 amd64
-libpq-dev/jammy-updates,jammy-security 14.10-0ubuntu0.22.04.1 amd64
+libpq-dev/jammy-updates,jammy-security,now 14.10-0ubuntu0.22.04.1 amd64 [installed]
 libpq5/jammy-updates,jammy-security,now 14.10-0ubuntu0.22.04.1 amd64 [installed,automatic]
 libpqtypes-dev/jammy 1.5.1-7 amd64
 libpqtypes0/jammy 1.5.1-7 amd64
@@ -39408,12 +39408,12 @@ libssh-gcrypt-4/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.3 amd64
 libssh-gcrypt-dev/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.3 amd64
 libssh2-1-dev/jammy 1.10.0-3 amd64
 libssh2-1/jammy 1.10.0-3 amd64
-libssl-dev/jammy-updates 3.0.2-0ubuntu1.13 amd64
-libssl-doc/jammy-updates 3.0.2-0ubuntu1.13 all
+libssl-dev/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.14 amd64 [installed]
+libssl-doc/jammy-updates,jammy-security 3.0.2-0ubuntu1.14 all
 libssl-ocaml-dev/jammy 0.5.10-1build2 amd64
 libssl-ocaml/jammy 0.5.10-1build2 amd64
 libssl-utils-clojure/jammy 3.3.0-1 all
-libssl3/now 3.0.2-0ubuntu1.14 amd64 [installed,local]
+libssl3/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.14 amd64 [installed]
 libssm-bin/jammy 1.4.0-2 amd64
 libssm-dev/jammy 1.4.0-2 amd64
 libssm2/jammy 1.4.0-2 amd64
@@ -60327,7 +60327,7 @@ openssh-known-hosts/jammy 0.6.2-1.1 all
 openssh-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.6 amd64
 openssh-sftp-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.6 amd64
 openssh-tests/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.6 amd64
-openssl/now 3.0.2-0ubuntu1.14 amd64 [installed,local]
+openssl/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.14 amd64 [installed,automatic]
 openssn-data/jammy 1.4-3build1 all
 openssn/jammy 1.4-3build1 amd64
 opensta-dev/jammy 0~20191111gitc018cb2+dfsg-1build1 amd64
