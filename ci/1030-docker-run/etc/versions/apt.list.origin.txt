@@ -72881,7 +72881,7 @@ sndiod/jammy 1.8.1-1.1 amd64
 snek-bin/jammy 1.7-2 amd64
 snek/jammy 1.7-2 all
 sng/jammy 1.1.0-4 amd64
-sngrep/jammy 1.4.10-1 amd64
+sngrep/jammy-updates 1.4.10-1ubuntu0.1 amd64
 snibbetracker/jammy 1.1.1-2 amd64
 sniffglue/jammy-updates,jammy-security 0.14.0-2ubuntu0.1 amd64
 sniffit/jammy 0.5-2 amd64
