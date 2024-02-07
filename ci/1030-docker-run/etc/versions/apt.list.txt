@@ -43652,6 +43652,7 @@ linux-buildinfo-5.15.0-1049-kvm/jammy-updates,jammy-security 5.15.0-1049.54 amd6
 linux-buildinfo-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55 amd64
 linux-buildinfo-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-buildinfo-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-buildinfo-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56 amd64
 linux-buildinfo-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56 amd64
 linux-buildinfo-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59 amd64
 linux-buildinfo-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57 amd64
@@ -44418,6 +44419,7 @@ linux-headers-5.15.0-1049-kvm/jammy-updates,jammy-security 5.15.0-1049.54 amd64
 linux-headers-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55 amd64
 linux-headers-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-headers-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-headers-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56 amd64
 linux-headers-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56 amd64
 linux-headers-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59 amd64
 linux-headers-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57 amd64
@@ -44674,8 +44676,8 @@ linux-headers-oem-22.04b/jammy-updates,jammy-security 6.1.0.1029.30 amd64
 linux-headers-oem-22.04c/jammy-updates,jammy-security 6.1.0.1029.30 amd64
 linux-headers-oem-22.04d/jammy-updates,jammy-security 6.5.0.1013.15 amd64
 linux-headers-oracle-edge/jammy-updates,jammy-security 6.5.0.1014.14~22.04.1 amd64
-linux-headers-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1049.44 amd64
-linux-headers-oracle/jammy-updates,jammy-security 5.15.0.1049.44 amd64
+linux-headers-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1050.45 amd64
+linux-headers-oracle/jammy-updates,jammy-security 5.15.0.1050.45 amd64
 linux-headers-realtime/jammy-updates 5.15.0.1032.31 amd64
 linux-headers-virtual-hwe-20.04-edge/jammy-updates,jammy-security 5.15.0.92.89 amd64
 linux-headers-virtual-hwe-20.04/jammy-updates,jammy-security 5.15.0.92.89 amd64
@@ -44968,6 +44970,7 @@ linux-image-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55 amd64
 linux-image-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-image-5.15.0-1050-azure-fde/jammy-updates,jammy-security 5.15.0-1050.57.1 amd64
 linux-image-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-image-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56 amd64
 linux-image-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56 amd64
 linux-image-5.15.0-1051-azure-fde/jammy-updates,jammy-security 5.15.0-1051.59.1 amd64
 linux-image-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59 amd64
@@ -45234,8 +45237,8 @@ linux-image-oem-22.04b/jammy-updates,jammy-security 6.1.0.1029.30 amd64
 linux-image-oem-22.04c/jammy-updates,jammy-security 6.1.0.1029.30 amd64
 linux-image-oem-22.04d/jammy-updates,jammy-security 6.5.0.1013.15 amd64
 linux-image-oracle-edge/jammy-updates,jammy-security 6.5.0.1014.14~22.04.1 amd64
-linux-image-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1049.44 amd64
-linux-image-oracle/jammy-updates,jammy-security 5.15.0.1049.44 amd64
+linux-image-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1050.45 amd64
+linux-image-oracle/jammy-updates,jammy-security 5.15.0.1050.45 amd64
 linux-image-realtime/jammy-updates 5.15.0.1032.31 amd64
 linux-image-uc-6.2.0-35-generic/jammy-updates,jammy-security 6.2.0-35.35~22.04.1 amd64
 linux-image-uc-6.2.0-36-generic/jammy-updates,jammy-security 6.2.0-36.37~22.04.1 amd64
@@ -45441,6 +45444,7 @@ linux-image-unsigned-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049
 linux-image-unsigned-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-image-unsigned-5.15.0-1050-azure-fde/jammy-updates,jammy-security 5.15.0-1050.57.1 amd64
 linux-image-unsigned-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-image-unsigned-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56 amd64
 linux-image-unsigned-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56 amd64
 linux-image-unsigned-5.15.0-1051-azure-fde/jammy-updates,jammy-security 5.15.0-1051.59.1 amd64
 linux-image-unsigned-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59 amd64
@@ -46062,6 +46066,7 @@ linux-modules-5.15.0-1049-kvm/jammy-updates,jammy-security 5.15.0-1049.54 amd64
 linux-modules-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55 amd64
 linux-modules-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56 amd64
 linux-modules-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56 amd64
 linux-modules-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59 amd64
 linux-modules-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57 amd64
@@ -46401,6 +46406,7 @@ linux-modules-extra-5.15.0-1049-gke/jammy-updates,jammy-security 5.15.0-1049.54 
 linux-modules-extra-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55 amd64
 linux-modules-extra-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-extra-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-extra-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56 amd64
 linux-modules-extra-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56 amd64
 linux-modules-extra-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59 amd64
 linux-modules-extra-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57 amd64
@@ -46969,6 +46975,7 @@ linux-modules-nvidia-390-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-modules-nvidia-390-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-390-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-390-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-390-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-390-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-390-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-390-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -47143,8 +47150,8 @@ linux-modules-nvidia-390-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1
 linux-modules-nvidia-390-oem-22.04a/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-390-oem-22.04b/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-390-oracle-edge/jammy-updates,jammy-security 6.2.0-1016.17~22.04.1 amd64
-linux-modules-nvidia-390-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-390-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-390-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-390-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-418-server-5.15.0-1002-oracle/jammy 5.15.0-1002.4 amd64
 linux-modules-nvidia-418-server-5.15.0-1003-azure/jammy 5.15.0-1003.4 amd64
 linux-modules-nvidia-418-server-5.15.0-1003-gcp/jammy 5.15.0-1003.6 amd64
@@ -47338,8 +47345,8 @@ linux-modules-nvidia-435-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+
 linux-modules-nvidia-435-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-435-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-435-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-435-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-435-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-435-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-435-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-440-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-440-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-440-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -47371,8 +47378,8 @@ linux-modules-nvidia-440-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+
 linux-modules-nvidia-440-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-440-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-440-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-440-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-440-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-440-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-440-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-440-server-aws-edge/jammy-updates,jammy-security 6.2.0-1014.14~22.04.1 amd64
 linux-modules-nvidia-440-server-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-440-server-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -47400,8 +47407,8 @@ linux-modules-nvidia-440-server-nvidia/jammy-updates,jammy-security 5.15.0-1043.
 linux-modules-nvidia-440-server-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-440-server-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-440-server-oracle-edge/jammy-updates,jammy-security 6.2.0-1016.17~22.04.1 amd64
-linux-modules-nvidia-440-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-440-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-440-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-440-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-450-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-450-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-450-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -47433,8 +47440,8 @@ linux-modules-nvidia-450-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+
 linux-modules-nvidia-450-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-450-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-450-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-450-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-450-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-450-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-450-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-450-server-5.15.0-1002-oracle/jammy 5.15.0-1002.4 amd64
 linux-modules-nvidia-450-server-5.15.0-1003-azure/jammy 5.15.0-1003.4 amd64
 linux-modules-nvidia-450-server-5.15.0-1003-gcp/jammy 5.15.0-1003.6 amd64
@@ -47524,6 +47531,7 @@ linux-modules-nvidia-450-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-modules-nvidia-450-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-450-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-450-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-450-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-450-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-450-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-450-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -47697,8 +47705,8 @@ linux-modules-nvidia-450-server-nvidia/jammy-updates,jammy-security 5.15.0-1043.
 linux-modules-nvidia-450-server-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-450-server-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-450-server-oracle-edge/jammy-updates,jammy-security 6.2.0-1016.17~22.04.1 amd64
-linux-modules-nvidia-450-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-450-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-450-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-450-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-455-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-455-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-455-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -47730,8 +47738,8 @@ linux-modules-nvidia-455-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+
 linux-modules-nvidia-455-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-455-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-455-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-455-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-455-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-455-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-455-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-460-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-460-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-460-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -47763,8 +47771,8 @@ linux-modules-nvidia-460-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+
 linux-modules-nvidia-460-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-460-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-460-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-460-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-460-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-460-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-460-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-460-server-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-460-server-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-460-server-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -47794,8 +47802,8 @@ linux-modules-nvidia-460-server-nvidia/jammy-updates,jammy-security 5.15.0-1043.
 linux-modules-nvidia-460-server-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-460-server-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-460-server-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-460-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-460-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-460-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-460-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-465-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-465-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-465-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -47827,8 +47835,8 @@ linux-modules-nvidia-465-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+
 linux-modules-nvidia-465-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-465-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-465-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-465-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-465-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-465-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-465-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-470-5.15.0-1002-oracle/jammy 5.15.0-1002.4 amd64
 linux-modules-nvidia-470-5.15.0-1003-azure/jammy 5.15.0-1003.4 amd64
 linux-modules-nvidia-470-5.15.0-1003-gcp/jammy 5.15.0-1003.6 amd64
@@ -47918,6 +47926,7 @@ linux-modules-nvidia-470-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-modules-nvidia-470-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-470-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-470-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-470-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-470-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-470-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-470-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -48133,8 +48142,8 @@ linux-modules-nvidia-470-oem-22.04b/jammy-updates,jammy-security 6.1.0-1029.29+1
 linux-modules-nvidia-470-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-470-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-470-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-470-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-470-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-470-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-470-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-470-server-5.15.0-1002-oracle/jammy 5.15.0-1002.4 amd64
 linux-modules-nvidia-470-server-5.15.0-1003-azure/jammy 5.15.0-1003.4 amd64
 linux-modules-nvidia-470-server-5.15.0-1003-gcp/jammy 5.15.0-1003.6 amd64
@@ -48224,6 +48233,7 @@ linux-modules-nvidia-470-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-modules-nvidia-470-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-470-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-470-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-470-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-470-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-470-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-470-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -48416,8 +48426,8 @@ linux-modules-nvidia-470-server-nvidia/jammy-updates,jammy-security 5.15.0-1043.
 linux-modules-nvidia-470-server-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-470-server-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-470-server-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-470-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-470-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-470-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-470-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-495-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-495-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-495-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -48450,8 +48460,8 @@ linux-modules-nvidia-495-oem-22.04b/jammy-updates,jammy-security 6.0.0-1021.21 a
 linux-modules-nvidia-495-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-495-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-495-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-495-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-495-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-495-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-495-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-510-5.15.0-1002-oracle/jammy 5.15.0-1002.4 amd64
 linux-modules-nvidia-510-5.15.0-1003-azure/jammy 5.15.0-1003.4 amd64
 linux-modules-nvidia-510-5.15.0-1003-gcp/jammy 5.15.0-1003.6 amd64
@@ -48574,8 +48584,8 @@ linux-modules-nvidia-510-oem-22.04b/jammy-updates,jammy-security 6.1.0-1029.29+1
 linux-modules-nvidia-510-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-510-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-510-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-510-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-510-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-510-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-510-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-510-server-5.15.0-1002-oracle/jammy 5.15.0-1002.4 amd64
 linux-modules-nvidia-510-server-5.15.0-1003-azure/jammy 5.15.0-1003.4 amd64
 linux-modules-nvidia-510-server-5.15.0-1003-gcp/jammy 5.15.0-1003.6 amd64
@@ -48617,8 +48627,8 @@ linux-modules-nvidia-510-server-nvidia/jammy-updates,jammy-security 5.15.0-1043.
 linux-modules-nvidia-510-server-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-510-server-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-510-server-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-510-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-510-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-510-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-510-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-515-5.15.0-1025-nvidia/jammy-updates,jammy-security 5.15.0-1025.25 amd64
 linux-modules-nvidia-515-5.15.0-1026-nvidia/jammy-updates,jammy-security 5.15.0-1026.26+1 amd64
 linux-modules-nvidia-515-5.15.0-1027-nvidia/jammy-updates,jammy-security 5.15.0-1027.27 amd64
@@ -48731,8 +48741,8 @@ linux-modules-nvidia-515-oem-22.04b/jammy-updates,jammy-security 6.1.0-1029.29+1
 linux-modules-nvidia-515-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-515-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-515-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-515-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-515-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-515-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-515-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-515-server-5.15.0-1025-nvidia/jammy-updates,jammy-security 5.15.0-1025.25 amd64
 linux-modules-nvidia-515-server-5.15.0-1026-nvidia/jammy-updates,jammy-security 5.15.0-1026.26+1 amd64
 linux-modules-nvidia-515-server-5.15.0-1027-nvidia/jammy-updates,jammy-security 5.15.0-1027.27 amd64
@@ -48835,8 +48845,8 @@ linux-modules-nvidia-515-server-nvidia/jammy-updates,jammy-security 5.15.0-1043.
 linux-modules-nvidia-515-server-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-515-server-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-515-server-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-515-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-515-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-515-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-515-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-520-aws-edge/jammy-updates,jammy-security 6.5.0-1012.12~22.04.1+1 amd64
 linux-modules-nvidia-520-aws-lts-22.04/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
 linux-modules-nvidia-520-aws/jammy-updates,jammy-security 6.2.0-1018.18~22.04.1+1 amd64
@@ -48869,8 +48879,8 @@ linux-modules-nvidia-520-oem-22.04b/jammy-updates,jammy-security 6.0.0-1021.21 a
 linux-modules-nvidia-520-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-520-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-520-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-520-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-520-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-520-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-520-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-525-5.15.0-1025-nvidia/jammy-updates,jammy-security 5.15.0-1025.25 amd64
 linux-modules-nvidia-525-5.15.0-1026-nvidia/jammy-updates,jammy-security 5.15.0-1026.26+1 amd64
 linux-modules-nvidia-525-5.15.0-1027-nvidia/jammy-updates,jammy-security 5.15.0-1027.27 amd64
@@ -48955,6 +48965,7 @@ linux-modules-nvidia-525-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-modules-nvidia-525-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-525-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-525-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-525-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-525-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-525-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-525-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -49251,6 +49262,7 @@ linux-modules-nvidia-525-open-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.
 linux-modules-nvidia-525-open-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-525-open-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-525-open-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-525-open-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-525-open-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-525-open-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-525-open-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -49464,11 +49476,11 @@ linux-modules-nvidia-525-open-oem-22.04b/jammy-updates,jammy-security 6.1.0-1029
 linux-modules-nvidia-525-open-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-525-open-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-525-open-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-525-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-525-open-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-525-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-525-open-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-525-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-525-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-525-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-525-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-525-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-525-server-5.15.0-1025-nvidia/jammy-updates,jammy-security 5.15.0-1025.25 amd64
 linux-modules-nvidia-525-server-5.15.0-1026-nvidia/jammy-updates,jammy-security 5.15.0-1026.26+1 amd64
 linux-modules-nvidia-525-server-5.15.0-1027-nvidia/jammy-updates,jammy-security 5.15.0-1027.27 amd64
@@ -49553,6 +49565,7 @@ linux-modules-nvidia-525-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-modules-nvidia-525-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-525-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-525-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-525-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-525-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-525-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-525-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -49738,8 +49751,8 @@ linux-modules-nvidia-525-server-nvidia/jammy-updates,jammy-security 5.15.0-1043.
 linux-modules-nvidia-525-server-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-525-server-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-525-server-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-525-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-525-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-525-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-525-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-530-5.15.0-1025-nvidia/jammy-updates,jammy-security 5.15.0-1025.25 amd64
 linux-modules-nvidia-530-5.15.0-1026-nvidia/jammy-updates,jammy-security 5.15.0-1026.26+1 amd64
 linux-modules-nvidia-530-5.15.0-1027-nvidia/jammy-updates,jammy-security 5.15.0-1027.27 amd64
@@ -49963,11 +49976,11 @@ linux-modules-nvidia-530-open-oem-22.04b/jammy-updates,jammy-security 6.0.0-1021
 linux-modules-nvidia-530-open-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-530-open-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-530-open-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-530-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-530-open-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-530-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-530-open-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-530-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-530-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-530-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-530-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-530-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-5.15.0-1028-nvidia/jammy-updates,jammy-security 5.15.0-1028.28+5 amd64
 linux-modules-nvidia-535-5.15.0-1029-nvidia/jammy-updates,jammy-security 5.15.0-1029.29+1 amd64
 linux-modules-nvidia-535-5.15.0-1030-nvidia/jammy-updates,jammy-security 5.15.0-1030.30+1 amd64
@@ -50032,6 +50045,7 @@ linux-modules-nvidia-535-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-modules-nvidia-535-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-535-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-535-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-535-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-535-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-535-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -50268,6 +50282,7 @@ linux-modules-nvidia-535-open-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.
 linux-modules-nvidia-535-open-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-535-open-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-535-open-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-535-open-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-open-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-535-open-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-535-open-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -50441,11 +50456,11 @@ linux-modules-nvidia-535-open-oem-22.04b/jammy-updates,jammy-security 6.1.0-1029
 linux-modules-nvidia-535-open-oem-22.04c/jammy-updates,jammy-security 6.1.0-1029.29+1 amd64
 linux-modules-nvidia-535-open-oem-22.04d/jammy-updates,jammy-security 6.5.0-1013.14+1 amd64
 linux-modules-nvidia-535-open-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-535-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-535-open-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-535-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-535-open-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-535-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-535-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-535-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-535-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-server-5.15.0-1028-nvidia/jammy-updates,jammy-security 5.15.0-1028.28+5 amd64
 linux-modules-nvidia-535-server-5.15.0-1029-nvidia/jammy-updates,jammy-security 5.15.0-1029.29+1 amd64
 linux-modules-nvidia-535-server-5.15.0-1030-nvidia/jammy-updates,jammy-security 5.15.0-1030.30+1 amd64
@@ -50509,6 +50524,7 @@ linux-modules-nvidia-535-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-modules-nvidia-535-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-535-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-535-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-535-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-535-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-535-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -50714,6 +50730,7 @@ linux-modules-nvidia-535-server-open-5.15.0-1049-gcp/jammy-updates,jammy-securit
 linux-modules-nvidia-535-server-open-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-modules-nvidia-535-server-open-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-modules-nvidia-535-server-open-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-modules-nvidia-535-server-open-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-server-open-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-modules-nvidia-535-server-open-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-modules-nvidia-535-server-open-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -50857,11 +50874,11 @@ linux-modules-nvidia-535-server-open-nvidia/jammy-updates,jammy-security 5.15.0-
 linux-modules-nvidia-535-server-open-oem-22.04/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-535-server-open-oem-22.04a/jammy-updates,jammy-security 5.17.0-1035.36+1 amd64
 linux-modules-nvidia-535-server-open-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-535-server-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-535-server-open-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-535-server-open-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-535-server-open-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-535-server-oracle-edge/jammy-updates,jammy-security 6.5.0-1014.14~22.04.1+1 amd64
-linux-modules-nvidia-535-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
-linux-modules-nvidia-535-server-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
+linux-modules-nvidia-535-server-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
+linux-modules-nvidia-535-server-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-modules-nvidia-fs-5.15.0-1025-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1025.25 amd64
 linux-modules-nvidia-fs-5.15.0-1025-nvidia/jammy-updates,jammy-security 5.15.0-1025.25 amd64
 linux-modules-nvidia-fs-5.15.0-1026-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1026.26 amd64
@@ -51107,6 +51124,7 @@ linux-objects-nvidia-390-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-objects-nvidia-390-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-390-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-390-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-390-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-390-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-390-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-390-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -51476,6 +51494,7 @@ linux-objects-nvidia-450-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-objects-nvidia-450-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-450-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-450-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-450-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-450-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-450-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-450-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -51707,6 +51726,7 @@ linux-objects-nvidia-470-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-objects-nvidia-470-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-470-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-470-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-470-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-470-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-470-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-470-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -51974,6 +51994,7 @@ linux-objects-nvidia-470-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-objects-nvidia-470-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-470-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-470-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-470-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-470-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-470-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-470-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -52463,6 +52484,7 @@ linux-objects-nvidia-525-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-objects-nvidia-525-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-525-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-525-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-525-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-525-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-525-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-525-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -52728,6 +52750,7 @@ linux-objects-nvidia-525-open-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.
 linux-objects-nvidia-525-open-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-525-open-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-525-open-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-525-open-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-525-open-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-525-open-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-525-open-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -52993,6 +53016,7 @@ linux-objects-nvidia-525-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-objects-nvidia-525-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-525-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-525-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-525-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-525-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-525-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-525-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -53373,6 +53397,7 @@ linux-objects-nvidia-535-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-104
 linux-objects-nvidia-535-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-535-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-535-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-535-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-535-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-535-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-535-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -53582,6 +53607,7 @@ linux-objects-nvidia-535-open-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.
 linux-objects-nvidia-535-open-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-535-open-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-535-open-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-535-open-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-535-open-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-535-open-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-535-open-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -53790,6 +53816,7 @@ linux-objects-nvidia-535-server-5.15.0-1049-gcp/jammy-updates,jammy-security 5.1
 linux-objects-nvidia-535-server-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-535-server-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-535-server-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-535-server-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-535-server-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-535-server-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-535-server-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -53971,6 +53998,7 @@ linux-objects-nvidia-535-server-open-5.15.0-1049-gcp/jammy-updates,jammy-securit
 linux-objects-nvidia-535-server-open-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-objects-nvidia-535-server-open-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-objects-nvidia-535-server-open-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-objects-nvidia-535-server-open-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-objects-nvidia-535-server-open-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-objects-nvidia-535-server-open-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-objects-nvidia-535-server-open-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -54221,7 +54249,8 @@ linux-oracle-headers-5.15.0-1046/jammy-updates,jammy-security 5.15.0-1046.52 all
 linux-oracle-headers-5.15.0-1047/jammy-updates,jammy-security 5.15.0-1047.53 all
 linux-oracle-headers-5.15.0-1048/jammy-updates,jammy-security 5.15.0-1048.54 all
 linux-oracle-headers-5.15.0-1049/jammy-updates,jammy-security 5.15.0-1049.55 all
-linux-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1049.44 amd64
+linux-oracle-headers-5.15.0-1050/jammy-updates,jammy-security 5.15.0-1050.56 all
+linux-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1050.45 amd64
 linux-oracle-tools-5.15.0-1002/jammy 5.15.0-1002.4 amd64
 linux-oracle-tools-5.15.0-1035/jammy-updates,jammy-security 5.15.0-1035.41 amd64
 linux-oracle-tools-5.15.0-1036/jammy-updates,jammy-security 5.15.0-1036.42 amd64
@@ -54237,7 +54266,8 @@ linux-oracle-tools-5.15.0-1046/jammy-updates,jammy-security 5.15.0-1046.52 amd64
 linux-oracle-tools-5.15.0-1047/jammy-updates,jammy-security 5.15.0-1047.53 amd64
 linux-oracle-tools-5.15.0-1048/jammy-updates,jammy-security 5.15.0-1048.54 amd64
 linux-oracle-tools-5.15.0-1049/jammy-updates,jammy-security 5.15.0-1049.55 amd64
-linux-oracle/jammy-updates,jammy-security 5.15.0.1049.44 amd64
+linux-oracle-tools-5.15.0-1050/jammy-updates,jammy-security 5.15.0-1050.56 amd64
+linux-oracle/jammy-updates,jammy-security 5.15.0.1050.45 amd64
 linux-realtime-cloud-tools-5.15.0-1032/jammy-updates 5.15.0-1032.35 amd64
 linux-realtime-cloud-tools-common/jammy-updates 5.15.0-1032.35 all
 linux-realtime-headers-5.15.0-1032/jammy-updates 5.15.0-1032.35 all
@@ -54344,6 +54374,7 @@ linux-signatures-nvidia-5.15.0-1049-gcp/jammy-updates,jammy-security 5.15.0-1049
 linux-signatures-nvidia-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55+2 amd64
 linux-signatures-nvidia-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-signatures-nvidia-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-signatures-nvidia-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56+1 amd64
 linux-signatures-nvidia-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56+2 amd64
 linux-signatures-nvidia-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59+1 amd64
 linux-signatures-nvidia-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57+1 amd64
@@ -54725,6 +54756,7 @@ linux-tools-5.15.0-1049-kvm/jammy-updates,jammy-security 5.15.0-1049.54 amd64
 linux-tools-5.15.0-1049-oracle/jammy-updates,jammy-security 5.15.0-1049.55 amd64
 linux-tools-5.15.0-1050-aws/jammy-updates,jammy-security 5.15.0-1050.55 amd64
 linux-tools-5.15.0-1050-azure/jammy-updates,jammy-security 5.15.0-1050.57 amd64
+linux-tools-5.15.0-1050-oracle/jammy-updates,jammy-security 5.15.0-1050.56 amd64
 linux-tools-5.15.0-1051-aws/jammy-updates,jammy-security 5.15.0-1051.56 amd64
 linux-tools-5.15.0-1051-azure/jammy-updates,jammy-security 5.15.0-1051.59 amd64
 linux-tools-5.15.0-1052-aws/jammy-updates,jammy-security 5.15.0-1052.57 amd64
@@ -54983,8 +55015,8 @@ linux-tools-oem-22.04b/jammy-updates,jammy-security 6.1.0.1029.30 amd64
 linux-tools-oem-22.04c/jammy-updates,jammy-security 6.1.0.1029.30 amd64
 linux-tools-oem-22.04d/jammy-updates,jammy-security 6.5.0.1013.15 amd64
 linux-tools-oracle-edge/jammy-updates,jammy-security 6.5.0.1014.14~22.04.1 amd64
-linux-tools-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1049.44 amd64
-linux-tools-oracle/jammy-updates,jammy-security 5.15.0.1049.44 amd64
+linux-tools-oracle-lts-22.04/jammy-updates,jammy-security 5.15.0.1050.45 amd64
+linux-tools-oracle/jammy-updates,jammy-security 5.15.0.1050.45 amd64
 linux-tools-realtime/jammy-updates 5.15.0.1032.31 amd64
 linux-tools-virtual-hwe-20.04-edge/jammy-updates,jammy-security 5.15.0.92.89 amd64
 linux-tools-virtual-hwe-20.04/jammy-updates,jammy-security 5.15.0.92.89 amd64
@@ -63118,7 +63150,7 @@ python-django-csp-doc/jammy 3.7-2 all
 python-django-debreach-doc/jammy 2.0.1-2 all
 python-django-debug-toolbar-doc/jammy 1:3.2.2-1 all
 python-django-dirtyfields-doc/jammy 1.3.1-2 all
-python-django-doc/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.9 all
+python-django-doc/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.10 all
 python-django-etcd-settings-doc/jammy 0.1.13+dfsg-3 all
 python-django-extensions-doc/jammy 3.1.5-2 all
 python-django-extra-views-doc/jammy 0.14.0-1 all
@@ -64671,7 +64703,7 @@ python3-django-webpack-loader/jammy 0.6.0-2 all
 python3-django-widget-tweaks/jammy 1.4.8-1 all
 python3-django-wkhtmltopdf/jammy 3.3.0-1 all
 python3-django-xmlrpc/jammy 0.1.8-2 all
-python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.9 all
+python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.10 all
 python3-djangorestframework-api-key/jammy 2.0.0-2 all
 python3-djangorestframework-extensions/jammy 0.7.1-1 all
 python3-djangorestframework-filters/jammy 1.0.0.dev2-1 all
