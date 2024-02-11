@@ -17693,7 +17693,7 @@ yarn list v1.22.21
 │  ├─ commander@^2.20.3
 │  ├─ dateformat@^3.0.3
 │  ├─ dotenv@^16.0.0
-│  ├─ dotenv@16.4.1
+│  ├─ dotenv@16.4.2
 │  ├─ inherits@^2.0.3
 │  ├─ minimatch@^5.0.1
 │  ├─ minimatch@5.1.6
