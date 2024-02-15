@@ -55849,7 +55849,7 @@ loggedfs/jammy 0.9+ds-3 amd64
 loggerhead-doc/jammy 1.19~bzr511-1 all
 loggerhead/jammy 1.19~bzr511-1 all
 login-duo/jammy 1.11.3-1build1 amd64
-login/jammy-updates,jammy-security,now 1:4.8.1-2ubuntu2.1 amd64 [installed]
+login/now 1:4.8.1-2ubuntu2.2 amd64 [installed,local]
 logiops/jammy 0.2.2-2 amd64
 logisim/jammy 2.7.1~dfsg-4 all
 logitech-applet/jammy 0.4~test1-0ubuntu3 amd64
@@ -61420,7 +61420,7 @@ pass-git-helper/jammy 1.1.1-0.1 all
 pass/jammy 1.7.4-5 all
 passage/jammy 4+dfsg1-3build1 amd64
 passenger/jammy 6.0.10-3build2 amd64
-passwd/jammy-updates,jammy-security,now 1:4.8.1-2ubuntu2.1 amd64 [installed]
+passwd/now 1:4.8.1-2ubuntu2.2 amd64 [installed,local]
 passwdqc/jammy 2.0.2-1 amd64
 password-gorilla/jammy 1.6.0~git20180203.228bbbb-1 all
 passwordmaker-cli/jammy 1.5+dfsg-4 amd64
