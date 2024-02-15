@@ -1484,7 +1484,7 @@ binclock/jammy 1.5-11 amd64
 bind9-dev/jammy-updates,jammy-security 1:9.18.18-0ubuntu0.22.04.2 amd64
 bind9-dnsutils/jammy-updates,jammy-security 1:9.18.18-0ubuntu0.22.04.2 amd64
 bind9-doc/jammy-updates,jammy-security 1:9.18.18-0ubuntu0.22.04.2 all
-bind9-dyndb-ldap/jammy-updates 11.9-5ubuntu0.22.04.4 amd64
+bind9-dyndb-ldap/jammy-security 11.9-5ubuntu0.22.04.6 amd64
 bind9-host/jammy-updates,jammy-security 1:9.18.18-0ubuntu0.22.04.2 amd64
 bind9-libs/jammy-updates,jammy-security 1:9.18.18-0ubuntu0.22.04.2 amd64
 bind9-utils/jammy-updates,jammy-security 1:9.18.18-0ubuntu0.22.04.2 amd64
