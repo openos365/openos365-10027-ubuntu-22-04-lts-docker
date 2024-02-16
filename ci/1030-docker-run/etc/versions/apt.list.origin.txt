@@ -3078,6 +3078,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
+code-server/now 4.21.1 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -4571,6 +4572,7 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
+dive/now 0.12.0 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -5970,7 +5972,7 @@ exonerate/jammy 2.4.0-5 amd64
 expand-region-el/jammy 0.11.0+36-1 all
 expat/jammy-updates,jammy-security 2.4.7-1ubuntu0.2 amd64
 expect-lite/jammy 4.9.0-0ubuntu1 all
-expect/jammy 5.45.4-2build1 amd64
+expect/jammy,now 5.45.4-2build1 amd64 [installed]
 expeyes-clib/jammy 4.8.8+repack-2 amd64
 expeyes-doc-common/jammy 4.3-3 all
 expeyes-doc-en/jammy 4.3-3 all
@@ -9833,8 +9835,8 @@ gjacktransport/jammy 0.6.4-1 amd64
 gjh-asl-json/jammy 0.0+git20210628.867c5da-1 amd64
 gjiten/jammy 3.1-1 amd64
 gjots2/jammy 3.1.9-0ubuntu1 all
-gjs-tests/jammy 1.72.0-1 amd64
-gjs/jammy 1.72.0-1 amd64
+gjs-tests/jammy-updates 1.72.2-0ubuntu2 amd64
+gjs/jammy-updates 1.72.2-0ubuntu2 amd64
 gkamus-data/jammy 1.0-0ubuntu4 all
 gkamus-dbg/jammy 1.0-0ubuntu4 amd64
 gkamus/jammy 1.0-0ubuntu4 amd64
@@ -26335,8 +26337,8 @@ libgivaro-dev/jammy 4.2.0-1 amd64
 libgivaro-doc/jammy 4.2.0-1 all
 libgivaro9/jammy 4.2.0-1 amd64
 libgiza0/jammy 1.3.1-1 amd64
-libgjs-dev/jammy 1.72.0-1 amd64
-libgjs0g/jammy 1.72.0-1 amd64
+libgjs-dev/jammy-updates 1.72.2-0ubuntu2 amd64
+libgjs0g/jammy-updates 1.72.2-0ubuntu2 amd64
 libgkarrays-dev/jammy 2.1.0+dfsg-4 amd64
 libgkarrays1/jammy 2.1.0+dfsg-4 amd64
 libgkeyfile-cil-dev/jammy 0.1-5.1 all
@@ -40210,7 +40212,7 @@ libtcd-dev/jammy 2.2.2-2.1 amd64
 libtcd0/jammy 2.2.2-2.1 amd64
 libtcl-chiark-1/jammy 1.3.5 amd64
 libtcl-perl/jammy 1.27+ds-1build3 amd64
-libtcl8.6/jammy 8.6.12+dfsg-1build1 amd64
+libtcl8.6/jammy,now 8.6.12+dfsg-1build1 amd64 [installed,automatic]
 libtclap-dev/jammy 1.2.5-1 amd64
 libtclcl1-dev/jammy 1.20-9.1 amd64
 libtclcl1/jammy 1.20-9.1 amd64
@@ -70766,7 +70768,7 @@ remotetea/jammy 1.0.7-3.1 all
 remotetrx/jammy 19.09.1-3 amd64
 renaissance-doc/jammy 0.9.0-4.1build1 all
 rename-flac/jammy 2.2.0-1 all
-rename/jammy 1.30-1 all
+rename/jammy,now 1.30-1 all [installed]
 renameutils/jammy 0.12.0-9 amd64
 renattach/jammy 1.2.4-5 amd64
 render-bench/jammy 0~20100619-0ubuntu2 amd64
@@ -74834,7 +74836,7 @@ tcl-combat/jammy 0.8.1-1 all
 tcl-dev/jammy 8.6.11+1build2 amd64
 tcl-doc/jammy 8.6.11+1build2 all
 tcl-expect-dev/jammy 5.45.4-2build1 amd64
-tcl-expect/jammy 5.45.4-2build1 amd64
+tcl-expect/jammy,now 5.45.4-2build1 amd64 [installed,automatic]
 tcl-fitstcl/jammy 2.4-4build2 amd64
 tcl-funtools/jammy 1.4.8-1 amd64
 tcl-hamlib/jammy 4.3.1-1build2 amd64
@@ -74870,7 +74872,7 @@ tcl8.6-tdbc-odbc/jammy 1.1.3-2 amd64
 tcl8.6-tdbc-postgres/jammy 1.1.3-2 amd64
 tcl8.6-tdbc-sqlite3/jammy 1.1.3-2 all
 tcl8.6-tdbc/jammy 1.1.3-2 amd64
-tcl8.6/jammy 8.6.12+dfsg-1build1 amd64
+tcl8.6/jammy,now 8.6.12+dfsg-1build1 amd64 [installed,automatic]
 tcl/jammy 8.6.11+1build2 amd64
 tclcl-dbg/jammy 1.20-9.1 amd64
 tclcl-dev/jammy 1.20-9.1 all
@@ -75996,7 +75998,7 @@ typecatcher/jammy 0.3-1.2 all
 typespeed/jammy 0.6.5-4 amd64
 tz-converter/jammy 1.0.1-1 all
 tzc/jammy 2.6.15-5.4 amd64
-tzdata/jammy-updates 2023d-0ubuntu0.22.04 all
+tzdata/jammy-updates,now 2023d-0ubuntu0.22.04 all [installed,automatic]
 tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
