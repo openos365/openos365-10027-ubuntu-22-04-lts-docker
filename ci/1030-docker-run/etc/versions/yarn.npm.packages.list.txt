@@ -3558,7 +3558,7 @@ yarn list v1.22.21
 │  │  └─ loose-envify@^1.1.0
 │  └─ scheduler@0.23.0
 │     └─ loose-envify@^1.1.0
-├─ @steedos-labs/analytics@0.1.19
+├─ @steedos-labs/analytics@0.1.20
 │  ├─ @steedos/utils@^2.5.11-beta.10
 │  ├─ date-fns@^3.3.1
 │  ├─ date-fns@3.3.1
@@ -3566,12 +3566,12 @@ yarn list v1.22.21
 │  ├─ moment-timezone@0.5.45
 │  │  └─ moment@^2.29.4
 │  └─ ttag@^1.7.29
-├─ @steedos-labs/asset@2.6.2
-│  ├─ @steedos-labs/master@2.6.2
-│  └─ @steedos-labs/workflow@2.6.2
-├─ @steedos-labs/attendance@2.6.2
-│  ├─ @steedos-labs/master@2.6.2
-│  ├─ @steedos-labs/workflow@2.6.2
+├─ @steedos-labs/asset@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
+│  └─ @steedos-labs/workflow@2.6.4
+├─ @steedos-labs/attendance@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
+│  ├─ @steedos-labs/workflow@2.6.4
 │  └─ moleculer-cron@^0.0.2
 ├─ @steedos-labs/budget@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
@@ -3585,37 +3585,33 @@ yarn list v1.22.21
 │  ├─ @steedos-labs/flows@2.2.1
 │  │  └─ @steedos-labs/master@2.2.1
 │  └─ @steedos-labs/master@2.2.1
-├─ @steedos-labs/contract@2.6.2
-│  ├─ @steedos-labs/finance@2.6.2
-│  ├─ @steedos-labs/invoice@2.6.2
-│  └─ @steedos-labs/master@2.6.2
+├─ @steedos-labs/contract@2.6.4
+│  ├─ @steedos-labs/finance@2.6.4
+│  ├─ @steedos-labs/invoice@2.6.4
+│  └─ @steedos-labs/master@2.6.4
 ├─ @steedos-labs/cost-ee@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.2.9-beta.3
 │  │  └─ @steedos-labs/master@2.2.9-beta.3
 │  └─ @steedos-labs/master@2.2.9-beta.3
-├─ @steedos-labs/cost@2.6.2
-│  ├─ @steedos-labs/invoice@2.6.2
-│  ├─ @steedos-labs/master@2.6.2
-│  ├─ @steedos-labs/project@2.6.2
-│  └─ @steedos-labs/workflow@2.6.2
+├─ @steedos-labs/cost@2.6.4
+│  ├─ @steedos-labs/invoice@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
+│  ├─ @steedos-labs/project@2.6.4
+│  └─ @steedos-labs/workflow@2.6.4
 ├─ @steedos-labs/crm@2.6.1
 │  ├─ @steedos-labs/master@2.6.1
 │  └─ @steedos-labs/master@2.6.1
-├─ @steedos-labs/demo-ee@2.6.2
-│  ├─ @steedos-labs/asset@2.6.2
-│  ├─ @steedos-labs/contract@2.6.2
-│  ├─ @steedos-labs/cost@2.6.2
-│  ├─ @steedos-labs/crm@2.5.6
-│  ├─ @steedos-labs/crm@2.5.6
-│  │  ├─ @steedos-labs/master@2.5.6
-│  │  └─ @steedos-labs/master@2.5.6
-│  ├─ @steedos-labs/finance@2.6.2
-│  ├─ @steedos-labs/master@2.6.2
-│  ├─ @steedos-labs/meeting@2.6.2
-│  ├─ @steedos-labs/oa@2.6.2
-│  ├─ @steedos-labs/okr@2.6.2
-│  ├─ @steedos-labs/project@2.6.2
+├─ @steedos-labs/demo-ee@2.6.4
+│  ├─ @steedos-labs/asset@2.6.4
+│  ├─ @steedos-labs/contract@2.6.4
+│  ├─ @steedos-labs/cost@2.6.4
+│  ├─ @steedos-labs/finance@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
+│  ├─ @steedos-labs/meeting@2.6.4
+│  ├─ @steedos-labs/oa@2.6.4
+│  ├─ @steedos-labs/okr@2.6.4
+│  ├─ @steedos-labs/project@2.6.4
 │  ├─ @steedos-labs/purchase@2.2.9-beta.3
 │  ├─ @steedos-labs/purchase@2.2.9-beta.3
 │  │  ├─ @steedos-labs/master@2.2.9-beta.3
@@ -3649,16 +3645,16 @@ yarn list v1.22.21
 │  │  └─ @steedos-labs/master@2.2.1
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
-├─ @steedos-labs/finance@2.6.2
-│  ├─ @steedos-labs/invoice@2.6.2
-│  ├─ @steedos-labs/master@2.6.2
+├─ @steedos-labs/finance@2.6.4
+│  ├─ @steedos-labs/invoice@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  └─ bignumber.js@^9.1.1
 ├─ @steedos-labs/flows@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
-├─ @steedos-labs/gw@2.6.2
-│  ├─ @steedos-labs/master@2.6.2
-│  └─ @steedos-labs/workflow@2.6.2
+├─ @steedos-labs/gw@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
+│  └─ @steedos-labs/workflow@2.6.4
 ├─ @steedos-labs/hr-ee@2.2.8
 │  ├─ @steedos-labs/flows@2.2.1
 │  ├─ @steedos-labs/flows@2.2.1
@@ -3666,22 +3662,22 @@ yarn list v1.22.21
 │  │  └─ @steedos-labs/master@2.2.1
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
-├─ @steedos-labs/hr@2.6.2
-│  └─ @steedos-labs/master@2.6.2
-├─ @steedos-labs/invoice@2.6.2
+├─ @steedos-labs/hr@2.6.4
+│  └─ @steedos-labs/master@2.6.4
+├─ @steedos-labs/invoice@2.6.4
 │  ├─ bignumber.js@^9.1.1
 │  └─ request@^2.88.2
 ├─ @steedos-labs/it@2.1.22
 ├─ @steedos-labs/learning@2.1.62
 │  └─ pug@^3.0.2
-├─ @steedos-labs/master@2.6.2
-├─ @steedos-labs/meeting@2.6.2
+├─ @steedos-labs/master@2.6.4
+├─ @steedos-labs/meeting@2.6.4
 ├─ @steedos-labs/merchant@2.1.64
 ├─ @steedos-labs/npm-scopes@2.1.63
-├─ @steedos-labs/oa@2.6.2
+├─ @steedos-labs/oa@2.6.4
 │  └─ @steedos/utils@^2.5.11-beta.10
-├─ @steedos-labs/okr@2.6.2
-│  └─ @steedos-labs/master@2.6.2
+├─ @steedos-labs/okr@2.6.4
+│  └─ @steedos-labs/master@2.6.4
 ├─ @steedos-labs/order@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
@@ -3690,8 +3686,8 @@ yarn list v1.22.21
 │  ├─ pug@^3.0.2
 │  ├─ request@^2.54.0
 │  └─ xml2js@^0.4.6
-├─ @steedos-labs/performance@2.6.2
-├─ @steedos-labs/project-ee@2.6.2
+├─ @steedos-labs/performance@2.6.4
+├─ @steedos-labs/project-ee@2.6.4
 │  ├─ @steedos-labs/budget@2.2.9-beta.3
 │  ├─ @steedos-labs/budget@2.2.9-beta.3
 │  │  ├─ @steedos-labs/master@2.2.9-beta.3
@@ -3703,20 +3699,20 @@ yarn list v1.22.21
 │  │  │  └─ @steedos-labs/master@2.2.9-beta.3
 │  │  ├─ @steedos-labs/flows@2.2.1
 │  │  └─ @steedos-labs/master@2.2.9-beta.3
-│  ├─ @steedos-labs/contract@2.6.2
+│  ├─ @steedos-labs/contract@2.6.4
 │  ├─ @steedos-labs/cost-ee@2.2.9-beta.3
-│  ├─ @steedos-labs/cost@2.6.2
-│  ├─ @steedos-labs/demo-ee@2.6.2
-│  ├─ @steedos-labs/finance@2.6.2
+│  ├─ @steedos-labs/cost@2.6.4
+│  ├─ @steedos-labs/demo-ee@2.6.4
+│  ├─ @steedos-labs/finance@2.6.4
 │  ├─ @steedos-labs/flows@2.2.1
 │  │  ├─ @steedos-labs/master@2.2.1
 │  │  └─ @steedos-labs/master@2.2.1
-│  ├─ @steedos-labs/master@2.6.2
-│  └─ @steedos-labs/project@2.6.2
-├─ @steedos-labs/project@2.6.2
-│  ├─ @steedos-labs/contract@2.6.2
-│  ├─ @steedos-labs/finance@2.6.2
-│  └─ @steedos-labs/master@2.6.2
+│  ├─ @steedos-labs/master@2.6.4
+│  └─ @steedos-labs/project@2.6.4
+├─ @steedos-labs/project@2.6.4
+│  ├─ @steedos-labs/contract@2.6.4
+│  ├─ @steedos-labs/finance@2.6.4
+│  └─ @steedos-labs/master@2.6.4
 ├─ @steedos-labs/purchase@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
@@ -3801,7 +3797,7 @@ yarn list v1.22.21
 │  │  └─ webidl-conversions@^4.0.2
 │  └─ yallist@3.1.1
 ├─ @steedos-labs/work-order@2.1.61
-├─ @steedos-labs/workflow@2.6.2
+├─ @steedos-labs/workflow@2.6.4
 ├─ @steedos-labs/xz@2.2.8
 │  ├─ @steedos-labs/flows@2.2.1
 │  ├─ @steedos-labs/flows@2.2.1
@@ -4223,7 +4219,7 @@ yarn list v1.22.21
 │  └─ react-required-if@^1.0.3
 ├─ @steedos-widgets/amis-lib@1.0.19
 │  └─ lodash@^4.17.21
-├─ @steedos/accounts@2.6.6
+├─ @steedos/accounts@2.6.7
 │  ├─ @accounts/mongo@^0.19.0
 │  ├─ @accounts/server@^0.19.0
 │  ├─ @accounts/two-factor@^0.20.1
@@ -4363,32 +4359,32 @@ yarn list v1.22.21
 │  │  └─ esprima@^4.0.0
 │  ├─ underscore@1.5.2
 │  └─ underscore@1.5.2
-├─ @steedos/auth@2.6.6
-│  ├─ @steedos/cachers@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/auth@2.6.7
+│  ├─ @steedos/cachers@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ cookies@^0.8.0
 │  ├─ express@^4.16.4
 │  ├─ ismobilejs@^1.1.1
 │  ├─ jsonwebtoken@^8.5.1
 │  ├─ sha256@^0.2.0
 │  └─ underscore@^1.9.1
-├─ @steedos/cachers@2.6.6
+├─ @steedos/cachers@2.6.7
 │  ├─ lodash@^4.17.21
 │  ├─ lru-cache@^7.10.1
 │  └─ lru-cache@7.18.3
-├─ @steedos/client@2.6.6
-│  ├─ @steedos/filters@2.6.6
+├─ @steedos/client@2.6.7
+│  ├─ @steedos/filters@2.6.7
 │  └─ node-fetch@^2.6.7
-├─ @steedos/core@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/filters@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/migrate@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/odata-v4-mongodb@2.6.6
-│  ├─ @steedos/process@2.6.6
-│  ├─ @steedos/standard-objects@2.6.6
+├─ @steedos/core@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/filters@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/migrate@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/odata-v4-mongodb@2.6.7
+│  ├─ @steedos/process@2.6.7
+│  ├─ @steedos/standard-objects@2.6.7
 │  ├─ body-parser@^1.18.1
 │  ├─ bunyan-sfdx-no-dtrace@^1.8.2
 │  ├─ clone@^2.1.2
@@ -4411,11 +4407,11 @@ yarn list v1.22.21
 │  ├─ simpl-schema@^1.5.5
 │  ├─ underscore@1.5.2
 │  └─ underscore@1.5.2
-├─ @steedos/data-import@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/metadata-api@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/data-import@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/metadata-api@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ bson@4.6.4
 │  ├─ bson@4.6.4
 │  │  └─ buffer@^5.6.0
@@ -4445,10 +4441,10 @@ yarn list v1.22.21
 │     └─ has-flag@^4.0.0
 ├─ @steedos/ee_service-plugin-license@2.2.5
 │  └─ axios@^0.21.4
-├─ @steedos/ee_sso-oidc@2.6.6
-│  ├─ @steedos/accounts@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/service-package-loader@2.6.6
+├─ @steedos/ee_sso-oidc@2.6.7
+│  ├─ @steedos/accounts@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/service-package-loader@2.6.7
 │  ├─ @techpass/passport-openidconnect@^0.3.2
 │  ├─ body-parser@1.20.0
 │  │  ├─ bytes@3.1.2
@@ -4537,7 +4533,7 @@ yarn list v1.22.21
 │  └─ statuses@2.0.1
 ├─ @steedos/ee_unpkg-local@2.4.18
 ├─ @steedos/ee_virus-scan@2.5.30
-├─ @steedos/filters@2.6.6
+├─ @steedos/filters@2.6.7
 │  ├─ @babel/runtime@7.12.18
 │  ├─ @babel/runtime@7.12.18
 │  │  └─ regenerator-runtime@^0.13.4
@@ -4546,9 +4542,9 @@ yarn list v1.22.21
 ├─ @steedos/form-builder@3.6.2-patch.5
 │  ├─ jquery-ui-sortable@*
 │  └─ jquery@>=3.4.1
-├─ @steedos/formula@2.6.6
-├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/cachers@2.6.6
+├─ @steedos/formula@2.6.7
+├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/cachers@2.6.7
 │  ├─ i18next-sprintf-postprocessor@^0.2.2
 │  ├─ i18next@^19.3.4
 │  ├─ underscore@1.13.4
@@ -4558,11 +4554,11 @@ yarn list v1.22.21
 │  ├─ crypto@^1.0.1
 │  ├─ node-fetch@^2.6.0
 │  └─ systeminformation@5.9.17
-├─ @steedos/metadata-api@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/metadata-api@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ chalk@^4.1.0
 │  ├─ chalk@4.1.2
 │  │  ├─ ansi-styles@^4.1.0
@@ -4577,8 +4573,8 @@ yarn list v1.22.21
 │  ├─ supports-color@7.2.0
 │  │  └─ has-flag@^4.0.0
 │  └─ underscore@^1.11.0
-├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/client@2.6.6
+├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/client@2.6.7
 │  ├─ archiver@^5.1.0
 │  ├─ chalk@^4.1.0
 │  ├─ chalk@4.1.2
@@ -4626,13 +4622,13 @@ yarn list v1.22.21
 │  │  └─ has-flag@^4.0.0
 │  ├─ underscore@^1.11.0
 │  └─ yallist@2.1.2
-├─ @steedos/metadata-registrar@2.6.6
+├─ @steedos/metadata-registrar@2.6.7
 │  ├─ @salesforce/ts-types@1.1.2
 │  ├─ @salesforce/ts-types@1.1.2
 │  │  ├─ tslib@^1
 │  │  └─ tslib@1.14.1
-│  ├─ @steedos/client@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
+│  ├─ @steedos/client@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
 │  ├─ archiver@^5.1.0
 │  ├─ chalk@^4.1.0
 │  ├─ chalk@4.1.2
@@ -4663,7 +4659,7 @@ yarn list v1.22.21
 │  │  └─ has-flag@^4.0.0
 │  ├─ tslib@^2.4.0
 │  └─ underscore@^1.11.0
-├─ @steedos/meteor-bundle-dependencies@2.6.6
+├─ @steedos/meteor-bundle-dependencies@2.6.7
 │  ├─ apn@1.6.2
 │  ├─ arson@0.2.6
 │  ├─ basic-auth-connect@1.0.0
@@ -4753,7 +4749,7 @@ yarn list v1.22.21
 │  ├─ uuid@8.3.2
 │  ├─ whatwg-fetch@2.0.4
 │  └─ whatwg-fetch@2.0.4
-├─ @steedos/meteor-bundle-runner@2.6.6
+├─ @steedos/meteor-bundle-runner@2.6.7
 │  ├─ @mapbox/node-pre-gyp@1.0.9
 │  ├─ fibers@5.0.3
 │  ├─ fibers@5.0.3
@@ -4768,8 +4764,8 @@ yarn list v1.22.21
 │  ├─ source-map-support@^0.5.10
 │  ├─ underscore@1.5.2
 │  └─ underscore@1.5.2
-├─ @steedos/migrate@2.6.6
-│  ├─ @steedos/service-package-registry@2.6.6
+├─ @steedos/migrate@2.6.7
+│  ├─ @steedos/service-package-registry@2.6.7
 │  ├─ migrate@^1.6.2
 │  └─ mongodb@^3.7.3
 ├─ @steedos/mongodb-bi-connector@2.2.54
@@ -4869,24 +4865,24 @@ yarn list v1.22.21
 │  ├─ node-fetch@^2.3.0
 │  ├─ passport-oauth2@^1.5.0
 │  └─ passport@^0.4.0
-├─ @steedos/objectql@2.6.6
+├─ @steedos/objectql@2.6.7
 │  ├─ @salesforce/kit@1.0.4
 │  ├─ @salesforce/ts-types@1.1.1
 │  ├─ @salesforce/ts-types@1.1.1
 │  │  ├─ tslib@^1
 │  │  └─ tslib@1.14.1
 │  ├─ @sqltools/formatter@1.2.2
-│  ├─ @steedos/cachers@2.6.6
-│  ├─ @steedos/filters@2.6.6
-│  ├─ @steedos/formula@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/metadata-registrar@2.6.6
-│  ├─ @steedos/odata-v4-mongodb@2.6.6
-│  ├─ @steedos/odata-v4-sql@2.6.6
-│  ├─ @steedos/odata-v4-typeorm@2.6.6
-│  ├─ @steedos/schemas@2.6.6
-│  ├─ @steedos/standard-objects@2.6.6
+│  ├─ @steedos/cachers@2.6.7
+│  ├─ @steedos/filters@2.6.7
+│  ├─ @steedos/formula@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/metadata-registrar@2.6.7
+│  ├─ @steedos/odata-v4-mongodb@2.6.7
+│  ├─ @steedos/odata-v4-sql@2.6.7
+│  ├─ @steedos/odata-v4-typeorm@2.6.7
+│  ├─ @steedos/schemas@2.6.7
+│  ├─ @steedos/standard-objects@2.6.7
 │  ├─ app-root-path@^2.2.1
 │  ├─ body-parser@^1.18.1
 │  ├─ bunyan-sfdx-no-dtrace@^1.8.2
@@ -4941,19 +4937,19 @@ yarn list v1.22.21
 │  ├─ underscore@1.5.2
 │  ├─ underscore@1.5.2
 │  └─ vm2@^3.9.17
-├─ @steedos/odata-v4-mongodb@2.6.6
-│  ├─ @steedos/odata-v4-parser@2.6.6
+├─ @steedos/odata-v4-mongodb@2.6.7
+│  ├─ @steedos/odata-v4-parser@2.6.7
 │  └─ odata-v4-literal@^0.1.0
-├─ @steedos/odata-v4-parser@2.6.6
-├─ @steedos/odata-v4-sql@2.6.6
-│  ├─ @steedos/odata-v4-parser@2.6.6
+├─ @steedos/odata-v4-parser@2.6.7
+├─ @steedos/odata-v4-sql@2.6.7
+│  ├─ @steedos/odata-v4-parser@2.6.7
 │  └─ odata-v4-literal@^0.1.0
-├─ @steedos/odata-v4-typeorm@2.6.6
-│  ├─ @steedos/odata-v4-parser@2.6.6
-│  ├─ @steedos/odata-v4-sql@2.6.6
+├─ @steedos/odata-v4-typeorm@2.6.7
+│  ├─ @steedos/odata-v4-parser@2.6.7
+│  ├─ @steedos/odata-v4-sql@2.6.7
 │  └─ odata-v4-literal@^0.1.0
 ├─ @steedos/pdfjs-dist@1.0.0
-├─ @steedos/plugin-company@2.6.6
+├─ @steedos/plugin-company@2.6.7
 ├─ @steedos/plugin-contact@2.0.8
 ├─ @steedos/plugin-dingtalk@2.5.30
 │  ├─ cookies@^0.8.0
@@ -5054,9 +5050,9 @@ yarn list v1.22.21
 │  │  └─ mime-types@^2.1.12
 │  ├─ moment@2.29.4
 │  └─ moment@2.29.4
-├─ @steedos/process@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/process@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ body-parser@1.20.0
 │  │  ├─ bytes@3.1.2
 │  │  ├─ content-type@~1.0.4
@@ -5160,22 +5156,22 @@ yarn list v1.22.21
 │  ├─ underscore@^1.9.2
 │  └─ whatwg-fetch@^3.0.0
 ├─ @steedos/react@2.1.116
-├─ @steedos/router@2.6.6
+├─ @steedos/router@2.6.7
 │  ├─ compression@1.7.4
 │  └─ cors@2.8.5
-├─ @steedos/schemas@2.6.6
-├─ @steedos/service-accounts@2.6.6
+├─ @steedos/schemas@2.6.7
+├─ @steedos/service-accounts@2.6.7
 │  └─ node-schedule@^2.0.0
-├─ @steedos/service-analytics@2.6.6
-├─ @steedos/service-ancillary@2.6.6
+├─ @steedos/service-analytics@2.6.7
+├─ @steedos/service-ancillary@2.6.7
 │  ├─ express-xml-bodyparser@0.3.0
 │  ├─ express@^4.17.1
 │  └─ xml2js@0.4.23
-├─ @steedos/service-api@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/router@2.6.6
-│  ├─ @steedos/service-object-graphql@2.6.6
-│  ├─ @steedos/service-ui@2.6.6
+├─ @steedos/service-api@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/router@2.6.7
+│  ├─ @steedos/service-object-graphql@2.6.7
+│  ├─ @steedos/service-ui@2.6.7
 │  ├─ graphql-iso-date@^3.6.1
 │  ├─ graphql-type-json@^0.3.2
 │  ├─ graphql@^15.8.0
@@ -5185,10 +5181,10 @@ yarn list v1.22.21
 │  ├─ moleculer@^0.14.25
 │  ├─ react-dev-utils@12.0.1
 │  └─ validator@^13.6.0
-├─ @steedos/service-cachers-manager@2.6.6
-│  ├─ @steedos/cachers@2.6.6
-│  └─ @steedos/metadata-registrar@2.6.6
-├─ @steedos/service-charts@2.6.6
+├─ @steedos/service-cachers-manager@2.6.7
+│  ├─ @steedos/cachers@2.6.7
+│  └─ @steedos/metadata-registrar@2.6.7
+├─ @steedos/service-charts@2.6.7
 │  ├─ duration@^0.2.2
 │  ├─ json2csv@5.0.6
 │  ├─ json2xls@^0.1.2
@@ -5466,7 +5462,7 @@ yarn list v1.22.21
 │  │  ├─ yargonaut@^1.1.2
 │  │  └─ yargs@^16.0.3
 │  └─ underscore@1.5.2
-├─ @steedos/service-community@2.6.6
+├─ @steedos/service-community@2.6.7
 │  ├─ @mapbox/node-pre-gyp@1.0.11
 │  │  ├─ detect-libc@^2.0.0
 │  │  ├─ https-proxy-agent@^5.0.0
@@ -5477,27 +5473,27 @@ yarn list v1.22.21
 │  │  ├─ rimraf@^3.0.2
 │  │  ├─ semver@^7.3.5
 │  │  └─ tar@^6.1.11
-│  ├─ @steedos/ee_sso-oidc@2.6.6
-│  ├─ @steedos/service-analytics@2.6.6
-│  ├─ @steedos/service-ancillary@2.6.6
-│  ├─ @steedos/service-charts@2.6.6
-│  ├─ @steedos/service-i18n@2.6.6
-│  ├─ @steedos/service-identity-jwt@2.6.6
-│  ├─ @steedos/service-metadata-server@2.6.6
-│  ├─ @steedos/service-mongodb-server@2.6.6
-│  ├─ @steedos/service-objectql@2.6.6
-│  ├─ @steedos/service-package-loader@2.6.6
-│  ├─ @steedos/service-package-registry@2.6.6
-│  ├─ @steedos/service-package-tool@2.6.6
-│  ├─ @steedos/service-pages@2.6.6
-│  ├─ @steedos/service-rest@2.6.6
-│  ├─ @steedos/service-saas@2.6.6
-│  ├─ @steedos/service-sentry@2.6.6
-│  ├─ @steedos/service-sidecar@2.6.6
-│  ├─ @steedos/service-steedos-server@2.6.6
-│  ├─ @steedos/steedos-plugin-schema-builder@2.6.6
-│  ├─ @steedos/unpkg@2.6.6
-│  ├─ @steedos/workflow_time_trigger@2.6.6
+│  ├─ @steedos/ee_sso-oidc@2.6.7
+│  ├─ @steedos/service-analytics@2.6.7
+│  ├─ @steedos/service-ancillary@2.6.7
+│  ├─ @steedos/service-charts@2.6.7
+│  ├─ @steedos/service-i18n@2.6.7
+│  ├─ @steedos/service-identity-jwt@2.6.7
+│  ├─ @steedos/service-metadata-server@2.6.7
+│  ├─ @steedos/service-mongodb-server@2.6.7
+│  ├─ @steedos/service-objectql@2.6.7
+│  ├─ @steedos/service-package-loader@2.6.7
+│  ├─ @steedos/service-package-registry@2.6.7
+│  ├─ @steedos/service-package-tool@2.6.7
+│  ├─ @steedos/service-pages@2.6.7
+│  ├─ @steedos/service-rest@2.6.7
+│  ├─ @steedos/service-saas@2.6.7
+│  ├─ @steedos/service-sentry@2.6.7
+│  ├─ @steedos/service-sidecar@2.6.7
+│  ├─ @steedos/service-steedos-server@2.6.7
+│  ├─ @steedos/steedos-plugin-schema-builder@2.6.7
+│  ├─ @steedos/unpkg@2.6.7
+│  ├─ @steedos/workflow_time_trigger@2.6.7
 │  ├─ aliyun-sdk@1.12.3
 │  ├─ aproba@2.0.0
 │  ├─ are-we-there-yet@2.0.0
@@ -5580,7 +5576,7 @@ yarn list v1.22.21
 │  ├─ redlock@^4.2.0
 │  ├─ rimraf@3.0.2
 │  │  └─ glob@^7.1.3
-│  ├─ steedos-cli@2.6.6
+│  ├─ steedos-cli@2.6.7
 │  ├─ supports-color@7.2.0
 │  │  └─ has-flag@^4.0.0
 │  ├─ tslib@^2.4.0
@@ -7331,18 +7327,18 @@ yarn list v1.22.21
 │     ├─ window-size@^0.2.0
 │     ├─ y18n@^3.2.1
 │     └─ yargs-parser@^2.4.1
-├─ @steedos/service-fields-indexs@2.6.6
+├─ @steedos/service-fields-indexs@2.6.7
 │  └─ node-schedule@^2.0.0
-├─ @steedos/service-files@2.6.6
+├─ @steedos/service-files@2.6.7
 │  ├─ aws-sdk@2.0.23
 │  ├─ file-type@16.5.4
 │  ├─ formidable@2.0.1
 │  ├─ mkdirp@^1.0.4
 │  ├─ mkdirp@1.0.4
 │  └─ moment@^2.29.1
-├─ @steedos/service-i18n@2.6.6
-├─ @steedos/service-identity-jwt@2.6.6
-│  ├─ @steedos/accounts@2.6.6
+├─ @steedos/service-i18n@2.6.7
+├─ @steedos/service-identity-jwt@2.6.7
+│  ├─ @steedos/accounts@2.6.7
 │  ├─ body-parser@1.20.0
 │  │  ├─ bytes@3.1.2
 │  │  ├─ content-type@~1.0.4
@@ -7431,69 +7427,69 @@ yarn list v1.22.21
 ├─ @steedos/service-license@2.5.30
 │  ├─ @steedos/license@2.5.30
 │  └─ axios@^0.21.4
-├─ @steedos/service-metadata-apps@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/service-metadata-apps@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
 │  ├─ moleculer-web@^0.10.4
 │  └─ moleculer@^0.14.25
-├─ @steedos/service-metadata-layouts@2.6.6
+├─ @steedos/service-metadata-layouts@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
 │  ├─ moleculer-web@^0.10.4
 │  ├─ moleculer@^0.14.25
 │  └─ tslib@^2.4.0
-├─ @steedos/service-metadata-objects@2.6.6
+├─ @steedos/service-metadata-objects@2.6.7
 │  ├─ @salesforce/ts-types@1.1.2
 │  ├─ @salesforce/ts-types@1.1.2
 │  │  ├─ tslib@^1
 │  │  └─ tslib@1.14.1
-│  ├─ @steedos/formula@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/metadata-registrar@2.6.6
+│  ├─ @steedos/formula@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/metadata-registrar@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
 │  ├─ moleculer-web@^0.10.4
 │  ├─ moleculer@^0.14.25
 │  └─ tslib@^2.4.0
-├─ @steedos/service-metadata-permissionsets@2.6.6
+├─ @steedos/service-metadata-permissionsets@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
 │  ├─ moleculer-web@^0.10.4
 │  └─ moleculer@^0.14.25
-├─ @steedos/service-metadata-server@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/service-metadata-apps@2.6.6
-│  ├─ @steedos/service-metadata-layouts@2.6.6
-│  ├─ @steedos/service-metadata-objects@2.6.6
-│  ├─ @steedos/service-metadata-permissionsets@2.6.6
-│  ├─ @steedos/service-metadata-tabs@2.6.6
-│  ├─ @steedos/service-metadata-translations@2.6.6
-│  ├─ @steedos/service-metadata-triggers@2.6.6
-│  ├─ @steedos/service-metadata@2.6.6
-│  ├─ @steedos/service-packages@2.6.6
+├─ @steedos/service-metadata-server@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/service-metadata-apps@2.6.7
+│  ├─ @steedos/service-metadata-layouts@2.6.7
+│  ├─ @steedos/service-metadata-objects@2.6.7
+│  ├─ @steedos/service-metadata-permissionsets@2.6.7
+│  ├─ @steedos/service-metadata-tabs@2.6.7
+│  ├─ @steedos/service-metadata-translations@2.6.7
+│  ├─ @steedos/service-metadata-triggers@2.6.7
+│  ├─ @steedos/service-metadata@2.6.7
+│  ├─ @steedos/service-packages@2.6.7
 │  ├─ lodash@^4.17.21
 │  ├─ underscore@1.13.4
 │  └─ underscore@1.13.4
-├─ @steedos/service-metadata-tabs@2.6.6
+├─ @steedos/service-metadata-tabs@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
 │  ├─ moleculer-web@^0.10.4
 │  └─ moleculer@^0.14.12
-├─ @steedos/service-metadata-translations@2.6.6
-│  ├─ @steedos/metadata-registrar@2.6.6
+├─ @steedos/service-metadata-translations@2.6.7
+│  ├─ @steedos/metadata-registrar@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
 │  ├─ moleculer-web@^0.10.4
 │  └─ moleculer@^0.14.25
-├─ @steedos/service-metadata-triggers@2.6.6
+├─ @steedos/service-metadata-triggers@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
@@ -7501,8 +7497,8 @@ yarn list v1.22.21
 │  ├─ moleculer@^0.14.25
 │  ├─ underscore@1.13.4
 │  └─ underscore@1.13.4
-├─ @steedos/service-metadata@2.6.6
-│  ├─ @steedos/metadata-registrar@2.6.6
+├─ @steedos/service-metadata@2.6.7
+│  ├─ @steedos/metadata-registrar@2.6.7
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ lodash@^4.17.21
@@ -7510,24 +7506,24 @@ yarn list v1.22.21
 │  ├─ moleculer@^0.14.25
 │  ├─ underscore@1.13.4
 │  └─ underscore@1.13.4
-├─ @steedos/service-meteor-package-loader@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/router@2.6.6
-│  ├─ @steedos/service-package-loader@2.6.6
+├─ @steedos/service-meteor-package-loader@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/router@2.6.7
+│  ├─ @steedos/service-package-loader@2.6.7
 │  ├─ clone@^2.1.2
 │  ├─ moleculer@^0.14.25
 │  ├─ moment@^2.24.0
 │  └─ underscore@^1.12.0
-├─ @steedos/service-mongodb-server@2.6.6
+├─ @steedos/service-mongodb-server@2.6.7
 │  └─ @steedos/mongodb-memory-server-core@^7.0.0-beta.14
-├─ @steedos/service-node-red@2.6.6
+├─ @steedos/service-node-red@2.6.7
 │  └─ ioredis@^4.22.0
-├─ @steedos/service-object-graphql@2.6.6
-│  ├─ @steedos/filters@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/service-object-mixin@2.6.6
+├─ @steedos/service-object-graphql@2.6.7
+│  ├─ @steedos/filters@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/service-object-mixin@2.6.7
 │  ├─ graphql-parse-resolve-info@^4.12.3
 │  ├─ graphql@^15.8.0
 │  ├─ moleculer-apollo-server@^0.3.6
@@ -7536,9 +7532,9 @@ yarn list v1.22.21
 │  ├─ open@^7.3.0
 │  ├─ underscore@1.5.2
 │  └─ underscore@1.5.2
-├─ @steedos/service-object-mixin@2.6.6
-├─ @steedos/service-objectql@2.6.6
-│  └─ @steedos/objectql@2.6.6
+├─ @steedos/service-object-mixin@2.6.7
+├─ @steedos/service-objectql@2.6.7
+│  └─ @steedos/objectql@2.6.7
 ├─ @steedos/service-package-license@2.5.2
 │  ├─ @steedos/license@2.5.2
 │  ├─ @steedos/license@2.5.2
@@ -7547,23 +7543,23 @@ yarn list v1.22.21
 │  │  ├─ node-fetch@^2.6.0
 │  │  └─ systeminformation@5.9.17
 │  └─ axios@^0.21.4
-├─ @steedos/service-package-loader@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/metadata-registrar@2.6.6
-│  ├─ @steedos/router@2.6.6
-│  ├─ @steedos/service-object-mixin@2.6.6
+├─ @steedos/service-package-loader@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/metadata-registrar@2.6.7
+│  ├─ @steedos/router@2.6.7
+│  ├─ @steedos/service-object-mixin@2.6.7
 │  ├─ clone@^2.1.2
 │  ├─ csvtojson@~2.0.10
 │  ├─ moleculer@^0.14.25
 │  ├─ moment@^2.24.0
 │  ├─ node-xlsx@^0.16.1
 │  └─ underscore@^1.12.0
-├─ @steedos/service-package-registry@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/service-package-loader@2.6.6
+├─ @steedos/service-package-registry@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/service-package-loader@2.6.7
 │  ├─ builtins@5.0.1
 │  │  └─ semver@^7.0.0
 │  ├─ fs-extra@8.1.0
@@ -7594,12 +7590,12 @@ yarn list v1.22.21
 │  ├─ validate-npm-package-name@4.0.0
 │  │  └─ builtins@^5.0.0
 │  └─ validator@^13.5.2
-├─ @steedos/service-package-tool@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/service-package-loader@2.6.6
+├─ @steedos/service-package-tool@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/service-package-loader@2.6.7
 │  ├─ builtins@5.0.1
 │  │  └─ semver@^7.0.0
 │  ├─ fs-extra@8.1.0
@@ -7630,66 +7626,66 @@ yarn list v1.22.21
 │  ├─ validate-npm-package-name@4.0.0
 │  │  └─ builtins@^5.0.0
 │  └─ validator@^13.5.2
-├─ @steedos/service-packages@2.6.6
-├─ @steedos/service-pages@2.6.6
+├─ @steedos/service-packages@2.6.7
+├─ @steedos/service-pages@2.6.7
 │  └─ ejs@^3.1.8
-├─ @steedos/service-plugin-amis@2.6.6
-├─ @steedos/service-push@2.6.6
-├─ @steedos/service-rest@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/service-object-mixin@2.6.6
+├─ @steedos/service-plugin-amis@2.6.7
+├─ @steedos/service-push@2.6.7
+├─ @steedos/service-rest@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/service-object-mixin@2.6.7
 │  └─ lodash@^4.17.21
-├─ @steedos/service-saas@2.6.6
-├─ @steedos/service-sentry@2.6.6
+├─ @steedos/service-saas@2.6.7
+├─ @steedos/service-sentry@2.6.7
 │  ├─ @sentry/node@7.7.0
 │  ├─ @sentry/tracing@7.7.0
 │  └─ @sentry/utils@7.7.0
-├─ @steedos/service-sidecar@2.6.6
+├─ @steedos/service-sidecar@2.6.7
 │  ├─ kleur@^4.1.3
 │  ├─ lodash@^4.17.21
 │  ├─ moleculer@^0.14.25
 │  └─ node-fetch@^2.6.7
-├─ @steedos/service-steedos-server@2.6.6
-│  ├─ @steedos/accounts@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/data-import@2.6.6
-│  ├─ @steedos/metadata-api@2.6.6
-│  ├─ @steedos/meteor-bundle-runner@2.6.6
-│  ├─ @steedos/plugin-company@2.6.6
-│  ├─ @steedos/service-accounts@2.6.6
-│  ├─ @steedos/service-api@2.6.6
-│  ├─ @steedos/service-cachers-manager@2.6.6
-│  ├─ @steedos/service-charts@2.6.6
-│  ├─ @steedos/service-fields-indexs@2.6.6
-│  ├─ @steedos/service-files@2.6.6
-│  ├─ @steedos/service-meteor-package-loader@2.6.6
-│  ├─ @steedos/service-pages@2.6.6
-│  ├─ @steedos/service-plugin-amis@2.6.6
-│  ├─ @steedos/service-ui@2.6.6
-│  ├─ @steedos/service-workflow@2.6.6
-│  ├─ @steedos/standard-accounts@2.6.6
-│  ├─ @steedos/standard-collaboration@2.6.6
-│  ├─ @steedos/standard-object-database@2.6.6
-│  ├─ @steedos/standard-permission@2.6.6
-│  ├─ @steedos/standard-process-approval@2.6.6
-│  ├─ @steedos/standard-process@2.6.6
-│  ├─ @steedos/standard-space@2.6.6
-│  ├─ @steedos/standard-ui@2.6.6
-│  ├─ @steedos/unpkg@2.6.6
-│  ├─ @steedos/webapp-accounts@2.6.6
-│  ├─ @steedos/webapp-public@2.6.6
-│  ├─ @steedos/workflow@2.6.6
+├─ @steedos/service-steedos-server@2.6.7
+│  ├─ @steedos/accounts@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/data-import@2.6.7
+│  ├─ @steedos/metadata-api@2.6.7
+│  ├─ @steedos/meteor-bundle-runner@2.6.7
+│  ├─ @steedos/plugin-company@2.6.7
+│  ├─ @steedos/service-accounts@2.6.7
+│  ├─ @steedos/service-api@2.6.7
+│  ├─ @steedos/service-cachers-manager@2.6.7
+│  ├─ @steedos/service-charts@2.6.7
+│  ├─ @steedos/service-fields-indexs@2.6.7
+│  ├─ @steedos/service-files@2.6.7
+│  ├─ @steedos/service-meteor-package-loader@2.6.7
+│  ├─ @steedos/service-pages@2.6.7
+│  ├─ @steedos/service-plugin-amis@2.6.7
+│  ├─ @steedos/service-ui@2.6.7
+│  ├─ @steedos/service-workflow@2.6.7
+│  ├─ @steedos/standard-accounts@2.6.7
+│  ├─ @steedos/standard-collaboration@2.6.7
+│  ├─ @steedos/standard-object-database@2.6.7
+│  ├─ @steedos/standard-permission@2.6.7
+│  ├─ @steedos/standard-process-approval@2.6.7
+│  ├─ @steedos/standard-process@2.6.7
+│  ├─ @steedos/standard-space@2.6.7
+│  ├─ @steedos/standard-ui@2.6.7
+│  ├─ @steedos/unpkg@2.6.7
+│  ├─ @steedos/webapp-accounts@2.6.7
+│  ├─ @steedos/webapp-public@2.6.7
+│  ├─ @steedos/workflow@2.6.7
 │  ├─ dotenv-flow@^3.2.0
 │  ├─ moleculer-db@^0.8.4
 │  ├─ moleculer-web@^0.10.4
 │  ├─ moleculer@^0.14.25
-│  └─ steedos-server@2.6.6
+│  └─ steedos-server@2.6.7
 ├─ @steedos/service-translations@2.1.116
 │  └─ node-schedule@^2.0.0
-├─ @steedos/service-ui@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/service-ui@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ body-parser@1.20.0
 │  │  ├─ bytes@3.1.2
 │  │  ├─ content-type@~1.0.4
@@ -7768,47 +7764,48 @@ yarn list v1.22.21
 │  │  ├─ range-parser@~1.2.1
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
-├─ @steedos/service-workflow@2.6.6
-│  ├─ @steedos/service-object-graphql@2.6.6
-│  ├─ @steedos/workflow@2.6.6
+├─ @steedos/service-workflow@2.6.7
+│  ├─ @steedos/service-object-graphql@2.6.7
+│  ├─ @steedos/workflow@2.6.7
 │  ├─ lodash@^4.17.21
 │  └─ node-schedule@^2.0.0
-├─ @steedos/standard-accounts@2.6.6
-├─ @steedos/standard-cms@2.6.6
-├─ @steedos/standard-collaboration@2.6.6
-├─ @steedos/standard-object-database@2.6.6
+├─ @steedos/standard-accounts@2.6.7
+├─ @steedos/standard-cms@2.6.7
+├─ @steedos/standard-collaboration@2.6.7
+├─ @steedos/standard-object-database@2.6.7
 │  ├─ @steedos-widgets/amis-lib@^1.0.22
 │  ├─ @steedos-widgets/amis-lib@1.3.21
 │  │  ├─ i18next@22.5.1
 │  │  ├─ lodash@^4.17.21
 │  │  └─ react-i18next@12.3.1
-│  ├─ @steedos/standard-objects@2.6.6
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/standard-objects@2.6.7
 │  └─ i18next@22.5.1
 │     └─ @babel/runtime@^7.20.6
-├─ @steedos/standard-objects@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/filters@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/metadata-core@2.6.6
-│  └─ @steedos/metadata-registrar@2.6.6
-├─ @steedos/standard-permission@2.6.6
-├─ @steedos/standard-process-approval@2.6.6
-│  └─ @steedos/process@2.6.6
-├─ @steedos/standard-process@2.6.6
+├─ @steedos/standard-objects@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/filters@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/metadata-core@2.6.7
+│  └─ @steedos/metadata-registrar@2.6.7
+├─ @steedos/standard-permission@2.6.7
+├─ @steedos/standard-process-approval@2.6.7
+│  └─ @steedos/process@2.6.7
+├─ @steedos/standard-process@2.6.7
 │  └─ lodash@^4.17.21
-├─ @steedos/standard-space@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/data-import@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/service-meteor-package-loader@2.6.6
+├─ @steedos/standard-space@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/data-import@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/service-meteor-package-loader@2.6.7
 │  ├─ express@^4.15.4
 │  ├─ fibers@^5.0.3
 │  ├─ fibers@5.0.3
 │  │  └─ detect-libc@^1.0.3
 │  ├─ json2xls@^0.1.2
 │  └─ lodash@^4.17.21
-├─ @steedos/standard-ui@2.6.6
+├─ @steedos/standard-ui@2.6.7
 ├─ @steedos/steedos-crm-app@1.2.0
 │  └─ dotenv-flow@^3.1.0
 ├─ @steedos/steedos-model-generator@1.20.0
@@ -7885,7 +7882,7 @@ yarn list v1.22.21
 │  │  └─ yargs-parser@^13.1.2
 │  ├─ yn@^2.0.0
 │  └─ yn@2.0.0
-├─ @steedos/steedos-plugin-schema-builder@2.6.6
+├─ @steedos/steedos-plugin-schema-builder@2.6.7
 ├─ @steedos/steedos-plugin-workflow@2.1.5
 │  ├─ body-parser@^1.19.0
 │  ├─ express@^4.17.1
@@ -11378,8 +11375,8 @@ yarn list v1.22.21
 ├─ @steedos/stimulsoft-report@0.0.1
 ├─ @steedos/tailwind@2.1.116
 │  └─ cssnano@^4.1.10
-├─ @steedos/unpkg@2.6.6
-├─ @steedos/utils@2.6.6
+├─ @steedos/unpkg@2.6.7
+├─ @steedos/utils@2.6.7
 │  ├─ @babel/runtime@7.12.18
 │  │  └─ regenerator-runtime@^0.13.4
 │  ├─ @steedos/filters@2.5.11-beta.10
@@ -11396,10 +11393,10 @@ yarn list v1.22.21
 │  ├─ mingo@^6.0.5
 │  ├─ underscore@1.5.2
 │  └─ underscore@1.5.2
-├─ @steedos/webapp-accounts@2.6.6
+├─ @steedos/webapp-accounts@2.6.7
 │  └─ lodash@^4.17.21
-├─ @steedos/webapp-desktop@2.6.6
-├─ @steedos/webapp-public@2.6.6
+├─ @steedos/webapp-desktop@2.6.7
+├─ @steedos/webapp-public@2.6.7
 │  └─ lodash@^4.17.21
 ├─ @steedos/webapp@2.1.116
 ├─ @steedos/word-template@2.0.5
@@ -11411,8 +11408,8 @@ yarn list v1.22.21
 │     ├─ pako@~1.0.2
 │     ├─ readable-stream@~2.3.6
 │     └─ set-immediate-shim@~1.0.1
-├─ @steedos/workflow_time_trigger@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/workflow_time_trigger@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ cron-parser@3.5.0
 │  │  ├─ is-nan@^1.3.2
 │  │  └─ luxon@^1.26.0
@@ -11422,10 +11419,10 @@ yarn list v1.22.21
 │     ├─ cron-parser@^3.5.0
 │     ├─ long-timeout@0.1.1
 │     └─ sorted-array-functions@^1.3.0
-├─ @steedos/workflow@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/objectql@2.6.6
+├─ @steedos/workflow@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/objectql@2.6.7
 │  ├─ @steedos/steedos-plugin-workflow@^2.1.5
 │  ├─ body-parser@^1.19.0
 │  ├─ express@^4.17.1
@@ -15803,7 +15800,7 @@ yarn list v1.22.21
 │  ├─ jsbn@1.1.0
 │  └─ sprintf-js@^1.1.3
 ├─ ip-regex@2.1.0
-├─ ip@1.1.8
+├─ ip@1.1.9
 ├─ ipaddr.js@1.9.1
 ├─ is_js@0.9.0
 ├─ is-absolute-url@2.1.0
@@ -20294,7 +20291,7 @@ yarn list v1.22.21
 │  ├─ react-is@^17.0.2
 │  └─ react-is@17.0.2
 ├─ react-refresh@0.4.3
-├─ react-remove-scroll-bar@2.3.4
+├─ react-remove-scroll-bar@2.3.5
 │  ├─ react-style-singleton@^2.2.1
 │  └─ tslib@^2.0.0
 ├─ react-remove-scroll@2.4.1
@@ -21790,13 +21787,13 @@ yarn list v1.22.21
 │     └─ object-keys@~0.4.0
 ├─ statuses@1.5.0
 ├─ stealthy-require@1.1.1
-├─ steedos-cli@2.6.6
+├─ steedos-cli@2.6.7
 │  ├─ @geek/spinner@1.0.0
 │  ├─ @oclif/command@^1.8.16
 │  ├─ @oclif/config@^1.8.3
 │  ├─ @oclif/plugin-help@^5.1.12
-│  ├─ @steedos/metadata-core@2.6.6
-│  ├─ @steedos/metadata-registrar@2.6.6
+│  ├─ @steedos/metadata-core@2.6.7
+│  ├─ @steedos/metadata-registrar@2.6.7
 │  ├─ ansi-regex@4.1.1
 │  ├─ ansi-styles@3.2.1
 │  │  └─ color-convert@^1.9.0
@@ -21879,23 +21876,23 @@ yarn list v1.22.21
 │  │  └─ yargs-parser@^13.1.2
 │  ├─ yn@^2.0.0
 │  └─ yn@2.0.0
-├─ steedos-server@2.6.6
+├─ steedos-server@2.6.7
 │  ├─ @babel/runtime@7.12.18
 │  ├─ @babel/runtime@7.12.18
 │  │  └─ regenerator-runtime@^0.13.4
-│  ├─ @steedos/accounts@2.6.6
-│  ├─ @steedos/auth@2.6.6
-│  ├─ @steedos/core@2.6.6
-│  ├─ @steedos/filters@2.6.6
+│  ├─ @steedos/accounts@2.6.7
+│  ├─ @steedos/auth@2.6.7
+│  ├─ @steedos/core@2.6.7
+│  ├─ @steedos/filters@2.6.7
 │  ├─ @steedos/form-builder@3.6.2-patch.5
-│  ├─ @steedos/i18n@2.6.6
-│  ├─ @steedos/meteor-bundle-dependencies@2.6.6
-│  ├─ @steedos/meteor-bundle-runner@2.6.6
-│  ├─ @steedos/objectql@2.6.6
-│  ├─ @steedos/odata-v4-mongodb@2.6.6
-│  ├─ @steedos/odata-v4-parser@2.6.6
-│  ├─ @steedos/process@2.6.6
-│  ├─ @steedos/standard-objects@2.6.6
+│  ├─ @steedos/i18n@2.6.7
+│  ├─ @steedos/meteor-bundle-dependencies@2.6.7
+│  ├─ @steedos/meteor-bundle-runner@2.6.7
+│  ├─ @steedos/objectql@2.6.7
+│  ├─ @steedos/odata-v4-mongodb@2.6.7
+│  ├─ @steedos/odata-v4-parser@2.6.7
+│  ├─ @steedos/process@2.6.7
+│  ├─ @steedos/standard-objects@2.6.7
 │  ├─ @steedos/webapp@2.2.25
 │  ├─ @steedos/webapp@2.2.25
 │  ├─ ansi-regex@2.1.1
