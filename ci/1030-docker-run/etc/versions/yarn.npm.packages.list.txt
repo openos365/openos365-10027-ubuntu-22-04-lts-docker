@@ -22540,8 +22540,8 @@ yarn list v1.22.21
 │  ├─ media-typer@0.3.0
 │  └─ mime-types@~2.1.24
 ├─ type@1.2.0
-├─ typed-array-buffer@1.0.1
-│  ├─ call-bind@^1.0.6
+├─ typed-array-buffer@1.0.2
+│  ├─ call-bind@^1.0.7
 │  ├─ es-errors@^1.3.0
 │  └─ is-typed-array@^1.1.13
 ├─ typed-array-byte-length@1.0.0
