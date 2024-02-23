@@ -11701,7 +11701,7 @@ yarn list v1.22.21
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.57
+├─ @types/react@18.2.58
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
@@ -21586,7 +21586,7 @@ yarn list v1.22.21
 │  ├─ agent-base@^6.0.2
 │  ├─ debug@^4.3.3
 │  └─ socks@^2.6.2
-├─ socks@2.7.3
+├─ socks@2.8.1
 │  ├─ ip-address@^9.0.5
 │  └─ smart-buffer@^4.2.0
 ├─ sort-by@1.2.0
