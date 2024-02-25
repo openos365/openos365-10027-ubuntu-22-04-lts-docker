@@ -17730,7 +17730,7 @@ yarn list v1.22.21
 ├─ mimic-fn@2.1.0
 ├─ mimic-response@1.0.1
 ├─ min-indent@1.0.1
-├─ mingo@6.4.10
+├─ mingo@6.4.11
 ├─ mini-css-extract-plugin@0.5.0
 │  ├─ loader-utils@^1.1.0
 │  ├─ schema-utils@^1.0.0
