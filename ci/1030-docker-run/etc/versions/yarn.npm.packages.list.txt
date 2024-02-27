@@ -11701,7 +11701,7 @@ yarn list v1.22.21
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.59
+├─ @types/react@18.2.60
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
@@ -12917,7 +12917,7 @@ yarn list v1.22.21
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001589
+├─ caniuse-lite@1.0.30001591
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -17730,7 +17730,7 @@ yarn list v1.22.21
 ├─ mimic-fn@2.1.0
 ├─ mimic-response@1.0.1
 ├─ min-indent@1.0.1
-├─ mingo@6.4.11
+├─ mingo@6.4.12
 ├─ mini-css-extract-plugin@0.5.0
 │  ├─ loader-utils@^1.1.0
 │  ├─ schema-utils@^1.0.0
