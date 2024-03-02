@@ -1795,7 +1795,7 @@ yarn list v1.22.21
 ├─ @jridgewell/resolve-uri@3.1.2
 ├─ @jridgewell/set-array@1.2.1
 ├─ @jridgewell/sourcemap-codec@1.4.15
-├─ @jridgewell/trace-mapping@0.3.24
+├─ @jridgewell/trace-mapping@0.3.25
 │  ├─ @jridgewell/resolve-uri@^3.1.0
 │  └─ @jridgewell/sourcemap-codec@^1.4.14
 ├─ @jsx-lite/core@0.0.17
