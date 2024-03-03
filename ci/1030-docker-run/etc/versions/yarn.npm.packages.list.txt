@@ -23048,7 +23048,7 @@ yarn list v1.22.21
 ├─ xpath.js@1.1.0
 ├─ xpipe@1.0.5
 ├─ xregexp@4.0.0
-├─ xss@1.0.14
+├─ xss@1.0.15
 │  ├─ commander@^2.20.3
 │  └─ cssfilter@0.0.10
 ├─ xtend@4.0.2
