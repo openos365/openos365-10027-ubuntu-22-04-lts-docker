@@ -4431,16 +4431,16 @@ yarn list v1.22.22
 │  ├─ lodash@^4.17.21
 │  └─ node-xlsx@^0.16.1
 ├─ @steedos/design-system-react@2.1.116
-├─ @steedos/ee_audit-records@2.5.36
-├─ @steedos/ee_branding@2.5.36
-├─ @steedos/ee_community-users@2.5.36
-├─ @steedos/ee_mongodb-bi-connector@2.5.36
+├─ @steedos/ee_audit-records@2.5.37
+├─ @steedos/ee_branding@2.5.37
+├─ @steedos/ee_community-users@2.5.37
+├─ @steedos/ee_mongodb-bi-connector@2.5.37
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ ioredis@^4.22.0
 │  ├─ moleculer@^0.14.25
 │  ├─ mongodb-uri@0.9.7
 │  └─ mongodb@^3.7.3
-├─ @steedos/ee_plugin-field-encryption@2.5.36
+├─ @steedos/ee_plugin-field-encryption@2.5.37
 │  ├─ chalk@4.1.2
 │  ├─ chalk@4.1.2
 │  │  ├─ ansi-styles@^4.1.0
@@ -4548,7 +4548,7 @@ yarn list v1.22.22
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
 ├─ @steedos/ee_unpkg-local@2.4.18
-├─ @steedos/ee_virus-scan@2.5.36
+├─ @steedos/ee_virus-scan@2.5.37
 ├─ @steedos/filters@2.6.7
 │  ├─ @babel/runtime@7.12.18
 │  ├─ @babel/runtime@7.12.18
@@ -4565,7 +4565,7 @@ yarn list v1.22.22
 │  ├─ i18next@^19.3.4
 │  ├─ underscore@1.13.4
 │  └─ underscore@1.13.4
-├─ @steedos/license@2.5.36
+├─ @steedos/license@2.5.37
 │  ├─ abort-controller@^3.0.0
 │  ├─ crypto@^1.0.1
 │  ├─ node-fetch@^2.6.0
@@ -4970,7 +4970,7 @@ yarn list v1.22.22
 ├─ @steedos/pdfjs-dist@1.0.0
 ├─ @steedos/plugin-company@2.6.7
 ├─ @steedos/plugin-contact@2.0.8
-├─ @steedos/plugin-dingtalk@2.5.36
+├─ @steedos/plugin-dingtalk@2.5.37
 │  ├─ cookies@^0.8.0
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ express@^4.17.1
@@ -5014,7 +5014,7 @@ yarn list v1.22.22
 │  └─ scheduler@0.19.1
 │     ├─ loose-envify@^1.1.0
 │     └─ object-assign@^4.1.1
-├─ @steedos/plugin-qywx@2.5.36
+├─ @steedos/plugin-qywx@2.5.37
 │  ├─ axios@^1.6.7
 │  ├─ axios@1.6.7
 │  │  ├─ follow-redirects@^1.15.4
@@ -5069,7 +5069,7 @@ yarn list v1.22.22
 │  │  ├─ loose-envify@^1.1.0
 │  │  └─ object-assign@^4.1.1
 │  └─ underscore@^1.9.1
-├─ @steedos/plugin-welink@2.5.36
+├─ @steedos/plugin-welink@2.5.37
 │  ├─ axios@1.5.0
 │  ├─ axios@1.5.0
 │  │  ├─ follow-redirects@^1.15.0
@@ -7401,8 +7401,8 @@ yarn list v1.22.22
 │  │  ├─ range-parser@~1.2.1
 │  │  └─ statuses@2.0.1
 │  └─ statuses@2.0.1
-├─ @steedos/service-license@2.5.36
-│  ├─ @steedos/license@2.5.36
+├─ @steedos/service-license@2.5.37
+│  ├─ @steedos/license@2.5.37
 │  └─ axios@^0.21.4
 ├─ @steedos/service-metadata-apps@2.6.7
 │  ├─ @steedos/i18n@2.6.7
