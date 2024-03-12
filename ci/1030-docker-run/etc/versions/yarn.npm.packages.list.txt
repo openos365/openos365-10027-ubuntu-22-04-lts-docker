@@ -11553,7 +11553,7 @@ yarn list v1.22.22
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.2.64
+├─ @types/react@18.2.65
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@*
 │  └─ csstype@^3.0.2
