@@ -146,7 +146,7 @@ yarn list v1.22.22
 ├─ @ant-design/colors@6.0.0
 │  └─ @ctrl/tinycolor@^3.4.0
 ├─ @ant-design/icons-svg@4.4.2
-├─ @ant-design/icons@4.8.1
+├─ @ant-design/icons@4.8.2
 │  ├─ @ant-design/colors@^6.0.0
 │  ├─ @ant-design/icons-svg@^4.3.0
 │  ├─ @babel/runtime@^7.11.2
