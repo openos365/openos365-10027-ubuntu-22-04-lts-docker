@@ -13334,9 +13334,9 @@ yarn list v1.22.22
 ├─ copy-descriptor@0.1.1
 ├─ copy-to-clipboard@3.3.3
 │  └─ toggle-selection@^1.0.6
-├─ core-js-compat@3.36.0
-│  └─ browserslist@^4.22.3
-├─ core-js-pure@3.36.0
+├─ core-js-compat@3.36.1
+│  └─ browserslist@^4.23.0
+├─ core-js-pure@3.36.1
 ├─ core-js@2.6.12
 ├─ core-util-is@1.0.3
 ├─ cors@2.8.5
@@ -19973,7 +19973,7 @@ yarn list v1.22.22
 │  └─ prop-types@^15.7.2
 ├─ react-app-polyfill@1.0.6
 │  ├─ core-js@^3.5.0
-│  ├─ core-js@3.36.0
+│  ├─ core-js@3.36.1
 │  ├─ object-assign@^4.1.1
 │  ├─ promise@^8.0.3
 │  ├─ promise@8.3.0
