@@ -402,8 +402,8 @@ yarn list v1.22.22
 │     ├─ which-module@^2.0.0
 │     ├─ y18n@^4.0.0
 │     └─ yargs-parser@^18.1.2
-├─ @babel/code-frame@7.24.1
-│  ├─ @babel/highlight@^7.24.1
+├─ @babel/code-frame@7.24.2
+│  ├─ @babel/highlight@^7.24.2
 │  └─ picocolors@^1.0.0
 ├─ @babel/compat-data@7.24.1
 ├─ @babel/core@7.24.1
@@ -519,7 +519,7 @@ yarn list v1.22.22
 │  ├─ @babel/template@^7.24.0
 │  ├─ @babel/traverse@^7.24.1
 │  └─ @babel/types@^7.24.0
-├─ @babel/highlight@7.24.1
+├─ @babel/highlight@7.24.2
 │  ├─ @babel/helper-validator-identifier@^7.22.20
 │  ├─ chalk@^2.4.2
 │  ├─ js-tokens@^4.0.0
@@ -20269,8 +20269,8 @@ yarn list v1.22.22
 │  ├─ @babel/core@7.4.3
 │  ├─ @babel/core@7.4.3
 │  │  ├─ @babel/code-frame@^7.0.0
-│  │  ├─ @babel/code-frame@7.24.1
-│  │  │  ├─ @babel/highlight@^7.24.1
+│  │  ├─ @babel/code-frame@7.24.2
+│  │  │  ├─ @babel/highlight@^7.24.2
 │  │  │  └─ picocolors@^1.0.0
 │  │  ├─ @babel/generator@^7.4.0
 │  │  ├─ @babel/helpers@^7.4.3
