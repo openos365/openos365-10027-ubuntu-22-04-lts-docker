@@ -11415,7 +11415,7 @@ yarn list v1.22.22
 │  └─ webfinger@^0.4.2
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
-├─ @tsconfig/node10@1.0.9
+├─ @tsconfig/node10@1.0.10
 ├─ @tsconfig/node12@1.0.11
 ├─ @tsconfig/node14@1.0.3
 ├─ @tsconfig/node16@1.0.4
