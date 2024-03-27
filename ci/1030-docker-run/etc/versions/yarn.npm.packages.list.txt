@@ -5577,8 +5577,8 @@ yarn list v1.22.22
 │  ├─ moment@^2.29.1
 │  ├─ mysql@^2.18.1
 │  ├─ nats@^2.13.1
-│  ├─ nats@2.19.0
-│  │  └─ nkeys.js@1.0.5
+│  ├─ nats@2.21.0
+│  │  └─ nkeys.js@1.1.0
 │  ├─ node-schedule@^2.0.0
 │  ├─ node-xlsx@^0.16.1
 │  ├─ nopt@5.0.0
@@ -18066,7 +18066,7 @@ yarn list v1.22.22
 ├─ nextafter@1.0.0
 │  └─ double-bits@^1.1.0
 ├─ nice-try@1.0.5
-├─ nkeys.js@1.0.5
+├─ nkeys.js@1.1.0
 │  ├─ tweetnacl@1.0.3
 │  └─ tweetnacl@1.0.3
 ├─ no-case@2.3.2
