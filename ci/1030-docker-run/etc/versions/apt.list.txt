@@ -697,7 +697,7 @@ apt-transport-tor/jammy 0.5 all
 apt-utils/jammy-updates 2.4.11 amd64
 apt-venv/jammy 1.0.0-3 all
 apt-xapian-index/jammy 0.51ubuntu1 all
-apt/jammy-updates,now 2.4.11 amd64 [installed]
+apt/now 2.4.12 amd64 [installed,local]
 aptdaemon-data/jammy 1.1.1+bzr982-0ubuntu39 all
 aptdaemon/jammy 1.1.1+bzr982-0ubuntu39 all
 aptfs/jammy 2:1.0.1 all
@@ -17509,7 +17509,7 @@ libaprutil1/jammy-updates,jammy-security 1.6.1-5ubuntu4.22.04.2 amd64
 libapt-pkg-dev/jammy-updates 2.4.11 amd64
 libapt-pkg-doc/jammy-updates 2.4.11 all
 libapt-pkg-perl/jammy 0.1.40build2 amd64
-libapt-pkg6.0/jammy-updates,now 2.4.11 amd64 [installed]
+libapt-pkg6.0/now 2.4.12 amd64 [installed,local]
 libaqbanking-data/jammy 6.4.3beta-1 all
 libaqbanking-dev/jammy 6.4.3beta-1 amd64
 libaqbanking44/jammy 6.4.3beta-1 amd64
