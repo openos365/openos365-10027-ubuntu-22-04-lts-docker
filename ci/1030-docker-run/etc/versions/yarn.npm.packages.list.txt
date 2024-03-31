@@ -5589,16 +5589,14 @@ yarn list v1.22.22
 │  │  ├─ console-control-strings@^1.1.0
 │  │  ├─ gauge@^3.0.0
 │  │  └─ set-blocking@^2.0.0
-│  ├─ pg-connection-string@2.6.2
-│  ├─ pg-pool@3.6.1
+│  ├─ pg-connection-string@2.6.3
+│  ├─ pg-pool@3.6.2
 │  ├─ pg@^8.10.0
-│  ├─ pg@8.11.3
-│  │  ├─ buffer-writer@2.0.0
-│  │  ├─ packet-reader@1.0.0
+│  ├─ pg@8.11.4
 │  │  ├─ pg-cloudflare@^1.1.1
-│  │  ├─ pg-connection-string@^2.6.2
-│  │  ├─ pg-pool@^3.6.1
-│  │  ├─ pg-protocol@^1.6.0
+│  │  ├─ pg-connection-string@^2.6.3
+│  │  ├─ pg-pool@^3.6.2
+│  │  ├─ pg-protocol@^1.6.1
 │  │  ├─ pg-types@^2.1.0
 │  │  └─ pgpass@1.x
 │  ├─ promise-queue@^2.2.5
@@ -18882,7 +18880,7 @@ yarn list v1.22.22
 ├─ pg-int8@1.0.1
 ├─ pg-packet-stream@1.1.0
 ├─ pg-pool@2.0.10
-├─ pg-protocol@1.6.0
+├─ pg-protocol@1.6.1
 ├─ pg-types@2.2.0
 │  ├─ pg-int8@1.0.1
 │  ├─ postgres-array@~2.0.0
