@@ -5881,7 +5881,7 @@ ethflop/jammy 0~20191003-2 amd64
 ethflux/jammy 1.0-3build2 amd64
 ethstats/jammy 1.2.1-4 all
 ethstatus/jammy 0.4.9 amd64
-ethtool/jammy 1:5.16-1 amd64
+ethtool/jammy-updates 1:5.16-1ubuntu0.1 amd64
 etktab/jammy 3.2-14 all
 etl-dev/jammy 1.4.0-1 amd64
 etm-qt/jammy 3.2.30-1.1 all
