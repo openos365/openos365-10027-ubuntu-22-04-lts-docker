@@ -11561,7 +11561,7 @@ yarn list v1.22.22
 ├─ @types/send@0.17.4
 │  ├─ @types/mime@^1
 │  └─ @types/node@*
-├─ @types/serve-static@1.15.6
+├─ @types/serve-static@1.15.7
 │  ├─ @types/http-errors@*
 │  ├─ @types/node@*
 │  └─ @types/send@*
