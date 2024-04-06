@@ -13990,7 +13990,7 @@ yarn list v1.22.22
 ├─ enquire.js@2.1.6
 ├─ entities@4.5.0
 ├─ env-paths@2.2.1
-├─ envinfo@7.11.1
+├─ envinfo@7.12.0
 ├─ err-code@2.0.3
 ├─ errno@0.1.8
 │  └─ prr@~1.0.1
