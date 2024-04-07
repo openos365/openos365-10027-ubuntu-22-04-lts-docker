@@ -3822,7 +3822,7 @@ yarn list v1.22.22
 ├─ @steedos-ui/amis@2.2.53
 │  ├─ @types/path-to-regexp@^1.7.0
 │  ├─ path-to-regexp@^6.2.1
-│  └─ path-to-regexp@6.2.1
+│  └─ path-to-regexp@6.2.2
 ├─ @steedos-ui/builder-ag-grid@2.2.53
 │  ├─ @ag-grid-community/all-modules@26.2.0
 │  ├─ @ag-grid-community/react@26.2.0
@@ -11545,7 +11545,7 @@ yarn list v1.22.22
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  ├─ path-to-regexp@*
-│  └─ path-to-regexp@6.2.1
+│  └─ path-to-regexp@6.2.2
 ├─ @types/prop-types@15.7.12
 ├─ @types/q@1.5.8
 ├─ @types/qs@6.9.14
@@ -13841,7 +13841,7 @@ yarn list v1.22.22
 │  └─ webidl-conversions@^4.0.2
 ├─ domhandler@5.0.3
 │  └─ domelementtype@^2.3.0
-├─ dompurify@2.4.9
+├─ dompurify@2.5.0
 ├─ domutils@3.1.0
 │  ├─ dom-serializer@^2.0.0
 │  ├─ dom-serializer@2.0.0
