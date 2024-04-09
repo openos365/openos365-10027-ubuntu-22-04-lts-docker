@@ -22974,7 +22974,7 @@ yarn list v1.22.22
 ├─ widest-line@3.1.0
 │  └─ string-width@^4.0.0
 ├─ window-size@0.1.4
-├─ winston-loki@6.0.8
+├─ winston-loki@6.1.0
 │  ├─ async-exit-hook@2.0.1
 │  ├─ btoa@^1.2.1
 │  ├─ protobufjs@^7.2.4
