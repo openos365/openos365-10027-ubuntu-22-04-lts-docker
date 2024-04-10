@@ -21490,7 +21490,7 @@ yarn list v1.22.22
 │  ├─ agent-base@^6.0.2
 │  ├─ debug@^4.3.3
 │  └─ socks@^2.6.2
-├─ socks@2.8.2
+├─ socks@2.8.3
 │  ├─ ip-address@^9.0.5
 │  └─ smart-buffer@^4.2.0
 ├─ sort-by@1.2.0
