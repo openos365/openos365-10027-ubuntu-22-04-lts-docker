@@ -3489,7 +3489,7 @@ yarn list v1.22.22
 │  ├─ tslib@^1.9.3
 │  └─ tslib@1.14.1
 ├─ @sindresorhus/is@4.6.0
-├─ @socket.io/component-emitter@3.1.0
+├─ @socket.io/component-emitter@3.1.1
 ├─ @sqltools/formatter@1.2.5
 ├─ @steedos-builder/design-system@1.1.32
 │  ├─ create-inferno-context@^0.2.4
@@ -5580,7 +5580,7 @@ yarn list v1.22.22
 │  ├─ moment@^2.29.1
 │  ├─ mysql@^2.18.1
 │  ├─ nats@^2.13.1
-│  ├─ nats@2.21.0
+│  ├─ nats@2.22.0
 │  │  └─ nkeys.js@1.1.0
 │  ├─ node-schedule@^2.0.0
 │  ├─ node-xlsx@^0.16.1
@@ -11925,7 +11925,7 @@ yarn list v1.22.22
 │  └─ apollo-server-plugin-base@^0.14.0
 ├─ apollo-upload-client@14.1.3
 │  ├─ @apollo/client@^3.2.5
-│  ├─ @apollo/client@3.9.10
+│  ├─ @apollo/client@3.9.11
 │  │  ├─ @graphql-typed-document-node/core@^3.1.1
 │  │  ├─ @wry/caches@^1.0.0
 │  │  ├─ @wry/equality@^0.5.6
