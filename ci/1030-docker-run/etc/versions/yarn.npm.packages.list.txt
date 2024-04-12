@@ -13920,7 +13920,7 @@ yarn list v1.22.22
 │  │  └─ has-flag@^4.0.0
 │  ├─ syntax-error@^1.1.6
 │  └─ yargs@^16.0.0
-├─ ejs@3.1.9
+├─ ejs@3.1.10
 │  └─ jake@^10.8.5
 ├─ electron-to-chromium@1.4.735
 ├─ element-size@1.1.1
