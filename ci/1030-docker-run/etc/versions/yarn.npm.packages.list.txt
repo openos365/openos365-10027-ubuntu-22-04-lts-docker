@@ -22317,9 +22317,14 @@ yarn list v1.22.22
 ├─ throat@4.1.0
 ├─ throttle-debounce@3.0.1
 ├─ through@2.3.8
-├─ through2-filter@3.0.0
-│  ├─ through2@~2.0.0
-│  └─ xtend@~4.0.0
+├─ through2-filter@3.1.0
+│  ├─ readable-stream@3.6.2
+│  │  ├─ inherits@^2.0.3
+│  │  ├─ string_decoder@^1.1.1
+│  │  └─ util-deprecate@^1.0.1
+│  ├─ through2@^4.0.2
+│  └─ through2@4.0.2
+│     └─ readable-stream@3
 ├─ through2@2.0.5
 │  ├─ readable-stream@~2.3.6
 │  └─ xtend@~4.0.1
