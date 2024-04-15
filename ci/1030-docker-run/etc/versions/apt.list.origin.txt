@@ -80926,8 +80926,8 @@ yapps2/jammy 2.2.1-3.1 all
 yapra/jammy 0.1.2-7.1 all
 yara-doc/jammy 4.1.3-1build1 all
 yara/jammy 4.1.3-1build1 amd64
-yard-doc/jammy-security 0.9.26-1ubuntu0.1 all
-yard/jammy-security 0.9.26-1ubuntu0.1 all
+yard-doc/jammy-updates,jammy-security 0.9.26-1ubuntu0.1 all
+yard/jammy-updates,jammy-security 0.9.26-1ubuntu0.1 all
 yaret/jammy 2.1.0-5.1 all
 yarnpkg/jammy 1.22.10+~cs22.25.14-8 all
 yaru-theme-gnome-shell/jammy-updates 22.04.5 all
