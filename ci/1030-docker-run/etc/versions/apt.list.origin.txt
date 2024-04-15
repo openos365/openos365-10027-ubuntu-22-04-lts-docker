@@ -26959,7 +26959,7 @@ libgnustep-gui0.29/jammy 0.29.0-2build1 amd64
 libgnutls-dane0/jammy-updates,jammy-security 3.7.3-4ubuntu1.4 amd64
 libgnutls-openssl27/jammy-updates,jammy-security 3.7.3-4ubuntu1.4 amd64
 libgnutls28-dev/jammy-updates,jammy-security 3.7.3-4ubuntu1.4 amd64
-libgnutls30/jammy-updates,jammy-security,now 3.7.3-4ubuntu1.4 amd64 [installed]
+libgnutls30/now 3.7.3-4ubuntu1.5 amd64 [installed,local]
 libgnutlsxx28/jammy-updates,jammy-security 3.7.3-4ubuntu1.4 amd64
 libgo-10-dev-alpha-cross/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04cross1 all
 libgo-10-dev-amd64-cross/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04cross1 all
