@@ -11548,7 +11548,7 @@ yarn list v1.22.22
 │  └─ path-to-regexp@6.2.2
 ├─ @types/prop-types@15.7.12
 ├─ @types/q@1.5.8
-├─ @types/qs@6.9.14
+├─ @types/qs@6.9.15
 ├─ @types/range-parser@1.2.7
 ├─ @types/react-redux@7.1.33
 │  ├─ @types/hoist-non-react-statics@^3.3.0
