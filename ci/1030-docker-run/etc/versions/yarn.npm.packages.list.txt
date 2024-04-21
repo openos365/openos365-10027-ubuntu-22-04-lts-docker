@@ -14485,7 +14485,7 @@ yarn list v1.22.22
 ├─ fast-safe-stringify@2.1.1
 ├─ fast-shallow-equal@1.0.0
 ├─ fastest-stable-stringify@2.0.2
-├─ fastest-validator@1.17.0
+├─ fastest-validator@1.18.0
 ├─ fastparse@1.1.2
 ├─ fastq@1.17.1
 │  └─ reusify@^1.0.4
