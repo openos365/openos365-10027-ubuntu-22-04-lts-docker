@@ -3489,7 +3489,7 @@ yarn list v1.22.22
 │  ├─ tslib@^1.9.3
 │  └─ tslib@1.14.1
 ├─ @sindresorhus/is@4.6.0
-├─ @socket.io/component-emitter@3.1.1
+├─ @socket.io/component-emitter@3.1.2
 ├─ @sqltools/formatter@1.2.5
 ├─ @steedos-builder/amis-editor@6.3.0-beta.11
 ├─ @steedos-builder/design-system@1.1.32
@@ -13855,7 +13855,7 @@ yarn list v1.22.22
 │  └─ webidl-conversions@^4.0.2
 ├─ domhandler@5.0.3
 │  └─ domelementtype@^2.3.0
-├─ dompurify@2.5.0
+├─ dompurify@2.5.1
 ├─ domutils@3.1.0
 │  ├─ dom-serializer@^2.0.0
 │  ├─ dom-serializer@2.0.0
