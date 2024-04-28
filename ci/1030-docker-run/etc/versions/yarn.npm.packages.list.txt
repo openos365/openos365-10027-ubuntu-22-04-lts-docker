@@ -12783,7 +12783,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001612
+├─ caniuse-lite@1.0.30001613
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -22183,7 +22183,7 @@ yarn list v1.22.22
 ├─ syntax-error@1.4.0
 │  └─ acorn-node@^1.2.0
 ├─ systeminformation@5.9.17
-├─ systemjs@6.14.3
+├─ systemjs@6.15.1
 ├─ table@6.8.2
 │  ├─ ajv@^8.0.1
 │  ├─ ajv@8.12.0
