@@ -13709,7 +13709,7 @@ yarn list v1.22.22
 ├─ date-fns@1.30.1
 ├─ date-utils@1.2.21
 ├─ dateformat@3.0.3
-├─ dayjs@1.11.10
+├─ dayjs@1.11.11
 ├─ de-indent@1.0.2
 ├─ debug@4.3.4
 │  ├─ ms@2.1.2
