@@ -3351,8 +3351,8 @@ cpdb-backend-cups/jammy 1.1.1-0ubuntu1 amd64
 cpdb-backend-file/jammy 1.0.1-0ubuntu1 amd64
 cpdb-backend-gcp/jammy 1.1.0-0ubuntu2 amd64
 cpio-doc/jammy 2.13-1 all
-cpio-win32/jammy 2.13+dfsg-7 all
-cpio/jammy,now 2.13+dfsg-7 amd64 [installed,automatic]
+cpio-win32/jammy-updates,jammy-security 2.13+dfsg-7ubuntu0.1 all
+cpio/jammy-updates,jammy-security 2.13+dfsg-7ubuntu0.1 amd64 [upgradable from: 2.13+dfsg-7]
 cpipe/jammy 3.0.1-2 amd64
 cpl-plugin-amber-calib/jammy 4.4.1+dfsg-1 all
 cpl-plugin-amber-doc/jammy 4.4.1+dfsg-1 all
@@ -16330,7 +16330,7 @@ leocad/jammy 21.06-1 amd64
 lepton-eda/jammy 1.9.16-3 amd64
 leptonica-progs/jammy 1.82.0-3build1 amd64
 lesana/jammy 0.9.1-2 all
-less/jammy-updates,jammy-security,now 590-1ubuntu0.22.04.2 amd64 [installed,automatic]
+less/jammy-updates,jammy-security 590-1ubuntu0.22.04.3 amd64 [upgradable from: 590-1ubuntu0.22.04.2]
 letterize/jammy 1.4-2.1 amd64
 levee/jammy 3.5a-4build1 amd64
 leveldb-doc/jammy 1.23-3build1 all
