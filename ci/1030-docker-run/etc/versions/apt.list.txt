@@ -461,7 +461,7 @@ anjuta/jammy 2:3.34.0-5 amd64
 anki/jammy 2.1.15+dfsg-3 all
 ann-tools/jammy 1.1.2+doc-7build1 amd64
 anomaly/jammy 1.1.0-3build2 amd64
-anope/jammy 2.0.9-1build2 amd64
+anope/jammy-updates,jammy-security 2.0.9-1ubuntu0.1 amd64
 anorack/jammy 0.2.7-1 all
 ansible-core/jammy-updates 2.12.0-1ubuntu0.1 all
 ansible-lint/jammy 5.4.0-2 all
@@ -9393,7 +9393,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy 1.0.0+ds-1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.48.0 amd64 [installed]
+gh/unknown,now 2.49.0 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64

@@ -13855,7 +13855,7 @@ yarn list v1.22.22
 │  └─ webidl-conversions@^4.0.2
 ├─ domhandler@5.0.3
 │  └─ domelementtype@^2.3.0
-├─ dompurify@2.5.1
+├─ dompurify@2.5.2
 ├─ domutils@3.1.0
 │  ├─ dom-serializer@^2.0.0
 │  ├─ dom-serializer@2.0.0
@@ -19398,7 +19398,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.20.2
+├─ preact@10.21.0
 ├─ prelude-ls@1.1.2
 ├─ prepend-http@2.0.0
 ├─ prettier-plugin-svelte@1.4.2
@@ -19500,7 +19500,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.8.0
 │  └─ prosemirror-model@^1.0.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.33.5
+├─ prosemirror-view@1.33.6
 │  ├─ prosemirror-model@^1.20.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
