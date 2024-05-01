@@ -22628,8 +22628,8 @@ yarn list v1.22.22
 │  ├─ readable-stream@~2.3.6
 │  └─ setimmediate@~1.0.4
 ├─ upath@1.2.0
-├─ update-browserslist-db@1.0.13
-│  ├─ escalade@^3.1.1
+├─ update-browserslist-db@1.0.14
+│  ├─ escalade@^3.1.2
 │  └─ picocolors@^1.0.0
 ├─ update-diff@1.1.0
 ├─ upper-case-first@1.1.2
