@@ -14717,7 +14717,7 @@ yarn list v1.22.22
 │  └─ universalify@2.0.1
 ├─ fs-minipass@2.1.0
 │  └─ minipass@^3.0.0
-├─ fs-monkey@1.0.5
+├─ fs-monkey@1.0.6
 ├─ fs-write-stream-atomic@1.0.10
 │  ├─ graceful-fs@^4.1.2
 │  ├─ iferr@^0.1.5
