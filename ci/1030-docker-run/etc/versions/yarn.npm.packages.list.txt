@@ -21185,8 +21185,7 @@ yarn list v1.22.22
 ├─ select-hose@2.0.0
 ├─ selfsigned@1.10.14
 │  └─ node-forge@^0.10.0
-├─ semver@7.6.0
-│  └─ lru-cache@^6.0.0
+├─ semver@7.6.1
 ├─ send@0.16.1
 │  ├─ debug@2.6.9
 │  ├─ debug@2.6.9
