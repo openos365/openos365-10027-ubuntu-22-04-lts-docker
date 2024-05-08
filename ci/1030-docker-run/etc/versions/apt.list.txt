@@ -2560,10 +2560,10 @@ chiark-rwbuffer/jammy 6.1.2+nmu1 amd64
 chiark-scripts/jammy 6.1.2+nmu1 all
 chiark-tcl-applet/jammy 1.0-2 all
 chiark-utils-bin/jammy 6.1.2+nmu1 amd64
-chibi-scheme-common/jammy 0.9.1-3 all
-chibi-scheme-doc/jammy 0.9.1-3 all
-chibi-scheme-images/jammy 0.9.1-3 all
-chibi-scheme/jammy 0.9.1-3 amd64
+chibi-scheme-common/jammy-updates 0.9.1-3ubuntu0.22.04.1 all
+chibi-scheme-doc/jammy-updates 0.9.1-3ubuntu0.22.04.1 all
+chibi-scheme-images/jammy-updates 0.9.1-3ubuntu0.22.04.1 all
+chibi-scheme/jammy-updates 0.9.1-3ubuntu0.22.04.1 amd64
 chicken-bin/jammy 5.2.0-2 amd64
 chimeraslayer/jammy 20101212+dfsg1-5 all
 chip-seq-data/jammy 1.5.5-3 all
@@ -9393,7 +9393,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy 1.0.0+ds-1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.49.0 amd64 [installed]
+gh/unknown,now 2.49.1 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -9693,7 +9693,7 @@ gir1.2-peas-1.0/jammy 1.32.0-1 amd64
 gir1.2-playerctl-2.0/jammy 2.4.1-1 amd64
 gir1.2-pluma-1.0/jammy 1.26.0-1ubuntu1 amd64
 gir1.2-polkit-1.0/jammy 0.105-33 amd64
-gir1.2-poppler-0.18/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
+gir1.2-poppler-0.18/jammy-updates 22.02.0-2ubuntu0.4 amd64
 gir1.2-qmi-1.0/jammy-updates 1.32.0-1ubuntu0.22.04.1 amd64
 gir1.2-qrtr-1.0/jammy 1.2.2-1 amd64
 gir1.2-rb-3.0/jammy 3.4.4-5ubuntu1 amd64
@@ -12373,7 +12373,7 @@ golang-github-smira-flag-dev/jammy 0.0~git20170926.695ea5e-1.1 all
 golang-github-smira-go-aws-auth-dev/jammy 0.0~git20160320.0070896-1.1 all
 golang-github-smira-go-ftp-protocol-dev/jammy 0.0~git20140829.066b75c-2 all
 golang-github-smira-go-xz-dev/jammy 0.0~git20150414.0c531f0-2.1 all
-golang-github-snapcore-snapd-dev/jammy-updates 2.61.3+22.04 all
+golang-github-snapcore-snapd-dev/jammy-updates 2.62+22.04 all
 golang-github-socketplane-libovsdb-dev/jammy 0.1+git20160503.9.d4b9e7a53548-2.1 all
 golang-github-soheilhy-cmux-dev/jammy 0.1.4-2 all
 golang-github-soniah-dnsmadeeasy-dev/jammy 1.1+git20150117.5578a8c-4 all
@@ -12478,7 +12478,7 @@ golang-github-twstrike-otr3-dev/jammy 0.0~git20161015.0.744856d-3.1 all
 golang-github-ua-parser-uap-go-dev/jammy 0.0~git20211112.00c877e-1 all
 golang-github-uber-go-atomic-dev/jammy 1.8.0-2 all
 golang-github-uber-go-tally-dev/jammy 4.0.1-1 all
-golang-github-ubuntu-core-snappy-dev/jammy-updates 2.61.3+22.04 all
+golang-github-ubuntu-core-snappy-dev/jammy-updates 2.62+22.04 all
 golang-github-ugorji-go-codec-dev/jammy 1.1.7-2build1 all
 golang-github-ugorji-go-codec/jammy 1.1.7-2build1 amd64
 golang-github-ugorji-go-msgpack-dev/jammy 0.0~git20130605.792643-5 all
@@ -19267,9 +19267,9 @@ libchi-driver-memcached-perl/jammy 0.16-1 all
 libchi-driver-redis-perl/jammy 0.10-3 all
 libchi-memoize-perl/jammy 0.07-2 all
 libchi-perl/jammy 0.61-1 all
-libchibi-scheme-dev/jammy 0.9.1-3 amd64
-libchibi-scheme-ffi/jammy 0.9.1-3 amd64
-libchibi-scheme0/jammy 0.9.1-3 amd64
+libchibi-scheme-dev/jammy-updates 0.9.1-3ubuntu0.22.04.1 amd64
+libchibi-scheme-ffi/jammy-updates 0.9.1-3ubuntu0.22.04.1 amd64
+libchibi-scheme0/jammy-updates 0.9.1-3ubuntu0.22.04.1 amd64
 libchicken-dev/jammy 5.2.0-2 amd64
 libchicken11/jammy 5.2.0-2 amd64
 libchild-perl/jammy 0.013-1.1 all
@@ -35317,16 +35317,16 @@ libpomp2-doc/jammy 2.0.6-2 all
 libponapi-client-perl/jammy 0.002012-1 all
 libpoppler-cil-dev/jammy 0.0.3-4.1 all
 libpoppler-cil/jammy 0.0.3-4.1 all
-libpoppler-cpp-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler-cpp0v5/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler-glib-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler-glib-doc/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 all
-libpoppler-glib8/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler-private-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler-qt5-1/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler-qt5-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
-libpoppler118/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
+libpoppler-cpp-dev/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler-cpp0v5/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler-dev/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler-glib-dev/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler-glib-doc/jammy-updates 22.02.0-2ubuntu0.4 all
+libpoppler-glib8/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler-private-dev/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler-qt5-1/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler-qt5-dev/jammy-updates 22.02.0-2ubuntu0.4 amd64
+libpoppler118/jammy-updates 22.02.0-2ubuntu0.4 amd64
 libpopplerkit-dev/jammy 0.0.20051227svn-8.2 amd64
 libpopplerkit0/jammy 0.0.20051227svn-8.2 amd64
 libpopt-dev/jammy 1.18-3build1 amd64
@@ -66627,7 +66627,7 @@ popfile/jammy 1.1.3+dfsg-0ubuntu3 all
 poppass-cgi/jammy 3-6.1 all
 poppassd/jammy 1.8.5-6 amd64
 poppler-data/jammy 0.4.11-1 all
-poppler-utils/jammy-updates,jammy-security 22.02.0-2ubuntu0.3 amd64
+poppler-utils/jammy-updates 22.02.0-2ubuntu0.4 amd64
 popularity-contest/jammy 1.71ubuntu3 all
 populations/jammy 1.2.33+svn0120106+dfsg-6 amd64
 porechop/jammy 0.2.4+dfsg-3 amd64
@@ -77275,7 +77275,7 @@ snake4/jammy 1.0.14-1build1 amd64
 snakemake-doc/jammy 6.15.1-2 all
 snakemake/jammy 6.15.1-2 all
 snap-aligner/jammy 1.0.0+dfsg-3 amd64
-snap-confine/jammy-updates 2.61.3+22.04 amd64
+snap-confine/jammy-updates 2.62+22.04 amd64
 snap-templates/jammy 1.0.0.2-4build1 amd64
 snap/jammy 2013-11-29-11 amd64
 snapclient/jammy 0.25.0+dfsg1-2 amd64
@@ -77283,8 +77283,8 @@ snapcraft-examples/jammy 3.0ubuntu2 all
 snapcraft-parser/jammy 3.0ubuntu2 all
 snapcraft/jammy 3.0ubuntu2 all
 snapd-glib-tests/jammy 1.60-0ubuntu1 amd64
-snapd-xdg-open/jammy-updates 2.61.3+22.04 amd64
-snapd/jammy-updates 2.61.3+22.04 amd64
+snapd-xdg-open/jammy-updates 2.62+22.04 amd64
+snapd/jammy-updates 2.62+22.04 amd64
 snaphu/jammy 2.0.5-1 amd64
 snapper-gui/jammy 0git.960a94834f-3.1 all
 snapper/jammy 0.9.0-1 amd64
@@ -79735,8 +79735,8 @@ ubuntu-budgie-themes/jammy 0.14.4 all
 ubuntu-business-defaults/jammy 39 all
 ubuntu-cloud-keyring/jammy 2021.03.26 all
 ubuntu-cloudimage-keyring/jammy 2021.03.26 all
-ubuntu-core-launcher/jammy-updates 2.61.3+22.04 amd64
-ubuntu-core-snapd-units/jammy-updates 2.61.3+22.04 all
+ubuntu-core-launcher/jammy-updates 2.62+22.04 amd64
+ubuntu-core-snapd-units/jammy-updates 2.62+22.04 all
 ubuntu-dbgsym-keyring/jammy 2021.03.26 all
 ubuntu-defaults-builder/jammy 0.57 all
 ubuntu-defaults-it/jammy 0.2.3 all
@@ -79834,8 +79834,8 @@ ubuntu-server-minimal/jammy-updates 1.481.1 amd64
 ubuntu-server/jammy-updates 1.481.1 amd64
 ubuntu-session/jammy 42.0-1ubuntu2 all
 ubuntu-settings/jammy 22.04.6 all
-ubuntu-snappy-cli/jammy-updates 2.61.3+22.04 all
-ubuntu-snappy/jammy-updates 2.61.3+22.04 all
+ubuntu-snappy-cli/jammy-updates 2.62+22.04 all
+ubuntu-snappy/jammy-updates 2.62+22.04 all
 ubuntu-sounds/jammy 0.14 all
 ubuntu-standard/jammy-updates 1.481.1 amd64
 ubuntu-touch-settings/jammy 22.04.6 all
