@@ -7287,7 +7287,7 @@ fortunes-zh/jammy 2.98 all
 fortunes/jammy 1:1.99.1-7.1 all
 fosfat-dev/jammy 0.4.0-13-ged091bb-4 amd64
 fosfat/jammy 0.4.0-13-ged091bb-4 amd64
-fossil/jammy-security 1:2.18-1ubuntu0.1 amd64
+fossil/jammy-updates,jammy-security 1:2.18-1ubuntu0.1 amd64
 fotoxx-common/jammy 20.08-2build1 all
 fotoxx/jammy 20.08-2build1 amd64
 four-in-a-row/jammy 1:3.38.1-1build1 amd64
