@@ -11558,7 +11558,7 @@ yarn list v1.22.22
 │  ├─ @types/react@*
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react@18.3.1
+├─ @types/react@18.3.2
 │  ├─ @types/prop-types@*
 │  └─ csstype@^3.0.2
 ├─ @types/requirejs@2.1.37
@@ -13844,7 +13844,7 @@ yarn list v1.22.22
 │  └─ webidl-conversions@^4.0.2
 ├─ domhandler@5.0.3
 │  └─ domelementtype@^2.3.0
-├─ dompurify@2.5.2
+├─ dompurify@2.5.3
 ├─ domutils@3.1.0
 │  ├─ dom-serializer@^2.0.0
 │  ├─ dom-serializer@2.0.0
