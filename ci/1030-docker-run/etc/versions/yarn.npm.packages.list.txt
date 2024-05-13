@@ -16287,7 +16287,7 @@ yarn list v1.22.22
 │  ├─ config-chain@^1.1.13
 │  ├─ editorconfig@^1.0.4
 │  ├─ glob@^10.3.3
-│  ├─ glob@10.3.14
+│  ├─ glob@10.3.15
 │  │  ├─ foreground-child@^3.1.0
 │  │  ├─ jackspeak@^2.3.6
 │  │  ├─ minimatch@^9.0.1
@@ -18849,7 +18849,7 @@ yarn list v1.22.22
 ├─ path-is-inside@1.0.2
 ├─ path-key@2.0.1
 ├─ path-parse@1.0.7
-├─ path-scurry@1.11.0
+├─ path-scurry@1.11.1
 │  ├─ lru-cache@^10.2.0
 │  ├─ lru-cache@10.2.2
 │  ├─ minipass@^5.0.0 || ^6.0.2 || ^7.0.0
