@@ -18060,6 +18060,7 @@ yarn list v1.22.22
 │  ├─ @next/swc-win32-x64-msvc@12.3.4
 │  ├─ @swc/helpers@0.4.11
 │  ├─ caniuse-lite@^1.0.30001406
+│  ├─ caniuse-lite@1.0.30001618
 │  ├─ nanoid@3.3.7
 │  ├─ postcss@8.4.14
 │  ├─ postcss@8.4.14
