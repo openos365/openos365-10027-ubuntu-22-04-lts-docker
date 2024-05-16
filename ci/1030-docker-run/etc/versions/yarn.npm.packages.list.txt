@@ -12631,6 +12631,7 @@ yarn list v1.22.22
 │  └─ pako@0.2.9
 ├─ browserslist@4.23.0
 │  ├─ caniuse-lite@^1.0.30001587
+│  ├─ caniuse-lite@1.0.30001619
 │  ├─ electron-to-chromium@^1.4.668
 │  ├─ node-releases@^2.0.14
 │  └─ update-browserslist-db@^1.0.13
@@ -12772,7 +12773,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001618
+├─ caniuse-lite@1.0.30001620
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
