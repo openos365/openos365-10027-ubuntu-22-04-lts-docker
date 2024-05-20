@@ -5020,7 +5020,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.45
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.6.8
+│  ├─ axios@1.7.0
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.0
 │  │  └─ proxy-from-env@^1.1.0
@@ -13826,7 +13826,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.47.2
+├─ docxtemplater@3.47.3
 │  └─ @xmldom/xmldom@^0.8.10
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
