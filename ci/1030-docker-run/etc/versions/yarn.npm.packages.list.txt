@@ -13483,7 +13483,7 @@ yarn list v1.22.22
 │  ├─ postcss-modules-values@2.0.0
 │  │  ├─ icss-replace-symbols@^1.1.0
 │  │  └─ postcss@^7.0.6
-│  ├─ postcss-selector-parser@6.0.16
+│  ├─ postcss-selector-parser@6.1.0
 │  │  ├─ cssesc@^3.0.0
 │  │  └─ util-deprecate@^1.0.2
 │  ├─ postcss-value-parser@^3.3.0
@@ -19064,7 +19064,7 @@ yarn list v1.22.22
 ├─ possible-typed-array-names@1.0.0
 ├─ postcss-attribute-case-insensitive@4.0.2
 │  ├─ postcss-selector-parser@^6.0.2
-│  ├─ postcss-selector-parser@6.0.16
+│  ├─ postcss-selector-parser@6.1.0
 │  │  ├─ cssesc@^3.0.0
 │  │  └─ util-deprecate@^1.0.2
 │  └─ postcss@^7.0.2
@@ -19072,7 +19072,7 @@ yarn list v1.22.22
 │  └─ postcss@^7.0.2
 ├─ postcss-calc@7.0.5
 │  ├─ postcss-selector-parser@^6.0.2
-│  ├─ postcss-selector-parser@6.0.16
+│  ├─ postcss-selector-parser@6.1.0
 │  │  ├─ cssesc@^3.0.0
 │  │  └─ util-deprecate@^1.0.2
 │  ├─ postcss-value-parser@^4.0.2
