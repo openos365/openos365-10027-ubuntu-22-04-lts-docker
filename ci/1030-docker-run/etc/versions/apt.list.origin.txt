@@ -75391,7 +75391,7 @@ rpm-i18n/jammy 4.17.0+dfsg1-4build1 all
 rpm2cpio/jammy 4.17.0+dfsg1-4build1 amd64
 rpm/jammy 4.17.0+dfsg1-4build1 amd64
 rpmlint/jammy 2.2.0+ds1-0.2 all
-rr/jammy 5.5.0-1build1 amd64
+rr/jammy-updates 5.5.0-1ubuntu0.1 amd64
 rrdcached/jammy 1.7.2-3ubuntu6 amd64
 rrdcollect-dbg/jammy 0.2.10-2build1 amd64
 rrdcollect/jammy 0.2.10-2build1 amd64
