@@ -21369,9 +21369,9 @@ libecore-ipc1/jammy 1.26.2-1 amd64
 libecore-wl2-1/jammy 1.26.2-1 amd64
 libecore-x1/jammy 1.26.2-1 amd64
 libecore1/jammy 1.26.2-1 amd64
-libecpg-compat3/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
-libecpg-dev/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
-libecpg6/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
+libecpg-compat3/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
+libecpg-dev/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
+libecpg6/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
 libecpint-dev/jammy 1.0.7-1 amd64
 libecryptfs-dev/jammy 111-5ubuntu1 amd64
 libecryptfs1/jammy 111-5ubuntu1 amd64
@@ -34964,7 +34964,7 @@ libpgraphutil-smlnj/jammy 110.79-6 amd64
 libpgsbox7/jammy 7.7+ds-1 amd64
 libpgtcl-dev/jammy 1:2.8.0-1 amd64
 libpgtcl/jammy 1:2.8.0-1 amd64
-libpgtypes3/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
+libpgtypes3/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
 libphat-dev/jammy 1.6-2build2 all
 libphitsmcpl1/jammy 1.3.2-3 amd64
 libphobos2-ldc-shared-dev/jammy 1:1.28.0-1ubuntu1 amd64
@@ -35426,8 +35426,8 @@ libppx-variants-conv-ocaml/jammy 0.14.2-1build1 amd64
 libppx-visitors-ocaml-dev/jammy 20210608-1build1 amd64
 libppx-visitors-ocaml-doc/jammy 20210608-1build1 all
 libppxlib-ocaml-dev/jammy 0.24.0-1build2 amd64
-libpq-dev/jammy-updates,jammy-security,now 14.11-0ubuntu0.22.04.1 amd64 [installed]
-libpq5/jammy-updates,jammy-security,now 14.11-0ubuntu0.22.04.1 amd64 [installed,automatic]
+libpq-dev/jammy-updates,jammy-security,now 14.12-0ubuntu0.22.04.1 amd64 [installed]
+libpq5/jammy-updates,jammy-security,now 14.12-0ubuntu0.22.04.1 amd64 [installed,automatic]
 libpqtypes-dev/jammy 1.5.1-7 amd64
 libpqtypes0/jammy 1.5.1-7 amd64
 libpqxx-6.4/jammy 6.4.5-2build1 amd64
@@ -62821,7 +62821,7 @@ node-browserify-cipher/jammy 1.0.1-2 all
 node-browserify-des/jammy 1.0.2-5 all
 node-browserify-lite/jammy 0.5.1+~cs7.1.5-2 all
 node-browserify-rsa/jammy 4.1.0-2 all
-node-browserify-sign/jammy 4.2.1-2 all
+node-browserify-sign/jammy-updates,jammy-security 4.2.1-2ubuntu0.1 all
 node-browserify-zlib/jammy 0.2.0+20170820git8b3f0a862f6b+dfsg-6 all
 node-browserify/jammy 17.0.0+ds-3 all
 node-browserslist/jammy 4.19.3+~cs5.1.3-1 all
@@ -67359,22 +67359,22 @@ postgresql-14-tds-fdw/jammy 2.0.2-3 amd64
 postgresql-14-toastinfo/jammy 1.4-2 amd64
 postgresql-14-unit/jammy 7.4-2 amd64
 postgresql-14-wal2json/jammy 2.4-2 amd64
-postgresql-14/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
+postgresql-14/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
 postgresql-all/jammy 238 all
 postgresql-autodoc/jammy 1.41+20200921-1 all
-postgresql-client-14/jammy-updates,jammy-security,now 14.11-0ubuntu0.22.04.1 amd64 [installed,automatic]
+postgresql-client-14/jammy-updates,jammy-security,now 14.12-0ubuntu0.22.04.1 amd64 [installed,automatic]
 postgresql-client-common/jammy,now 238 all [installed,automatic]
 postgresql-client/jammy,now 14+238 all [installed]
 postgresql-common/jammy 238 all
 postgresql-comparator/jammy 2.3.2-2 amd64
 postgresql-contrib/jammy 14+238 all
-postgresql-doc-14/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 all
+postgresql-doc-14/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 all
 postgresql-doc/jammy 14+238 all
 postgresql-filedump/jammy 14.0-2 amd64
-postgresql-plperl-14/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
-postgresql-plpython3-14/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
-postgresql-pltcl-14/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
-postgresql-server-dev-14/jammy-updates,jammy-security 14.11-0ubuntu0.22.04.1 amd64
+postgresql-plperl-14/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
+postgresql-plpython3-14/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
+postgresql-pltcl-14/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
+postgresql-server-dev-14/jammy-updates,jammy-security 14.12-0ubuntu0.22.04.1 amd64
 postgresql-server-dev-all/jammy 238 amd64
 postgresql/jammy 14+238 all
 postgrey/jammy 1.36-5.2 all
@@ -68625,7 +68625,7 @@ python-pymeasure-doc/jammy 0.9.0-1 all
 python-pymediainfo-doc/jammy 5.0.3-1 all
 python-pymodbus-doc/jammy 2.1.0+dfsg-2 all
 python-pymongo-doc/jammy 3.11.0-1build4 all
-python-pymysql-doc/jammy 1.0.2-1ubuntu1 all
+python-pymysql-doc/jammy-updates,jammy-security 1.0.2-1ubuntu1.22.04.1 all
 python-pymzml-doc/jammy 2.4.7-3 all
 python-pynfft-doc/jammy 1.3.2-5build1 all
 python-pyopencl-doc/jammy 2021.2.13-1build1 all
@@ -71565,7 +71565,7 @@ python3-pymongo/jammy 3.11.0-1build4 amd64
 python3-pympler/jammy 0.9+dfsg1-2 all
 python3-pymssql/jammy 2.2.2-1build1 amd64
 python3-pymummer/jammy 0.11.0-2 all
-python3-pymysql/jammy 1.0.2-1ubuntu1 all
+python3-pymysql/jammy-updates,jammy-security 1.0.2-1ubuntu1.22.04.1 all
 python3-pymzml/jammy 2.4.7-3 all
 python3-pynag/jammy 1.1.2+dfsg-2 all
 python3-pynauty/jammy 1.0.2+ds-2build1 amd64
@@ -79748,7 +79748,7 @@ timekpr-next/jammy 0.5.2-1 amd64
 timelimit/jammy 1.9.2-1 amd64
 timemachine/jammy 0.3.3-2.1build2 amd64
 timemon.app/jammy 4.2-2build4 amd64
-timeshift/jammy 21.09.1-1 amd64
+timeshift/jammy-updates 21.09.1-1ubuntu1 amd64
 timewarrior/jammy 1.4.3+ds.1-1 amd64
 timg/jammy 1.4.3-1 amd64
 timgm6mb-soundfont/jammy 1.3-5 all
