@@ -34178,10 +34178,10 @@ libopenrefine-arithcode-java/jammy 1.2-2 all
 libopenrefine-butterfly-java/jammy 1.2.3-1 all
 libopenrefine-opencsv-java/jammy 2.4-2 all
 libopenrefine-vicino-java/jammy 1.2-3 all
-libopenscap-dev/jammy-updates 1.2.17-0.1ubuntu7.22.04.1 amd64
-libopenscap-perl/jammy-updates 1.2.17-0.1ubuntu7.22.04.1 amd64
-libopenscap8-dbg/jammy-updates 1.2.17-0.1ubuntu7.22.04.1 amd64
-libopenscap8/jammy-updates 1.2.17-0.1ubuntu7.22.04.1 amd64
+libopenscap-dev/jammy-updates 1.2.17-0.1ubuntu7.22.04.2 amd64
+libopenscap-perl/jammy-updates 1.2.17-0.1ubuntu7.22.04.2 amd64
+libopenscap8-dbg/jammy-updates 1.2.17-0.1ubuntu7.22.04.2 amd64
+libopenscap8/jammy-updates 1.2.17-0.1ubuntu7.22.04.2 amd64
 libopenscenegraph-dev/jammy 3.6.5+dfsg1-7build3 amd64
 libopenscenegraph161/jammy 3.6.5+dfsg1-7build3 amd64
 libopenshot-audio-dev/jammy 0.2.0+dfsg1-4 amd64
@@ -71058,7 +71058,7 @@ python3-openimageio/jammy 2.2.18.0+dfsg-1ubuntu2 amd64
 python3-openpyxl/jammy 3.0.9-1 all
 python3-openqa-client/jammy 4.1.2-2 all
 python3-openrazer/jammy 3.2.0+dfsg-3 all
-python3-openscap/jammy-updates 1.2.17-0.1ubuntu7.22.04.1 amd64
+python3-openscap/jammy-updates 1.2.17-0.1ubuntu7.22.04.2 amd64
 python3-openshot/jammy 0.2.5+dfsg1-6build2 amd64
 python3-openslide/jammy 1.1.2-1build4 amd64
 python3-openssl/jammy 21.0.0-1 all
