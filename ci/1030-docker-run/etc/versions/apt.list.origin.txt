@@ -9680,7 +9680,7 @@ gir1.2-messagingmenu-1.0/jammy 22.2.0-1 amd64
 gir1.2-meta-muffin-0.0/jammy 5.2.1-1 amd64
 gir1.2-modemmanager-1.0/jammy-updates 1.20.0-1~ubuntu22.04.3 amd64
 gir1.2-modulemd-2.0/jammy 2.13.0-1 amd64
-gir1.2-mutter-10/jammy-updates,jammy-security 42.9-0ubuntu7.1 amd64
+gir1.2-mutter-10/jammy-updates 42.9-0ubuntu8 amd64
 gir1.2-mypaint-1.5/jammy 1.6.0-2 amd64
 gir1.2-nautilus-3.0/jammy-updates 1:42.6-0ubuntu1 amd64
 gir1.2-nemo-3.0/jammy 5.2.4-1 amd64
@@ -32424,9 +32424,9 @@ libmusicbrainz5cc2v5/jammy 5.1.0+git20150707-10 amd64
 libmustache-d-dev/jammy 0.1.4-1build3 amd64
 libmustache-d0/jammy 0.1.4-1build3 amd64
 libmustache-java/jammy 0.9.1-1 all
-libmutter-10-0/jammy-updates,jammy-security 42.9-0ubuntu7.1 amd64
-libmutter-10-dev/jammy-updates,jammy-security 42.9-0ubuntu7.1 amd64
-libmutter-test-10/jammy-updates,jammy-security 42.9-0ubuntu7.1 amd64
+libmutter-10-0/jammy-updates 42.9-0ubuntu8 amd64
+libmutter-10-dev/jammy-updates 42.9-0ubuntu8 amd64
+libmutter-test-10/jammy-updates 42.9-0ubuntu8 amd64
 libmvel-java/jammy 2.4.4-1 all
 libmwaw-0.3-3/jammy 0.3.21-1build1 amd64
 libmwaw-dev/jammy 0.3.21-1build1 amd64
@@ -62388,9 +62388,9 @@ mutrace/jammy 0.2.0-3.4 amd64
 mutt-vc-query/jammy 005-1 amd64
 mutt/jammy-updates,jammy-security 2.1.4-1ubuntu1.2 amd64
 muttdown/jammy 0.3.5-2 all
-mutter-10-tests/jammy-updates,jammy-security 42.9-0ubuntu7.1 amd64
-mutter-common/jammy-updates,jammy-security 42.9-0ubuntu7.1 all
-mutter/jammy-updates,jammy-security 42.9-0ubuntu7.1 amd64
+mutter-10-tests/jammy-updates 42.9-0ubuntu8 amd64
+mutter-common/jammy-updates 42.9-0ubuntu8 all
+mutter/jammy-updates 42.9-0ubuntu8 amd64
 muttprint-manual/jammy 0.73-11 all
 muttprint/jammy 0.73-11 all
 muttprofile/jammy 1.0.1-5.1 all
