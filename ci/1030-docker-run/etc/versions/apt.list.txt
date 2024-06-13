@@ -9733,7 +9733,7 @@ gir1.2-upowerglib-1.0/jammy 0.99.17-1 amd64
 gir1.2-urfkill-glib0/jammy 0.6.0~20150318.103828.5539c0d.1-0ubuntu9 amd64
 gir1.2-v-sim-1.0/jammy 3.7.2-8build7 amd64
 gir1.2-vips-8.0/jammy 8.12.1-1build1 amd64
-gir1.2-vte-2.91/jammy-security 0.68.0-1ubuntu0.1 amd64
+gir1.2-vte-2.91/jammy 0.68.0-1 amd64
 gir1.2-webkit-6.0/jammy-updates,jammy-security 2.44.2-0ubuntu0.22.04.1 amd64
 gir1.2-webkit2-4.0/jammy-updates,jammy-security 2.44.2-0ubuntu0.22.04.1 amd64
 gir1.2-webkit2-4.1/jammy-updates,jammy-security 2.44.2-0ubuntu0.22.04.1 amd64
@@ -41882,10 +41882,10 @@ libvsqlitepp-dev/jammy 0.3.13-4.1 amd64
 libvsqlitepp-doc/jammy 0.3.13-4.1 all
 libvsqlitepp3v5/jammy 0.3.13-4.1 amd64
 libvt-ldap-java/jammy 3.3.8-4 all
-libvte-2.91-0/jammy-security 0.68.0-1ubuntu0.1 amd64
-libvte-2.91-common/jammy-security 0.68.0-1ubuntu0.1 amd64
-libvte-2.91-dev/jammy-security 0.68.0-1ubuntu0.1 amd64
-libvte-2.91-doc/jammy-security 0.68.0-1ubuntu0.1 all
+libvte-2.91-0/jammy 0.68.0-1 amd64
+libvte-2.91-common/jammy 0.68.0-1 amd64
+libvte-2.91-dev/jammy 0.68.0-1 amd64
+libvte-2.91-doc/jammy 0.68.0-1 all
 libvte-common/jammy 1:0.28.2-6build3 all
 libvte-dev/jammy 1:0.28.2-6build3 amd64
 libvte9/jammy 1:0.28.2-6build3 amd64
@@ -44472,7 +44472,7 @@ linux-crashdump/jammy-updates,jammy-security 5.15.0.112.112 amd64
 linux-doc/jammy-updates,jammy-security 5.15.0-112.122 all
 linux-firmware-xilinx-ap1302/jammy 2021.1-0ubuntu1 all
 linux-firmware-xilinx-vcu/jammy 2020.2-0ubuntu1 all
-linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.31 all
+linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.30 all
 linux-gcp-5.19-headers-5.19.0-1022/jammy-updates,jammy-security 5.19.0-1022.24~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1024/jammy-updates,jammy-security 5.19.0-1024.26~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1025/jammy-updates,jammy-security 5.19.0-1025.27~22.04.1 amd64
