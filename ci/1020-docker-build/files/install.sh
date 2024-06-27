@@ -264,7 +264,7 @@ git clone https://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
 
 cd ~
 rm -rf steedos-platform
-git clone --depth=1 -b master https://github.com/steedos/steedos-platform.git
+git clone --depth=1 -b 2.6 https://github.com/steedos/steedos-platform.git
 cd steedos-platform
 yarn --frozen-lockfile
 export PATH=$(yarn bin):$PATH
