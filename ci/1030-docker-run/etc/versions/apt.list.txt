@@ -6704,11 +6704,11 @@ font-viewer/jammy 0.8.8-1 amd64
 fontconfig-config/jammy,now 2.13.1-4.2ubuntu5 all [installed,automatic]
 fontconfig/jammy 2.13.1-4.2ubuntu5 amd64
 fontcustom/jammy 2.0.0+ds4-5.1 all
-fontforge-common/jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 all
-fontforge-doc/jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 all
-fontforge-extras/jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
-fontforge-nox/jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
-fontforge/jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
+fontforge-common/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 all
+fontforge-doc/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 all
+fontforge-extras/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
+fontforge-nox/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
+fontforge/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
 fontmake/jammy 2.4.1-1 all
 fontmanager.app/jammy 0.1-3build1 amd64
 fontmatrix/jammy 0.9.100+ds-1 amd64
@@ -22324,7 +22324,7 @@ libfontembed-dev/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
 libfontembed1/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
 libfontenc-dev/jammy 1:1.1.4-1build3 amd64
 libfontenc1/jammy,now 1:1.1.4-1build3 amd64 [installed,automatic]
-libfontforge4/jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
+libfontforge4/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
 libfonts-java-doc/jammy 1.1.6.dfsg2-1 all
 libfonts-java/jammy 1.1.6.dfsg2-1 all
 libfoonathan-memory-dev/jammy 0.7.1-4 amd64
@@ -71189,7 +71189,7 @@ python3-flufl.password/jammy 1.3-3 all
 python3-flufl.testing/jammy 0.7-2 all
 python3-fluids/jammy 0.1.78-3 all
 python3-folium/jammy 0.12.1+dfsg-2 all
-python3-fontforge/jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
+python3-fontforge/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
 python3-fontmake/jammy 2.4.1-1 all
 python3-fontmath/jammy 0.8.1-1 all
 python3-fontparts/jammy 0.9.6-1 all
