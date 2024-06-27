@@ -3,7 +3,7 @@ name: 1.ci
 on:
   push:
     branches:
-      - '2.6'
+      - 'main'
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
