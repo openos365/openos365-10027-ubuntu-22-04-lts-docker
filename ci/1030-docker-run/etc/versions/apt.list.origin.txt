@@ -32993,8 +32993,8 @@ libnetpbm10-dev/jammy 2:10.0-15.4 amd64
 libnetpbm10/jammy 2:10.0-15.4 amd64
 libnetpbm9-dev/jammy 2:10.0-15.4 amd64
 libnetpbm9/jammy 2:10.0-15.4 amd64
-libnetplan-dev/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.3 amd64
-libnetplan0/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.3 amd64
+libnetplan-dev/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.4 amd64
+libnetplan0/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.4 amd64
 libnetsds-kannel-perl/jammy 1.300-7 all
 libnetsds-perl/jammy 1.301-4 all
 libnetsds-util-perl/jammy 1.045-1 all
@@ -63636,7 +63636,7 @@ netpipe-openmpi/jammy 3.7.2-8 amd64
 netpipe-pvm/jammy 3.7.2-8 amd64
 netpipe-tcp/jammy 3.7.2-8 amd64
 netpipes/jammy 4.2-8build1 amd64
-netplan.io/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.3 amd64
+netplan.io/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.4 amd64
 netplug/jammy 1.2.9.2-3 amd64
 netproc/jammy 0.6.3-1 amd64
 netr/jammy 0.1.4-1 amd64
