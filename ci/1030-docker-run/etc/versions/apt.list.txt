@@ -60125,6 +60125,7 @@ linux-riscv-6.5-headers-6.5.0-27/jammy-updates,jammy-security 6.5.0-27.28.1~22.0
 linux-riscv-6.5-headers-6.5.0-28/jammy-updates,jammy-security 6.5.0-28.29.1~22.04.1 all
 linux-riscv-6.5-headers-6.5.0-35/jammy-updates,jammy-security 6.5.0-35.35.1~22.04.1 all
 linux-riscv-6.5-headers-6.5.0-40/jammy-updates,jammy-security 6.5.0-40.40.1~22.04.1 all
+linux-riscv-6.5-headers-6.5.0-42/jammy-updates 6.5.0-42.42.1~22.04.1 all
 linux-riscv-headers-5.15.0-1007/jammy 5.15.0-1007.7 all
 linux-riscv-headers-5.15.0-1028/jammy-updates,jammy-security 5.15.0-1028.32 all
 linux-show-player/jammy-updates 0.5.2-1ubuntu0.1 all
@@ -60588,6 +60589,7 @@ linux-starfive-6.5-headers-6.5.0-1011/jammy-updates,jammy-security 6.5.0-1011.12
 linux-starfive-6.5-headers-6.5.0-1012/jammy-updates,jammy-security 6.5.0-1012.13~22.04.1 all
 linux-starfive-6.5-headers-6.5.0-1014/jammy-updates,jammy-security 6.5.0-1014.15~22.04.1 all
 linux-starfive-6.5-headers-6.5.0-1015/jammy-updates,jammy-security 6.5.0-1015.16~22.04.1 all
+linux-starfive-6.5-headers-6.5.0-1016/jammy-updates 6.5.0-1016.17~22.04.1 all
 linux-tools-5.15.0-100-generic/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-tools-5.15.0-100-lowlatency/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-tools-5.15.0-1002-gke/jammy 5.15.0-1002.2 amd64
@@ -66630,11 +66632,11 @@ opensmtpd-filter-senderscore/jammy 0.1.1-2build1 amd64
 opensmtpd/jammy 6.8.0p2-4build1 amd64
 opensp/jammy 1.5.2-13ubuntu3 amd64
 openssh-client-ssh1/jammy 1:7.5p1-13 amd64
-openssh-client/jammy-updates,now 1:8.9p1-3ubuntu0.7 amd64 [installed,automatic]
+openssh-client/jammy-updates,jammy-security,now 1:8.9p1-3ubuntu0.10 amd64 [installed,automatic]
 openssh-known-hosts/jammy 0.6.2-1.1 all
-openssh-server/jammy-updates 1:8.9p1-3ubuntu0.7 amd64
-openssh-sftp-server/jammy-updates 1:8.9p1-3ubuntu0.7 amd64
-openssh-tests/jammy-updates 1:8.9p1-3ubuntu0.7 amd64
+openssh-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.10 amd64
+openssh-sftp-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.10 amd64
+openssh-tests/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.10 amd64
 openssl/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.16 amd64 [installed,automatic]
 openssn-data/jammy 1.4-3build1 all
 openssn/jammy 1.4-3build1 amd64
@@ -73814,7 +73816,7 @@ python3-u2flib-server/jammy 5.0.0-1.1 all
 python3-ua-parser/jammy 0.10.0-2 all
 python3-uamqp/jammy 1.5.1-1build1 amd64
 python3-ubjson/jammy 0.16.1-2build1 amd64
-python3-ubuntutools/jammy-updates 0.193ubuntu4~22.04.2 all
+python3-ubuntutools/jammy-updates 0.201ubuntu2~22.04.4 all
 python3-udatetime/jammy 0.0.16-4build3 amd64
 python3-ufl/jammy 2021.1.0-4 all
 python3-uflash/jammy 1.2.4+dfsg-9 all
@@ -76983,7 +76985,7 @@ ruby-cucumber-core/jammy 1.5.0-2 all
 ruby-cucumber-expressions/jammy 8.0.0-1 all
 ruby-cucumber-wire/jammy 0.0.1-3 all
 ruby-curb/jammy 0.9.11-2build2 amd64
-ruby-curses/jammy 1.2.4-1build3 amd64
+ruby-curses/jammy-updates 1.2.4-1ubuntu0.22.04.1 amd64
 ruby-cutest/jammy 1.2.1-2.1 all
 ruby-daemons/jammy 1.1.9-2.1 all
 ruby-dalli/jammy 3.0.6-1 all
@@ -79496,7 +79498,7 @@ ssed/jammy 3.62-8 amd64
 ssft/jammy 0.9.17+nmu1 all
 ssh-agent-filter/jammy 0.5.2-1build4 amd64
 ssh-askpass-fullscreen/jammy 0.3-3.1build2 amd64
-ssh-askpass-gnome/jammy-updates 1:8.9p1-3ubuntu0.7 amd64
+ssh-askpass-gnome/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.10 amd64
 ssh-askpass/jammy 1:1.2.4.1-13 amd64
 ssh-audit/jammy 2.5.0-1 all
 ssh-contact-client/jammy 0.7-1.1 amd64
@@ -79505,7 +79507,7 @@ ssh-contact/jammy 0.7-1.1 all
 ssh-cron/jammy 1.03.00-1 amd64
 ssh-import-id/jammy 5.11-0ubuntu1 all
 ssh-tools/jammy 1.7-2 all
-ssh/jammy-updates 1:8.9p1-3ubuntu0.7 all
+ssh/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.10 all
 sshcommand/jammy 0~20160110.1~2795f65-1.1 all
 sshesame/jammy 0.0~git20210926.d7fdb81-1 amd64
 sshfs/jammy 3.7.1+repack-2 amd64
@@ -81578,8 +81580,8 @@ ublock-origin-doc/jammy 1.40.2+dfsg-1 all
 ubufox/jammy 3.4-0ubuntu1.17.10.1 all
 ubumirror/jammy 0.5 all
 ubuntu-advantage-desktop-daemon/jammy-updates 1.10~22.04.1 amd64
-ubuntu-advantage-pro/jammy-updates 32.3~22.04 all
-ubuntu-advantage-tools/jammy-updates 32.3~22.04 all
+ubuntu-advantage-pro/jammy-updates 32.3.1~22.04 all
+ubuntu-advantage-tools/jammy-updates 32.3.1~22.04 all
 ubuntu-artwork/jammy 1:20.10-0ubuntu2 all
 ubuntu-budgie-desktop/jammy 0.94 amd64
 ubuntu-budgie-themes/jammy 0.14.4 all
@@ -81596,7 +81598,7 @@ ubuntu-defaults-nl/jammy 6 all
 ubuntu-defaults-zh-cn/jammy 0.13 all
 ubuntu-desktop-minimal/jammy-updates 1.481.1 amd64
 ubuntu-desktop/jammy-updates 1.481.1 amd64
-ubuntu-dev-tools/jammy-updates 0.193ubuntu4~22.04.2 all
+ubuntu-dev-tools/jammy-updates 0.201ubuntu2~22.04.4 all
 ubuntu-docs/jammy-updates 22.04.5 all
 ubuntu-drivers-common/jammy-updates 1:0.9.6.2~0.22.04.6 amd64
 ubuntu-fan/jammy 0.12.16 all
@@ -81671,9 +81673,9 @@ ubuntu-packaging-guide-pdf-uk/jammy 1.0.4 all
 ubuntu-packaging-guide-pdf/jammy 1.0.4 all
 ubuntu-packaging-guide/jammy 1.0.4 all
 ubuntu-policy/jammy 3.8.2.0ubuntu3 all
-ubuntu-pro-auto-attach/jammy-updates 32.3~22.04 all
-ubuntu-pro-client-l10n/jammy-updates 32.3~22.04 amd64
-ubuntu-pro-client/jammy-updates 32.3~22.04 amd64
+ubuntu-pro-auto-attach/jammy-updates 32.3.1~22.04 all
+ubuntu-pro-client-l10n/jammy-updates 32.3.1~22.04 amd64
+ubuntu-pro-client/jammy-updates 32.3.1~22.04 amd64
 ubuntu-raspi-settings/jammy 22.04.6 all
 ubuntu-release-upgrader-core/jammy-updates 1:22.04.19 all
 ubuntu-release-upgrader-gtk/jammy-updates 1:22.04.19 all
