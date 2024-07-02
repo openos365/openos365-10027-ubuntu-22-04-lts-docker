@@ -17746,7 +17746,7 @@ yarn list v1.22.22
 │  └─ minimist@^1.2.6
 ├─ mobx-react-lite@3.4.3
 ├─ mobx-state-tree@5.4.2
-├─ mobx@6.12.5
+├─ mobx@6.13.0
 ├─ modify-values@1.0.1
 ├─ moleculer-apollo-server@0.3.8
 │  ├─ @apollographql/graphql-playground-html@^1.6.29
