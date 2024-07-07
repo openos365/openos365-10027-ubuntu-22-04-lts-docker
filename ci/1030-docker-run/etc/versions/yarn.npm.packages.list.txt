@@ -4827,7 +4827,7 @@ yarn list v1.22.22
 │  ├─ @types/keyv@^3.1.4
 │  ├─ @types/node@*
 │  └─ @types/responselike@^1.0.0
-├─ @types/cli-progress@3.11.5
+├─ @types/cli-progress@3.11.6
 │  └─ @types/node@*
 ├─ @types/connect@3.4.38
 │  └─ @types/node@*
