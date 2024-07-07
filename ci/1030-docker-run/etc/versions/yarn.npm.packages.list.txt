@@ -5427,7 +5427,7 @@ yarn list v1.22.22
 │  ├─ inherits@^2.0.1
 │  └─ minimalistic-assert@^1.0.0
 ├─ asn1@0.2.3
-├─ assert-never@1.2.1
+├─ assert-never@1.3.0
 ├─ assert-plus@1.0.0
 ├─ assert@1.5.1
 │  ├─ object.assign@^4.1.4
