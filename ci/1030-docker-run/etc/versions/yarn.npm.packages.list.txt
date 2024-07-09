@@ -18928,7 +18928,7 @@ yarn list v1.22.22
 ├─ path-parse@1.0.7
 ├─ path-scurry@1.11.1
 │  ├─ lru-cache@^10.2.0
-│  ├─ lru-cache@10.4.1
+│  ├─ lru-cache@10.4.2
 │  ├─ minipass@^5.0.0 || ^6.0.2 || ^7.0.0
 │  └─ minipass@7.1.2
 ├─ path-to-regexp@0.1.7
