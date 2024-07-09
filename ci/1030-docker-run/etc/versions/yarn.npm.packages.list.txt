@@ -4921,9 +4921,7 @@ yarn list v1.22.22
 │  │  └─ serve-static@^1.14.1
 │  ├─ moleculer@^0.14.11
 │  ├─ nats@^1.4.12
-│  ├─ path-to-regexp@3.2.0
-│  └─ qs@6.12.3
-│     └─ side-channel@^1.0.6
+│  └─ path-to-regexp@3.2.0
 ├─ @steedos/oauth2-messenger@1.0.0
 │  ├─ cookies@^0.7.3
 │  ├─ cookies@0.7.3
@@ -19752,7 +19750,7 @@ yarn list v1.22.22
 ├─ qs-middleware@1.0.3
 │  ├─ qs@~6.4.0
 │  └─ qs@6.4.1
-├─ qs@6.12.2
+├─ qs@6.12.3
 │  └─ side-channel@^1.0.6
 ├─ quat-slerp@1.0.1
 │  └─ gl-quat@^1.0.0
