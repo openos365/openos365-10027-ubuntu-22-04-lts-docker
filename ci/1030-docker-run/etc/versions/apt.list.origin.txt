@@ -16288,7 +16288,7 @@ ldap-account-manager/jammy 7.7-1 all
 ldap-auth-client/jammy 0.5.4 all
 ldap-auth-config/jammy 0.5.4 all
 ldap-git-backup/jammy 1.0.8-1.1 all
-ldap-utils/jammy-updates 2.5.17+dfsg-0ubuntu0.22.04.1 amd64
+ldap-utils/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.1 amd64
 ldap2dns/jammy 0.3.1-3.2build2 amd64
 ldap2zone/jammy 0.2-12 amd64
 ldapscripts/jammy 2.0.8-1ubuntu2 all
@@ -30506,12 +30506,12 @@ libldacbt-abr-dev/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-abr2/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-enc-dev/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-enc2/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
-libldap-2.5-0/jammy-updates,now 2.5.17+dfsg-0ubuntu0.22.04.1 amd64 [installed,automatic]
-libldap-common/jammy-updates,now 2.5.17+dfsg-0ubuntu0.22.04.1 all [installed,automatic]
-libldap-dev/jammy-updates 2.5.17+dfsg-0ubuntu0.22.04.1 amd64
+libldap-2.5-0/jammy-updates,now 2.5.18+dfsg-0ubuntu0.22.04.1 amd64 [installed,automatic]
+libldap-common/jammy-updates,now 2.5.18+dfsg-0ubuntu0.22.04.1 all [installed,automatic]
+libldap-dev/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.1 amd64
 libldap-java/jammy 5.0.0+dfsg1-1 all
 libldap-ocaml-dev/jammy 2.4.2-1build3 amd64
-libldap2-dev/jammy-updates 2.5.17+dfsg-0ubuntu0.22.04.1 all
+libldap2-dev/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.1 all
 libldb-dev/jammy-updates,jammy-security 2:2.4.4-0ubuntu0.22.04.2 amd64
 libldb2/jammy-updates,jammy-security 2:2.4.4-0ubuntu0.22.04.2 amd64
 libldl2/jammy 1:5.10.1+dfsg-4build1 amd64
@@ -79207,10 +79207,10 @@ slang-sqlite/jammy 0.6.3-1 amd64
 slang-tess/jammy 0.3.0-10 all
 slang-wildcard/jammy 0.5.0-7 amd64
 slang-xfig/jammy 0.2.0~.135-1 amd64
-slapd-contrib/jammy-updates 2.5.17+dfsg-0ubuntu0.22.04.1 amd64
-slapd-smbk5pwd/jammy-updates 2.5.17+dfsg-0ubuntu0.22.04.1 all
-slapd/jammy-updates 2.5.17+dfsg-0ubuntu0.22.04.1 amd64
-slapi-dev/jammy-updates 2.5.17+dfsg-0ubuntu0.22.04.1 amd64
+slapd-contrib/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.1 amd64
+slapd-smbk5pwd/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.1 all
+slapd/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.1 amd64
+slapi-dev/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.1 amd64
 slapi-nis/jammy 0.56.7-1 amd64
 slashem-common/jammy 0.0.7E7F3-10build1 amd64
 slashem-gtk/jammy 0.0.7E7F3-10build1 amd64
