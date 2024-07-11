@@ -15913,7 +15913,7 @@ yarn list v1.22.22
 ├─ istanbul-reports@2.2.7
 │  └─ html-escaper@^2.0.0
 ├─ iterall@1.3.0
-├─ jackspeak@3.4.2
+├─ jackspeak@3.4.3
 │  ├─ @isaacs/cliui@^8.0.2
 │  └─ @pkgjs/parseargs@^0.11.0
 ├─ jade-gist@1.0.5
@@ -16891,7 +16891,7 @@ yarn list v1.22.22
 ├─ lodash@4.17.21
 ├─ log-symbols@2.2.0
 │  └─ chalk@^2.0.1
-├─ logform@2.6.0
+├─ logform@2.6.1
 │  ├─ @colors/colors@1.6.0
 │  ├─ @types/triple-beam@^1.3.2
 │  ├─ fecha@^4.2.0
@@ -18601,7 +18601,7 @@ yarn list v1.22.22
 ├─ number-is-nan@1.0.1
 ├─ numeral@2.0.6
 ├─ numeric@1.2.6
-├─ nwsapi@2.2.10
+├─ nwsapi@2.2.12
 ├─ oauth-sign@0.8.2
 ├─ oauth@0.10.0
 ├─ oauth2-server@2.4.1
@@ -23076,21 +23076,21 @@ yarn list v1.22.22
 │  ├─ snappy@^7.2.2
 │  ├─ url-polyfill@^1.1.12
 │  └─ winston-transport@^4.3.0
-├─ winston-transport@4.7.0
-│  ├─ logform@^2.3.2
-│  ├─ readable-stream@^3.6.0
+├─ winston-transport@4.7.1
+│  ├─ logform@^2.6.1
+│  ├─ readable-stream@^3.6.2
 │  ├─ readable-stream@3.6.2
 │  │  ├─ inherits@^2.0.3
 │  │  ├─ string_decoder@^1.1.1
 │  │  └─ util-deprecate@^1.0.1
 │  └─ triple-beam@^1.3.0
-├─ winston@3.13.0
+├─ winston@3.13.1
 │  ├─ @colors/colors@^1.6.0
 │  ├─ @dabh/diagnostics@^2.0.2
 │  ├─ async@^3.2.3
 │  ├─ is-stream@^2.0.0
 │  ├─ is-stream@2.0.1
-│  ├─ logform@^2.4.0
+│  ├─ logform@^2.6.0
 │  ├─ one-time@^1.0.0
 │  ├─ readable-stream@^3.4.0
 │  ├─ readable-stream@3.6.2
