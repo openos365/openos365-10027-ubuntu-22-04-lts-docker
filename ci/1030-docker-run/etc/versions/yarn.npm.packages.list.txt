@@ -430,18 +430,18 @@ yarn list v1.22.22
 ├─ @babel/code-frame@7.24.7
 │  ├─ @babel/highlight@^7.24.7
 │  └─ picocolors@^1.0.0
-├─ @babel/compat-data@7.24.8
-├─ @babel/core@7.24.8
+├─ @babel/compat-data@7.24.9
+├─ @babel/core@7.24.9
 │  ├─ @ampproject/remapping@^2.2.0
 │  ├─ @babel/code-frame@^7.24.7
-│  ├─ @babel/generator@^7.24.8
+│  ├─ @babel/generator@^7.24.9
 │  ├─ @babel/helper-compilation-targets@^7.24.8
-│  ├─ @babel/helper-module-transforms@^7.24.8
+│  ├─ @babel/helper-module-transforms@^7.24.9
 │  ├─ @babel/helpers@^7.24.8
 │  ├─ @babel/parser@^7.24.8
 │  ├─ @babel/template@^7.24.7
 │  ├─ @babel/traverse@^7.24.8
-│  ├─ @babel/types@^7.24.8
+│  ├─ @babel/types@^7.24.9
 │  ├─ convert-source-map@^2.0.0
 │  ├─ convert-source-map@2.0.0
 │  ├─ debug@^4.1.0
@@ -449,8 +449,8 @@ yarn list v1.22.22
 │  ├─ json5@^2.2.3
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
-├─ @babel/generator@7.24.8
-│  ├─ @babel/types@^7.24.8
+├─ @babel/generator@7.24.9
+│  ├─ @babel/types@^7.24.9
 │  ├─ @jridgewell/gen-mapping@^0.3.5
 │  ├─ @jridgewell/trace-mapping@^0.3.25
 │  ├─ jsesc@^2.5.1
@@ -514,7 +514,7 @@ yarn list v1.22.22
 ├─ @babel/helper-module-imports@7.24.7
 │  ├─ @babel/traverse@^7.24.7
 │  └─ @babel/types@^7.24.7
-├─ @babel/helper-module-transforms@7.24.8
+├─ @babel/helper-module-transforms@7.24.9
 │  ├─ @babel/helper-environment-visitor@^7.24.7
 │  ├─ @babel/helper-module-imports@^7.24.7
 │  ├─ @babel/helper-simple-access@^7.24.7
@@ -962,7 +962,7 @@ yarn list v1.22.22
 │  ├─ @babel/types@^7.24.8
 │  ├─ debug@^4.3.1
 │  └─ globals@^11.1.0
-├─ @babel/types@7.24.8
+├─ @babel/types@7.24.9
 │  ├─ @babel/helper-string-parser@^7.24.8
 │  ├─ @babel/helper-validator-identifier@^7.24.7
 │  └─ to-fast-properties@^2.0.0
@@ -1488,7 +1488,7 @@ yarn list v1.22.22
 │  │  ├─ @babel/parser@^7.12.13
 │  │  ├─ @babel/parser@7.24.8
 │  │  ├─ @babel/types@^7.12.13
-│  │  ├─ @babel/types@7.24.8
+│  │  ├─ @babel/types@7.24.9
 │  │  │  ├─ @babel/helper-string-parser@^7.24.8
 │  │  │  ├─ @babel/helper-validator-identifier@^7.24.7
 │  │  │  └─ to-fast-properties@^2.0.0
