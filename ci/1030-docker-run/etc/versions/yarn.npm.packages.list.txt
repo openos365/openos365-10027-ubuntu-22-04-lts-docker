@@ -19476,9 +19476,9 @@ yarn list v1.22.22
 │  ├─ mdurl@2.0.0
 │  ├─ prosemirror-model@^1.20.0
 │  └─ uc.micro@2.1.0
-├─ prosemirror-model@1.21.3
+├─ prosemirror-model@1.22.1
 │  └─ orderedmap@^2.0.0
-├─ prosemirror-schema-list@1.4.0
+├─ prosemirror-schema-list@1.4.1
 │  ├─ prosemirror-model@^1.0.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.7.3
