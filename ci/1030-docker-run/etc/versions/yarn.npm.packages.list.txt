@@ -19831,7 +19831,6 @@ yarn list v1.22.22
 │  ├─ date-fns@2.30.0
 │  │  └─ @babel/runtime@^7.21.0
 │  ├─ date-fns@2.x
-│  ├─ dayjs@1.11.11
 │  ├─ dayjs@1.x
 │  ├─ moment@^2.24.0
 │  ├─ rc-trigger@^5.0.4
