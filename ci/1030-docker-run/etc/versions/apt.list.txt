@@ -66734,7 +66734,7 @@ obexfs/jammy 0.11-2build1 amd64
 obexftp/jammy 0.24-6build5 amd64
 obexpushd/jammy 0.11.2-1.1build2 amd64
 obfs4proxy/jammy 0.0.13-1 amd64
-obitools/jammy 1.2.13+dfsg-4build1 amd64
+obitools/jammy-updates 1.2.13+dfsg-4ubuntu0.1 amd64
 objcryst-fox/jammy 1.9.6.0-2.2 amd64
 obs-advanced-scene-switcher-data/jammy 1.17.2-1 all
 obs-advanced-scene-switcher/jammy 1.17.2-1 amd64
