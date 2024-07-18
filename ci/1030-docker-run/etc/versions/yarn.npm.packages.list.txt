@@ -143,7 +143,7 @@ yarn list v1.22.22
 ├─ @alifd/field@2.0.2
 │  ├─ @alifd/validate@^2.0.2
 │  └─ tslib@^2.6.2
-├─ @alifd/next@1.27.15
+├─ @alifd/next@1.27.16
 │  ├─ @alifd/field@~2.0.2
 │  ├─ @alifd/overlay@^0.3.3
 │  ├─ @alifd/validate@~2.0.3
@@ -13710,7 +13710,7 @@ yarn list v1.22.22
 ├─ date-fns@1.30.1
 ├─ date-utils@1.2.21
 ├─ dateformat@3.0.3
-├─ dayjs@1.11.11
+├─ dayjs@1.11.12
 ├─ de-indent@1.0.2
 ├─ debug@4.3.5
 │  ├─ ms@2.1.2
@@ -17689,7 +17689,7 @@ yarn list v1.22.22
 │  └─ minimist@^1.2.6
 ├─ mobx-react-lite@3.4.3
 ├─ mobx-state-tree@5.4.2
-├─ mobx@6.13.0
+├─ mobx@6.13.1
 ├─ modify-values@1.0.1
 ├─ moleculer-apollo-server@0.3.8
 │  ├─ @apollographql/graphql-playground-html@^1.6.29
@@ -19831,6 +19831,7 @@ yarn list v1.22.22
 │  ├─ date-fns@2.30.0
 │  │  └─ @babel/runtime@^7.21.0
 │  ├─ date-fns@2.x
+│  ├─ dayjs@1.11.11
 │  ├─ dayjs@1.x
 │  ├─ moment@^2.24.0
 │  ├─ rc-trigger@^5.0.4

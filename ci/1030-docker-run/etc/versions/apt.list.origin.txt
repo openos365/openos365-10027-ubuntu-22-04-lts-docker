@@ -61322,7 +61322,7 @@ linux-starfive-6.5-headers-6.5.0-1012/jammy-updates,jammy-security 6.5.0-1012.13
 linux-starfive-6.5-headers-6.5.0-1014/jammy-updates,jammy-security 6.5.0-1014.15~22.04.1 all
 linux-starfive-6.5-headers-6.5.0-1015/jammy-updates,jammy-security 6.5.0-1015.16~22.04.1 all
 linux-starfive-6.5-headers-6.5.0-1016/jammy-updates,jammy-security 6.5.0-1016.17~22.04.1 all
-linux-starfive-6.5-headers-6.5.0-1017/jammy-updates 6.5.0-1017.18~22.04.1 all
+linux-starfive-6.5-headers-6.5.0-1017/jammy-updates,jammy-security 6.5.0-1017.18~22.04.1 all
 linux-tools-5.15.0-100-generic/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-tools-5.15.0-100-lowlatency/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-tools-5.15.0-1002-gke/jammy 5.15.0-1002.2 amd64
