@@ -3081,7 +3081,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
-code-server/now 4.91.0 amd64 [installed,local]
+code-server/now 4.91.1 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -9399,7 +9399,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy 1.0.0+ds-1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.52.0 amd64 [installed]
+gh/unknown,now 2.53.0 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -13075,8 +13075,8 @@ graphite-carbon/jammy 1.1.7-1 all
 graphite-web/jammy-updates,jammy-security 1.1.8-1ubuntu0.22.04.1 all
 graphlan/jammy 1.1.3-4 all
 graphmonkey/jammy 1.7-4.1 all
-graphviz-doc/jammy 2.42.2-6 all
-graphviz/jammy 2.42.2-6 amd64
+graphviz-doc/jammy-updates 2.42.2-6ubuntu0.1 all
+graphviz/jammy-updates 2.42.2-6ubuntu0.1 amd64
 grass-core/jammy 7.8.7-1 amd64
 grass-dev-doc/jammy 7.8.7-1 all
 grass-dev/jammy 7.8.7-1 amd64
@@ -19101,7 +19101,7 @@ libcds-moc-java/jammy 5.0-2 all
 libcds-savot-java-doc/jammy 4.0.0-2 all
 libcds-savot-java/jammy 4.0.0-2 all
 libcds2.3.3/jammy 2.3.3-2build1 amd64
-libcdt5/jammy 2.42.2-6 amd64
+libcdt5/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libcec-dev/jammy 6.0.2-1ubuntu2 amd64
 libcec6/jammy 6.0.2-1ubuntu2 amd64
 libcegui-mk2-0.8.7/jammy 0.8.7-9build4 amd64
@@ -19218,7 +19218,7 @@ libcglm-doc/jammy 0.8.4-3 all
 libcglm0/jammy 0.8.4-3 amd64
 libcgns-dev/jammy 3.4.0-3 amd64
 libcgns3.4/jammy 3.4.0-3 amd64
-libcgraph6/jammy 2.42.2-6 amd64
+libcgraph6/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libcgreen1-dev/jammy 1.3.0-2 amd64
 libcgreen1-doc/jammy 1.3.0-2 all
 libcgreen1/jammy 1.3.0-2 amd64
@@ -27419,7 +27419,7 @@ libgraphite2-dev/jammy 1.3.14-1build2 amd64
 libgraphite2-doc/jammy 1.3.14-1build2 all
 libgraphite2-utils/jammy 1.3.14-1build2 amd64
 libgraphql-perl/jammy 0.53-1 all
-libgraphviz-dev/jammy 2.42.2-6 amd64
+libgraphviz-dev/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libgraphviz-perl/jammy 2.24-1 all
 libgravatar-url-perl/jammy 1.07-1 all
 libgraxxia-java/jammy 1.0~20150714-2 all
@@ -27711,22 +27711,22 @@ libguvcview-2.0-2/jammy 2.0.7-2-1 amd64
 libguvcview-dev/jammy 2.0.7-2-1 amd64
 libguytools2-dev/jammy 2.1.0-1 amd64
 libguytools2/jammy 2.1.0-1 amd64
-libgv-guile/jammy 2.42.2-6 amd64
-libgv-lua/jammy 2.42.2-6 amd64
-libgv-perl/jammy 2.42.2-6 amd64
-libgv-ruby/jammy 2.42.2-6 amd64
-libgv-tcl/jammy 2.42.2-6 amd64
+libgv-guile/jammy-updates 2.42.2-6ubuntu0.1 amd64
+libgv-lua/jammy-updates 2.42.2-6ubuntu0.1 amd64
+libgv-perl/jammy-updates 2.42.2-6ubuntu0.1 amd64
+libgv-ruby/jammy-updates 2.42.2-6ubuntu0.1 amd64
+libgv-tcl/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libgvars3-0/jammy 0.0~git20220105194034.62f5a78-3 amd64
 libgvars3-dev/jammy 0.0~git20220105194034.62f5a78-3 amd64
 libgvars3-headless0/jammy 0.0~git20220105194034.62f5a78-3 amd64
-libgvc6-plugins-gtk/jammy 2.42.2-6 amd64
-libgvc6/jammy 2.42.2-6 amd64
+libgvc6-plugins-gtk/jammy-updates 2.42.2-6ubuntu0.1 amd64
+libgvc6/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libgvm-dev/jammy 21.4.3-1 amd64
 libgvm-doc/jammy 21.4.3-1 all
 libgvm21/jammy 21.4.3-1 amd64
 libgvnc-1.0-0/jammy-updates 1.3.0-1ubuntu1 amd64
 libgvnc-1.0-dev/jammy-updates 1.3.0-1ubuntu1 amd64
-libgvpr2/jammy 2.42.2-6 amd64
+libgvpr2/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libgweather-3-16/jammy 40.0-5build1 amd64
 libgweather-3-dev/jammy 40.0-5build1 amd64
 libgweather-4-0/jammy 4.0.0-2 amd64
@@ -30396,7 +30396,7 @@ libkxml2-java/jammy 2.3.0+ds1-2.1 all
 libkyotocabinet-dev/jammy 1.2.79-1 amd64
 libkyotocabinet16v5/jammy 1.2.79-1 amd64
 libla4j-java/jammy 0.6.0-3 all
-liblab-gamut1/jammy 2.42.2-6 amd64
+liblab-gamut1/jammy-updates 2.42.2-6ubuntu0.1 amd64
 liblablgl-ocaml-dev/jammy 1:1.06-1build6 amd64
 liblablgl-ocaml/jammy 1:1.06-1build6 amd64
 liblablgtk-extras-ocaml-dev/jammy 1.6-3build2 amd64
@@ -34711,7 +34711,7 @@ libpath-tiny-perl/jammy 0.122-1 all
 libpath-utils-dev/jammy 0.6.2-1 amd64
 libpath-utils1/jammy 0.6.2-1 amd64
 libpathetic-clojure/jammy 0.5.1-2 all
-libpathplan4/jammy 2.42.2-6 amd64
+libpathplan4/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libpbbam-dev/jammy 2.0.0+dfsg-2 amd64
 libpbbam2.0.0/jammy 2.0.0+dfsg-2 amd64
 libpbcopper-dev/jammy 2.0.0+dfsg-2 amd64
@@ -42545,7 +42545,7 @@ libxdmf-dev/jammy 3.0+git20190531-10build1 amd64
 libxdmf3/jammy 3.0+git20190531-10build1 amd64
 libxdo-dev/jammy 1:3.20160805.1-4 amd64
 libxdo3/jammy 1:3.20160805.1-4 amd64
-libxdot4/jammy 2.42.2-6 amd64
+libxdot4/jammy-updates 2.42.2-6ubuntu0.1 amd64
 libxen-dev/jammy-updates 4.16.0-1~ubuntu2.1 amd64
 libxencall1/jammy-updates 4.16.0-1~ubuntu2.1 amd64
 libxendevicemodel1/jammy-updates 4.16.0-1~ubuntu2.1 amd64
@@ -72201,7 +72201,7 @@ python3-guizero/jammy 1.3.0+dfsg-1 all
 python3-gumbo/jammy 0.10.1+dfsg-2.4 all
 python3-gunicorn/jammy 20.1.0-2 all
 python3-guzzle-sphinx-theme/jammy 0.7.11-5 all
-python3-gv/jammy 2.42.2-6 amd64
+python3-gv/jammy-updates 2.42.2-6ubuntu0.1 amd64
 python3-gvm/jammy 21.10.0-1 all
 python3-gwcs/jammy 0.18.0-2 all
 python3-gwebsockets/jammy 0.7-2build1 all

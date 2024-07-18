@@ -15726,7 +15726,7 @@ yarn list v1.22.22
 │  ├─ hsla-regex@^1.0.0
 │  ├─ rgb-regex@^1.0.1
 │  └─ rgba-regex@^1.0.0
-├─ is-core-module@2.14.0
+├─ is-core-module@2.15.0
 │  └─ hasown@^2.0.2
 ├─ is-data-descriptor@1.0.1
 │  └─ hasown@^2.0.0
