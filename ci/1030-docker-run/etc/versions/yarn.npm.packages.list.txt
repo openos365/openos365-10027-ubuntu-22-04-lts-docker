@@ -17938,12 +17938,12 @@ yarn list v1.22.22
 │  ├─ object-assign@^4.0.1
 │  └─ thenify-all@^1.0.0
 ├─ nan@2.20.0
-├─ nano-css@5.6.1
+├─ nano-css@5.6.2
 │  ├─ @jridgewell/sourcemap-codec@^1.4.15
 │  ├─ css-tree@^1.1.2
 │  ├─ csstype@^3.1.2
 │  ├─ fastest-stable-stringify@^2.0.2
-│  ├─ inline-style-prefixer@^7.0.0
+│  ├─ inline-style-prefixer@^7.0.1
 │  ├─ rtl-css-js@^1.16.1
 │  ├─ stacktrace-js@^2.0.2
 │  ├─ stylis@^4.3.0
@@ -20494,7 +20494,7 @@ yarn list v1.22.22
 │  ├─ prop-types@^15.6.2
 │  └─ react-lifecycles-compat@^3.0.4
 ├─ react-universal-interface@0.6.2
-├─ react-use@17.5.0
+├─ react-use@17.5.1
 │  ├─ @types/js-cookie@^2.2.6
 │  ├─ @xobotyi/scrollbar-width@^1.9.5
 │  ├─ copy-to-clipboard@^3.3.1
@@ -20502,7 +20502,7 @@ yarn list v1.22.22
 │  ├─ fast-shallow-equal@^1.0.0
 │  ├─ js-cookie@^2.2.1
 │  ├─ js-cookie@2.2.1
-│  ├─ nano-css@^5.6.1
+│  ├─ nano-css@^5.6.2
 │  ├─ react-universal-interface@^0.6.2
 │  ├─ resize-observer-polyfill@^1.5.1
 │  ├─ screenfull@^5.1.0
