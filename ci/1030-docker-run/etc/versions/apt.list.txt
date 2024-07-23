@@ -75096,7 +75096,7 @@ python3-zeroconf/jammy 0.38.3-2 all
 python3-zfec/jammy 1.5.2-2.1build5 amd64
 python3-zhmcclient/jammy 0.31.0-0ubuntu3 all
 python3-zict/jammy 2.0.0-1 all
-python3-zipp/jammy 1.0.0-3 all
+python3-zipp/jammy-updates,jammy-security 1.0.0-3ubuntu0.1 all
 python3-zipstream-ng/jammy 1.3.4-3 all
 python3-zipstream/jammy 1.1.4-1 all
 python3-zlmdb/jammy 22.1.2-1 all
