@@ -30505,8 +30505,8 @@ libldacbt-abr-dev/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-abr2/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-enc-dev/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-enc2/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
-libldap-2.5-0/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.2 amd64 [upgradable from: 2.5.18+dfsg-0ubuntu0.22.04.1]
-libldap-common/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.2 all [upgradable from: 2.5.18+dfsg-0ubuntu0.22.04.1]
+libldap-2.5-0/jammy-updates,now 2.5.18+dfsg-0ubuntu0.22.04.2 amd64 [installed,automatic]
+libldap-common/jammy-updates,now 2.5.18+dfsg-0ubuntu0.22.04.2 all [installed,automatic]
 libldap-dev/jammy-updates 2.5.18+dfsg-0ubuntu0.22.04.2 amd64
 libldap-java/jammy 5.0.0+dfsg1-1 all
 libldap-ocaml-dev/jammy 2.4.2-1build3 amd64
