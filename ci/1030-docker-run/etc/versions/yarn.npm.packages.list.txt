@@ -5273,7 +5273,7 @@ yarn list v1.22.22
 │  │  ├─ jsonwebtoken@^8.5.1
 │  │  ├─ sha256@^0.2.0
 │  │  ├─ underscore@^1.9.1
-│  │  └─ underscore@1.13.6
+│  │  └─ underscore@1.13.7
 │  ├─ @steedos/cachers@2.4.18
 │  │  ├─ lodash@^4.17.21
 │  │  └─ lru-cache@^7.10.1
@@ -5347,7 +5347,7 @@ yarn list v1.22.22
 │  │  ├─ js-beautify@^1.13.1
 │  │  ├─ js-yaml@^3.14.1
 │  │  ├─ underscore@^1.11.0
-│  │  └─ underscore@1.13.6
+│  │  └─ underscore@1.13.7
 │  ├─ @steedos/migrate@2.4.18
 │  │  ├─ migrate@^1.6.2
 │  │  └─ mongodb@^3.7.3
@@ -5617,7 +5617,7 @@ yarn list v1.22.22
 │  ├─ moment@^2.29.1
 │  ├─ mysql@^2.18.1
 │  ├─ nats@^2.13.1
-│  ├─ nats@2.28.0
+│  ├─ nats@2.28.1
 │  │  └─ nkeys.js@1.1.0
 │  ├─ node-schedule@^2.0.0
 │  ├─ node-xlsx@^0.16.1
@@ -22582,7 +22582,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.0.3
 │  └─ which-boxed-primitive@^1.0.2
 ├─ unc-path-regex@0.1.2
-├─ underscore@1.13.6
+├─ underscore@1.13.7
 ├─ undici-types@5.26.5
 ├─ unicode-canonical-property-names-ecmascript@2.0.0
 ├─ unicode-match-property-ecmascript@2.0.0
