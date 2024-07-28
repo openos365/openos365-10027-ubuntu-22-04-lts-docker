@@ -11551,8 +11551,8 @@ yarn list v1.22.22
 ├─ @types/mime@1.3.5
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@20.14.12
-│  └─ undici-types@~5.26.4
+├─ @types/node@22.0.0
+│  └─ undici-types@~6.11.1
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
 ├─ @types/prop-types@15.7.12
@@ -14492,7 +14492,7 @@ yarn list v1.22.22
 ├─ fast-shallow-equal@1.0.0
 ├─ fast-uri@3.0.1
 ├─ fastest-stable-stringify@2.0.2
-├─ fastest-validator@1.18.0
+├─ fastest-validator@1.19.0
 ├─ fastparse@1.1.2
 ├─ fastq@1.17.1
 │  └─ reusify@^1.0.4
@@ -17738,12 +17738,12 @@ yarn list v1.22.22
 │  ├─ path-to-regexp@3.2.0
 │  ├─ qs@^6.11.0
 │  └─ serve-static@^1.14.1
-├─ moleculer@0.14.33
+├─ moleculer@0.14.34
 │  ├─ args@^5.0.3
 │  ├─ eventemitter2@^6.4.9
-│  ├─ fastest-validator@^1.17.0
+│  ├─ fastest-validator@^1.19.0
 │  ├─ glob@^7.2.0
-│  ├─ ipaddr.js@^2.1.0
+│  ├─ ipaddr.js@^2.2.0
 │  ├─ ipaddr.js@2.2.0
 │  ├─ kleur@^4.1.5
 │  ├─ lodash@^4.17.21
@@ -22565,7 +22565,7 @@ yarn list v1.22.22
 │  ├─ commander@~2.13.0
 │  ├─ commander@2.13.0
 │  └─ source-map@~0.6.1
-├─ uglify-js@3.19.0
+├─ uglify-js@3.19.1
 ├─ uglify-to-browserify@1.0.2
 ├─ uid-number@0.0.6
 ├─ uid-safe@2.1.5
@@ -22580,7 +22580,7 @@ yarn list v1.22.22
 │  └─ which-boxed-primitive@^1.0.2
 ├─ unc-path-regex@0.1.2
 ├─ underscore@1.13.7
-├─ undici-types@5.26.5
+├─ undici-types@6.11.1
 ├─ unicode-canonical-property-names-ecmascript@2.0.0
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
