@@ -550,10 +550,11 @@ yarn list v1.22.22
 │  ├─ js-tokens@^4.0.0
 │  ├─ js-tokens@4.0.0
 │  └─ picocolors@^1.0.0
-├─ @babel/parser@7.25.0
-├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.25.0
+├─ @babel/parser@7.25.3
+│  └─ @babel/types@^7.25.2
+├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.25.3
 │  ├─ @babel/helper-plugin-utils@^7.24.8
-│  └─ @babel/traverse@^7.25.0
+│  └─ @babel/traverse@^7.25.3
 ├─ @babel/plugin-bugfix-safari-class-field-initializer-scope@7.25.0
 │  └─ @babel/helper-plugin-utils@^7.24.8
 ├─ @babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression@7.25.0
@@ -949,10 +950,10 @@ yarn list v1.22.22
 │  ├─ @babel/code-frame@^7.24.7
 │  ├─ @babel/parser@^7.25.0
 │  └─ @babel/types@^7.25.0
-├─ @babel/traverse@7.25.2
+├─ @babel/traverse@7.25.3
 │  ├─ @babel/code-frame@^7.24.7
 │  ├─ @babel/generator@^7.25.0
-│  ├─ @babel/parser@^7.25.0
+│  ├─ @babel/parser@^7.25.3
 │  ├─ @babel/template@^7.25.0
 │  ├─ @babel/types@^7.25.2
 │  ├─ debug@^4.3.1
@@ -1481,7 +1482,8 @@ yarn list v1.22.22
 │  │  ├─ @babel/helper-function-name@^7.12.13
 │  │  ├─ @babel/helper-split-export-declaration@^7.12.13
 │  │  ├─ @babel/parser@^7.12.13
-│  │  ├─ @babel/parser@7.25.0
+│  │  ├─ @babel/parser@7.25.3
+│  │  │  └─ @babel/types@^7.25.2
 │  │  ├─ @babel/types@^7.12.13
 │  │  ├─ @babel/types@7.25.2
 │  │  │  ├─ @babel/helper-string-parser@^7.24.8
@@ -11326,12 +11328,12 @@ yarn list v1.22.22
 │  ├─ @babel/core@^7.1.6
 │  ├─ @babel/plugin-transform-react-constant-elements@^7.0.0
 │  ├─ @babel/preset-env@^7.1.6
-│  ├─ @babel/preset-env@7.25.2
+│  ├─ @babel/preset-env@7.25.3
 │  │  ├─ @babel/compat-data@^7.25.2
 │  │  ├─ @babel/helper-compilation-targets@^7.25.2
 │  │  ├─ @babel/helper-plugin-utils@^7.24.8
 │  │  ├─ @babel/helper-validator-option@^7.24.8
-│  │  ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@^7.25.0
+│  │  ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@^7.25.3
 │  │  ├─ @babel/plugin-bugfix-safari-class-field-initializer-scope@^7.25.0
 │  │  ├─ @babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression@^7.25.0
 │  │  ├─ @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@^7.24.7
@@ -12780,7 +12782,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001644
+├─ caniuse-lite@1.0.30001645
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
