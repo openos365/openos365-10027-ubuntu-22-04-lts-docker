@@ -12253,9 +12253,9 @@ yarn list v1.22.22
 │  ├─ @babel/helper-define-polyfill-provider@^0.6.2
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
-├─ babel-plugin-polyfill-corejs3@0.10.4
-│  ├─ @babel/helper-define-polyfill-provider@^0.6.1
-│  └─ core-js-compat@^3.36.1
+├─ babel-plugin-polyfill-corejs3@0.10.6
+│  ├─ @babel/helper-define-polyfill-provider@^0.6.2
+│  └─ core-js-compat@^3.38.0
 ├─ babel-plugin-polyfill-regenerator@0.6.2
 │  └─ @babel/helper-define-polyfill-provider@^0.6.2
 ├─ babel-plugin-styled-components@2.1.4
@@ -13346,9 +13346,9 @@ yarn list v1.22.22
 ├─ copy-descriptor@0.1.1
 ├─ copy-to-clipboard@3.3.3
 │  └─ toggle-selection@^1.0.6
-├─ core-js-compat@3.37.1
-│  └─ browserslist@^4.23.0
-├─ core-js-pure@3.37.1
+├─ core-js-compat@3.38.0
+│  └─ browserslist@^4.23.3
+├─ core-js-pure@3.38.0
 ├─ core-js@2.6.12
 ├─ core-util-is@1.0.3
 ├─ cors@2.8.5
@@ -19942,7 +19942,7 @@ yarn list v1.22.22
 │  └─ prop-types@^15.7.2
 ├─ react-app-polyfill@1.0.6
 │  ├─ core-js@^3.5.0
-│  ├─ core-js@3.37.1
+│  ├─ core-js@3.38.0
 │  ├─ object-assign@^4.1.1
 │  ├─ promise@^8.0.3
 │  ├─ promise@8.3.0
