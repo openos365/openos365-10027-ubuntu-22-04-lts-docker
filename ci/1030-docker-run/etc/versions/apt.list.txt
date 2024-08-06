@@ -65169,7 +65169,7 @@ nast-ier/jammy 20101212+dfsg1-5 amd64
 nast/jammy 0.2.0-9 amd64
 nastran/jammy 0.1.95-2 amd64
 nasty/jammy 0.6-4 amd64
-nat-rtsp-dkms/jammy 0.7+5.3-0.1 all
+nat-rtsp-dkms/jammy-updates 0.7+5.3-0.1ubuntu1 all
 nat-traverse/jammy 0.7-2 all
 natbraille-doc/jammy 2.0rc3-12 all
 natbraille/jammy 2.0rc3-12 all
@@ -77738,8 +77738,8 @@ r-revolution-revobase/jammy 3.0.0-1ubuntu3 amd64
 r10k/jammy 3.7.0-2.1ubuntu1 all
 r4d/jammy 1.7-1 all
 r6rs-nanopass-dev/jammy 1.9.2-1 all
-r8125-dkms/jammy-updates 9.007.01-3ubuntu0.2 all
-r8168-dkms/jammy-updates 8.049.02-1ubuntu1.3 all
+r8125-dkms/jammy-updates 9.007.01-3ubuntu0.3 all
+r8168-dkms/jammy-updates 8.049.02-1ubuntu1.4 all
 rabbit-mode/jammy 3.0.0-4 all
 rabbit/jammy 3.0.0-4 all
 rabbiter/jammy 2.0.4-4 all
@@ -81661,8 +81661,8 @@ syrthes-tools/jammy 4.3.5+20200129-dfsg1-1build1 amd64
 syrthes/jammy 4.3.5+20200129-dfsg1-1build1 amd64
 sysbench/jammy 1.0.20+ds-2 amd64
 sysconftool/jammy 0.17-1 amd64
-sysdig-dkms/jammy-updates 0.27.1-0.3ubuntu0.3 all
-sysdig/jammy-updates 0.27.1-0.3ubuntu0.3 amd64
+sysdig-dkms/jammy-updates 0.27.1-0.3ubuntu0.4 all
+sysdig/jammy-updates 0.27.1-0.3ubuntu0.4 amd64
 sysfsutils/jammy 2.1.1-1build1 amd64
 syslinux-common/jammy 3:6.04~git20190206.bf6db5b4+dfsg1-3ubuntu1 all
 syslinux-efi/jammy 3:6.04~git20190206.bf6db5b4+dfsg1-3ubuntu1 all
