@@ -143,7 +143,7 @@ yarn list v1.22.22
 ├─ @alifd/field@2.0.2
 │  ├─ @alifd/validate@^2.0.2
 │  └─ tslib@^2.6.2
-├─ @alifd/next@1.27.18
+├─ @alifd/next@1.27.19
 │  ├─ @alifd/field@~2.0.2
 │  ├─ @alifd/overlay@^0.3.3
 │  ├─ @alifd/validate@~2.0.3
