@@ -4918,7 +4918,7 @@ yarn list v1.22.22
 │  │  ├─ object-assign@^4.1.1
 │  │  ├─ prop-types@^15.6.2
 │  │  └─ scheduler@^0.19.1
-│  ├─ react-monaco-editor@0.56.0
+│  ├─ react-monaco-editor@0.56.1
 │  │  └─ prop-types@^15.8.1
 │  ├─ react-monaco-editor@latest
 │  ├─ react@^16.13.1
@@ -4931,7 +4931,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.49
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.7.3
+│  ├─ axios@1.7.4
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.0
 │  │  └─ proxy-from-env@^1.1.0
