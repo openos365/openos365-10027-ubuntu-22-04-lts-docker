@@ -56385,7 +56385,7 @@ linux-nvidia-tegra-headers-5.15.0-1022/jammy-updates,jammy-security 5.15.0-1022.
 linux-nvidia-tegra-headers-5.15.0-1025/jammy-updates,jammy-security 5.15.0-1025.25 all
 linux-nvidia-tegra-headers-5.15.0-1026/jammy-updates,jammy-security 5.15.0-1026.26 all
 linux-nvidia-tegra-headers-5.15.0-1027/jammy-updates,jammy-security 5.15.0-1027.27 all
-linux-nvidia-tegra-igx-cloud-tools-common/jammy-updates,jammy-security 5.15.0-1013.13 all
+linux-nvidia-tegra-igx-cloud-tools-common/jammy-updates 5.15.0-1015.15 all
 linux-nvidia-tegra-igx-headers-5.15.0-1001/jammy-updates,jammy-security 5.15.0-1001.1 all
 linux-nvidia-tegra-igx-headers-5.15.0-1002/jammy-updates,jammy-security 5.15.0-1002.2 all
 linux-nvidia-tegra-igx-headers-5.15.0-1004/jammy-updates,jammy-security 5.15.0-1004.4 all
@@ -56396,9 +56396,10 @@ linux-nvidia-tegra-igx-headers-5.15.0-1008/jammy-updates,jammy-security 5.15.0-1
 linux-nvidia-tegra-igx-headers-5.15.0-1009/jammy-updates,jammy-security 5.15.0-1009.9 all
 linux-nvidia-tegra-igx-headers-5.15.0-1012/jammy-updates,jammy-security 5.15.0-1012.12 all
 linux-nvidia-tegra-igx-headers-5.15.0-1013/jammy-updates,jammy-security 5.15.0-1013.13 all
-linux-nvidia-tegra-igx-tegra-igpu-igx-defaults/jammy-updates,jammy-security 5.15.0-1013.13+3 all
-linux-nvidia-tegra-igx-tools-common/jammy-updates,jammy-security 5.15.0-1013.13 all
-linux-nvidia-tegra-igx-tools-host/jammy-updates,jammy-security 5.15.0-1013.13 all
+linux-nvidia-tegra-igx-headers-5.15.0-1015/jammy-updates 5.15.0-1015.15 all
+linux-nvidia-tegra-igx-tegra-igpu-igx-defaults/jammy-updates 5.15.0-1015.15 all
+linux-nvidia-tegra-igx-tools-common/jammy-updates 5.15.0-1015.15 all
+linux-nvidia-tegra-igx-tools-host/jammy-updates 5.15.0-1015.15 all
 linux-nvidia-tegra-tools-common/jammy-updates,jammy-security 5.15.0-1027.27 all
 linux-nvidia-tegra-tools-host/jammy-updates,jammy-security 5.15.0-1027.27 all
 linux-nvidia-tools-5.15.0-1025/jammy-updates,jammy-security 5.15.0-1025.25 amd64
