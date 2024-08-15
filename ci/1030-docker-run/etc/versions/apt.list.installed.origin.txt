@@ -15,7 +15,7 @@ bsdextrautils/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installe
 bsdmainutils/jammy,now 12.1.7+nmu3ubuntu2 all [installed]
 bsdutils/jammy-updates,jammy-security,now 1:2.37.2-4ubuntu3.4 amd64 [installed]
 build-essential/jammy,now 12.9ubuntu3 amd64 [installed]
-busybox-initramfs/jammy,now 1:1.30.1-7ubuntu3 amd64 [installed,automatic]
+busybox-initramfs/jammy-updates,jammy-security,now 1:1.30.1-7ubuntu3.1 amd64 [installed,automatic]
 bzip2/jammy,now 1.0.8-5build1 amd64 [installed,automatic]
 ca-certificates-java/jammy-updates,jammy-security,now 20190909ubuntu1.2 all [installed,automatic]
 ca-certificates/jammy-updates,jammy-security,now 20230311ubuntu0.22.04.1 all [installed]

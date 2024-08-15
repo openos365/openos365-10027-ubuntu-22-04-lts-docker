@@ -2032,10 +2032,10 @@ busco/jammy 5.2.2-2 all
 bustle-pcap/jammy 0.8.0-1build1.1 amd64
 bustle/jammy 0.8.0-1build1.1 amd64
 bustools/jammy 0.41.0+dfsg-1 amd64
-busybox-initramfs/jammy,now 1:1.30.1-7ubuntu3 amd64 [installed,automatic]
-busybox-static/jammy 1:1.30.1-7ubuntu3 amd64
-busybox-syslogd/jammy 1:1.30.1-7ubuntu3 all
-busybox/jammy 1:1.30.1-7ubuntu3 amd64
+busybox-initramfs/jammy-updates,jammy-security,now 1:1.30.1-7ubuntu3.1 amd64 [installed,automatic]
+busybox-static/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 amd64
+busybox-syslogd/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 all
+busybox/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 amd64
 buthead/jammy 1.1-5 amd64
 butt/jammy 0.1.26-1build1 amd64
 butteraugli/jammy 0~20170116-3build1 amd64
@@ -84048,8 +84048,8 @@ udev/jammy-updates,now 249.11-0ubuntu3.12 amd64 [installed,automatic]
 udevil/jammy 0.4.4-3 amd64
 udfclient/jammy 0.8.11-2 amd64
 udftools/jammy 2.3-1 amd64
-udhcpc/jammy 1:1.30.1-7ubuntu3 amd64
-udhcpd/jammy 1:1.30.1-7ubuntu3 amd64
+udhcpc/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 amd64
+udhcpd/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 amd64
 udiskie/jammy 2.4.2-1 all
 udisks2-bcache/jammy 2.9.4-1ubuntu2 amd64
 udisks2-btrfs/jammy 2.9.4-1ubuntu2 amd64
