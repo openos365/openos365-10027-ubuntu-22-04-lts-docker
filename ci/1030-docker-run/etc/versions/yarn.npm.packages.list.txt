@@ -3423,7 +3423,7 @@ yarn list v1.22.22
 │  ├─ estree-walker@^2.0.1
 │  └─ picomatch@^2.2.2
 ├─ @salesforce/babel-preset-design-system-react@3.0.0
-├─ @salesforce/design-system-react@0.10.59
+├─ @salesforce/design-system-react@0.10.60
 │  ├─ @salesforce/babel-preset-design-system-react@^3.0.0
 │  ├─ classnames@^2.2.6
 │  ├─ column-resizer@^1.3.6
@@ -11458,8 +11458,8 @@ yarn list v1.22.22
 ├─ @types/mime@1.3.5
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@22.3.0
-│  └─ undici-types@~6.18.2
+├─ @types/node@22.4.0
+│  └─ undici-types@~6.19.2
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
 ├─ @types/prop-types@15.7.12
@@ -13863,7 +13863,7 @@ yarn list v1.22.22
 │  └─ yargs@^16.0.0
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.8
+├─ electron-to-chromium@1.5.10
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
@@ -22485,7 +22485,7 @@ yarn list v1.22.22
 │  └─ which-boxed-primitive@^1.0.2
 ├─ unc-path-regex@0.1.2
 ├─ underscore@1.13.7
-├─ undici-types@6.18.2
+├─ undici-types@6.19.6
 ├─ unicode-canonical-property-names-ecmascript@2.0.0
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
