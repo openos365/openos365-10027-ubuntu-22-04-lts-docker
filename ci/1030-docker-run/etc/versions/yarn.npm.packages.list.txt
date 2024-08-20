@@ -11473,7 +11473,7 @@ yarn list v1.22.22
 │  └─ redux@^4.0.0
 ├─ @types/react-transition-group@4.4.11
 │  └─ @types/react@*
-├─ @types/react@18.3.3
+├─ @types/react@18.3.4
 │  ├─ @types/prop-types@*
 │  └─ csstype@^3.0.2
 ├─ @types/requirejs@2.1.37
