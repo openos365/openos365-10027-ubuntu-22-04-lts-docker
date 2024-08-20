@@ -153,7 +153,6 @@ yarn list v1.22.22
 │  ├─ big.js@6.2.1
 │  ├─ classnames@^2.2.3
 │  ├─ dayjs@^1.9.6
-│  ├─ dayjs@1.11.13
 │  ├─ hoist-non-react-statics@^3.0.0
 │  ├─ lodash.clonedeep@^4.5.0
 │  ├─ prop-types@^15.6.0
@@ -13640,7 +13639,7 @@ yarn list v1.22.22
 │  └─ @babel/runtime@^7.21.0
 ├─ date-utils@1.2.21
 ├─ dateformat@3.0.3
-├─ dayjs@1.11.12
+├─ dayjs@1.11.13
 ├─ de-indent@1.0.2
 ├─ debug@4.3.6
 │  ├─ ms@2.1.2
