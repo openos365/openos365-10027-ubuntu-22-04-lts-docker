@@ -2098,7 +2098,7 @@ caca-utils/jammy 0.99.beta19-2.2ubuntu4 amd64
 cachefilesd/jammy 0.10.10-0.2ubuntu1 amd64
 cackey/jammy 0.7.11-1 amd64
 cacti-spine/jammy 1.2.19-1 amd64
-cacti/jammy 1.2.19+ds1-2ubuntu1 all
+cacti/jammy-security 1.2.19+ds1-2ubuntu1.1 all
 cadabra2/jammy 2.3.6.8-1ubuntu1 amd64
 cadabra/jammy 1.46-5build1 amd64
 cadaver/jammy 0.23.3-2.1build1 amd64
