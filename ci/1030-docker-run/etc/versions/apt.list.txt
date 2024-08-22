@@ -3171,7 +3171,7 @@ colortest-python/jammy 3.0.1-4build1 all
 colortest/jammy 20110624-9 all
 colossal-cave-adventure/jammy 1.4-1.1 all
 colplot/jammy 5.2.0-1.1 all
-comerr-dev/jammy-updates,jammy-security 2.1-1.46.5-2ubuntu1.1 amd64
+comerr-dev/jammy-updates 2.1-1.46.5-2ubuntu1.2 amd64
 comet-ms/jammy 2019015+cleaned1-3 amd64
 comgt/jammy 0.32-3 amd64
 comitup/jammy 1.15-1 all
@@ -5046,9 +5046,9 @@ dzen2/jammy 0.9.5~svn271-4build1 amd64
 e-mem/jammy 1.0.1-5 amd64
 e-wrapper/jammy 0.2-1 all
 e00compr/jammy 1.0.1-6 amd64
-e2fsck-static/jammy-updates,jammy-security 1.46.5-2ubuntu1.1 amd64
-e2fsprogs-l10n/jammy-updates,jammy-security 1.46.5-2ubuntu1.1 all
-e2fsprogs/jammy-updates,jammy-security,now 1.46.5-2ubuntu1.1 amd64 [installed]
+e2fsck-static/jammy-updates 1.46.5-2ubuntu1.2 amd64
+e2fsprogs-l10n/jammy-updates 1.46.5-2ubuntu1.2 all
+e2fsprogs/jammy-updates 1.46.5-2ubuntu1.2 amd64 [upgradable from: 1.46.5-2ubuntu1.1]
 e2guardian/jammy 5.3.5-3 amd64
 e2ps/jammy 4.34-6 amd64
 e2tools/jammy 0.1.0-2 amd64
@@ -7572,7 +7572,7 @@ fuse-emulator-utils/jammy 1.4.3-1build1 amd64
 fuse-overlayfs/jammy 1.7.1-1 amd64
 fuse-posixovl/jammy 1.3-1 amd64
 fuse-zip/jammy 0.6.0-0ubuntu3 amd64
-fuse2fs/jammy-updates,jammy-security 1.46.5-2ubuntu1.1 amd64
+fuse2fs/jammy-updates 1.46.5-2ubuntu1.2 amd64
 fuse3/jammy 3.10.5-1build1 amd64
 fuse/jammy 2.9.9-5ubuntu3 amd64
 fusecram/jammy 20051104-0ubuntu4 amd64
@@ -19701,7 +19701,7 @@ libcolumbus1-common/jammy 1.1.0+15.10.20150806-0ubuntu26 all
 libcolumbus1-dev/jammy 1.1.0+15.10.20150806-0ubuntu26 amd64
 libcolumbus1v5/jammy 1.1.0+15.10.20150806-0ubuntu26 amd64
 libcom-dev/jammy 7.0.3.1-3 amd64
-libcom-err2/jammy-updates,jammy-security,now 1.46.5-2ubuntu1.1 amd64 [installed]
+libcom-err2/jammy-updates 1.46.5-2ubuntu1.2 amd64 [upgradable from: 1.46.5-2ubuntu1.1]
 libcom-hypirion-io-clojure/jammy 0.3.1-4 all
 libcom3.17.6/jammy 7.0.3.1-3 amd64
 libcombblas-dev/jammy 1.6.2-8 amd64
@@ -21795,8 +21795,8 @@ libexporter-lite-perl/jammy 0.08-1 all
 libexporter-renaming-perl/jammy 1.19-2.1 all
 libexporter-tidy-perl/jammy 0.08-1 all
 libexporter-tiny-perl/jammy 1.002002-1 all
-libext2fs-dev/jammy-updates,jammy-security 1.46.5-2ubuntu1.1 amd64
-libext2fs2/jammy-updates,jammy-security,now 1.46.5-2ubuntu1.1 amd64 [installed]
+libext2fs-dev/jammy-updates 1.46.5-2ubuntu1.2 amd64
+libext2fs2/jammy-updates 1.46.5-2ubuntu1.2 amd64 [upgradable from: 1.46.5-2ubuntu1.1]
 libexternalsortinginjava-java-doc/jammy 0.6.1-1 all
 libexternalsortinginjava-java/jammy 0.6.1-1 all
 libextlib-ocaml-dev/jammy 1.7.8-2 amd64
@@ -39444,7 +39444,7 @@ libsrtp2-1/jammy 2.4.2-2 amd64
 libsrtp2-dev/jammy 2.4.2-2 amd64
 libsrtp2-docs/jammy 2.4.2-2 all
 libsru-perl/jammy 1.01-2.1 all
-libss2/jammy-updates,jammy-security,now 1.46.5-2ubuntu1.1 amd64 [installed]
+libss2/jammy-updates 1.46.5-2ubuntu1.2 amd64 [upgradable from: 1.46.5-2ubuntu1.1]
 libss7-2.0/jammy 2.0.0-3 amd64
 libss7-dev/jammy 2.0.0-3 amd64
 libsscm-dev/jammy 0.9.1-1 amd64
@@ -64229,7 +64229,7 @@ logitech-applet/jammy 0.4~test1-0ubuntu3 amd64
 logol-bin/jammy 1.7.9+dfsg-1build1 amd64
 logol/jammy 1.7.9+dfsg-1build1 all
 logrotate/jammy-updates,jammy-security 3.19.0-1ubuntu1.1 amd64
-logsave/jammy-updates,jammy-security,now 1.46.5-2ubuntu1.1 amd64 [installed]
+logsave/jammy-updates 1.46.5-2ubuntu1.2 amd64 [upgradable from: 1.46.5-2ubuntu1.1]
 logstalgia/jammy 1.1.0-2build3 amd64
 logswan/jammy 2.1.12-1 amd64
 logtail/jammy 1.3.23 all
@@ -82292,7 +82292,7 @@ srptools/jammy 39.0-1 amd64
 srs/jammy 0.31-6 all
 srst2/jammy 0.2.0-9 amd64
 srt-tools/jammy 1.4.4-4 amd64
-ss-dev/jammy-updates,jammy-security 2.0-1.46.5-2ubuntu1.1 amd64
+ss-dev/jammy-updates 2.0-1.46.5-2ubuntu1.2 amd64
 ssake-examples/jammy 4.0.1-1 all
 ssake/jammy 4.0.1-1 all
 sscg/jammy 3.0.2-1 amd64
