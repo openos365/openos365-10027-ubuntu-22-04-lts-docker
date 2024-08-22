@@ -64114,7 +64114,7 @@ live-manual-pdf/jammy 2:20151217.1 all
 live-manual-txt/jammy 2:20151217.1 all
 live-manual/jammy 2:20151217.1 all
 live-tools/jammy 1:20190831build1 all
-livecd-rootfs/jammy-updates 2.765.45 amd64
+livecd-rootfs/jammy-updates 2.765.46 amd64
 lives-data/jammy 3.0.2-1.1ubuntu1 all
 lives-plugins/jammy 3.0.2-1.1ubuntu1 amd64
 lives/jammy 3.0.2-1.1ubuntu1 amd64
@@ -85405,8 +85405,8 @@ vsd2odg/jammy 0.9.6-3 amd64
 vsdump/jammy 0.0.45-1build1 amd64
 vsearch-examples/jammy 2.21.1-1 amd64
 vsearch/jammy 2.21.1-1 amd64
-vsftpd-dbg/jammy 3.0.5-0ubuntu1 amd64
-vsftpd/jammy 3.0.5-0ubuntu1 amd64
+vsftpd-dbg/jammy-updates 3.0.5-0ubuntu1.1 amd64
+vsftpd/jammy-updates 3.0.5-0ubuntu1.1 amd64
 vsmartcard-vpcd/jammy 3.3+dfsg-2 amd64
 vsmartcard-vpicc/jammy 3.3+dfsg-2 all
 vstream-client-dev/jammy 1.2-6.1ubuntu2 amd64
