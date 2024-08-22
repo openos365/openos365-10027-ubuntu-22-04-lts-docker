@@ -82737,8 +82737,8 @@ sword-text-swahili/jammy 1.1-0ubuntu1 all
 sword-text-tr/jammy 1.2-0ubuntu2 all
 sword-text-web/jammy 353.0-1 all
 sword-text-wlc/jammy 1.3-0ubuntu1 all
-swtpm-tools/jammy-updates 0.6.3-0ubuntu3.2 amd64
-swtpm/jammy-updates 0.6.3-0ubuntu3.2 amd64
+swtpm-tools/jammy-updates 0.6.3-0ubuntu3.3 amd64
+swtpm/jammy-updates 0.6.3-0ubuntu3.3 amd64
 swupdate-doc/jammy 2021.11-1 all
 swupdate/jammy 2021.11-1 amd64
 sxhkd/jammy 0.6.2-1 amd64
