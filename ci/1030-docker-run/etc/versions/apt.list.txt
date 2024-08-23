@@ -35643,8 +35643,8 @@ libpython2.7/jammy-updates 2.7.18-13ubuntu1.2 amd64
 libpython3-all-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-all-dev/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
-libpython3-dev/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
-libpython3-stdlib/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+libpython3-dev/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
+libpython3-stdlib/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 libpython3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.5 amd64
 libpython3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.5 amd64 [installed,automatic]
 libpython3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.5 amd64 [installed,automatic]
@@ -73568,7 +73568,7 @@ python3-descartes/jammy 1.1.0-4 all
 python3-designate-dashboard/jammy 14.0.0-0ubuntu1 all
 python3-designate/jammy-updates 1:14.0.4-0ubuntu1 all
 python3-designateclient/jammy 4.5.0-0ubuntu1 all
-python3-dev/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3-dev/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 python3-devpi-common/jammy 3.2.2-1.1 all
 python3-dfdatetime/jammy 20210509-1 all
 python3-dfvfs/jammy 20201219-1 all
@@ -74809,7 +74809,7 @@ python3-minecraftpi/jammy 0.22-3 all
 python3-mini-buildd/jammy 1.9.99 all
 python3-minidb/jammy 2.0.6-1 all
 python3-minieigen/jammy 0.50.3+dfsg1-13build1 amd64
-python3-minimal/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3-minimal/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 python3-minimock/jammy 1.2.8-3 all
 python3-miniupnpc/jammy 2.2.3-1build1 amd64
 python3-mirtop/jammy 0.4.24-1 all
@@ -76948,7 +76948,7 @@ python3.11-minimal/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-nopie/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-venv/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11/jammy-updates 3.11.0~rc1-1~22.04 amd64
-python3/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed]
 pythonpy/jammy 0.4.11b-3ubuntu1 all
 pytidylib-doc/jammy 0.3.2~dfsg-7 all
 pytrainer/jammy 2.0.2-2 all
