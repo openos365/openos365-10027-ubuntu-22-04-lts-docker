@@ -81587,9 +81587,9 @@ shiki-illustrious-theme/jammy 4.6-2ubuntu1 all
 shiki-noble-theme/jammy 4.6-2ubuntu1 all
 shiki-wine-theme/jammy 4.6-2ubuntu1 all
 shiki-wise-theme/jammy 4.6-2ubuntu1 all
-shim-dbg/jammy-updates,jammy-security 15.7-0ubuntu1 amd64
-shim-signed/jammy-updates,jammy-security 1.51.3+15.7-0ubuntu1 amd64
-shim/jammy-updates,jammy-security 15.7-0ubuntu1 amd64
+shim-dbg/jammy-updates 15.8-0ubuntu1 amd64
+shim-signed/jammy-updates 1.51.4+15.8-0ubuntu1 amd64
+shim/jammy-updates 15.8-0ubuntu1 amd64
 shimmer-themes/jammy 2.1.3 all
 shineenc/jammy 3.1.1-2 amd64
 shisa/jammy 1.0.2-11 amd64
