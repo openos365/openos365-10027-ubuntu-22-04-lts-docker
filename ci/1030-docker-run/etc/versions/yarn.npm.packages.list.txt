@@ -14032,7 +14032,7 @@ yarn list v1.22.22
 │  ├─ es5-ext@^0.10.46
 │  ├─ es6-iterator@^2.0.3
 │  └─ es6-symbol@^3.1.1
-├─ escalade@3.1.2
+├─ escalade@3.2.0
 ├─ escape-html@1.0.3
 ├─ escape-string-regexp@1.0.5
 ├─ escodegen@1.14.3
