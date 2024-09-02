@@ -72857,7 +72857,7 @@ python-vmware-nsxlib-doc/jammy 17.4.0-0ubuntu1 all
 python-waitress-doc/jammy 1.4.4-1.1ubuntu1 all
 python-watcherclient-doc/jammy 3.3.0-0ubuntu1 all
 python-webassets-doc/jammy 3:0.12.1-1.1 all
-python-webob-doc/jammy-security 1:1.8.6-1.1ubuntu0.1 all
+python-webob-doc/jammy-updates,jammy-security 1:1.8.6-1.1ubuntu0.1 all
 python-webpy-doc/jammy 1:0.61-1 all
 python-webtest-doc/jammy 2.0.35-1 all
 python-webvtt-doc/jammy 0.4.6-1 all
@@ -76752,7 +76752,7 @@ python3-webcolors/jammy 1.11.1-1 all
 python3-webdav/jammy 0.9.14-1 all
 python3-webdavclient/jammy 3.14.6-1 all
 python3-webencodings/jammy 0.5.1-4 all
-python3-webob/jammy-security 1:1.8.6-1.1ubuntu0.1 all
+python3-webob/jammy-updates,jammy-security 1:1.8.6-1.1ubuntu0.1 all
 python3-webpy/jammy 1:0.61-1 all
 python3-websocket/jammy 1.2.3-1 all
 python3-websockets/jammy 9.1-1 all
