@@ -72241,7 +72241,7 @@ python-django-csp-doc/jammy 3.7-2 all
 python-django-debreach-doc/jammy 2.0.1-2 all
 python-django-debug-toolbar-doc/jammy 1:3.2.2-1 all
 python-django-dirtyfields-doc/jammy 1.3.1-2 all
-python-django-doc/jammy-security 2:3.2.12-2ubuntu1.14 all
+python-django-doc/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.14 all
 python-django-etcd-settings-doc/jammy 0.1.13+dfsg-3 all
 python-django-extensions-doc/jammy 3.1.5-2 all
 python-django-extra-views-doc/jammy 0.14.0-1 all
@@ -73795,7 +73795,7 @@ python3-django-webpack-loader/jammy 0.6.0-2 all
 python3-django-widget-tweaks/jammy 1.4.8-1 all
 python3-django-wkhtmltopdf/jammy 3.3.0-1 all
 python3-django-xmlrpc/jammy 0.1.8-2 all
-python3-django/jammy-security 2:3.2.12-2ubuntu1.14 all
+python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.14 all
 python3-djangorestframework-api-key/jammy 2.0.0-2 all
 python3-djangorestframework-extensions/jammy 0.7.1-1 all
 python3-djangorestframework-filters/jammy 1.0.0.dev2-1 all
