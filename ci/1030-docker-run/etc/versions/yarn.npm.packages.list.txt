@@ -18836,7 +18836,7 @@ yarn list v1.22.22
 │  └─ nanoid@1.0.2
 ├─ phone@1.0.12
 ├─ pick-by-alias@1.2.0
-├─ picocolors@1.0.1
+├─ picocolors@1.1.0
 ├─ picomatch@2.3.1
 ├─ pify@2.3.0
 ├─ pinkie-promise@2.0.1
