@@ -14536,7 +14536,7 @@ yarn list v1.22.22
 ├─ fn.name@1.1.0
 ├─ focus-lock@0.9.2
 │  └─ tslib@^2.0.3
-├─ follow-redirects@1.15.7
+├─ follow-redirects@1.15.8
 ├─ font-atlas@2.1.0
 │  └─ css-font@^1.0.0
 ├─ font-awesome@4.7.0
