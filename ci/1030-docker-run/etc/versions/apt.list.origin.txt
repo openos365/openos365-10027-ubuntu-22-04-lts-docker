@@ -2385,8 +2385,8 @@ ccrypt/jammy 1.11-2 amd64
 cct-examples/jammy 1:1.0.3-1 all
 cct/jammy 1:1.0.3-1 all
 ccze/jammy 0.2.1-6 amd64
-cd-boot-images-amd64/jammy-updates 20.3 all
-cd-boot-images-arm64/jammy-updates 16.2 all
+cd-boot-images-amd64/jammy-updates 20.4 all
+cd-boot-images-arm64/jammy-updates 16.3 all
 cd-boot-images-ppc64el/jammy-updates 13.1 all
 cd-boot-images-riscv64/jammy-updates 5.3 all
 cd-circleprint/jammy 0.7.0-5.1 all
