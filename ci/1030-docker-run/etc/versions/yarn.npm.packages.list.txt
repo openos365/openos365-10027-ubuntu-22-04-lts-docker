@@ -4430,7 +4430,6 @@ yarn list v1.22.22
 │  │  ├─ parseurl@~1.3.3
 │  │  ├─ statuses@2.0.1
 │  │  └─ unpipe@~1.0.0
-│  ├─ mime@1.6.0
 │  ├─ ms@2.0.0
 │  ├─ node-fetch@^2.6.7
 │  ├─ passport@^0.6.0
@@ -4446,21 +4445,11 @@ yarn list v1.22.22
 │  │  ├─ iconv-lite@0.4.24
 │  │  └─ unpipe@1.0.0
 │  ├─ request-ip@^2.2.0
-│  ├─ send@0.18.0
-│  │  ├─ debug@2.6.9
-│  │  ├─ depd@2.0.0
-│  │  ├─ destroy@1.2.0
+│  ├─ serve-static@1.15.0
 │  │  ├─ encodeurl@~1.0.2
 │  │  ├─ escape-html@~1.0.3
-│  │  ├─ etag@~1.8.1
-│  │  ├─ fresh@0.5.2
-│  │  ├─ http-errors@2.0.0
-│  │  ├─ mime@1.6.0
-│  │  ├─ ms@2.1.3
-│  │  ├─ ms@2.1.3
-│  │  ├─ on-finished@2.4.1
-│  │  ├─ range-parser@~1.2.1
-│  │  └─ statuses@2.0.1
+│  │  ├─ parseurl@~1.3.3
+│  │  └─ send@0.18.0
 │  └─ statuses@2.0.1
 ├─ @steedos/ee_unpkg-local@2.4.18
 ├─ @steedos/ee_virus-scan@2.5.49
@@ -4636,6 +4625,7 @@ yarn list v1.22.22
 │  ├─ debug@2.6.9
 │  │  └─ ms@2.0.0
 │  ├─ decimal.js@^10.0.2
+│  ├─ destroy@1.0.4
 │  ├─ errorhandler@1.5.0
 │  ├─ es5-shim@4.5.10
 │  ├─ faye-websocket@0.11.1
@@ -4648,6 +4638,13 @@ yarn list v1.22.22
 │  │  ├─ parseurl@1.3.3
 │  │  ├─ statuses@~1.3.1
 │  │  └─ unpipe@~1.0.0
+│  ├─ http-errors@1.6.3
+│  │  ├─ depd@~1.1.2
+│  │  ├─ inherits@2.0.3
+│  │  ├─ setprototypeof@1.1.0
+│  │  ├─ statuses@>= 1.4.0 < 2
+│  │  └─ statuses@1.5.0
+│  ├─ inherits@2.0.3
 │  ├─ install@0.12.2
 │  ├─ json5@2.1.0
 │  ├─ json5@2.1.0
@@ -4658,6 +4655,7 @@ yarn list v1.22.22
 │  ├─ meteor-deque@2.1.0
 │  ├─ meteor-promise@0.8.7
 │  ├─ meteor-promise@0.8.7
+│  ├─ mime@1.4.1
 │  ├─ mongodb-uri@0.9.7
 │  ├─ mongodb@^3.7.3
 │  ├─ ms@2.0.0
@@ -4681,6 +4679,21 @@ yarn list v1.22.22
 │  ├─ semver@5.4.1
 │  ├─ semver@5.4.1
 │  ├─ send@0.16.1
+│  ├─ send@0.16.1
+│  │  ├─ debug@2.6.9
+│  │  ├─ depd@~1.1.1
+│  │  ├─ destroy@~1.0.4
+│  │  ├─ encodeurl@~1.0.1
+│  │  ├─ escape-html@~1.0.3
+│  │  ├─ etag@~1.8.1
+│  │  ├─ fresh@0.5.2
+│  │  ├─ http-errors@~1.6.2
+│  │  ├─ mime@1.4.1
+│  │  ├─ ms@2.0.0
+│  │  ├─ on-finished@~2.3.0
+│  │  ├─ range-parser@~1.2.0
+│  │  └─ statuses@~1.3.1
+│  ├─ setprototypeof@1.1.0
 │  ├─ sha256@0.2.0
 │  ├─ sockjs@^0.3.24
 │  ├─ sockjs@0.3.24
@@ -5049,7 +5062,6 @@ yarn list v1.22.22
 │  │  ├─ parseurl@~1.3.3
 │  │  ├─ statuses@2.0.1
 │  │  └─ unpipe@~1.0.0
-│  ├─ mime@1.6.0
 │  ├─ ms@2.0.0
 │  ├─ qs@6.10.3
 │  │  └─ side-channel@^1.0.4
@@ -5058,21 +5070,11 @@ yarn list v1.22.22
 │  │  ├─ http-errors@2.0.0
 │  │  ├─ iconv-lite@0.4.24
 │  │  └─ unpipe@1.0.0
-│  ├─ send@0.18.0
-│  │  ├─ debug@2.6.9
-│  │  ├─ depd@2.0.0
-│  │  ├─ destroy@1.2.0
+│  ├─ serve-static@1.15.0
 │  │  ├─ encodeurl@~1.0.2
 │  │  ├─ escape-html@~1.0.3
-│  │  ├─ etag@~1.8.1
-│  │  ├─ fresh@0.5.2
-│  │  ├─ http-errors@2.0.0
-│  │  ├─ mime@1.6.0
-│  │  ├─ ms@2.1.3
-│  │  ├─ ms@2.1.3
-│  │  ├─ on-finished@2.4.1
-│  │  ├─ range-parser@~1.2.1
-│  │  └─ statuses@2.0.1
+│  │  ├─ parseurl@~1.3.3
+│  │  └─ send@0.18.0
 │  └─ statuses@2.0.1
 ├─ @steedos/project-template-empty@2.1.17
 ├─ @steedos/react-native@1.0.5
@@ -5358,7 +5360,6 @@ yarn list v1.22.22
 │  ├─ graceful-fs@4.2.10
 │  ├─ ini@2.0.0
 │  ├─ lru-cache@7.18.3
-│  ├─ mime@1.6.0
 │  ├─ mkdirp@1.0.4
 │  ├─ ms@2.1.2
 │  ├─ qs@6.10.3
@@ -5373,24 +5374,11 @@ yarn list v1.22.22
 │  │  ├─ http-errors@2.0.0
 │  │  ├─ iconv-lite@0.4.24
 │  │  └─ unpipe@1.0.0
-│  ├─ send@0.18.0
-│  │  ├─ debug@2.6.9
-│  │  ├─ debug@2.6.9
-│  │  │  ├─ ms@2.0.0
-│  │  │  └─ ms@2.0.0
-│  │  ├─ depd@2.0.0
-│  │  ├─ destroy@1.2.0
+│  ├─ serve-static@1.15.0
 │  │  ├─ encodeurl@~1.0.2
 │  │  ├─ escape-html@~1.0.3
-│  │  ├─ etag@~1.8.1
-│  │  ├─ fresh@0.5.2
-│  │  ├─ http-errors@2.0.0
-│  │  ├─ mime@1.6.0
-│  │  ├─ ms@2.1.3
-│  │  ├─ ms@2.1.3
-│  │  ├─ on-finished@2.4.1
-│  │  ├─ range-parser@~1.2.1
-│  │  └─ statuses@2.0.1
+│  │  ├─ parseurl@~1.3.3
+│  │  └─ send@0.18.0
 │  ├─ statuses@2.0.1
 │  ├─ supports-color@7.2.0
 │  │  └─ has-flag@^4.0.0
@@ -5702,7 +5690,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/standard-objects@2.1.114-beta.1
 │  │  ├─ @steedos/steedos-plugin-schema-builder@2.1.114-beta.1
 │  │  ├─ body-parser@^1.18.1
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -5711,7 +5699,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -5728,6 +5718,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -6041,7 +6044,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/standard-objects@2.1.114-beta.1
 │  │  ├─ app-root-path@^2.2.1
 │  │  ├─ body-parser@^1.18.1
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -6050,7 +6053,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -6071,6 +6076,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -6553,7 +6571,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/objectql@2.1.114-beta.1
 │  │  ├─ @steedos/steedos-plugin-workflow@^2.1.3
 │  │  ├─ body-parser@^1.19.0
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -6562,7 +6580,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -6575,6 +6595,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -6931,6 +6964,33 @@ yarn list v1.22.22
 │  │  └─ uuid@3.4.0
 │  ├─ safe-buffer@5.1.2
 │  ├─ semver@5.3.0
+│  ├─ send@0.16.1
+│  │  ├─ debug@2.6.9
+│  │  ├─ depd@~1.1.1
+│  │  ├─ depd@1.1.2
+│  │  ├─ destroy@~1.0.4
+│  │  ├─ destroy@1.0.4
+│  │  ├─ encodeurl@~1.0.1
+│  │  ├─ escape-html@~1.0.3
+│  │  ├─ etag@~1.8.1
+│  │  ├─ fresh@0.5.2
+│  │  ├─ http-errors@~1.6.2
+│  │  ├─ http-errors@1.6.3
+│  │  │  ├─ depd@~1.1.2
+│  │  │  ├─ inherits@2.0.3
+│  │  │  ├─ setprototypeof@1.1.0
+│  │  │  ├─ statuses@>= 1.4.0 < 2
+│  │  │  └─ statuses@1.5.0
+│  │  ├─ mime@1.4.1
+│  │  ├─ mime@1.4.1
+│  │  ├─ ms@2.0.0
+│  │  ├─ on-finished@~2.3.0
+│  │  ├─ on-finished@2.3.0
+│  │  │  └─ ee-first@1.1.1
+│  │  ├─ range-parser@~1.2.0
+│  │  ├─ setprototypeof@1.1.0
+│  │  ├─ statuses@~1.3.1
+│  │  └─ statuses@1.3.1
 │  ├─ serve-static@1.14.1
 │  │  ├─ depd@1.1.2
 │  │  ├─ destroy@1.0.4
@@ -6987,7 +7047,7 @@ yarn list v1.22.22
 │  │  ├─ basic-auth@^2.0.1
 │  │  ├─ bcrypt@3.0.6
 │  │  ├─ body-parser@^1.18.3
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -6996,9 +7056,7 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
-│  │  │  ├─ qs@6.11.0
-│  │  │  │  └─ side-channel@^1.0.4
+│  │  │  ├─ qs@6.13.0
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -7042,6 +7100,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -7277,7 +7348,6 @@ yarn list v1.22.22
 │  │  ├─ statuses@2.0.1
 │  │  └─ unpipe@~1.0.0
 │  ├─ jsonwebtoken@8.5.1
-│  ├─ mime@1.6.0
 │  ├─ ms@2.0.0
 │  ├─ passport-jwt@^4.0.0
 │  ├─ passport@^0.6.0
@@ -7292,21 +7362,11 @@ yarn list v1.22.22
 │  │  ├─ http-errors@2.0.0
 │  │  ├─ iconv-lite@0.4.24
 │  │  └─ unpipe@1.0.0
-│  ├─ send@0.18.0
-│  │  ├─ debug@2.6.9
-│  │  ├─ depd@2.0.0
-│  │  ├─ destroy@1.2.0
+│  ├─ serve-static@1.15.0
 │  │  ├─ encodeurl@~1.0.2
 │  │  ├─ escape-html@~1.0.3
-│  │  ├─ etag@~1.8.1
-│  │  ├─ fresh@0.5.2
-│  │  ├─ http-errors@2.0.0
-│  │  ├─ mime@1.6.0
-│  │  ├─ ms@2.1.3
-│  │  ├─ ms@2.1.3
-│  │  ├─ on-finished@2.4.1
-│  │  ├─ range-parser@~1.2.1
-│  │  └─ statuses@2.0.1
+│  │  ├─ parseurl@~1.3.3
+│  │  └─ send@0.18.0
 │  └─ statuses@2.0.1
 ├─ @steedos/service-metadata-apps@2.6.29
 │  ├─ @steedos/i18n@2.6.29
@@ -7625,7 +7685,6 @@ yarn list v1.22.22
 │  │  ├─ parseurl@~1.3.3
 │  │  ├─ statuses@2.0.1
 │  │  └─ unpipe@~1.0.0
-│  ├─ mime@1.6.0
 │  ├─ ms@2.0.0
 │  ├─ qs@6.10.3
 │  │  └─ side-channel@^1.0.4
@@ -7634,21 +7693,11 @@ yarn list v1.22.22
 │  │  ├─ http-errors@2.0.0
 │  │  ├─ iconv-lite@0.4.24
 │  │  └─ unpipe@1.0.0
-│  ├─ send@0.18.0
-│  │  ├─ debug@2.6.9
-│  │  ├─ depd@2.0.0
-│  │  ├─ destroy@1.2.0
+│  ├─ serve-static@1.15.0
 │  │  ├─ encodeurl@~1.0.2
 │  │  ├─ escape-html@~1.0.3
-│  │  ├─ etag@~1.8.1
-│  │  ├─ fresh@0.5.2
-│  │  ├─ http-errors@2.0.0
-│  │  ├─ mime@1.6.0
-│  │  ├─ ms@2.1.3
-│  │  ├─ ms@2.1.3
-│  │  ├─ on-finished@2.4.1
-│  │  ├─ range-parser@~1.2.1
-│  │  └─ statuses@2.0.1
+│  │  ├─ parseurl@~1.3.3
+│  │  └─ send@0.18.0
 │  └─ statuses@2.0.1
 ├─ @steedos/service-workflow@2.6.29
 │  ├─ @steedos/service-object-graphql@2.6.29
@@ -7943,7 +7992,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/standard-objects@2.2.4
 │  │  ├─ @steedos/steedos-plugin-schema-builder@2.2.4
 │  │  ├─ body-parser@^1.18.1
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -7952,7 +8001,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -7969,6 +8020,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -8277,7 +8341,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/standard-objects@2.2.4
 │  │  ├─ app-root-path@^2.2.1
 │  │  ├─ body-parser@^1.18.1
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -8286,7 +8350,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -8307,6 +8373,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -8828,7 +8907,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/objectql@2.2.4
 │  │  ├─ @steedos/steedos-plugin-workflow@^2.1.3
 │  │  ├─ body-parser@^1.19.0
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -8837,7 +8916,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -8850,6 +8931,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -9174,6 +9268,33 @@ yarn list v1.22.22
 │  │  └─ uuid@3.4.0
 │  ├─ safe-buffer@5.1.2
 │  ├─ semver@5.3.0
+│  ├─ send@0.16.1
+│  │  ├─ debug@2.6.9
+│  │  ├─ depd@~1.1.1
+│  │  ├─ depd@1.1.2
+│  │  ├─ destroy@~1.0.4
+│  │  ├─ destroy@1.0.4
+│  │  ├─ encodeurl@~1.0.1
+│  │  ├─ escape-html@~1.0.3
+│  │  ├─ etag@~1.8.1
+│  │  ├─ fresh@0.5.2
+│  │  ├─ http-errors@~1.6.2
+│  │  ├─ http-errors@1.6.3
+│  │  │  ├─ depd@~1.1.2
+│  │  │  ├─ inherits@2.0.3
+│  │  │  ├─ setprototypeof@1.1.0
+│  │  │  ├─ statuses@>= 1.4.0 < 2
+│  │  │  └─ statuses@1.5.0
+│  │  ├─ mime@1.4.1
+│  │  ├─ mime@1.4.1
+│  │  ├─ ms@2.0.0
+│  │  ├─ on-finished@~2.3.0
+│  │  ├─ on-finished@2.3.0
+│  │  │  └─ ee-first@1.1.1
+│  │  ├─ range-parser@~1.2.0
+│  │  ├─ setprototypeof@1.1.0
+│  │  ├─ statuses@~1.3.1
+│  │  └─ statuses@1.3.1
 │  ├─ serve-static@1.14.1
 │  │  ├─ depd@1.1.2
 │  │  ├─ destroy@1.0.4
@@ -9230,7 +9351,7 @@ yarn list v1.22.22
 │  │  ├─ basic-auth@^2.0.1
 │  │  ├─ bcrypt@3.0.6
 │  │  ├─ body-parser@^1.18.3
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -9239,9 +9360,7 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
-│  │  │  ├─ qs@6.11.0
-│  │  │  │  └─ side-channel@^1.0.4
+│  │  │  ├─ qs@6.13.0
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -9285,6 +9404,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -9613,7 +9745,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/standard-objects@2.1.114-beta.1
 │  │  ├─ @steedos/steedos-plugin-schema-builder@2.1.114-beta.1
 │  │  ├─ body-parser@^1.18.1
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -9622,7 +9754,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -9639,6 +9773,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -9948,7 +10095,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/standard-objects@2.1.114-beta.1
 │  │  ├─ app-root-path@^2.2.1
 │  │  ├─ body-parser@^1.18.1
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -9957,7 +10104,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -9978,6 +10127,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -10501,7 +10663,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos/objectql@2.1.114-beta.1
 │  │  ├─ @steedos/steedos-plugin-workflow@^2.1.3
 │  │  ├─ body-parser@^1.19.0
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -10510,7 +10672,9 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  ├─ qs@6.13.0
+│  │  │  │  └─ side-channel@^1.0.6
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -10523,6 +10687,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -10847,6 +11024,33 @@ yarn list v1.22.22
 │  │  └─ uuid@3.4.0
 │  ├─ safe-buffer@5.1.2
 │  ├─ semver@5.3.0
+│  ├─ send@0.16.1
+│  │  ├─ debug@2.6.9
+│  │  ├─ depd@~1.1.1
+│  │  ├─ depd@1.1.2
+│  │  ├─ destroy@~1.0.4
+│  │  ├─ destroy@1.0.4
+│  │  ├─ encodeurl@~1.0.1
+│  │  ├─ escape-html@~1.0.3
+│  │  ├─ etag@~1.8.1
+│  │  ├─ fresh@0.5.2
+│  │  ├─ http-errors@~1.6.2
+│  │  ├─ http-errors@1.6.3
+│  │  │  ├─ depd@~1.1.2
+│  │  │  ├─ inherits@2.0.3
+│  │  │  ├─ setprototypeof@1.1.0
+│  │  │  ├─ statuses@>= 1.4.0 < 2
+│  │  │  └─ statuses@1.5.0
+│  │  ├─ mime@1.4.1
+│  │  ├─ mime@1.4.1
+│  │  ├─ ms@2.0.0
+│  │  ├─ on-finished@~2.3.0
+│  │  ├─ on-finished@2.3.0
+│  │  │  └─ ee-first@1.1.1
+│  │  ├─ range-parser@~1.2.0
+│  │  ├─ setprototypeof@1.1.0
+│  │  ├─ statuses@~1.3.1
+│  │  └─ statuses@1.3.1
 │  ├─ serve-static@1.14.1
 │  │  ├─ depd@1.1.2
 │  │  ├─ destroy@1.0.4
@@ -10903,7 +11107,7 @@ yarn list v1.22.22
 │  │  ├─ basic-auth@^2.0.1
 │  │  ├─ bcrypt@3.0.6
 │  │  ├─ body-parser@^1.18.3
-│  │  ├─ body-parser@1.20.2
+│  │  ├─ body-parser@1.20.3
 │  │  │  ├─ bytes@3.1.2
 │  │  │  ├─ content-type@~1.0.5
 │  │  │  ├─ debug@2.6.9
@@ -10912,9 +11116,7 @@ yarn list v1.22.22
 │  │  │  ├─ http-errors@2.0.0
 │  │  │  ├─ iconv-lite@0.4.24
 │  │  │  ├─ on-finished@2.4.1
-│  │  │  ├─ qs@6.11.0
-│  │  │  ├─ qs@6.11.0
-│  │  │  │  └─ side-channel@^1.0.4
+│  │  │  ├─ qs@6.13.0
 │  │  │  ├─ raw-body@2.5.2
 │  │  │  ├─ type-is@~1.6.18
 │  │  │  └─ unpipe@1.0.0
@@ -10958,6 +11160,19 @@ yarn list v1.22.22
 │  │  │  ├─ accepts@~1.3.8
 │  │  │  ├─ array-flatten@1.1.1
 │  │  │  ├─ body-parser@1.20.2
+│  │  │  ├─ body-parser@1.20.2
+│  │  │  │  ├─ bytes@3.1.2
+│  │  │  │  ├─ content-type@~1.0.5
+│  │  │  │  ├─ debug@2.6.9
+│  │  │  │  ├─ depd@2.0.0
+│  │  │  │  ├─ destroy@1.2.0
+│  │  │  │  ├─ http-errors@2.0.0
+│  │  │  │  ├─ iconv-lite@0.4.24
+│  │  │  │  ├─ on-finished@2.4.1
+│  │  │  │  ├─ qs@6.11.0
+│  │  │  │  ├─ raw-body@2.5.2
+│  │  │  │  ├─ type-is@~1.6.18
+│  │  │  │  └─ unpipe@1.0.0
 │  │  │  ├─ content-disposition@0.5.4
 │  │  │  ├─ content-type@~1.0.4
 │  │  │  ├─ cookie-signature@1.0.6
@@ -12411,7 +12626,7 @@ yarn list v1.22.22
 │  └─ inherits@~2.0.0
 ├─ bluebird@3.7.2
 ├─ bn.js@4.12.0
-├─ body-parser@1.20.2
+├─ body-parser@1.20.3
 │  ├─ bytes@3.1.2
 │  ├─ content-type@~1.0.5
 │  ├─ debug@2.6.9
@@ -12424,9 +12639,7 @@ yarn list v1.22.22
 │  ├─ iconv-lite@0.4.24
 │  ├─ ms@2.0.0
 │  ├─ on-finished@2.4.1
-│  ├─ qs@6.11.0
-│  ├─ qs@6.11.0
-│  │  └─ side-channel@^1.0.4
+│  ├─ qs@6.13.0
 │  ├─ raw-body@2.5.2
 │  ├─ type-is@~1.6.18
 │  └─ unpipe@1.0.0
@@ -14230,6 +14443,19 @@ yarn list v1.22.22
 │  ├─ accepts@~1.3.8
 │  ├─ array-flatten@1.1.1
 │  ├─ body-parser@1.20.2
+│  ├─ body-parser@1.20.2
+│  │  ├─ bytes@3.1.2
+│  │  ├─ content-type@~1.0.5
+│  │  ├─ debug@2.6.9
+│  │  ├─ depd@2.0.0
+│  │  ├─ destroy@1.2.0
+│  │  ├─ http-errors@2.0.0
+│  │  ├─ iconv-lite@0.4.24
+│  │  ├─ on-finished@2.4.1
+│  │  ├─ qs@6.11.0
+│  │  ├─ raw-body@2.5.2
+│  │  ├─ type-is@~1.6.18
+│  │  └─ unpipe@1.0.0
 │  ├─ content-disposition@0.5.4
 │  ├─ content-type@~1.0.4
 │  ├─ cookie-signature@1.0.6
@@ -14256,7 +14482,6 @@ yarn list v1.22.22
 │  ├─ http-errors@2.0.0
 │  ├─ merge-descriptors@1.0.1
 │  ├─ methods@~1.1.2
-│  ├─ mime@1.6.0
 │  ├─ ms@2.0.0
 │  ├─ on-finished@2.4.1
 │  ├─ parseurl@~1.3.3
@@ -14268,22 +14493,12 @@ yarn list v1.22.22
 │  ├─ range-parser@~1.2.1
 │  ├─ safe-buffer@5.2.1
 │  ├─ send@0.18.0
-│  ├─ send@0.18.0
-│  │  ├─ debug@2.6.9
-│  │  ├─ depd@2.0.0
-│  │  ├─ destroy@1.2.0
+│  ├─ serve-static@1.15.0
+│  ├─ serve-static@1.15.0
 │  │  ├─ encodeurl@~1.0.2
 │  │  ├─ escape-html@~1.0.3
-│  │  ├─ etag@~1.8.1
-│  │  ├─ fresh@0.5.2
-│  │  ├─ http-errors@2.0.0
-│  │  ├─ mime@1.6.0
-│  │  ├─ ms@2.1.3
-│  │  ├─ ms@2.1.3
-│  │  ├─ on-finished@2.4.1
-│  │  ├─ range-parser@~1.2.1
-│  │  └─ statuses@2.0.1
-│  ├─ serve-static@1.15.0
+│  │  ├─ parseurl@~1.3.3
+│  │  └─ send@0.18.0
 │  ├─ setprototypeof@1.2.0
 │  ├─ statuses@2.0.1
 │  ├─ statuses@2.0.1
@@ -21055,36 +21270,26 @@ yarn list v1.22.22
 ├─ selfsigned@1.10.14
 │  └─ node-forge@^0.10.0
 ├─ semver@7.6.3
-├─ send@0.16.1
+├─ send@0.18.0
 │  ├─ debug@2.6.9
 │  ├─ debug@2.6.9
+│  │  ├─ ms@2.0.0
 │  │  └─ ms@2.0.0
-│  ├─ depd@~1.1.1
-│  ├─ destroy@~1.0.4
-│  ├─ destroy@1.0.4
-│  ├─ encodeurl@~1.0.1
+│  ├─ depd@2.0.0
+│  ├─ depd@2.0.0
+│  ├─ destroy@1.2.0
+│  ├─ encodeurl@~1.0.2
 │  ├─ escape-html@~1.0.3
 │  ├─ etag@~1.8.1
 │  ├─ fresh@0.5.2
-│  ├─ http-errors@~1.6.2
-│  ├─ http-errors@1.6.3
-│  │  ├─ depd@~1.1.2
-│  │  ├─ inherits@2.0.3
-│  │  ├─ setprototypeof@1.1.0
-│  │  ├─ statuses@>= 1.4.0 < 2
-│  │  └─ statuses@1.5.0
-│  ├─ inherits@2.0.3
-│  ├─ mime@1.4.1
-│  ├─ mime@1.4.1
-│  ├─ ms@2.0.0
-│  ├─ ms@2.0.0
-│  ├─ on-finished@~2.3.0
-│  ├─ on-finished@2.3.0
-│  │  └─ ee-first@1.1.1
-│  ├─ range-parser@~1.2.0
-│  ├─ setprototypeof@1.1.0
-│  ├─ statuses@~1.3.1
-│  └─ statuses@1.3.1
+│  ├─ http-errors@2.0.0
+│  ├─ mime@1.6.0
+│  ├─ mime@1.6.0
+│  ├─ ms@2.1.3
+│  ├─ on-finished@2.4.1
+│  ├─ range-parser@~1.2.1
+│  ├─ statuses@2.0.1
+│  └─ statuses@2.0.1
 ├─ sentence-case@2.1.1
 │  ├─ no-case@^2.2.0
 │  └─ upper-case-first@^1.1.2
@@ -21112,31 +21317,11 @@ yarn list v1.22.22
 │  ├─ ms@2.0.0
 │  ├─ parseurl@~1.3.2
 │  └─ setprototypeof@1.1.0
-├─ serve-static@1.15.0
-│  ├─ debug@2.6.9
-│  │  ├─ ms@2.0.0
-│  │  └─ ms@2.0.0
-│  ├─ depd@2.0.0
+├─ serve-static@1.16.0
 │  ├─ encodeurl@~1.0.2
 │  ├─ escape-html@~1.0.3
-│  ├─ mime@1.6.0
 │  ├─ parseurl@~1.3.3
-│  ├─ send@0.18.0
-│  ├─ send@0.18.0
-│  │  ├─ debug@2.6.9
-│  │  ├─ depd@2.0.0
-│  │  ├─ destroy@1.2.0
-│  │  ├─ encodeurl@~1.0.2
-│  │  ├─ escape-html@~1.0.3
-│  │  ├─ etag@~1.8.1
-│  │  ├─ fresh@0.5.2
-│  │  ├─ http-errors@2.0.0
-│  │  ├─ mime@1.6.0
-│  │  ├─ ms@2.1.3
-│  │  ├─ on-finished@2.4.1
-│  │  ├─ range-parser@~1.2.1
-│  │  └─ statuses@2.0.1
-│  └─ statuses@2.0.1
+│  └─ send@0.18.0
 ├─ set-blocking@2.0.0
 ├─ set-function-length@1.2.2
 │  ├─ define-data-property@^1.1.4
