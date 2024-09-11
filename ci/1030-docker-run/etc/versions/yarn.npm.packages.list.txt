@@ -4792,7 +4792,7 @@ yarn list v1.22.22
 │  │  └─ serve-static@^1.14.1
 │  ├─ moleculer@^0.14.11
 │  ├─ nats@^1.4.12
-│  └─ path-to-regexp@3.2.0
+│  └─ path-to-regexp@3.3.0
 ├─ @steedos/oauth2-messenger@1.0.0
 │  ├─ cookies@^0.7.3
 │  ├─ cookies@0.7.3
@@ -18033,7 +18033,7 @@ yarn list v1.22.22
 │  ├─ kleur@^4.1.4
 │  ├─ lodash@^4.17.21
 │  ├─ path-to-regexp@^3.1.0
-│  ├─ path-to-regexp@3.2.0
+│  ├─ path-to-regexp@3.3.0
 │  ├─ qs@^6.11.0
 │  └─ serve-static@^1.14.1
 ├─ moleculer@0.14.34
