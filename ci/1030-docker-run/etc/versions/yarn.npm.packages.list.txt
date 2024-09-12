@@ -20559,7 +20559,7 @@ yarn list v1.22.22
 │  ├─ hastscript@^6.0.0
 │  ├─ parse-entities@^2.0.0
 │  └─ prismjs@~1.27.0
-├─ regenerate-unicode-properties@10.1.1
+├─ regenerate-unicode-properties@10.2.0
 │  └─ regenerate@^1.4.2
 ├─ regenerate@1.4.2
 ├─ regenerator-runtime@0.13.11
@@ -22494,11 +22494,11 @@ yarn list v1.22.22
 ├─ unc-path-regex@0.1.2
 ├─ underscore@1.13.7
 ├─ undici-types@6.19.8
-├─ unicode-canonical-property-names-ecmascript@2.0.0
+├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
 │  └─ unicode-property-aliases-ecmascript@^2.0.0
-├─ unicode-match-property-value-ecmascript@2.1.0
+├─ unicode-match-property-value-ecmascript@2.2.0
 ├─ unicode-property-aliases-ecmascript@2.1.0
 ├─ union-find@1.0.2
 ├─ union-value@1.0.1

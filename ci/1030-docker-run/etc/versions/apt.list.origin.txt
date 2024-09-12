@@ -72749,7 +72749,7 @@ python-semantic-version-doc/jammy 2.8.5-1 all
 python-senlinclient-doc/jammy 2.3.0-0ubuntu1 all
 python-sense-emu-doc/jammy 1.2-0ubuntu1 all
 python-seqcluster-doc/jammy 1.2.8+ds-1 all
-python-setuptools-doc/jammy-updates,jammy-security 59.6.0-1.2ubuntu0.22.04.1 all
+python-setuptools-doc/jammy-updates,jammy-security 59.6.0-1.2ubuntu0.22.04.2 all
 python-setuptools/jammy-updates,jammy-security 44.1.1-1.2ubuntu0.22.04.1 all
 python-sfepy-doc/jammy 2021.4-1ubuntu1 all
 python-sfml-doc/jammy 2.2~git20150611.196c88+dfsg-7build1 all
@@ -75314,7 +75314,7 @@ python3-pip/jammy-updates,jammy-security,now 22.0.2+dfsg-1ubuntu0.4 all [install
 python3-pipdeptree/jammy 2.2.0-3 amd64
 python3-piston-mini-client/jammy 0.7.5-0ubuntu7 all
 python3-pivy/jammy-updates 0.6.5-1ubuntu0.22.04.1 amd64
-python3-pkg-resources/jammy-updates,jammy-security,now 59.6.0-1.2ubuntu0.22.04.1 all [installed,automatic]
+python3-pkg-resources/jammy-updates,jammy-security,now 59.6.0-1.2ubuntu0.22.04.2 all [installed,automatic]
 python3-pkgconfig/jammy 1.5.5-1 all
 python3-pkginfo/jammy 1.8.2-1 all
 python3-pki-base/jammy 11.0.0-1 all
@@ -76166,8 +76166,8 @@ python3-setuptools-git/jammy 1.2-3 all
 python3-setuptools-rust/jammy 1.2.0-1 all
 python3-setuptools-scm-git-archive/jammy 1.1-4 all
 python3-setuptools-scm/jammy 6.4.2-1 all
-python3-setuptools-whl/jammy-updates,jammy-security 59.6.0-1.2ubuntu0.22.04.1 all
-python3-setuptools/jammy-updates,jammy-security,now 59.6.0-1.2ubuntu0.22.04.1 all [installed,automatic]
+python3-setuptools-whl/jammy-updates,jammy-security 59.6.0-1.2ubuntu0.22.04.2 all
+python3-setuptools/jammy-updates,jammy-security,now 59.6.0-1.2ubuntu0.22.04.2 all [installed,automatic]
 python3-sexpdata/jammy 0.0.3-2 all
 python3-sfepy/jammy 2021.4-1ubuntu1 amd64
 python3-sfml/jammy 2.2~git20150611.196c88+dfsg-7build1 amd64
