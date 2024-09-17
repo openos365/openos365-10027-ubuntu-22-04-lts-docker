@@ -3995,6 +3995,8 @@ yarn list v1.22.22
 │  ├─ react-dom@^17.0.2
 │  ├─ react-loadable@^5.5.0
 │  ├─ react-monaco-editor@^0.47.0
+│  ├─ react-monaco-editor@0.47.0
+│  │  └─ prop-types@^15.8.1
 │  ├─ react-query@^3.13.3
 │  ├─ react-resizable@^1.11.1
 │  ├─ react-slick@^0.28.1
@@ -4932,8 +4934,6 @@ yarn list v1.22.22
 │  │  ├─ object-assign@^4.1.1
 │  │  ├─ prop-types@^15.6.2
 │  │  └─ scheduler@^0.19.1
-│  ├─ react-monaco-editor@0.56.1
-│  │  └─ prop-types@^15.8.1
 │  ├─ react-monaco-editor@latest
 │  ├─ react@^16.13.1
 │  ├─ react@16.14.0
@@ -5531,14 +5531,14 @@ yarn list v1.22.22
 │  │  ├─ console-control-strings@^1.1.0
 │  │  ├─ gauge@^3.0.0
 │  │  └─ set-blocking@^2.0.0
-│  ├─ pg-connection-string@2.6.4
-│  ├─ pg-pool@3.6.2
+│  ├─ pg-connection-string@2.7.0
+│  ├─ pg-pool@3.7.0
 │  ├─ pg@^8.10.0
-│  ├─ pg@8.12.0
+│  ├─ pg@8.13.0
 │  │  ├─ pg-cloudflare@^1.1.1
-│  │  ├─ pg-connection-string@^2.6.4
-│  │  ├─ pg-pool@^3.6.2
-│  │  ├─ pg-protocol@^1.6.1
+│  │  ├─ pg-connection-string@^2.7.0
+│  │  ├─ pg-pool@^3.7.0
+│  │  ├─ pg-protocol@^1.7.0
 │  │  ├─ pg-types@^2.1.0
 │  │  └─ pgpass@1.x
 │  ├─ promise-queue@^2.2.5
@@ -18856,7 +18856,7 @@ yarn list v1.22.22
 ├─ pg-int8@1.0.1
 ├─ pg-packet-stream@1.1.0
 ├─ pg-pool@2.0.10
-├─ pg-protocol@1.6.1
+├─ pg-protocol@1.7.0
 ├─ pg-types@2.2.0
 │  ├─ pg-int8@1.0.1
 │  ├─ postgres-array@~2.0.0
@@ -20028,7 +20028,7 @@ yarn list v1.22.22
 │  ├─ prop-types@^15.7.2
 │  ├─ react-lifecycles-compat@^3.0.0
 │  └─ warning@^4.0.3
-├─ react-monaco-editor@0.47.0
+├─ react-monaco-editor@0.56.1
 │  └─ prop-types@^15.8.1
 ├─ react-native-button@2.4.0
 │  └─ prop-types@^15.5.10
