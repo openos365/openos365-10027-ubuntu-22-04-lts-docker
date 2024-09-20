@@ -11522,7 +11522,7 @@ yarn list v1.22.22
 │  └─ redux@^4.0.0
 ├─ @types/react-transition-group@4.4.11
 │  └─ @types/react@*
-├─ @types/react@18.3.7
+├─ @types/react@18.3.8
 │  ├─ @types/prop-types@*
 │  └─ csstype@^3.0.2
 ├─ @types/requirejs@2.1.37
@@ -19458,7 +19458,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.10.0
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.34.2
+├─ prosemirror-view@1.34.3
 │  ├─ prosemirror-model@^1.20.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
