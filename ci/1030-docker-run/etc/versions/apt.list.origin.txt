@@ -73648,7 +73648,7 @@ python-psutil-doc/jammy 5.9.0-1build1 all
 python-psycopg2-doc/jammy 2.9.2-1build2 all
 python-ptk-doc/jammy 1.3.8+dfsg-1 all
 python-py-stringmatching-doc/jammy 0.4.2+git20201204.6a7fb57-7build1 all
-python-py7zr-doc/jammy 0.11.3+dfsg-4 all
+python-py7zr-doc/jammy-updates,jammy-security 0.11.3+dfsg-4ubuntu0.1 all
 python-pyasn1-doc/jammy 0.4.8-1 all
 python-pyaudio-doc/jammy 0.2.11-1.3ubuntu1 all
 python-pybedtools-doc/jammy 0.9.0-1build1 all
@@ -76460,7 +76460,7 @@ python3-py-stringmatching/jammy 0.4.2+git20201204.6a7fb57-7build1 amd64
 python3-py-zipkin/jammy 0.15.0-1.1 all
 python3-py2bit/jammy 0.3.0-6build3 amd64
 python3-py3exiv2/jammy 0.7.2-1.1build1 amd64
-python3-py7zr/jammy 0.11.3+dfsg-4 amd64
+python3-py7zr/jammy-updates,jammy-security 0.11.3+dfsg-4ubuntu0.1 amd64
 python3-py/jammy 1.10.0-1 all
 python3-pyaes/jammy 1.6.1-4 all
 python3-pyagentx/jammy 0.4.1-7 all
