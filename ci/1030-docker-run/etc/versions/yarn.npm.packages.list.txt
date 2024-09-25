@@ -11507,7 +11507,7 @@ yarn list v1.22.22
 ├─ @types/mime@1.3.5
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@22.6.1
+├─ @types/node@22.7.0
 │  └─ undici-types@~6.19.2
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
@@ -12585,9 +12585,9 @@ yarn list v1.22.22
 ├─ browserify-zlib@0.1.4
 │  ├─ pako@~0.2.0
 │  └─ pako@0.2.9
-├─ browserslist@4.23.3
-│  ├─ caniuse-lite@^1.0.30001646
-│  ├─ electron-to-chromium@^1.5.4
+├─ browserslist@4.24.0
+│  ├─ caniuse-lite@^1.0.30001663
+│  ├─ electron-to-chromium@^1.5.28
 │  ├─ node-releases@^2.0.18
 │  └─ update-browserslist-db@^1.1.0
 ├─ bser@2.1.1
