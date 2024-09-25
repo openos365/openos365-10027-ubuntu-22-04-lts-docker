@@ -23149,7 +23149,7 @@ yarn list v1.22.22
 ├─ xmldom@0.6.0
 ├─ xmlhttprequest-ssl@1.6.3
 ├─ xpath.js@1.1.0
-├─ xpipe@1.0.7
+├─ xpipe@1.0.8
 ├─ xregexp@4.0.0
 ├─ xss@1.0.15
 │  ├─ commander@^2.20.3
