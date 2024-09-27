@@ -158,8 +158,8 @@ adplug-utils/jammy 2.3.3+dfsg-2 amd64
 adql-java-doc/jammy 1.5-1 all
 adql-java/jammy 1.5-1 all
 adr-tools/jammy 3.0.0-2 all
-adsys-windows/jammy-updates 0.14.1~22.04 amd64
-adsys/jammy-updates 0.14.1~22.04 amd64
+adsys-windows/jammy-updates 0.14.2~22.04 amd64
+adsys/jammy-updates 0.14.2~22.04 amd64
 adun-core/jammy 0.81-14build2 amd64
 adun.app/jammy 0.81-14build2 amd64
 adv-17v35x-dkms/jammy-updates 5.0.6.0-1ubuntu1 all
@@ -2995,7 +2995,7 @@ closure-compiler/jammy 20130227+dfsg1-10.1 all
 cloud-enum/jammy 0.6-2 all
 cloud-guest-utils/jammy 0.32-22-g45fe84a5-0ubuntu1 all
 cloud-image-utils/jammy 0.32-22-g45fe84a5-0ubuntu1 all
-cloud-init/jammy-updates 24.2-0ubuntu1~22.04.1 all
+cloud-init/jammy-updates 24.3.1-0ubuntu0~22.04.1 all
 cloud-initramfs-copymods/jammy 0.47ubuntu1 all
 cloud-initramfs-dyn-netconf/jammy 0.47ubuntu1 all
 cloud-initramfs-growroot/jammy 0.47ubuntu1 all
@@ -3710,21 +3710,21 @@ cup/jammy 0.11b-20160615-2 all
 cupp3/jammy 0.0+20190501.git986658-6 all
 cupp/jammy 0.0+20190501.git986658-6 all
 cups-backend-bjnp/jammy 2.0.3-3 amd64
-cups-browsed/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
-cups-bsd/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
-cups-client/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
-cups-common/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 all
-cups-core-drivers/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
-cups-daemon/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
-cups-filters-core-drivers/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
-cups-filters/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
-cups-ipp-utils/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
+cups-browsed/jammy-updates,jammy-security 1.28.15-0ubuntu1.3 amd64
+cups-bsd/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
+cups-client/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
+cups-common/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 all
+cups-core-drivers/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
+cups-daemon/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
+cups-filters-core-drivers/jammy-updates,jammy-security 1.28.15-0ubuntu1.3 amd64
+cups-filters/jammy-updates,jammy-security 1.28.15-0ubuntu1.3 amd64
+cups-ipp-utils/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
 cups-pk-helper/jammy 0.2.6-1ubuntu5 amd64
-cups-ppdc/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
-cups-server-common/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 all
+cups-ppdc/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
+cups-server-common/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 all
 cups-tea4cups/jammy 3.14~alpha0+svn3576-2 all
 cups-x2go/jammy 3.0.1.4-1 all
-cups/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
+cups/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
 cupt-dbg/jammy 2.10.4+nmu1build1 amd64
 cupt/jammy 2.10.4+nmu1build1 amd64
 cura-engine/jammy 1:4.13.0-1 amd64
@@ -9690,7 +9690,7 @@ gir1.2-messagingmenu-1.0/jammy 22.2.0-1 amd64
 gir1.2-meta-muffin-0.0/jammy 5.2.1-1 amd64
 gir1.2-modemmanager-1.0/jammy-updates 1.20.0-1~ubuntu22.04.4 amd64
 gir1.2-modulemd-2.0/jammy 2.13.0-1 amd64
-gir1.2-mutter-10/jammy-updates 42.9-0ubuntu8 amd64
+gir1.2-mutter-10/jammy-updates 42.9-0ubuntu9 amd64
 gir1.2-mypaint-1.5/jammy 1.6.0-2 amd64
 gir1.2-nautilus-3.0/jammy-updates 1:42.6-0ubuntu1 amd64
 gir1.2-nemo-3.0/jammy 5.2.4-1 amd64
@@ -20207,12 +20207,12 @@ libcunit1-doc/jammy 2.1-3-dfsg-2.4 all
 libcunit1-ncurses-dev/jammy 2.1-3-dfsg-2.4 amd64
 libcunit1-ncurses/jammy 2.1-3-dfsg-2.4 amd64
 libcunit1/jammy 2.1-3-dfsg-2.4 amd64
-libcups2-dev/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
-libcups2/jammy-updates,jammy-security,now 2.4.1op1-1ubuntu4.10 amd64 [installed,automatic]
-libcupsfilters-dev/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
-libcupsfilters1/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
-libcupsimage2-dev/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
-libcupsimage2/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.10 amd64
+libcups2-dev/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
+libcups2/jammy-updates,jammy-security,now 2.4.1op1-1ubuntu4.11 amd64 [installed,automatic]
+libcupsfilters-dev/jammy-updates,jammy-security 1.28.15-0ubuntu1.3 amd64
+libcupsfilters1/jammy-updates,jammy-security 1.28.15-0ubuntu1.3 amd64
+libcupsimage2-dev/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
+libcupsimage2/jammy-updates,jammy-security 2.4.1op1-1ubuntu4.11 amd64
 libcupt-common/jammy 2.10.4+nmu1build1 all
 libcupt4-2-downloadmethod-curl/jammy 2.10.4+nmu1build1 amd64
 libcupt4-2-downloadmethod-wget/jammy 2.10.4+nmu1build1 amd64
@@ -22336,8 +22336,8 @@ libfontconfig-dev/jammy 2.13.1-4.2ubuntu5 amd64
 libfontconfig-doc/jammy 2.13.1-4.2ubuntu5 all
 libfontconfig1-dev/jammy 2.13.1-4.2ubuntu5 amd64
 libfontconfig1/jammy,now 2.13.1-4.2ubuntu5 amd64 [installed,automatic]
-libfontembed-dev/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
-libfontembed1/jammy-updates,jammy-security 1.28.15-0ubuntu1.2 amd64
+libfontembed-dev/jammy-updates,jammy-security 1.28.15-0ubuntu1.3 amd64
+libfontembed1/jammy-updates,jammy-security 1.28.15-0ubuntu1.3 amd64
 libfontenc-dev/jammy 1:1.1.4-1build3 amd64
 libfontenc1/jammy,now 1:1.1.4-1build3 amd64 [installed,automatic]
 libfontforge4/jammy-updates,jammy-security 1:20201107~dfsg-4+deb11u1build0.22.04.1 amd64
@@ -32443,9 +32443,9 @@ libmusicbrainz5cc2v5/jammy 5.1.0+git20150707-10 amd64
 libmustache-d-dev/jammy 0.1.4-1build3 amd64
 libmustache-d0/jammy 0.1.4-1build3 amd64
 libmustache-java/jammy 0.9.1-1 all
-libmutter-10-0/jammy-updates 42.9-0ubuntu8 amd64
-libmutter-10-dev/jammy-updates 42.9-0ubuntu8 amd64
-libmutter-test-10/jammy-updates 42.9-0ubuntu8 amd64
+libmutter-10-0/jammy-updates 42.9-0ubuntu9 amd64
+libmutter-10-dev/jammy-updates 42.9-0ubuntu9 amd64
+libmutter-test-10/jammy-updates 42.9-0ubuntu9 amd64
 libmvel-java/jammy 2.4.4-1 all
 libmwaw-0.3-3/jammy 0.3.21-1build1 amd64
 libmwaw-dev/jammy 0.3.21-1build1 amd64
@@ -33440,8 +33440,8 @@ libnvidia-decode-545/jammy-updates 545.29.06-0ubuntu0.22.04.2 amd64
 libnvidia-decode-550-server/jammy-updates,jammy-security 550.90.07-0ubuntu0.22.04.1 amd64
 libnvidia-decode-550/jammy-updates,jammy-security 550.107.02-0ubuntu0.22.04.1 amd64
 libnvidia-egl-gbm1/jammy 1.1.0-1 amd64
-libnvidia-egl-wayland-dev/jammy 1:1.1.9-1.1 amd64
-libnvidia-egl-wayland1/jammy 1:1.1.9-1.1 amd64
+libnvidia-egl-wayland-dev/jammy-updates 1:1.1.9-1.1ubuntu0.1 amd64
+libnvidia-egl-wayland1/jammy-updates 1:1.1.9-1.1ubuntu0.1 amd64
 libnvidia-encode-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 libnvidia-encode-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 libnvidia-encode-418/jammy 430.50-0ubuntu3 amd64
@@ -44816,7 +44816,7 @@ linux-crashdump/jammy-updates,jammy-security 5.15.0.122.122 amd64
 linux-doc/jammy-updates,jammy-security 5.15.0-122.132 all
 linux-firmware-xilinx-ap1302/jammy-updates 1:2.0-0ubuntu1~22.04.1 all
 linux-firmware-xilinx-vcu/jammy 2020.2-0ubuntu1 all
-linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.31 all
+linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.34 all
 linux-gcp-5.19-headers-5.19.0-1022/jammy-updates,jammy-security 5.19.0-1022.24~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1024/jammy-updates,jammy-security 5.19.0-1024.26~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1025/jammy-updates,jammy-security 5.19.0-1025.27~22.04.1 amd64
@@ -67163,9 +67163,9 @@ mutrace/jammy 0.2.0-3.4 amd64
 mutt-vc-query/jammy 005-1 amd64
 mutt/jammy-updates,jammy-security 2.1.4-1ubuntu1.2 amd64
 muttdown/jammy 0.3.5-2 all
-mutter-10-tests/jammy-updates 42.9-0ubuntu8 amd64
-mutter-common/jammy-updates 42.9-0ubuntu8 all
-mutter/jammy-updates 42.9-0ubuntu8 amd64
+mutter-10-tests/jammy-updates 42.9-0ubuntu9 amd64
+mutter-common/jammy-updates 42.9-0ubuntu9 all
+mutter/jammy-updates 42.9-0ubuntu9 amd64
 muttprint-manual/jammy 0.73-11 all
 muttprint/jammy 0.73-11 all
 muttprofile/jammy 1.0.1-5.1 all
@@ -72137,7 +72137,7 @@ plasma-discover-backend-snap/jammy-updates 5.24.7-0ubuntu0.1 amd64
 plasma-discover-common/jammy-updates 5.24.7-0ubuntu0.1 all
 plasma-discover/jammy-updates 5.24.7-0ubuntu0.1 amd64
 plasma-disks/jammy 5.24.4-0ubuntu1 amd64
-plasma-distro-release-notifier/jammy-updates 20220915-0ubuntu0.22.04.1 amd64
+plasma-distro-release-notifier/jammy-updates 20220915-0ubuntu0.22.04.2 amd64
 plasma-firewall/jammy 5.24.4-0ubuntu1 amd64
 plasma-framework/jammy 5.92.0-0ubuntu1 amd64
 plasma-gmailfeed/jammy 1.1-2 amd64
@@ -73248,7 +73248,7 @@ python-cogent-doc/jammy 2021.10.12a1+dfsg-1 all
 python-collada-doc/jammy 0.6-2 all
 python-colorzero-doc/jammy 2.0-2 all
 python-commonmark-bkrs-doc/jammy 0.5.4+ds-5 all
-python-configobj-doc/jammy 5.0.6-5 all
+python-configobj-doc/jammy-updates,jammy-security 5.0.6-5ubuntu0.1 all
 python-congressclient-doc/jammy 2.0.1-2build1 all
 python-cookiecutter-doc/jammy 1.7.3-1 all
 python-cotyledon-doc/jammy 1.7.3-2 all
@@ -74500,7 +74500,7 @@ python3-compreffor/jammy 0.5.1-2build1 amd64
 python3-compyle/jammy 0.8.1-2 all
 python3-confget/jammy 4.1.0-1 all
 python3-configargparse/jammy 1.5.3-1 all
-python3-configobj/jammy 5.0.6-5 all
+python3-configobj/jammy-updates,jammy-security 5.0.6-5ubuntu0.1 all
 python3-configshell-fb/jammy 1:1.1.28-2 all
 python3-confluent-kafka/jammy 1.7.0-2 amd64
 python3-confuse/jammy 1.7.0-1 all
@@ -76985,7 +76985,7 @@ python3-radicale/jammy 3.0.6-4ubuntu2 all
 python3-radio-beam/jammy 0.3.3-1 all
 python3-radix/jammy 0.10.0-3build6 amd64
 python3-rados/jammy-updates 17.2.7-0ubuntu0.22.04.1 amd64
-python3-rally/jammy 3.3.0-1 all
+python3-rally/jammy-updates 3.3.0-1ubuntu1 all
 python3-random2/jammy 1.0.1-2.1 all
 python3-randomize/jammy 0.14-2 all
 python3-rangehttpserver/jammy 1.2.0-2 all
@@ -79993,7 +79993,7 @@ rake/jammy,now 13.0.6-2 all [installed,automatic]
 raku-getopt-long/jammy 0.3.3-2build1 amd64
 raku-tap-harness/jammy 0.3.5-2build1 amd64
 rakudo/jammy 2022.02-1 amd64
-rally/jammy 3.3.0-1 all
+rally/jammy-updates 3.3.0-1ubuntu1 all
 rambo-k/jammy 1.21+dfsg-4 all
 ramond/jammy 0.5-4.1 amd64
 rampler/jammy 2.0.0-2 amd64
@@ -80248,7 +80248,7 @@ retext/jammy 7.2.3-1 all
 retro-runner/jammy 1.0.2-2.1 amd64
 retroarch-assets/jammy 1.4.1+git20170209+dfsg1-1 all
 retroarch/jammy 1.7.3+dfsg1-1.1build1 amd64
-retry/jammy 1.0.4-3 amd64
+retry/jammy-updates 1.0.4-3build1 amd64
 retweet/jammy 0.10-1.1 all
 reuse/jammy 0.14.0-1 all
 rev-plugins/jammy 0.7.1-3ubuntu3 amd64
@@ -87224,13 +87224,13 @@ xdesktopwaves/jammy 1.3-4.1 amd64
 xdeview/jammy 0.5.20-13 amd64
 xdg-dbus-proxy-tests/jammy 0.1.3-1 amd64
 xdg-dbus-proxy/jammy 0.1.3-1 amd64
-xdg-desktop-portal-dev/jammy-updates 1.14.4-1ubuntu2~22.04.1 all
+xdg-desktop-portal-dev/jammy-updates 1.14.4-1ubuntu2~22.04.2 all
 xdg-desktop-portal-gnome/jammy-updates 42.1-0ubuntu2 amd64
 xdg-desktop-portal-gtk/jammy 1.14.0-1build1 amd64
 xdg-desktop-portal-kde/jammy-updates 5.24.7-0ubuntu0.1 amd64
-xdg-desktop-portal-tests/jammy-updates 1.14.4-1ubuntu2~22.04.1 amd64
+xdg-desktop-portal-tests/jammy-updates 1.14.4-1ubuntu2~22.04.2 amd64
 xdg-desktop-portal-wlr/jammy 0.5.0-3 amd64
-xdg-desktop-portal/jammy-updates 1.14.4-1ubuntu2~22.04.1 amd64
+xdg-desktop-portal/jammy-updates 1.14.4-1ubuntu2~22.04.2 amd64
 xdg-user-dirs-gtk/jammy 0.10-3build2 amd64
 xdg-user-dirs/jammy,now 0.17-2ubuntu4 amd64 [installed,automatic]
 xdg-utils-cxx/jammy 1.0.1-2 amd64
