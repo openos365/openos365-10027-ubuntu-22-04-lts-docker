@@ -1932,7 +1932,7 @@ btrfsmaintenance/jammy 0.5-1 all
 btscanner/jammy 2.1-9 amd64
 btyacc/jammy 3.0+dfsg-1 amd64
 bubblefishymon/jammy 0.6.4-6.1 amd64
-bubblewrap/jammy 0.6.1-1 amd64
+bubblewrap/jammy-updates,jammy-security 0.6.1-1ubuntu0.1 amd64
 bucardo/jammy 5.6.0-4 all
 bucklespring-data/jammy 1.4.0-2 all
 bucklespring/jammy 1.4.0-2 amd64
@@ -6628,10 +6628,10 @@ flatlatex/jammy 0.15-1 all
 flatnuke/jammy 2.7.2-0ubuntu3 all
 flatpak-builder-tests/jammy 1.2.2-2 amd64
 flatpak-builder/jammy 1.2.2-2 amd64
-flatpak-tests/jammy 1.12.7-1 amd64
+flatpak-tests/jammy-updates,jammy-security 1.12.7-1ubuntu0.1 amd64
 flatpak-xdg-utils-tests/jammy 1.0.5-1 amd64
 flatpak-xdg-utils/jammy 1.0.5-1 amd64
-flatpak/jammy 1.12.7-1 amd64
+flatpak/jammy-updates,jammy-security 1.12.7-1ubuntu0.1 amd64
 flatzinc/jammy 6.2.0-5 amd64
 flawfinder/jammy 2.0.19-1.1 all
 fldiff/jammy 1.1+0-6build1 amd64
@@ -9558,7 +9558,7 @@ gir1.2-evince-3.0/jammy-updates 42.3-0ubuntu3.1 amd64
 gir1.2-farstream-0.2/jammy 0.2.9-1 amd64
 gir1.2-fcitx-1.0/jammy 1:4.2.9.8-5 amd64
 gir1.2-fcitxg-1.0/jammy 5.0.12-1 amd64
-gir1.2-flatpak-1.0/jammy 1.12.7-1 amd64
+gir1.2-flatpak-1.0/jammy-updates,jammy-security 1.12.7-1ubuntu0.1 amd64
 gir1.2-folks-0.7/jammy 0.15.5-2 amd64
 gir1.2-fprint-2.0/jammy-updates 1:1.94.3+tod1-0ubuntu2~22.04.08 amd64
 gir1.2-freedesktop/jammy 1.72.0-1 amd64
@@ -22243,9 +22243,9 @@ libflashrom1/jammy 1.2-5build1 amd64
 libflatbuffers-dev/jammy 1.12.1~git20200711.33e2d80+dfsg1-0.6 amd64
 libflatbuffers1/jammy 1.12.1~git20200711.33e2d80+dfsg1-0.6 amd64
 libflathashmap-dev/jammy 0.0+git20180715.2c46874-2 all
-libflatpak-dev/jammy 1.12.7-1 amd64
-libflatpak-doc/jammy 1.12.7-1 all
-libflatpak0/jammy 1.12.7-1 amd64
+libflatpak-dev/jammy-updates,jammy-security 1.12.7-1ubuntu0.1 amd64
+libflatpak-doc/jammy-updates,jammy-security 1.12.7-1ubuntu0.1 all
+libflatpak0/jammy-updates,jammy-security 1.12.7-1ubuntu0.1 amd64
 libflatzebra-0.1-2v5/jammy 0.1.7-1build1 amd64
 libflatzebra-dev/jammy 0.1.7-1build1 amd64
 libflexdock-java-demo/jammy 1.2.4-2 all
@@ -46879,8 +46879,8 @@ linux-image-6.8.0-1013-gcp/jammy-updates,jammy-security 6.8.0-1013.14~22.04.1 am
 linux-image-6.8.0-1013-ibm/jammy-updates,jammy-security 6.8.0-1013.13~22.04.1 amd64
 linux-image-6.8.0-1013-nvidia/jammy-updates,jammy-security 6.8.0-1013.14~22.04.1 amd64
 linux-image-6.8.0-1014-aws/jammy-updates,jammy-security 6.8.0-1014.15~22.04.1 amd64
-linux-image-6.8.0-1014-azure-fde/jammy-updates,jammy-security 6.8.0-1014.16~22.04.1 amd64
-linux-image-6.8.0-1014-azure/jammy-updates,jammy-security 6.8.0-1014.16~22.04.1 amd64
+linux-image-6.8.0-1014-azure-fde/jammy-updates,jammy-security 6.8.0-1014.16~22.04.1+3 amd64
+linux-image-6.8.0-1014-azure/jammy-updates,jammy-security 6.8.0-1014.16~22.04.1+3 amd64
 linux-image-6.8.0-1014-gcp/jammy-updates,jammy-security 6.8.0-1014.16~22.04.1 amd64
 linux-image-6.8.0-1014-nvidia/jammy-updates,jammy-security 6.8.0-1014.15~22.04.1 amd64
 linux-image-6.8.0-1015-aws/jammy-updates,jammy-security 6.8.0-1015.16~22.04.1 amd64
