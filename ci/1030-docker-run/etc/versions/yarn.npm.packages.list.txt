@@ -12563,6 +12563,7 @@ yarn list v1.22.22
 │  └─ pako@0.2.9
 ├─ browserslist@4.24.0
 │  ├─ caniuse-lite@^1.0.30001663
+│  ├─ caniuse-lite@1.0.30001664
 │  ├─ electron-to-chromium@^1.5.28
 │  ├─ node-releases@^2.0.18
 │  └─ update-browserslist-db@^1.1.0
@@ -12704,7 +12705,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001664
+├─ caniuse-lite@1.0.30001666
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -17966,6 +17967,7 @@ yarn list v1.22.22
 │  ├─ @next/swc-win32-x64-msvc@12.3.4
 │  ├─ @swc/helpers@0.4.11
 │  ├─ caniuse-lite@^1.0.30001406
+│  ├─ caniuse-lite@1.0.30001664
 │  ├─ nanoid@3.3.7
 │  ├─ postcss@8.4.14
 │  ├─ postcss@8.4.14
