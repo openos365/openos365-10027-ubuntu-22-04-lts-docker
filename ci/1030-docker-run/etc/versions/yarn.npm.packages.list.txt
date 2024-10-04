@@ -12701,7 +12701,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001666
+├─ caniuse-lite@1.0.30001667
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -19287,7 +19287,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.24.1
+├─ preact@10.24.2
 ├─ prelude-ls@1.1.2
 ├─ prepend-http@2.0.0
 ├─ prettier-plugin-svelte@1.4.2
