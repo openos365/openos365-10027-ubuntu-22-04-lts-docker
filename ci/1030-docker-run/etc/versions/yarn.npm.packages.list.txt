@@ -19372,7 +19372,7 @@ yarn list v1.22.22
 │  ├─ mdurl@2.0.0
 │  ├─ prosemirror-model@^1.20.0
 │  └─ uc.micro@2.1.0
-├─ prosemirror-model@1.22.3
+├─ prosemirror-model@1.23.0
 │  └─ orderedmap@^2.0.0
 ├─ prosemirror-schema-list@1.4.1
 │  ├─ prosemirror-model@^1.0.0
@@ -20603,7 +20603,7 @@ yarn list v1.22.22
 ├─ registry-url@5.1.0
 │  └─ rc@^1.2.8
 ├─ regjsgen@0.5.2
-├─ regjsparser@0.11.0
+├─ regjsparser@0.11.1
 │  └─ jsesc@~3.0.2
 ├─ regl-error2d@2.0.12
 │  ├─ array-bounds@^1.0.1
