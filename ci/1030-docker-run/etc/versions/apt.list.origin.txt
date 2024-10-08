@@ -65188,7 +65188,7 @@ live-manual-pdf/jammy 2:20151217.1 all
 live-manual-txt/jammy 2:20151217.1 all
 live-manual/jammy 2:20151217.1 all
 live-tools/jammy 1:20190831build1 all
-livecd-rootfs/jammy-updates 2.765.50 amd64
+livecd-rootfs/jammy-updates 2.765.51 amd64
 lives-data/jammy 3.0.2-1.1ubuntu1 all
 lives-plugins/jammy 3.0.2-1.1ubuntu1 amd64
 lives/jammy 3.0.2-1.1ubuntu1 amd64
@@ -82014,7 +82014,7 @@ ruby-webkit2-gtk/jammy 3.4.3-1+ubuntu5 all
 ruby-webmock/jammy 3.8.3-1ubuntu1 all
 ruby-webpack-rails/jammy 0.9.11+git-1 all
 ruby-webpacker/jammy 4.2.2-7 all
-ruby-webrick/jammy-security 1.7.0-3ubuntu0.1 all [upgradable from: 1.7.0-3]
+ruby-webrick/jammy-updates,jammy-security,now 1.7.0-3ubuntu0.1 all [installed,automatic]
 ruby-webrobots/jammy 0.1.2-1 all
 ruby-websocket-driver/jammy 0.6.3-3build3 amd64
 ruby-websocket-extensions/jammy 0.1.5-2 all
