@@ -33608,8 +33608,8 @@ liboasis-ocaml/jammy 0.4.11-2build4 amd64
 liboasis3-0d/jammy 3.mct+dfsg.121022-16build1 amd64
 liboasis3-dev/jammy 3.mct+dfsg.121022-16build1 amd64
 liboasis3-doc/jammy 3.mct+dfsg.121022-16build1 all
-liboath-dev/jammy-security 2.6.7-3ubuntu0.1 amd64
-liboath0/jammy-security 2.6.7-3ubuntu0.1 amd64
+liboath-dev/jammy-updates,jammy-security 2.6.7-3ubuntu0.1 amd64
+liboath0/jammy-updates,jammy-security 2.6.7-3ubuntu0.1 amd64
 liboauth-dev/jammy 1.0.3-5 amd64
 liboauth-signpost-java/jammy 1.2.1.2-3 all
 liboauth0/jammy 1.0.3-5 amd64
@@ -34562,7 +34562,7 @@ libpam-mount-bin/jammy 2.18-2build2 amd64
 libpam-mount/jammy 2.18-2build2 amd64
 libpam-mysql/jammy 0.8.1-5build1 amd64
 libpam-net/jammy 0.3-1 amd64
-libpam-oath/jammy-security 2.6.7-3ubuntu0.1 amd64
+libpam-oath/jammy-updates,jammy-security 2.6.7-3ubuntu0.1 amd64
 libpam-ocaml-dev/jammy 1.1-5build4 amd64
 libpam-ocaml/jammy 1.1-5build4 amd64
 libpam-otpw/jammy 1.5-2 amd64
@@ -35556,8 +35556,8 @@ libprpc-perl/jammy 0.1005-22.1 all
 libpseudo/jammy 1.9.0+git20211111+300d7570720b-2 amd64
 libpsi3-dev/jammy 3.4.0-6ubuntu1 amd64
 libpsimd-dev/jammy 0.0~git20200517.072586a-2 amd64
-libpskc-dev/jammy-security 2.6.7-3ubuntu0.1 amd64
-libpskc0/jammy-security 2.6.7-3ubuntu0.1 amd64
+libpskc-dev/jammy-updates,jammy-security 2.6.7-3ubuntu0.1 amd64
+libpskc0/jammy-updates,jammy-security 2.6.7-3ubuntu0.1 amd64
 libpsl-dev/jammy 0.21.0-1.2build2 amd64
 libpsl5/jammy,now 0.21.0-1.2build2 amd64 [installed,automatic]
 libpsm-infinipath1-dbg/jammy 3.3+20.604758e7-6.1 amd64
@@ -69899,7 +69899,7 @@ oar-user-pgsql/jammy 2.5.9-1 amd64
 oar-user/jammy 2.5.9-1 amd64
 oar-web-status/jammy 2.5.9-1 all
 oasis/jammy 0.4.11-2build4 amd64
-oathtool/jammy-security 2.6.7-3ubuntu0.1 amd64
+oathtool/jammy-updates,jammy-security 2.6.7-3ubuntu0.1 amd64
 obconf-qt-l10n/jammy 0.16.0-1ubuntu1 all
 obconf-qt/jammy 0.16.0-1ubuntu1 amd64
 obconf/jammy 1:2.0.4+git20150213-2build1 amd64
@@ -72865,7 +72865,7 @@ psi/jammy 1.5+dfsg1-1build1 amd64
 psignifit/jammy 2.5.6-8 amd64
 psk31lx/jammy 2.2-1build1 amd64
 pskc-utils/jammy 1.1-3 all
-pskctool/jammy-security 2.6.7-3ubuntu0.1 amd64
+pskctool/jammy-updates,jammy-security 2.6.7-3ubuntu0.1 amd64
 psl-make-dafsa/jammy 0.21.0-1.2build2 all
 psl/jammy 0.21.0-1.2build2 amd64
 pslib-dev/jammy 0.4.7-1 amd64
