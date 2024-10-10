@@ -9609,7 +9609,7 @@ gir1.2-granite-1.0/jammy 6.2.0-1 amd64
 gir1.2-graphene-1.0/jammy 1.10.8-1 amd64
 gir1.2-grilo-0.3/jammy 0.3.14-1build1 amd64
 gir1.2-grss-0.7/jammy 0.7.0-2 amd64
-gir1.2-gsf-1/jammy-security 1.14.47-1ubuntu0.1 amd64
+gir1.2-gsf-1/jammy-updates,jammy-security 1.14.47-1ubuntu0.1 amd64
 gir1.2-gsound-1.0/jammy 1.0.3-2build1 amd64
 gir1.2-gspell-1/jammy 1.9.1-4 amd64
 gir1.2-gssdp-1.2/jammy 1.4.0.1-2build1 amd64
@@ -27483,10 +27483,10 @@ libgsecuredelete-dev/jammy 0.3-3 amd64
 libgsecuredelete0/jammy 0.3-3 amd64
 libgsettings-qt-dev/jammy 0.2-4 amd64
 libgsettings-qt1/jammy 0.2-4 amd64
-libgsf-1-114/jammy-security 1.14.47-1ubuntu0.1 amd64
-libgsf-1-common/jammy-security 1.14.47-1ubuntu0.1 all
-libgsf-1-dev/jammy-security 1.14.47-1ubuntu0.1 amd64
-libgsf-bin/jammy-security 1.14.47-1ubuntu0.1 amd64
+libgsf-1-114/jammy-updates,jammy-security 1.14.47-1ubuntu0.1 amd64
+libgsf-1-common/jammy-updates,jammy-security 1.14.47-1ubuntu0.1 all
+libgsf-1-dev/jammy-updates,jammy-security 1.14.47-1ubuntu0.1 amd64
+libgsf-bin/jammy-updates,jammy-security 1.14.47-1ubuntu0.1 amd64
 libgsl-dbg/jammy 2.7.1+dfsg-3 amd64
 libgsl-dev/jammy 2.7.1+dfsg-3 amd64
 libgsl27/jammy 2.7.1+dfsg-3 amd64
@@ -76269,7 +76269,7 @@ python3-oslo.db/jammy 11.2.0-0ubuntu1 all
 python3-oslo.i18n/jammy 5.1.0-0ubuntu1 all
 python3-oslo.limit/jammy 1.5.0-0ubuntu1 all
 python3-oslo.log/jammy-updates 4.6.1-0ubuntu1.1 all
-python3-oslo.messaging/jammy-updates 12.13.0-0ubuntu1.1 all
+python3-oslo.messaging/jammy-updates 12.13.0-0ubuntu1.2 all
 python3-oslo.metrics/jammy 0.4.0-0ubuntu1 all
 python3-oslo.middleware/jammy 4.5.0-0ubuntu1 all
 python3-oslo.policy/jammy 3.11.0-0ubuntu1 all
