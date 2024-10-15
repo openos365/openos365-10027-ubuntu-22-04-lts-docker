@@ -67920,8 +67920,8 @@ namazu2-common/jammy 2.0.21-23 all
 namazu2-index-tools/jammy 2.0.21-23 all
 namazu2/jammy 2.0.21-23 amd64
 namecheap/jammy 0.0.3-3 all
-nano-tiny/jammy 6.2-1 amd64
-nano/jammy 6.2-1 amd64
+nano-tiny/jammy-updates,jammy-security 6.2-1ubuntu0.1 amd64
+nano/jammy-updates,jammy-security 6.2-1ubuntu0.1 amd64
 nanoc/jammy 4.12.5-3ubuntu1 all
 nanofilt/jammy 2.6.0-4 all
 nanolyse/jammy 1.2.0-3 amd64
