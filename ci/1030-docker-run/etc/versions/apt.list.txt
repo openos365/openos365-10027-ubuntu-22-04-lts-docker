@@ -33007,8 +33007,8 @@ libnetpbm10-dev/jammy 2:10.0-15.4 amd64
 libnetpbm10/jammy 2:10.0-15.4 amd64
 libnetpbm9-dev/jammy 2:10.0-15.4 amd64
 libnetpbm9/jammy 2:10.0-15.4 amd64
-libnetplan-dev/jammy-updates 0.107.1-3ubuntu0.22.04.1 amd64
-libnetplan0/jammy-updates 0.107.1-3ubuntu0.22.04.1 amd64
+libnetplan-dev/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.4 amd64
+libnetplan0/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.4 amd64
 libnetsds-kannel-perl/jammy 1.300-7 all
 libnetsds-perl/jammy 1.301-4 all
 libnetsds-util-perl/jammy 1.045-1 all
@@ -67605,8 +67605,7 @@ netpipe-openmpi/jammy 3.7.2-8 amd64
 netpipe-pvm/jammy 3.7.2-8 amd64
 netpipe-tcp/jammy 3.7.2-8 amd64
 netpipes/jammy 4.2-8build1 amd64
-netplan-generator/jammy-updates 0.107.1-3ubuntu0.22.04.1 amd64
-netplan.io/jammy-updates 0.107.1-3ubuntu0.22.04.1 amd64
+netplan.io/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.4 amd64
 netplug/jammy 1.2.9.2-3 amd64
 netproc/jammy 0.6.3-1 amd64
 netr/jammy 0.1.4-1 amd64
@@ -76093,7 +76092,6 @@ python3-netfilter/jammy 0.6.4-2 all
 python3-netgen/jammy 6.2.2006+really6.2.1905+dfsg-5build1 amd64
 python3-netifaces/jammy 0.11.0-1build2 amd64
 python3-netmiko/jammy 2.4.2-1 all
-python3-netplan/jammy-updates 0.107.1-3ubuntu0.22.04.1 amd64
 python3-network-runner/jammy 0.2.2-2 all
 python3-networking-ansible/jammy 17.0.0-2 all
 python3-networking-arista/jammy 2021.2.0+git2022011308.8b1273a-0ubuntu1 all
