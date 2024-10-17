@@ -13722,7 +13722,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.51.0
+├─ docxtemplater@3.51.1
 │  └─ @xmldom/xmldom@^0.8.10
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
