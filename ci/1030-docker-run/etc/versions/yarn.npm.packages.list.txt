@@ -143,7 +143,7 @@ yarn list v1.22.22
 ├─ @alifd/field@2.0.3
 │  ├─ @alifd/validate@^2.0.2
 │  └─ tslib@^2.6.2
-├─ @alifd/next@1.27.26
+├─ @alifd/next@1.27.27
 │  ├─ @alifd/field@~2.0.2
 │  ├─ @alifd/overlay@^0.3.3
 │  ├─ @alifd/validate@~2.0.3
@@ -11438,7 +11438,7 @@ yarn list v1.22.22
 ├─ @types/linkify-it@5.0.0
 ├─ @types/lodash.mergewith@4.6.6
 │  └─ @types/lodash@*
-├─ @types/lodash@4.17.10
+├─ @types/lodash@4.17.11
 ├─ @types/long@4.0.2
 ├─ @types/markdown-it@14.1.2
 │  ├─ @types/linkify-it@^5
