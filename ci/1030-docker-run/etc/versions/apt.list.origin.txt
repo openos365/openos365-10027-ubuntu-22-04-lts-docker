@@ -324,7 +324,7 @@ amazon-ecr-credential-helper/jammy 0.5.0-1build1 amd64
 amb-plugins/jammy 0.8.1-7build1 amd64
 ambdec/jammy 0.7.1-1build1 amd64
 amber/jammy 0.0~git20171010.cdade1c-1build2 amd64
-amd64-microcode/jammy-updates,jammy-security 3.20191218.1ubuntu2.2 amd64
+amd64-microcode/jammy-security 3.20191218.1ubuntu2.3 amd64
 amdgcn-tools/jammy 13 amd64
 ament-cmake-clang-format/jammy 0.12.0-1 all
 ament-cmake-clang-tidy/jammy 0.12.0-1 all
