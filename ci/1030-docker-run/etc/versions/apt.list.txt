@@ -4576,7 +4576,7 @@ distcc-pump/jammy 3.4+really3.3.5-3build1 amd64
 distcc/jammy 3.4+really3.3.5-3build1 amd64
 distccmon-gnome/jammy 3.4+really3.3.5-3build1 amd64
 distributed-net/jammy 2.9112.521+arm64-2 amd64
-distro-info-data/jammy-updates,jammy-security 0.52ubuntu0.7 all
+distro-info-data/jammy-updates 0.52ubuntu0.8 all
 distro-info/jammy-updates 1.1ubuntu0.2 amd64
 disulfinder-data/jammy 1.2.11-12 all
 disulfinder/jammy 1.2.11-12 amd64
@@ -70663,6 +70663,7 @@ oem-qemu-meta/jammy 20.04~ubuntu5 all
 oem-somerville-hoppip-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-lapras-13-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-lapras-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-magmar-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-marill-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-muk-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-tentacool-meta/jammy-updates 22.04~ubuntu1 all
