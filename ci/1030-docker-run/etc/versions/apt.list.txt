@@ -44078,7 +44078,7 @@ linux-buildinfo-5.15.0-1067-oracle/jammy-updates,jammy-security 5.15.0-1067.73 a
 linux-buildinfo-5.15.0-1068-aws/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-buildinfo-5.15.0-1068-azure/jammy-updates,jammy-security 5.15.0-1068.77 amd64
 linux-buildinfo-5.15.0-1068-gcp/jammy-updates,jammy-security 5.15.0-1068.76 amd64
-linux-buildinfo-5.15.0-1068-gke/jammy-updates 5.15.0-1068.74 amd64
+linux-buildinfo-5.15.0-1068-gke/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-buildinfo-5.15.0-1068-kvm/jammy-updates,jammy-security 5.15.0-1068.73 amd64
 linux-buildinfo-5.15.0-1068-oracle/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-buildinfo-5.15.0-1069-aws/jammy-updates,jammy-security 5.15.0-1069.75 amd64
@@ -45005,7 +45005,7 @@ linux-generic-hwe-20.04/jammy-updates,jammy-security 5.15.0.124.124 amd64
 linux-generic-hwe-22.04-edge/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-generic-hwe-22.04/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-generic/jammy-updates,jammy-security 5.15.0.124.124 amd64
-linux-gke-5.15/jammy-updates 5.15.0.1068.67 amd64
+linux-gke-5.15/jammy-updates,jammy-security 5.15.0.1068.67 amd64
 linux-gke-headers-5.15.0-1002/jammy 5.15.0-1002.2 amd64
 linux-gke-headers-5.15.0-1027/jammy-updates,jammy-security 5.15.0-1027.32 amd64
 linux-gke-headers-5.15.0-1028/jammy-updates,jammy-security 5.15.0-1028.33 amd64
@@ -45043,7 +45043,7 @@ linux-gke-headers-5.15.0-1064/jammy-updates,jammy-security 5.15.0-1064.70 amd64
 linux-gke-headers-5.15.0-1065/jammy-updates,jammy-security 5.15.0-1065.71 amd64
 linux-gke-headers-5.15.0-1066/jammy-updates,jammy-security 5.15.0-1066.72 amd64
 linux-gke-headers-5.15.0-1067/jammy-updates,jammy-security 5.15.0-1067.73 amd64
-linux-gke-headers-5.15.0-1068/jammy-updates 5.15.0-1068.74 amd64
+linux-gke-headers-5.15.0-1068/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-gke-tools-5.15.0-1002/jammy 5.15.0-1002.2 amd64
 linux-gke-tools-5.15.0-1027/jammy-updates,jammy-security 5.15.0-1027.32 amd64
 linux-gke-tools-5.15.0-1028/jammy-updates,jammy-security 5.15.0-1028.33 amd64
@@ -45081,8 +45081,8 @@ linux-gke-tools-5.15.0-1064/jammy-updates,jammy-security 5.15.0-1064.70 amd64
 linux-gke-tools-5.15.0-1065/jammy-updates,jammy-security 5.15.0-1065.71 amd64
 linux-gke-tools-5.15.0-1066/jammy-updates,jammy-security 5.15.0-1066.72 amd64
 linux-gke-tools-5.15.0-1067/jammy-updates,jammy-security 5.15.0-1067.73 amd64
-linux-gke-tools-5.15.0-1068/jammy-updates 5.15.0-1068.74 amd64
-linux-gke/jammy-updates 5.15.0.1068.67 amd64
+linux-gke-tools-5.15.0-1068/jammy-updates,jammy-security 5.15.0-1068.74 amd64
+linux-gke/jammy-updates,jammy-security 5.15.0.1068.67 amd64
 linux-gkeop-5.15/jammy-updates,jammy-security 5.15.0.1054.53 amd64
 linux-gkeop-cloud-tools-5.15.0-1019/jammy-updates,jammy-security 5.15.0-1019.24 amd64
 linux-gkeop-cloud-tools-5.15.0-1020/jammy-updates,jammy-security 5.15.0-1020.25 amd64
@@ -45552,7 +45552,7 @@ linux-headers-5.15.0-1067-oracle/jammy-updates,jammy-security 5.15.0-1067.73 amd
 linux-headers-5.15.0-1068-aws/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-headers-5.15.0-1068-azure/jammy-updates,jammy-security 5.15.0-1068.77 amd64
 linux-headers-5.15.0-1068-gcp/jammy-updates,jammy-security 5.15.0-1068.76 amd64
-linux-headers-5.15.0-1068-gke/jammy-updates 5.15.0-1068.74 amd64
+linux-headers-5.15.0-1068-gke/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-headers-5.15.0-1068-kvm/jammy-updates,jammy-security 5.15.0-1068.73 amd64
 linux-headers-5.15.0-1068-oracle/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-headers-5.15.0-1069-aws/jammy-updates,jammy-security 5.15.0-1069.75 amd64
@@ -45966,8 +45966,8 @@ linux-headers-generic-hwe-20.04/jammy-updates,jammy-security 5.15.0.124.124 amd6
 linux-headers-generic-hwe-22.04-edge/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-headers-generic-hwe-22.04/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-headers-generic/jammy-updates,jammy-security 5.15.0.124.124 amd64
-linux-headers-gke-5.15/jammy-updates 5.15.0.1068.67 amd64
-linux-headers-gke/jammy-updates 5.15.0.1068.67 amd64
+linux-headers-gke-5.15/jammy-updates,jammy-security 5.15.0.1068.67 amd64
+linux-headers-gke/jammy-updates,jammy-security 5.15.0.1068.67 amd64
 linux-headers-gkeop-5.15/jammy-updates,jammy-security 5.15.0.1054.53 amd64
 linux-headers-gkeop/jammy-updates,jammy-security 5.15.0.1054.53 amd64
 linux-headers-ibm-edge/jammy-updates,jammy-security 6.8.0-1014.14~22.04.1 amd64
@@ -46591,7 +46591,7 @@ linux-image-5.15.0-1068-aws/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-image-5.15.0-1068-azure-fde/jammy-updates,jammy-security 5.15.0-1068.77.1 amd64
 linux-image-5.15.0-1068-azure/jammy-updates,jammy-security 5.15.0-1068.77 amd64
 linux-image-5.15.0-1068-gcp/jammy-updates,jammy-security 5.15.0-1068.76 amd64
-linux-image-5.15.0-1068-gke/jammy-updates 5.15.0-1068.74 amd64
+linux-image-5.15.0-1068-gke/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-image-5.15.0-1068-kvm/jammy-updates,jammy-security 5.15.0-1068.73 amd64
 linux-image-5.15.0-1068-oracle/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-image-5.15.0-1069-aws/jammy-updates,jammy-security 5.15.0-1069.75 amd64
@@ -47017,8 +47017,8 @@ linux-image-generic-hwe-20.04/jammy-updates,jammy-security 5.15.0.124.124 amd64
 linux-image-generic-hwe-22.04-edge/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-image-generic-hwe-22.04/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-image-generic/jammy-updates,jammy-security 5.15.0.124.124 amd64
-linux-image-gke-5.15/jammy-updates 5.15.0.1068.67 amd64
-linux-image-gke/jammy-updates 5.15.0.1068.67 amd64
+linux-image-gke-5.15/jammy-updates,jammy-security 5.15.0.1068.67 amd64
+linux-image-gke/jammy-updates,jammy-security 5.15.0.1068.67 amd64
 linux-image-gkeop-5.15/jammy-updates,jammy-security 5.15.0.1054.53 amd64
 linux-image-gkeop/jammy-updates,jammy-security 5.15.0.1054.53 amd64
 linux-image-ibm-edge/jammy-updates,jammy-security 6.8.0-1014.14~22.04.1 amd64
@@ -47504,7 +47504,7 @@ linux-image-unsigned-5.15.0-1068-aws/jammy-updates,jammy-security 5.15.0-1068.74
 linux-image-unsigned-5.15.0-1068-azure-fde/jammy-updates,jammy-security 5.15.0-1068.77.1 amd64
 linux-image-unsigned-5.15.0-1068-azure/jammy-updates,jammy-security 5.15.0-1068.77 amd64
 linux-image-unsigned-5.15.0-1068-gcp/jammy-updates,jammy-security 5.15.0-1068.76 amd64
-linux-image-unsigned-5.15.0-1068-gke/jammy-updates 5.15.0-1068.74 amd64
+linux-image-unsigned-5.15.0-1068-gke/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-image-unsigned-5.15.0-1068-kvm/jammy-updates,jammy-security 5.15.0-1068.73 amd64
 linux-image-unsigned-5.15.0-1068-oracle/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-image-unsigned-5.15.0-1069-aws/jammy-updates,jammy-security 5.15.0-1069.75 amd64
@@ -48686,7 +48686,7 @@ linux-modules-5.15.0-1067-oracle/jammy-updates,jammy-security 5.15.0-1067.73 amd
 linux-modules-5.15.0-1068-aws/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-modules-5.15.0-1068-azure/jammy-updates,jammy-security 5.15.0-1068.77 amd64
 linux-modules-5.15.0-1068-gcp/jammy-updates,jammy-security 5.15.0-1068.76 amd64
-linux-modules-5.15.0-1068-gke/jammy-updates 5.15.0-1068.74 amd64
+linux-modules-5.15.0-1068-gke/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-modules-5.15.0-1068-kvm/jammy-updates,jammy-security 5.15.0-1068.73 amd64
 linux-modules-5.15.0-1068-oracle/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-modules-5.15.0-1069-aws/jammy-updates,jammy-security 5.15.0-1069.75 amd64
@@ -49349,7 +49349,7 @@ linux-modules-extra-5.15.0-1067-oracle/jammy-updates,jammy-security 5.15.0-1067.
 linux-modules-extra-5.15.0-1068-aws/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-modules-extra-5.15.0-1068-azure/jammy-updates,jammy-security 5.15.0-1068.77 amd64
 linux-modules-extra-5.15.0-1068-gcp/jammy-updates,jammy-security 5.15.0-1068.76 amd64
-linux-modules-extra-5.15.0-1068-gke/jammy-updates 5.15.0-1068.74 amd64
+linux-modules-extra-5.15.0-1068-gke/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-modules-extra-5.15.0-1068-oracle/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-modules-extra-5.15.0-1069-aws/jammy-updates,jammy-security 5.15.0-1069.75 amd64
 linux-modules-extra-5.15.0-1069-gcp/jammy-updates,jammy-security 5.15.0-1069.77 amd64
@@ -65277,7 +65277,7 @@ linux-tools-5.15.0-1067-oracle/jammy-updates,jammy-security 5.15.0-1067.73 amd64
 linux-tools-5.15.0-1068-aws/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-tools-5.15.0-1068-azure/jammy-updates,jammy-security 5.15.0-1068.77 amd64
 linux-tools-5.15.0-1068-gcp/jammy-updates,jammy-security 5.15.0-1068.76 amd64
-linux-tools-5.15.0-1068-gke/jammy-updates 5.15.0-1068.74 amd64
+linux-tools-5.15.0-1068-gke/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-tools-5.15.0-1068-kvm/jammy-updates,jammy-security 5.15.0-1068.73 amd64
 linux-tools-5.15.0-1068-oracle/jammy-updates,jammy-security 5.15.0-1068.74 amd64
 linux-tools-5.15.0-1069-aws/jammy-updates,jammy-security 5.15.0-1069.75 amd64
@@ -65692,8 +65692,8 @@ linux-tools-generic-hwe-20.04/jammy-updates,jammy-security 5.15.0.124.124 amd64
 linux-tools-generic-hwe-22.04-edge/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-tools-generic-hwe-22.04/jammy-updates,jammy-security 6.8.0-47.47~22.04.1 amd64
 linux-tools-generic/jammy-updates,jammy-security 5.15.0.124.124 amd64
-linux-tools-gke-5.15/jammy-updates 5.15.0.1068.67 amd64
-linux-tools-gke/jammy-updates 5.15.0.1068.67 amd64
+linux-tools-gke-5.15/jammy-updates,jammy-security 5.15.0.1068.67 amd64
+linux-tools-gke/jammy-updates,jammy-security 5.15.0.1068.67 amd64
 linux-tools-gkeop-5.15/jammy-updates,jammy-security 5.15.0.1054.53 amd64
 linux-tools-gkeop/jammy-updates,jammy-security 5.15.0.1054.53 amd64
 linux-tools-host/jammy-updates,jammy-security 5.15.0-124.134 all
