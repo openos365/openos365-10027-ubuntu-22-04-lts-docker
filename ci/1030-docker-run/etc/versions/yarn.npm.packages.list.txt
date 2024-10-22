@@ -13313,18 +13313,19 @@ yarn list v1.22.22
 ├─ crypt@0.0.2
 ├─ cryptiles@2.0.5
 │  └─ boom@2.x.x
-├─ crypto-browserify@3.12.0
-│  ├─ browserify-cipher@^1.0.0
-│  ├─ browserify-sign@^4.0.0
-│  ├─ create-ecdh@^4.0.0
-│  ├─ create-hash@^1.1.0
-│  ├─ create-hmac@^1.1.0
-│  ├─ diffie-hellman@^5.0.0
-│  ├─ inherits@^2.0.1
-│  ├─ pbkdf2@^3.0.3
-│  ├─ public-encrypt@^4.0.0
-│  ├─ randombytes@^2.0.0
-│  └─ randomfill@^1.0.3
+├─ crypto-browserify@3.12.1
+│  ├─ browserify-cipher@^1.0.1
+│  ├─ browserify-sign@^4.2.3
+│  ├─ create-ecdh@^4.0.4
+│  ├─ create-hash@^1.2.0
+│  ├─ create-hmac@^1.1.7
+│  ├─ diffie-hellman@^5.0.3
+│  ├─ hash-base@~3.0.4
+│  ├─ inherits@^2.0.4
+│  ├─ pbkdf2@^3.1.2
+│  ├─ public-encrypt@^4.0.3
+│  ├─ randombytes@^2.1.0
+│  └─ randomfill@^1.0.4
 ├─ crypto-js@4.2.0
 ├─ crypto@1.0.1
 ├─ csrf@3.1.0
@@ -13721,7 +13722,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.51.1
+├─ docxtemplater@3.51.2
 │  └─ @xmldom/xmldom@^0.8.10
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
