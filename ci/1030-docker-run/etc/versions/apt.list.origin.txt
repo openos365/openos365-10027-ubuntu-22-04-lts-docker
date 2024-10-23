@@ -10963,10 +10963,10 @@ golang-1.21-doc/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 all
 golang-1.21-go/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 amd64
 golang-1.21-src/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 all
 golang-1.21/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 all
-golang-1.22-doc/jammy-security 1.22.2-2~22.04.2 all
-golang-1.22-go/jammy-security 1.22.2-2~22.04.2 amd64
-golang-1.22-src/jammy-security 1.22.2-2~22.04.2 all
-golang-1.22/jammy-security 1.22.2-2~22.04.2 all
+golang-1.22-doc/jammy-updates,jammy-security 1.22.2-2~22.04.2 all
+golang-1.22-go/jammy-updates,jammy-security 1.22.2-2~22.04.2 amd64
+golang-1.22-src/jammy-updates,jammy-security 1.22.2-2~22.04.2 all
+golang-1.22/jammy-updates,jammy-security 1.22.2-2~22.04.2 all
 golang-1.23-doc/jammy-updates 1.23.1-1~22.04 all
 golang-1.23-go/jammy-updates 1.23.1-1~22.04 amd64
 golang-1.23-src/jammy-updates 1.23.1-1~22.04 all
