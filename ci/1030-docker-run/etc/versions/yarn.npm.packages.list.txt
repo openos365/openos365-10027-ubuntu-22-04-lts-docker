@@ -19295,7 +19295,7 @@ yarn list v1.22.22
 │  └─ react-is@^16.13.1
 ├─ property-information@5.6.0
 │  └─ xtend@^4.0.0
-├─ prosemirror-commands@1.6.1
+├─ prosemirror-commands@1.6.2
 │  ├─ prosemirror-model@^1.0.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.10.2
