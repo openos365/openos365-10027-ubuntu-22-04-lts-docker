@@ -4241,7 +4241,7 @@ dh-make-golang/jammy 0.6.0-1 amd64
 dh-make-perl/jammy 0.116 all
 dh-make/jammy 2.202102 all
 dh-migrations/jammy 0.3.6 all
-dh-modaliases/jammy-updates 1:0.9.6.2~0.22.04.7 all
+dh-modaliases/jammy-updates 1:0.9.6.2~0.22.04.8 all
 dh-ocaml/jammy 1.1.3 all
 dh-octave-autopkgtest/jammy 1.1.0 all
 dh-octave/jammy 1.1.0 all
@@ -6409,7 +6409,7 @@ fftw2/jammy 2.1.5-6 amd64
 ffuf/jammy 1.1.0-1 amd64
 fgallery/jammy 1.8.2-2.1 all
 fgetty/jammy 0.7-7 amd64
-fglrx-pxpress/jammy-updates 1:0.9.6.2~0.22.04.7 amd64
+fglrx-pxpress/jammy-updates 1:0.9.6.2~0.22.04.8 amd64
 fh2odg/jammy 0.9.6-3 amd64
 fheroes2-pkg/jammy 0+svn20150122r3274-2-2 all
 fhist/jammy 1.18-2.1 amd64
@@ -12881,7 +12881,7 @@ google-compute-engine-oslogin/jammy-updates 20240701.00-0ubuntu1~22.04.0 amd64
 google-compute-engine/jammy-updates 20240607.00-0ubuntu1~22.04.0 all
 google-guest-agent/jammy-updates 20240716.00-0ubuntu1~22.04.0 amd64
 google-mock/jammy 1.11.0-3 amd64
-google-osconfig-agent/jammy-security 20240524.03-0ubuntu2~22.04.1 amd64
+google-osconfig-agent/jammy-updates,jammy-security 20240524.03-0ubuntu2~22.04.1 amd64
 google-perftools/jammy 2.9.1-0ubuntu3 all
 google-wire/jammy 0.5.0-1 amd64
 googler/jammy 4.3.2-1 all
@@ -70105,7 +70105,7 @@ nvidia-384/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-cg-dev/jammy 3.1.0013-5 amd64
 nvidia-cg-doc/jammy 3.1.0013-5 all
 nvidia-cg-toolkit/jammy 3.1.0013-5 amd64
-nvidia-common/jammy-updates 1:0.9.6.2~0.22.04.7 amd64
+nvidia-common/jammy-updates 1:0.9.6.2~0.22.04.8 amd64
 nvidia-compute-utils-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-compute-utils-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-compute-utils-418/jammy 430.50-0ubuntu3 amd64
@@ -86169,7 +86169,7 @@ ubuntu-desktop-minimal/jammy-updates 1.481.4 amd64
 ubuntu-desktop/jammy-updates 1.481.4 amd64
 ubuntu-dev-tools/jammy-updates 0.201ubuntu2~22.04.4 all
 ubuntu-docs/jammy-updates 22.04.5 all
-ubuntu-drivers-common/jammy-updates 1:0.9.6.2~0.22.04.7 amd64
+ubuntu-drivers-common/jammy-updates 1:0.9.6.2~0.22.04.8 amd64
 ubuntu-fan/jammy 0.12.16 all
 ubuntu-gnome-default-settings/jammy 22.04.2 all
 ubuntu-gnome-desktop/jammy 0.92 amd64
@@ -86245,7 +86245,7 @@ ubuntu-policy/jammy 3.8.2.0ubuntu3 all
 ubuntu-pro-auto-attach/jammy-updates 34~22.04 all
 ubuntu-pro-client-l10n/jammy-updates 34~22.04 amd64
 ubuntu-pro-client/jammy-updates 34~22.04 amd64
-ubuntu-proxy-manager/jammy-security 0.1.1~22.04ubuntu0.2 amd64
+ubuntu-proxy-manager/jammy-updates,jammy-security 0.1.1~22.04ubuntu0.2 amd64
 ubuntu-raspi-settings/jammy 22.04.6 all
 ubuntu-release-upgrader-core/jammy-updates 1:22.04.20 all
 ubuntu-release-upgrader-gtk/jammy-updates 1:22.04.20 all
