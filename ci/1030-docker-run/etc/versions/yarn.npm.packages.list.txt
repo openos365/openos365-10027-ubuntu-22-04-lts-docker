@@ -5496,7 +5496,7 @@ yarn list v1.22.22
 │  ├─ pg-connection-string@2.7.0
 │  ├─ pg-pool@3.7.0
 │  ├─ pg@^8.10.0
-│  ├─ pg@8.13.0
+│  ├─ pg@8.13.1
 │  │  ├─ pg-cloudflare@^1.1.1
 │  │  ├─ pg-connection-string@^2.7.0
 │  │  ├─ pg-pool@^3.7.0
@@ -11372,7 +11372,7 @@ yarn list v1.22.22
 ├─ @types/cors@2.8.17
 │  └─ @types/node@*
 ├─ @types/estree@1.0.6
-├─ @types/express-serve-static-core@5.0.0
+├─ @types/express-serve-static-core@5.0.1
 │  ├─ @types/node@*
 │  ├─ @types/qs@*
 │  ├─ @types/range-parser@*
@@ -11405,7 +11405,7 @@ yarn list v1.22.22
 ├─ @types/hoist-non-react-statics@3.3.5
 │  ├─ @types/react@*
 │  └─ hoist-non-react-statics@^3.3.0
-├─ @types/http-assert@1.5.5
+├─ @types/http-assert@1.5.6
 ├─ @types/http-cache-semantics@4.0.4
 ├─ @types/http-errors@2.0.4
 ├─ @types/invariant@2.2.37
