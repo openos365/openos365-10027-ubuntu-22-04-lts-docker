@@ -427,21 +427,22 @@ yarn list v1.22.22
 │     ├─ which-module@^2.0.0
 │     ├─ y18n@^4.0.0
 │     └─ yargs-parser@^18.1.2
-├─ @babel/code-frame@7.25.9
-│  ├─ @babel/highlight@^7.25.9
+├─ @babel/code-frame@7.26.0
+│  ├─ @babel/helper-validator-identifier@^7.25.9
+│  ├─ js-tokens@^4.0.0
 │  └─ picocolors@^1.0.0
-├─ @babel/compat-data@7.25.9
-├─ @babel/core@7.25.9
+├─ @babel/compat-data@7.26.0
+├─ @babel/core@7.26.0
 │  ├─ @ampproject/remapping@^2.2.0
-│  ├─ @babel/code-frame@^7.25.9
-│  ├─ @babel/generator@^7.25.9
+│  ├─ @babel/code-frame@^7.26.0
+│  ├─ @babel/generator@^7.26.0
 │  ├─ @babel/helper-compilation-targets@^7.25.9
-│  ├─ @babel/helper-module-transforms@^7.25.9
-│  ├─ @babel/helpers@^7.25.9
-│  ├─ @babel/parser@^7.25.9
+│  ├─ @babel/helper-module-transforms@^7.26.0
+│  ├─ @babel/helpers@^7.26.0
+│  ├─ @babel/parser@^7.26.0
 │  ├─ @babel/template@^7.25.9
 │  ├─ @babel/traverse@^7.25.9
-│  ├─ @babel/types@^7.25.9
+│  ├─ @babel/types@^7.26.0
 │  ├─ convert-source-map@^2.0.0
 │  ├─ convert-source-map@2.0.0
 │  ├─ debug@^4.1.0
@@ -449,8 +450,9 @@ yarn list v1.22.22
 │  ├─ json5@^2.2.3
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
-├─ @babel/generator@7.25.9
-│  ├─ @babel/types@^7.25.9
+├─ @babel/generator@7.26.0
+│  ├─ @babel/parser@^7.26.0
+│  ├─ @babel/types@^7.26.0
 │  ├─ @jridgewell/gen-mapping@^0.3.5
 │  ├─ @jridgewell/trace-mapping@^0.3.25
 │  └─ jsesc@^3.0.2
@@ -508,9 +510,8 @@ yarn list v1.22.22
 ├─ @babel/helper-module-imports@7.25.9
 │  ├─ @babel/traverse@^7.25.9
 │  └─ @babel/types@^7.25.9
-├─ @babel/helper-module-transforms@7.25.9
+├─ @babel/helper-module-transforms@7.26.0
 │  ├─ @babel/helper-module-imports@^7.25.9
-│  ├─ @babel/helper-simple-access@^7.25.9
 │  ├─ @babel/helper-validator-identifier@^7.25.9
 │  └─ @babel/traverse@^7.25.9
 ├─ @babel/helper-optimise-call-expression@7.25.9
@@ -539,17 +540,16 @@ yarn list v1.22.22
 │  ├─ @babel/template@^7.25.9
 │  ├─ @babel/traverse@^7.25.9
 │  └─ @babel/types@^7.25.9
-├─ @babel/helpers@7.25.9
+├─ @babel/helpers@7.26.0
 │  ├─ @babel/template@^7.25.9
-│  └─ @babel/types@^7.25.9
-├─ @babel/highlight@7.25.9
-│  ├─ @babel/helper-validator-identifier@^7.25.9
-│  ├─ chalk@^2.4.2
-│  ├─ js-tokens@^4.0.0
-│  ├─ js-tokens@4.0.0
-│  └─ picocolors@^1.0.0
-├─ @babel/parser@7.25.9
-│  └─ @babel/types@^7.25.9
+│  └─ @babel/types@^7.26.0
+├─ @babel/highlight@7.0.0-beta.46
+│  ├─ chalk@^2.0.0
+│  ├─ esutils@^2.0.2
+│  ├─ js-tokens@^3.0.0
+│  └─ js-tokens@3.0.2
+├─ @babel/parser@7.26.0
+│  └─ @babel/types@^7.26.0
 ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.25.9
 │  ├─ @babel/helper-plugin-utils@^7.25.9
 │  └─ @babel/traverse@^7.25.9
@@ -622,11 +622,11 @@ yarn list v1.22.22
 │  └─ @babel/helper-plugin-utils@^7.8.0
 ├─ @babel/plugin-syntax-export-default-from@7.25.9
 │  └─ @babel/helper-plugin-utils@^7.25.9
-├─ @babel/plugin-syntax-flow@7.25.9
+├─ @babel/plugin-syntax-flow@7.26.0
 │  └─ @babel/helper-plugin-utils@^7.25.9
-├─ @babel/plugin-syntax-import-assertions@7.25.9
+├─ @babel/plugin-syntax-import-assertions@7.26.0
 │  └─ @babel/helper-plugin-utils@^7.25.9
-├─ @babel/plugin-syntax-import-attributes@7.25.9
+├─ @babel/plugin-syntax-import-attributes@7.26.0
 │  └─ @babel/helper-plugin-utils@^7.25.9
 ├─ @babel/plugin-syntax-json-strings@7.8.3
 │  └─ @babel/helper-plugin-utils@^7.8.0
@@ -668,7 +668,7 @@ yarn list v1.22.22
 ├─ @babel/plugin-transform-class-properties@7.25.9
 │  ├─ @babel/helper-create-class-features-plugin@^7.25.9
 │  └─ @babel/helper-plugin-utils@^7.25.9
-├─ @babel/plugin-transform-class-static-block@7.25.9
+├─ @babel/plugin-transform-class-static-block@7.26.0
 │  ├─ @babel/helper-create-class-features-plugin@^7.25.9
 │  └─ @babel/helper-plugin-utils@^7.25.9
 ├─ @babel/plugin-transform-classes@7.25.9
@@ -787,6 +787,9 @@ yarn list v1.22.22
 ├─ @babel/plugin-transform-regenerator@7.25.9
 │  ├─ @babel/helper-plugin-utils@^7.25.9
 │  └─ regenerator-transform@^0.15.2
+├─ @babel/plugin-transform-regexp-modifiers@7.26.0
+│  ├─ @babel/helper-create-regexp-features-plugin@^7.25.9
+│  └─ @babel/helper-plugin-utils@^7.25.9
 ├─ @babel/plugin-transform-reserved-words@7.25.9
 │  └─ @babel/helper-plugin-utils@^7.25.9
 ├─ @babel/plugin-transform-runtime@7.25.9
@@ -907,7 +910,7 @@ yarn list v1.22.22
 │  ├─ @babel/plugin-transform-react-jsx-development@^7.25.9
 │  ├─ @babel/plugin-transform-react-jsx@^7.25.9
 │  └─ @babel/plugin-transform-react-pure-annotations@^7.25.9
-├─ @babel/preset-typescript@7.25.9
+├─ @babel/preset-typescript@7.26.0
 │  ├─ @babel/helper-plugin-utils@^7.25.9
 │  ├─ @babel/helper-validator-option@^7.25.9
 │  ├─ @babel/plugin-syntax-jsx@^7.25.9
@@ -919,7 +922,7 @@ yarn list v1.22.22
 │  ├─ make-dir@^2.1.0
 │  ├─ pirates@^4.0.6
 │  └─ source-map-support@^0.5.16
-├─ @babel/runtime@7.25.9
+├─ @babel/runtime@7.26.0
 │  ├─ regenerator-runtime@^0.14.0
 │  └─ regenerator-runtime@0.14.1
 ├─ @babel/template@7.25.9
@@ -934,7 +937,7 @@ yarn list v1.22.22
 │  ├─ @babel/types@^7.25.9
 │  ├─ debug@^4.3.1
 │  └─ globals@^11.1.0
-├─ @babel/types@7.25.9
+├─ @babel/types@7.26.0
 │  ├─ @babel/helper-string-parser@^7.25.9
 │  └─ @babel/helper-validator-identifier@^7.25.9
 ├─ @builder.io/react@1.1.54
@@ -1457,10 +1460,10 @@ yarn list v1.22.22
 │  │  ├─ @babel/helper-function-name@^7.12.13
 │  │  ├─ @babel/helper-split-export-declaration@^7.12.13
 │  │  ├─ @babel/parser@^7.12.13
-│  │  ├─ @babel/parser@7.25.9
-│  │  │  └─ @babel/types@^7.25.9
+│  │  ├─ @babel/parser@7.26.0
+│  │  │  └─ @babel/types@^7.26.0
 │  │  ├─ @babel/types@^7.12.13
-│  │  ├─ @babel/types@7.25.9
+│  │  ├─ @babel/types@7.26.0
 │  │  │  ├─ @babel/helper-string-parser@^7.25.9
 │  │  │  └─ @babel/helper-validator-identifier@^7.25.9
 │  │  ├─ debug@^4.1.0
@@ -3534,10 +3537,7 @@ yarn list v1.22.22
 ├─ @steedos-demo/medsci-components@0.0.1
 │  └─ @steedos-widgets/amis-lib@1.0.19
 ├─ @steedos-demo/meeting@1.0.0
-│  ├─ @babel/runtime@^7.13.10
-│  ├─ @babel/runtime@7.26.0
-│  │  └─ regenerator-runtime@^0.14.0
-│  └─ regenerator-runtime@0.14.1
+│  └─ @babel/runtime@^7.13.10
 ├─ @steedos-labs/amis-lib@0.0.3
 │  ├─ lodash@^4.17.21
 │  └─ uglify-js@^3.17.0
@@ -3900,7 +3900,7 @@ yarn list v1.22.22
 │  ├─ @rollup/plugin-alias@^3.1.9
 │  ├─ @steedos-builder/react@^0.2.21
 │  ├─ @steedos-builder/react@0.2.38
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ @builder.io/react@^1.1.50
 │  │  ├─ @builder.io/sdk@1.1.26
@@ -5537,7 +5537,7 @@ yarn list v1.22.22
 │  │  ├─ @accounts/server@^0.19.0
 │  │  ├─ @accounts/two-factor@^0.20.1
 │  │  ├─ @babel/runtime@^7.6.0
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ @oryd/hydra-client@^1.9.0-alpha.3
 │  │  ├─ ansi-styles@3.2.1
@@ -5819,14 +5819,14 @@ yarn list v1.22.22
 │  │  └─ node-xlsx@^0.16.1
 │  ├─ @steedos/filters@2.1.114-beta.1
 │  │  ├─ @babel/runtime@^7.5.4
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ moment@^2.24.0
 │  │  ├─ regenerator-runtime@0.14.1
 │  │  └─ underscore@^1.9.1
 │  ├─ @steedos/formula@2.1.114-beta.1
 │  ├─ @steedos/i18n@2.1.114-beta.1
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ i18next-sprintf-postprocessor@^0.2.2
 │  │  ├─ i18next-xhr-backend@^3.2.2
@@ -6820,7 +6820,7 @@ yarn list v1.22.22
 │  │  └─ sshpk@^1.7.0
 │  ├─ i18next@20.3.2
 │  │  ├─ @babel/runtime@^7.12.0
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  └─ regenerator-runtime@0.14.1
 │  ├─ inherits@2.0.3
@@ -7105,7 +7105,7 @@ yarn list v1.22.22
 │  │  ├─ node-xlsx@^0.12.0
 │  │  ├─ node-xlsx@0.12.2
 │  │  │  ├─ @babel/runtime@^7.14.6
-│  │  │  ├─ @babel/runtime@7.25.9
+│  │  │  ├─ @babel/runtime@7.26.0
 │  │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  │  ├─ buffer-from@^1.1.1
 │  │  │  └─ xlsx@^0.17.0
@@ -7799,7 +7799,7 @@ yarn list v1.22.22
 │  │  ├─ @accounts/server@^0.19.0
 │  │  ├─ @accounts/two-factor@^0.20.1
 │  │  ├─ @babel/runtime@^7.6.0
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ @oryd/hydra-client@^1.9.0-alpha.3
 │  │  ├─ ansi-styles@3.2.1
@@ -8079,14 +8079,14 @@ yarn list v1.22.22
 │  │  └─ node-xlsx@^0.16.1
 │  ├─ @steedos/filters@2.2.4
 │  │  ├─ @babel/runtime@^7.5.4
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ moment@^2.24.0
 │  │  ├─ regenerator-runtime@0.14.1
 │  │  └─ underscore@^1.9.1
 │  ├─ @steedos/formula@2.2.4
 │  ├─ @steedos/i18n@2.2.4
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ i18next-sprintf-postprocessor@^0.2.2
 │  │  ├─ i18next-xhr-backend@^3.2.2
@@ -9103,7 +9103,7 @@ yarn list v1.22.22
 │  │  └─ sshpk@^1.7.0
 │  ├─ i18next@20.3.2
 │  │  ├─ @babel/runtime@^7.12.0
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  └─ regenerator-runtime@0.14.1
 │  ├─ inherits@2.0.3
@@ -9367,7 +9367,7 @@ yarn list v1.22.22
 │  │  ├─ node-xlsx@^0.12.0
 │  │  ├─ node-xlsx@0.12.2
 │  │  │  ├─ @babel/runtime@^7.14.6
-│  │  │  ├─ @babel/runtime@7.25.9
+│  │  │  ├─ @babel/runtime@7.26.0
 │  │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  │  ├─ buffer-from@^1.1.1
 │  │  │  └─ xlsx@^0.17.0
@@ -9477,7 +9477,7 @@ yarn list v1.22.22
 │  │  ├─ @accounts/server@^0.19.0
 │  │  ├─ @accounts/two-factor@^0.20.1
 │  │  ├─ @babel/runtime@^7.6.0
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ @oryd/hydra-client@^1.9.0-alpha.3
 │  │  ├─ ansi-styles@3.2.1
@@ -9757,14 +9757,14 @@ yarn list v1.22.22
 │  │  └─ node-xlsx@^0.16.1
 │  ├─ @steedos/filters@2.1.114-beta.1
 │  │  ├─ @babel/runtime@^7.5.4
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ moment@^2.24.0
 │  │  ├─ regenerator-runtime@0.14.1
 │  │  └─ underscore@^1.9.1
 │  ├─ @steedos/formula@2.1.114-beta.1
 │  ├─ @steedos/i18n@2.1.114-beta.1
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  ├─ i18next-sprintf-postprocessor@^0.2.2
 │  │  ├─ i18next-xhr-backend@^3.2.2
@@ -10784,7 +10784,7 @@ yarn list v1.22.22
 │  │  └─ sshpk@^1.7.0
 │  ├─ i18next@20.3.2
 │  │  ├─ @babel/runtime@^7.12.0
-│  │  ├─ @babel/runtime@7.25.9
+│  │  ├─ @babel/runtime@7.26.0
 │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  └─ regenerator-runtime@0.14.1
 │  ├─ inherits@2.0.3
@@ -11048,7 +11048,7 @@ yarn list v1.22.22
 │  │  ├─ node-xlsx@^0.12.0
 │  │  ├─ node-xlsx@0.12.2
 │  │  │  ├─ @babel/runtime@^7.14.6
-│  │  │  ├─ @babel/runtime@7.25.9
+│  │  │  ├─ @babel/runtime@7.26.0
 │  │  │  │  └─ regenerator-runtime@^0.14.0
 │  │  │  ├─ buffer-from@^1.1.1
 │  │  │  └─ xlsx@^0.17.0
@@ -11233,8 +11233,8 @@ yarn list v1.22.22
 │  ├─ @babel/core@^7.1.6
 │  ├─ @babel/plugin-transform-react-constant-elements@^7.0.0
 │  ├─ @babel/preset-env@^7.1.6
-│  ├─ @babel/preset-env@7.25.9
-│  │  ├─ @babel/compat-data@^7.25.9
+│  ├─ @babel/preset-env@7.26.0
+│  │  ├─ @babel/compat-data@^7.26.0
 │  │  ├─ @babel/helper-compilation-targets@^7.25.9
 │  │  ├─ @babel/helper-plugin-utils@^7.25.9
 │  │  ├─ @babel/helper-validator-option@^7.25.9
@@ -11244,8 +11244,8 @@ yarn list v1.22.22
 │  │  ├─ @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@^7.25.9
 │  │  ├─ @babel/plugin-bugfix-v8-static-class-fields-redefine-readonly@^7.25.9
 │  │  ├─ @babel/plugin-proposal-private-property-in-object@7.21.0-placeholder-for-preset-env.2
-│  │  ├─ @babel/plugin-syntax-import-assertions@^7.25.9
-│  │  ├─ @babel/plugin-syntax-import-attributes@^7.25.9
+│  │  ├─ @babel/plugin-syntax-import-assertions@^7.26.0
+│  │  ├─ @babel/plugin-syntax-import-attributes@^7.26.0
 │  │  ├─ @babel/plugin-syntax-unicode-sets-regex@^7.18.6
 │  │  ├─ @babel/plugin-transform-arrow-functions@^7.25.9
 │  │  ├─ @babel/plugin-transform-async-generator-functions@^7.25.9
@@ -11253,7 +11253,7 @@ yarn list v1.22.22
 │  │  ├─ @babel/plugin-transform-block-scoped-functions@^7.25.9
 │  │  ├─ @babel/plugin-transform-block-scoping@^7.25.9
 │  │  ├─ @babel/plugin-transform-class-properties@^7.25.9
-│  │  ├─ @babel/plugin-transform-class-static-block@^7.25.9
+│  │  ├─ @babel/plugin-transform-class-static-block@^7.26.0
 │  │  ├─ @babel/plugin-transform-classes@^7.25.9
 │  │  ├─ @babel/plugin-transform-computed-properties@^7.25.9
 │  │  ├─ @babel/plugin-transform-destructuring@^7.25.9
@@ -11286,6 +11286,7 @@ yarn list v1.22.22
 │  │  ├─ @babel/plugin-transform-private-property-in-object@^7.25.9
 │  │  ├─ @babel/plugin-transform-property-literals@^7.25.9
 │  │  ├─ @babel/plugin-transform-regenerator@^7.25.9
+│  │  ├─ @babel/plugin-transform-regexp-modifiers@^7.26.0
 │  │  ├─ @babel/plugin-transform-reserved-words@^7.25.9
 │  │  ├─ @babel/plugin-transform-shorthand-properties@^7.25.9
 │  │  ├─ @babel/plugin-transform-spread@^7.25.9
@@ -11448,8 +11449,8 @@ yarn list v1.22.22
 ├─ @types/mime@1.3.5
 ├─ @types/minimatch@5.1.2
 ├─ @types/minimist@1.2.5
-├─ @types/node@22.7.9
-│  └─ undici-types@~6.19.2
+├─ @types/node@22.8.0
+│  └─ undici-types@~6.19.8
 ├─ @types/normalize-package-data@2.4.4
 ├─ @types/parse-json@4.0.2
 ├─ @types/prop-types@15.7.13
@@ -12042,6 +12043,7 @@ yarn list v1.22.22
 │  │  └─ supports-color@^2.0.0
 │  ├─ esutils@^2.0.2
 │  ├─ js-tokens@^3.0.2
+│  ├─ js-tokens@3.0.2
 │  ├─ strip-ansi@3.0.1
 │  │  └─ ansi-regex@^2.0.0
 │  └─ supports-color@2.0.0
@@ -16186,7 +16188,7 @@ yarn list v1.22.22
 ├─ js-cookie@3.0.5
 ├─ js-sha3@0.8.0
 ├─ js-stringify@1.0.2
-├─ js-tokens@3.0.2
+├─ js-tokens@4.0.0
 ├─ js-yaml@3.14.1
 │  ├─ argparse@^1.0.7
 │  └─ esprima@^4.0.0
@@ -16310,10 +16312,6 @@ yarn list v1.22.22
 │  ├─ @babel/code-frame@7.0.0-beta.46
 │  ├─ @babel/code-frame@7.0.0-beta.46
 │  │  └─ @babel/highlight@7.0.0-beta.46
-│  ├─ @babel/highlight@7.0.0-beta.46
-│  │  ├─ chalk@^2.0.0
-│  │  ├─ esutils@^2.0.2
-│  │  └─ js-tokens@^3.0.0
 │  ├─ ajv@6.4.0
 │  ├─ ajv@6.4.0
 │  │  ├─ fast-deep-equal@^1.0.0
@@ -16774,8 +16772,7 @@ yarn list v1.22.22
 ├─ long@5.2.3
 ├─ longest@1.0.1
 ├─ loose-envify@1.4.0
-│  ├─ js-tokens@^3.0.0 || ^4.0.0
-│  └─ js-tokens@4.0.0
+│  └─ js-tokens@^3.0.0 || ^4.0.0
 ├─ loupe@2.3.7
 │  └─ get-func-name@^2.0.1
 ├─ lower-case-first@1.0.2
@@ -19375,8 +19372,6 @@ yarn list v1.22.22
 │  ├─ @protobufjs/pool@^1.1.0
 │  ├─ @protobufjs/utf8@^1.1.0
 │  ├─ @types/node@>=13.7.0
-│  ├─ @types/node@22.8.0
-│  │  └─ undici-types@~6.19.8
 │  └─ long@^5.0.0
 ├─ protocol-buffers-schema@3.6.0
 ├─ protocols@1.4.8
@@ -20104,8 +20099,9 @@ yarn list v1.22.22
 │  ├─ @babel/core@7.4.3
 │  ├─ @babel/core@7.4.3
 │  │  ├─ @babel/code-frame@^7.0.0
-│  │  ├─ @babel/code-frame@7.25.9
-│  │  │  ├─ @babel/highlight@^7.25.9
+│  │  ├─ @babel/code-frame@7.26.0
+│  │  │  ├─ @babel/helper-validator-identifier@^7.25.9
+│  │  │  ├─ js-tokens@^4.0.0
 │  │  │  └─ picocolors@^1.0.0
 │  │  ├─ @babel/generator@^7.4.0
 │  │  ├─ @babel/helpers@^7.4.3
@@ -20125,6 +20121,11 @@ yarn list v1.22.22
 │  │  ├─ semver@^5.4.1
 │  │  ├─ semver@5.7.2
 │  │  └─ source-map@^0.5.0
+│  ├─ @babel/highlight@7.25.9
+│  │  ├─ @babel/helper-validator-identifier@^7.25.9
+│  │  ├─ chalk@^2.4.2
+│  │  ├─ js-tokens@^4.0.0
+│  │  └─ picocolors@^1.0.0
 │  ├─ @svgr/webpack@4.1.0
 │  ├─ @typescript-eslint/eslint-plugin@1.6.0
 │  ├─ @typescript-eslint/parser@1.6.0
@@ -21718,8 +21719,6 @@ yarn list v1.22.22
 │  ├─ @steedos/standard-objects@2.6.31
 │  ├─ @steedos/webapp@2.2.25
 │  ├─ @steedos/webapp@2.2.25
-│  ├─ @types/node@22.8.0
-│  │  └─ undici-types@~6.19.8
 │  ├─ ansi-regex@2.1.1
 │  ├─ ansi-styles@2.2.1
 │  ├─ basic-auth@^2.0.1
