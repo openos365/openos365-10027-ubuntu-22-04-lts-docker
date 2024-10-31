@@ -44870,7 +44870,7 @@ linux-crashdump/jammy-updates,jammy-security 5.15.0.124.124 amd64
 linux-doc/jammy-updates,jammy-security 5.15.0-124.134 all
 linux-firmware-xilinx-ap1302/jammy-updates 1:2.0-0ubuntu1~22.04.1 all
 linux-firmware-xilinx-vcu/jammy 2020.2-0ubuntu1 all
-linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.34 all
+linux-firmware/jammy-updates 20220329.git681281e4-0ubuntu3.35 all
 linux-gcp-5.19-headers-5.19.0-1022/jammy-updates,jammy-security 5.19.0-1022.24~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1024/jammy-updates,jammy-security 5.19.0-1024.26~22.04.1 amd64
 linux-gcp-5.19-headers-5.19.0-1025/jammy-updates,jammy-security 5.19.0-1025.27~22.04.1 amd64
