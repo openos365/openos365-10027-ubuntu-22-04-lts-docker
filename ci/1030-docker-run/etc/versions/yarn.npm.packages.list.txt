@@ -305,7 +305,7 @@ yarn list v1.22.22
 │  ├─ @wry/context@^0.6.0
 │  ├─ @wry/context@0.6.1
 │  │  ├─ tslib@^2.3.0
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ @wry/equality@^0.5.0
 │  ├─ fast-json-stable-stringify@^2.0.0
 │  ├─ graphql-tag@^2.12.0
@@ -317,7 +317,7 @@ yarn list v1.22.22
 │  ├─ ts-invariant@^0.8.0
 │  ├─ ts-invariant@0.8.2
 │  │  ├─ tslib@^2.1.0
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ tslib@^1.10.0
 │  ├─ tslib@1.14.1
 │  └─ zen-observable@^0.8.14
@@ -1552,7 +1552,7 @@ yarn list v1.22.22
 │  │  ├─ @graphql-tools/utils@8.9.0
 │  │  │  └─ tslib@^2.4.0
 │  │  ├─ tslib@^2.4.0
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ @graphql-tools/schema@^8.0.2
 │  ├─ @graphql-tools/schema@8.5.1
 │  │  ├─ @graphql-tools/merge@8.3.1
@@ -1560,7 +1560,7 @@ yarn list v1.22.22
 │  │  ├─ @graphql-tools/utils@8.9.0
 │  │  │  └─ tslib@^2.4.0
 │  │  ├─ tslib@^2.4.0
-│  │  ├─ tslib@2.8.0
+│  │  ├─ tslib@2.8.1
 │  │  └─ value-or-promise@1.0.11
 │  ├─ @graphql-tools/utils@8.0.2
 │  ├─ @graphql-tools/utils@8.0.2
@@ -1648,18 +1648,18 @@ yarn list v1.22.22
 │  ├─ camel-case@4.1.2
 │  │  ├─ pascal-case@^3.1.2
 │  │  ├─ tslib@^2.0.3
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ lower-case@2.0.2
 │  │  ├─ tslib@^2.0.3
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ no-case@3.0.4
 │  │  ├─ lower-case@^2.0.2
 │  │  ├─ tslib@^2.0.3
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ pascal-case@3.1.2
 │  │  ├─ no-case@^3.0.4
 │  │  ├─ tslib@^2.0.3
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ tslib@~2.2.0
 │  └─ tslib@2.2.0
 ├─ @graphql-tools/wrap@7.0.8
@@ -5556,7 +5556,7 @@ yarn list v1.22.22
 │  │  ├─ @salesforce/ts-types@^1.7.3
 │  │  ├─ shx@^0.3.3
 │  │  ├─ tslib@^2.5.0
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ @steedos/accounts@2.1.114-beta.1
 │  │  ├─ @accounts/mongo@^0.19.0
 │  │  ├─ @accounts/rest-express@^0.19.0
@@ -7823,7 +7823,7 @@ yarn list v1.22.22
 │  │  ├─ @salesforce/ts-types@^1.7.3
 │  │  ├─ shx@^0.3.3
 │  │  ├─ tslib@^2.5.0
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ @steedos/accounts@2.2.4
 │  │  ├─ @accounts/mongo@^0.19.0
 │  │  ├─ @accounts/rest-express@^0.19.0
@@ -9491,7 +9491,7 @@ yarn list v1.22.22
 │  │  ├─ @salesforce/ts-types@^1.7.3
 │  │  ├─ shx@^0.3.3
 │  │  ├─ tslib@^2.5.0
-│  │  └─ tslib@2.8.0
+│  │  └─ tslib@2.8.1
 │  ├─ @steedos/accounts@2.1.114-beta.1
 │  │  ├─ @accounts/mongo@^0.19.0
 │  │  ├─ @accounts/rest-express@^0.19.0
@@ -22387,7 +22387,7 @@ yarn list v1.22.22
 │  ├─ source-map-support@^0.5.17
 │  └─ yn@3.1.1
 ├─ ts-pnp@1.1.2
-├─ tslib@2.8.0
+├─ tslib@2.8.1
 ├─ tsscmp@1.0.6
 ├─ tsutils@3.21.0
 │  ├─ tslib@^1.8.1
