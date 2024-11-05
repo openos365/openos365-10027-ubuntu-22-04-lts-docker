@@ -32231,8 +32231,8 @@ libmpfr-dev/jammy 4.1.0-3build3 amd64
 libmpfr-doc/jammy 4.1.0-3build3 all
 libmpfr6/jammy,now 4.1.0-3build3 amd64 [installed,automatic]
 libmpfrc++-dev/jammy 3.6.9+ds-1 all
-libmpg123-0/jammy 1.29.3-1build1 amd64
-libmpg123-dev/jammy 1.29.3-1build1 amd64
+libmpg123-0/jammy-security 1.29.3-1ubuntu0.1 amd64
+libmpg123-dev/jammy-security 1.29.3-1ubuntu0.1 amd64
 libmpich-dev/jammy 4.0-3 amd64
 libmpich12/jammy 4.0-3 amd64
 libmpj-java/jammy 0.44+dfsg-4 all
@@ -34454,7 +34454,7 @@ libots-dev/jammy 0.5.0-6 amd64
 libots0/jammy 0.5.0-6 amd64
 libouch-perl/jammy 0.0501-1 all
 libounit-ocaml-dev/jammy 2.2.6-1 amd64
-libout123-0/jammy 1.29.3-1build1 amd64
+libout123-0/jammy-security 1.29.3-1ubuntu0.1 amd64
 libow-3.2-4/jammy 3.2p4+dfsg1-4build5 amd64
 libow-dev/jammy 3.2p4+dfsg1-4build5 amd64
 libow-perl/jammy 3.2p4+dfsg1-4build5 amd64
@@ -40096,7 +40096,7 @@ libsymmetrica2-dev/jammy 2.0+ds-6 amd64
 libsymmetrica2/jammy 2.0+ds-6 amd64
 libsymspg-dev/jammy 1.16.2-2build3 amd64
 libsymspg1/jammy 1.16.2-2build3 amd64
-libsyn123-0/jammy 1.29.3-1build1 amd64
+libsyn123-0/jammy-security 1.29.3-1ubuntu0.1 amd64
 libsyncevo-dbus0/jammy 2.0.0-3 amd64
 libsyncevolution0/jammy 2.0.0-3 amd64
 libsynctex-dev/jammy-updates,jammy-security 2021.20210626.59705-1ubuntu0.2 amd64
@@ -67740,7 +67740,7 @@ mpdtoys/jammy 0.25.1build1 all
 mpeg2dec/jammy 0.5.1-9 amd64
 mpeg3-utils/jammy 1.8.dfsg-3 amd64
 mpegdemux/jammy 0.1.4-4 amd64
-mpg123/jammy 1.29.3-1build1 amd64
+mpg123/jammy-security 1.29.3-1ubuntu0.1 amd64
 mpg321/jammy 0.3.2-3.1ubuntu1 amd64
 mpglen/jammy 0.0.2-0.1ubuntu3 amd64
 mpgrafic/jammy 0.3.19-1build1 amd64
@@ -80774,7 +80774,7 @@ r8168-dkms/jammy-updates 8.049.02-1ubuntu1.4 all
 rabbit-mode/jammy 3.0.0-4 all
 rabbit/jammy 3.0.0-4 all
 rabbiter/jammy 2.0.4-4 all
-rabbitmq-server/jammy-updates,jammy-security 3.9.13-1ubuntu0.22.04.2 all
+rabbitmq-server/jammy-updates 3.9.27-0ubuntu0.1 all
 rabbitsign/jammy 2.1+dmca1-2 amd64
 rabbitvcs-cli/jammy 0.18-3 all
 rabbitvcs-core/jammy 0.18-3 all
