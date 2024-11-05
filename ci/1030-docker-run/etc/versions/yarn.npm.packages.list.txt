@@ -19858,7 +19858,7 @@ yarn list v1.22.22
 │  ├─ @babel/runtime@^7.18.3
 │  ├─ react-is@^18.2.0
 │  └─ react-is@18.3.1
-├─ rc-virtual-list@3.14.8
+├─ rc-virtual-list@3.15.0
 │  ├─ @babel/runtime@^7.20.0
 │  ├─ classnames@^2.2.6
 │  ├─ rc-resize-observer@^1.0.0
