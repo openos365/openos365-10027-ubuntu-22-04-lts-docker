@@ -11174,6 +11174,7 @@ yarn list v1.22.22
 │  ├─ cookies@^0.8.0
 │  ├─ mingo@^6.0.5
 │  ├─ psl@1.9.0
+│  ├─ psl@1.9.0
 │  ├─ underscore@1.5.2
 │  └─ underscore@1.5.2
 ├─ @steedos/webapp-accounts@2.7.10
@@ -19457,7 +19458,8 @@ yarn list v1.22.22
 ├─ proxy-from-env@1.1.0
 ├─ prr@1.0.1
 ├─ pseudomap@1.0.2
-├─ psl@1.9.0
+├─ psl@1.10.0
+│  └─ punycode@^2.3.1
 ├─ public-encrypt@4.0.3
 │  ├─ bn.js@^4.1.0
 │  ├─ browserify-rsa@^4.0.0
