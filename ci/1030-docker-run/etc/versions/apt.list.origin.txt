@@ -2625,12 +2625,12 @@ cim-schema/jammy 2.48.0-0ubuntu1 all
 cimg-dev/jammy 2.9.4+dfsg-3 all
 cimg-doc/jammy 2.9.4+dfsg-3 all
 cimg-examples/jammy 2.9.4+dfsg-3 all
-cinder-api/jammy-updates,jammy-security 2:20.3.1-0ubuntu1.4 all
-cinder-backup/jammy-updates,jammy-security 2:20.3.1-0ubuntu1.4 all
-cinder-common/jammy-updates,jammy-security 2:20.3.1-0ubuntu1.4 all
-cinder-scheduler/jammy-updates,jammy-security 2:20.3.1-0ubuntu1.4 all
+cinder-api/jammy-security 2:20.3.1-0ubuntu1.5 all
+cinder-backup/jammy-security 2:20.3.1-0ubuntu1.5 all
+cinder-common/jammy-security 2:20.3.1-0ubuntu1.5 all
+cinder-scheduler/jammy-security 2:20.3.1-0ubuntu1.5 all
 cinder-tempest-plugin/jammy 1.5.0-2 all
-cinder-volume/jammy-updates,jammy-security 2:20.3.1-0ubuntu1.4 all
+cinder-volume/jammy-security 2:20.3.1-0ubuntu1.5 all
 cinnamon-common/jammy 5.2.7-4 all
 cinnamon-control-center-data/jammy 5.2.1-2 all
 cinnamon-control-center-goa/jammy 5.2.1-2 amd64
@@ -75307,7 +75307,7 @@ python3-chm/jammy 0.8.6-3build1 amd64
 python3-ci-info/jammy 0.2.0-2 all
 python3-cif2cell/jammy 2.0.0a3+dfsg-1 all
 python3-cigar/jammy 0.1.3-2 all
-python3-cinder/jammy-updates,jammy-security 2:20.3.1-0ubuntu1.4 all
+python3-cinder/jammy-security 2:20.3.1-0ubuntu1.5 all
 python3-cinderclient/jammy 1:8.3.0-0ubuntu1 all
 python3-circuitbreaker/jammy 1.3.2-2 all
 python3-circuits/jammy 3.1.0+ds1-3 all
