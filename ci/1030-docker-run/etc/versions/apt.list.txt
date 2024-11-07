@@ -43333,7 +43333,7 @@ linphone/jammy 4.2.5-3build1 all
 linssid/jammy 3.6-7build1 amd64
 lintex/jammy 1.14-2 amd64
 lintian-brush/jammy 0.120ubuntu1 all
-lintian/jammy-updates 2.114.0ubuntu1.4 all
+lintian/jammy-updates 2.114.0ubuntu1.5 all
 linux-allwinner-5.17-headers-5.17.0-1010/jammy-updates,jammy-security 5.17.0-1010.10 all
 linux-allwinner-5.19-headers-5.19.0-1011/jammy-updates,jammy-security 5.19.0-1011.11~22.04.1 all
 linux-allwinner-5.19-headers-5.19.0-1012/jammy-updates,jammy-security 5.19.0-1012.12~22.04.1 all
