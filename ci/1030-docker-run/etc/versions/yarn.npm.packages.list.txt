@@ -313,6 +313,7 @@ yarn list v1.22.22
 │  ├─ optimism@^0.16.0
 │  ├─ prop-types@^15.7.2
 │  ├─ symbol-observable@^4.0.0
+│  ├─ symbol-observable@4.0.0
 │  ├─ ts-invariant@^0.8.0
 │  ├─ ts-invariant@0.8.2
 │  │  ├─ tslib@^2.1.0
@@ -2412,7 +2413,12 @@ yarn list v1.22.22
 │  └─ write-json-file@^4.3.0
 ├─ @lerna/write-log-file@4.0.0
 │  ├─ npmlog@^4.1.2
-│  └─ write-file-atomic@^3.0.3
+│  ├─ write-file-atomic@^3.0.3
+│  └─ write-file-atomic@3.0.3
+│     ├─ imurmurhash@^0.1.4
+│     ├─ is-typedarray@^1.0.0
+│     ├─ signal-exit@^3.0.2
+│     └─ typedarray-to-buffer@^3.1.5
 ├─ @mapbox/geojson-area@0.2.2
 │  └─ wgs84@0.0.0
 ├─ @mapbox/geojson-rewind@0.4.1
@@ -2599,9 +2605,6 @@ yarn list v1.22.22
 │  ├─ passport-http-bearer@1.0.1
 │  ├─ passport-oauth2-client-password@0.1.2
 │  ├─ passport@0.4.1
-│  ├─ passport@0.4.1
-│  │  ├─ passport-strategy@1.x.x
-│  │  └─ pause@0.0.1
 │  ├─ qs@6.7.0
 │  ├─ raw-body@2.4.0
 │  │  ├─ bytes@3.1.0
@@ -3386,6 +3389,7 @@ yarn list v1.22.22
 │  └─ ws@1.1.5
 │     ├─ options@>=0.0.5
 │     └─ ultron@1.0.x
+├─ @react-native-community/netinfo@4.7.0
 ├─ @rollup/plugin-alias@3.1.9
 │  ├─ slash@^3.0.0
 │  └─ slash@3.0.0
@@ -4427,6 +4431,10 @@ yarn list v1.22.22
 │  ├─ ms@2.0.0
 │  ├─ node-fetch@^2.6.7
 │  ├─ passport@^0.6.0
+│  ├─ passport@0.6.0
+│  │  ├─ passport-strategy@1.x.x
+│  │  ├─ pause@0.0.1
+│  │  └─ utils-merge@^1.0.1
 │  ├─ qs@6.10.3
 │  │  └─ side-channel@^1.0.4
 │  ├─ raw-body@2.5.1
@@ -4772,6 +4780,16 @@ yarn list v1.22.22
 │  ├─ moleculer@^0.14.11
 │  ├─ nats@^1.4.12
 │  └─ path-to-regexp@3.3.0
+├─ @steedos/oauth2-messenger@1.0.0
+│  ├─ cookies@^0.7.3
+│  ├─ cookies@0.7.3
+│  │  ├─ depd@~1.1.2
+│  │  └─ keygrip@~1.0.3
+│  ├─ express@^4.16.4
+│  ├─ mattermost-redux@^5.10.0
+│  ├─ node-fetch@^2.3.0
+│  ├─ passport-oauth2@^1.5.0
+│  └─ passport@^0.4.0
 ├─ @steedos/objectql@2.7.10
 │  ├─ @salesforce/kit@1.0.4
 │  ├─ @salesforce/ts-types@1.1.1
@@ -7280,6 +7298,10 @@ yarn list v1.22.22
 │  ├─ ms@2.0.0
 │  ├─ passport-jwt@^4.0.0
 │  ├─ passport@^0.6.0
+│  ├─ passport@0.6.0
+│  │  ├─ passport-strategy@1.x.x
+│  │  ├─ pause@0.0.1
+│  │  └─ utils-merge@^1.0.1
 │  ├─ qs@6.10.3
 │  │  └─ side-channel@^1.0.4
 │  ├─ raw-body@2.5.1
@@ -11308,6 +11330,7 @@ yarn list v1.22.22
 ├─ @techpass/passport-openidconnect@0.3.3
 │  ├─ base64url@^3.0.1
 │  ├─ oauth@^0.9.15
+│  ├─ oauth@0.9.15
 │  ├─ passport-strategy@^1.0.0
 │  ├─ request@^2.88.0
 │  └─ webfinger@^0.4.2
@@ -11856,6 +11879,7 @@ yarn list v1.22.22
 │  │  ├─ @wry/trie@0.4.3
 │  │  │  └─ tslib@^2.3.0
 │  │  └─ tslib@^2.3.0
+│  ├─ symbol-observable@4.0.0
 │  ├─ ts-invariant@0.10.3
 │  │  └─ tslib@^2.1.0
 │  └─ zen-observable-ts@1.2.5
@@ -13845,7 +13869,7 @@ yarn list v1.22.22
 │  └─ yargs@^16.0.0
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.54
+├─ electron-to-chromium@1.5.55
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
@@ -14702,6 +14726,7 @@ yarn list v1.22.22
 ├─ get-nonce@1.0.1
 ├─ get-own-enumerable-property-symbols@3.0.2
 ├─ get-package-type@0.1.0
+├─ get-params@0.1.2
 ├─ get-pkg-repo@4.2.1
 │  ├─ @hutson/parse-repository-url@^3.0.0
 │  ├─ hosted-git-info@^4.0.0
@@ -14718,6 +14743,8 @@ yarn list v1.22.22
 ├─ get-value@2.0.6
 ├─ getpass@0.1.7
 │  └─ assert-plus@^1.0.0
+├─ gfycat-sdk@1.4.18
+│  └─ babel-runtime@^6.23.0
 ├─ git-raw-commits@2.0.11
 │  ├─ dargs@^7.0.0
 │  ├─ lodash@^4.17.15
@@ -16212,6 +16239,7 @@ yarn list v1.22.22
 ├─ js-yaml@3.14.1
 │  ├─ argparse@^1.0.7
 │  └─ esprima@^4.0.0
+├─ jsan@3.1.14
 ├─ jsbn@0.1.1
 ├─ jsc-android@245459.0.0
 ├─ jsdom@16.7.0
@@ -16616,6 +16644,7 @@ yarn list v1.22.22
 ├─ lie@3.3.0
 │  └─ immediate@~3.0.5
 ├─ lines-and-columns@1.2.4
+├─ linked-list@0.1.0
 ├─ linkify-it@3.0.2
 │  └─ uc.micro@^1.0.1
 ├─ liquidjs@9.43.0
@@ -16937,6 +16966,33 @@ yarn list v1.22.22
 │  ├─ gl-mat4@^1.1.2
 │  ├─ gl-vec3@^1.0.3
 │  └─ mat4-interpolate@^1.0.3
+├─ mattermost-redux@5.33.1
+│  ├─ core-js@3.8.3
+│  ├─ core-js@3.8.3
+│  ├─ form-data@3.0.0
+│  ├─ form-data@3.0.0
+│  │  ├─ asynckit@^0.4.0
+│  │  ├─ combined-stream@^1.0.8
+│  │  └─ mime-types@^2.1.12
+│  ├─ gfycat-sdk@1.4.18
+│  ├─ moment-timezone@0.5.32
+│  ├─ moment-timezone@0.5.32
+│  │  └─ moment@>= 2.9.0
+│  ├─ redux-action-buffer@1.2.0
+│  ├─ redux-offline@git+https://github.com/enahum/redux-offline.git#885024de96b6ec73650c340c8928066585c413df
+│  ├─ redux-persist-node-storage@2.0.0
+│  ├─ redux-persist@4.9.1
+│  ├─ redux-thunk@2.3.0
+│  ├─ redux-thunk@2.3.0
+│  ├─ redux@4.0.5
+│  ├─ redux@4.0.5
+│  │  ├─ loose-envify@^1.4.0
+│  │  └─ symbol-observable@^1.2.0
+│  ├─ remote-redux-devtools@0.5.16
+│  ├─ reselect@4.0.0
+│  ├─ rudder-sdk-js@1.0.14
+│  ├─ serialize-error@6.0.0
+│  └─ shallow-equals@1.0.0
 ├─ md5-file@5.0.0
 ├─ md5.js@1.3.5
 │  ├─ hash-base@^3.0.0
@@ -17367,6 +17423,7 @@ yarn list v1.22.22
 │  ├─ resolve@^1.5.0
 │  ├─ rimraf@^2.5.4
 │  ├─ serialize-error@^2.1.0
+│  ├─ serialize-error@2.1.0
 │  ├─ source-map@^0.5.6
 │  ├─ source-map@0.5.7
 │  ├─ string-width@2.1.1
@@ -17382,10 +17439,6 @@ yarn list v1.22.22
 │  ├─ throat@^4.1.0
 │  ├─ wordwrap@^1.0.0
 │  ├─ write-file-atomic@^1.2.0
-│  ├─ write-file-atomic@1.3.4
-│  │  ├─ graceful-fs@^4.1.11
-│  │  ├─ imurmurhash@^0.1.4
-│  │  └─ slide@^1.1.5
 │  ├─ ws@^1.1.5
 │  ├─ ws@1.1.5
 │  │  ├─ options@>=0.0.5
@@ -18045,6 +18098,8 @@ yarn list v1.22.22
 │  │  └─ inherits@2.0.3
 │  ├─ vm-browserify@^1.0.1
 │  └─ vm-browserify@1.1.2
+├─ node-localstorage@1.3.1
+│  └─ write-file-atomic@^1.1.4
 ├─ node-notifier@5.4.5
 │  ├─ growly@^1.3.0
 │  ├─ is-wsl@^1.1.0
@@ -18417,7 +18472,7 @@ yarn list v1.22.22
 ├─ numeric@1.2.6
 ├─ nwsapi@2.2.13
 ├─ oauth-sign@0.8.2
-├─ oauth@0.9.15
+├─ oauth@0.10.0
 ├─ oauth2-server@2.4.1
 │  ├─ basic-auth@~0.0.1
 │  └─ basic-auth@0.0.1
@@ -18715,11 +18770,16 @@ yarn list v1.22.22
 │  └─ passport-strategy@^1.0.0
 ├─ passport-oauth2-client-password@0.1.2
 │  └─ passport-strategy@1.x.x
-├─ passport-strategy@1.0.0
-├─ passport@0.6.0
+├─ passport-oauth2@1.8.0
+│  ├─ base64url@3.x.x
+│  ├─ oauth@0.10.x
 │  ├─ passport-strategy@1.x.x
-│  ├─ pause@0.0.1
-│  └─ utils-merge@^1.0.1
+│  ├─ uid2@0.0.x
+│  └─ utils-merge@1.x.x
+├─ passport-strategy@1.0.0
+├─ passport@0.4.1
+│  ├─ passport-strategy@1.x.x
+│  └─ pause@0.0.1
 ├─ password-prompt@1.1.3
 │  ├─ ansi-escapes@^4.3.2
 │  ├─ ansi-escapes@4.3.2
@@ -20520,7 +20580,31 @@ yarn list v1.22.22
 │  ├─ cell-orientation@^1.0.1
 │  ├─ compare-cell@^1.0.0
 │  └─ compare-oriented-cell@^1.0.1
+├─ redux-action-buffer@1.2.0
+├─ redux-devtools-core@0.2.1
+│  ├─ get-params@^0.1.2
+│  ├─ jsan@^3.1.13
+│  ├─ lodash@^4.17.11
+│  ├─ nanoid@^2.0.0
+│  ├─ nanoid@2.1.11
+│  └─ remotedev-serialize@^0.1.8
 ├─ redux-devtools-extension@2.13.9
+├─ redux-devtools-instrument@1.10.0
+│  ├─ lodash@^4.17.19
+│  └─ symbol-observable@^1.2.0
+├─ redux-offline@1.1.5
+│  ├─ @react-native-community/netinfo@^4.1.3
+│  ├─ redux-persist@^4.5.0
+│  └─ redux-persist@4.10.2
+│     ├─ json-stringify-safe@^5.0.1
+│     ├─ lodash-es@^4.17.4
+│     └─ lodash@^4.17.4
+├─ redux-persist-node-storage@2.0.0
+│  └─ node-localstorage@^1.3.0
+├─ redux-persist@4.9.1
+│  ├─ json-stringify-safe@^5.0.1
+│  ├─ lodash-es@^4.17.4
+│  └─ lodash@^4.17.4
 ├─ redux-thunk@2.4.2
 ├─ redux@4.2.1
 │  └─ @babel/runtime@^7.9.2
@@ -20636,6 +20720,15 @@ yarn list v1.22.22
 │  │  └─ ua-parser-js@^1.0.35
 │  ├─ invariant@^2.2.4
 │  └─ ua-parser-js@1.0.39
+├─ remote-redux-devtools@0.5.16
+│  ├─ jsan@^3.1.13
+│  ├─ querystring@^0.2.0
+│  ├─ redux-devtools-core@^0.2.1
+│  ├─ redux-devtools-instrument@^1.9.4
+│  ├─ rn-host-detect@^1.1.5
+│  └─ socketcluster-client@^14.2.1
+├─ remotedev-serialize@0.1.9
+│  └─ jsan@^3.1.13
 ├─ remove-accents@0.5.0
 ├─ remove-trailing-separator@1.1.0
 ├─ renderkid@2.0.7
@@ -20731,6 +20824,7 @@ yarn list v1.22.22
 ├─ requireindex@1.2.0
 ├─ requirejs@2.3.7
 ├─ requires-port@1.0.0
+├─ reselect@4.0.0
 ├─ resize-observer-polyfill@1.5.1
 ├─ resolve-alpn@1.2.1
 ├─ resolve-cwd@2.0.0
@@ -20813,6 +20907,7 @@ yarn list v1.22.22
 │     ├─ inherits@^2.0.3
 │     ├─ string_decoder@^1.1.1
 │     └─ util-deprecate@^1.0.1
+├─ rn-host-detect@1.2.0
 ├─ rndm@1.2.0
 ├─ robust-compress@1.0.0
 ├─ robust-determinant@1.1.0
@@ -20911,6 +21006,7 @@ yarn list v1.22.22
 ├─ rsvp@4.8.5
 ├─ rtl-css-js@1.16.1
 │  └─ @babel/runtime@^7.1.2
+├─ rudder-sdk-js@1.0.14
 ├─ run-async@2.4.1
 ├─ run-parallel@1.2.0
 │  └─ queue-microtask@^1.2.2
@@ -20975,6 +21071,11 @@ yarn list v1.22.22
 ├─ sax@1.4.1
 ├─ saxes@5.0.1
 │  └─ xmlchars@^2.2.0
+├─ sc-channel@1.2.0
+│  ├─ component-emitter@1.2.1
+│  └─ component-emitter@1.2.1
+├─ sc-errors@2.0.3
+├─ sc-formatter@3.0.3
 ├─ scheduler@0.20.2
 │  ├─ loose-envify@^1.1.0
 │  └─ object-assign@^4.1.1
@@ -21065,7 +21166,9 @@ yarn list v1.22.22
 │  ├─ no-case@^2.2.0
 │  └─ upper-case-first@^1.1.2
 ├─ serializator@1.0.1
-├─ serialize-error@2.1.0
+├─ serialize-error@6.0.0
+│  ├─ type-fest@^0.12.0
+│  └─ type-fest@0.12.0
 ├─ serialize-javascript@2.1.2
 ├─ serve-index@1.9.1
 │  ├─ accepts@~1.3.4
@@ -21148,6 +21251,7 @@ yarn list v1.22.22
 ├─ shallow-element-equals@1.0.1
 │  └─ style-equal@^1.0.0
 ├─ shallow-equal@1.2.1
+├─ shallow-equals@1.0.0
 ├─ shallowequal@1.1.0
 ├─ sharkdown@0.1.1
 │  ├─ ansicolors@0.2.1
@@ -21314,6 +21418,21 @@ yarn list v1.22.22
 │     ├─ component-emitter@1.2.1
 │     ├─ debug@~4.1.0
 │     └─ isarray@2.0.1
+├─ socketcluster-client@14.3.2
+│  ├─ buffer@^5.2.1
+│  ├─ clone@2.1.1
+│  ├─ clone@2.1.1
+│  ├─ component-emitter@1.2.1
+│  ├─ component-emitter@1.2.1
+│  ├─ linked-list@0.1.0
+│  ├─ querystring@0.2.0
+│  ├─ querystring@0.2.0
+│  ├─ sc-channel@^1.2.0
+│  ├─ sc-errors@^2.0.1
+│  ├─ sc-formatter@^3.0.1
+│  ├─ uuid@3.2.1
+│  ├─ uuid@3.2.1
+│  └─ ws@^7.5.0
 ├─ sockjs-client@1.3.0
 │  ├─ debug@^3.2.5
 │  ├─ debug@3.2.7
@@ -21926,7 +22045,6 @@ yarn list v1.22.22
 │  ├─ eventemitter3@^3.1.0
 │  ├─ iterall@^1.2.1
 │  ├─ symbol-observable@^1.0.4
-│  ├─ symbol-observable@1.2.0
 │  └─ ws@^5.2.0 || ^6.0.0 || ^7.0.0
 ├─ sudo-prompt@9.2.1
 ├─ superagent@3.8.3
@@ -22007,7 +22125,7 @@ yarn list v1.22.22
 │  ├─ lower-case@^1.1.1
 │  └─ upper-case@^1.1.1
 ├─ swr@1.3.0
-├─ symbol-observable@4.0.0
+├─ symbol-observable@1.2.0
 ├─ symbol-tree@3.2.4
 ├─ sync-fetch@0.3.0
 │  ├─ buffer@^5.7.0
@@ -22951,11 +23069,10 @@ yarn list v1.22.22
 │  ├─ string-width@^4.1.0
 │  └─ strip-ansi@^6.0.0
 ├─ wrappy@1.0.2
-├─ write-file-atomic@3.0.3
+├─ write-file-atomic@1.3.4
+│  ├─ graceful-fs@^4.1.11
 │  ├─ imurmurhash@^0.1.4
-│  ├─ is-typedarray@^1.0.0
-│  ├─ signal-exit@^3.0.2
-│  └─ typedarray-to-buffer@^3.1.5
+│  └─ slide@^1.1.5
 ├─ write-json-file@4.3.0
 │  ├─ detect-indent@^6.0.0
 │  ├─ graceful-fs@^4.1.15
@@ -22968,7 +23085,12 @@ yarn list v1.22.22
 │  ├─ sort-keys@^4.0.0
 │  ├─ sort-keys@4.2.0
 │  │  └─ is-plain-obj@^2.0.0
-│  └─ write-file-atomic@^3.0.0
+│  ├─ write-file-atomic@^3.0.0
+│  └─ write-file-atomic@3.0.3
+│     ├─ imurmurhash@^0.1.4
+│     ├─ is-typedarray@^1.0.0
+│     ├─ signal-exit@^3.0.2
+│     └─ typedarray-to-buffer@^3.1.5
 ├─ write-pkg@4.0.0
 │  ├─ detect-indent@5.0.0
 │  ├─ pify@4.0.1
