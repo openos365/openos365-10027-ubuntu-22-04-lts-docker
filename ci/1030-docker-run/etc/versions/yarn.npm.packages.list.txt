@@ -18490,7 +18490,7 @@ yarn list v1.22.22
 │  ├─ define-property@^0.2.5
 │  └─ kind-of@^3.0.3
 ├─ object-hash@2.2.0
-├─ object-inspect@1.13.2
+├─ object-inspect@1.13.3
 ├─ object-is@1.1.6
 │  ├─ call-bind@^1.0.7
 │  └─ define-properties@^1.2.1
