@@ -16752,7 +16752,7 @@ yarn list v1.22.22
 ├─ lodash@4.17.21
 ├─ log-symbols@2.2.0
 │  └─ chalk@^2.0.1
-├─ logform@2.6.1
+├─ logform@2.7.0
 │  ├─ @colors/colors@1.6.0
 │  ├─ @types/triple-beam@^1.3.2
 │  ├─ fecha@^4.2.0
@@ -22954,26 +22954,21 @@ yarn list v1.22.22
 │  ├─ snappy@^7.2.2
 │  ├─ url-polyfill@^1.1.12
 │  └─ winston-transport@^4.3.0
-├─ winston-transport@4.8.0
-│  ├─ buffer@6.0.3
-│  │  ├─ base64-js@^1.3.1
-│  │  └─ ieee754@^1.2.1
-│  ├─ logform@^2.6.1
-│  ├─ readable-stream@^4.5.2
-│  ├─ readable-stream@4.5.2
-│  │  ├─ abort-controller@^3.0.0
-│  │  ├─ buffer@^6.0.3
-│  │  ├─ events@^3.3.0
-│  │  ├─ process@^0.11.10
-│  │  └─ string_decoder@^1.3.0
+├─ winston-transport@4.9.0
+│  ├─ logform@^2.7.0
+│  ├─ readable-stream@^3.6.2
+│  ├─ readable-stream@3.6.2
+│  │  ├─ inherits@^2.0.3
+│  │  ├─ string_decoder@^1.1.1
+│  │  └─ util-deprecate@^1.0.1
 │  └─ triple-beam@^1.3.0
-├─ winston@3.16.0
+├─ winston@3.17.0
 │  ├─ @colors/colors@^1.6.0
 │  ├─ @dabh/diagnostics@^2.0.2
 │  ├─ async@^3.2.3
 │  ├─ is-stream@^2.0.0
 │  ├─ is-stream@2.0.1
-│  ├─ logform@^2.6.0
+│  ├─ logform@^2.7.0
 │  ├─ one-time@^1.0.0
 │  ├─ readable-stream@^3.4.0
 │  ├─ readable-stream@3.6.2
@@ -22983,7 +22978,7 @@ yarn list v1.22.22
 │  ├─ safe-stable-stringify@^2.3.1
 │  ├─ stack-trace@0.0.x
 │  ├─ triple-beam@^1.3.0
-│  └─ winston-transport@^4.7.0
+│  └─ winston-transport@^4.9.0
 ├─ with@7.0.2
 │  ├─ @babel/parser@^7.9.6
 │  ├─ @babel/types@^7.9.6
