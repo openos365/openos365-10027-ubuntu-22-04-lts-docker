@@ -493,7 +493,7 @@ yarn list v1.22.22
 │  ├─ regjsgen@0.8.0
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
-├─ @babel/helper-define-polyfill-provider@0.6.2
+├─ @babel/helper-define-polyfill-provider@0.6.3
 │  ├─ @babel/helper-compilation-targets@^7.22.6
 │  ├─ @babel/helper-plugin-utils@^7.22.5
 │  ├─ debug@^4.1.1
@@ -12154,16 +12154,16 @@ yarn list v1.22.22
 ├─ babel-plugin-minify-type-constructors@0.4.3
 │  └─ babel-helper-is-void-0@^0.4.3
 ├─ babel-plugin-named-asset-import@0.3.8
-├─ babel-plugin-polyfill-corejs2@0.4.11
+├─ babel-plugin-polyfill-corejs2@0.4.12
 │  ├─ @babel/compat-data@^7.22.6
-│  ├─ @babel/helper-define-polyfill-provider@^0.6.2
+│  ├─ @babel/helper-define-polyfill-provider@^0.6.3
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
 ├─ babel-plugin-polyfill-corejs3@0.10.6
 │  ├─ @babel/helper-define-polyfill-provider@^0.6.2
 │  └─ core-js-compat@^3.38.0
-├─ babel-plugin-polyfill-regenerator@0.6.2
-│  └─ @babel/helper-define-polyfill-provider@^0.6.2
+├─ babel-plugin-polyfill-regenerator@0.6.3
+│  └─ @babel/helper-define-polyfill-provider@^0.6.3
 ├─ babel-plugin-styled-components@2.1.4
 │  ├─ @babel/helper-annotate-as-pure@^7.22.5
 │  ├─ @babel/helper-module-imports@^7.22.5
@@ -13869,7 +13869,7 @@ yarn list v1.22.22
 │  └─ yargs@^16.0.0
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.55
+├─ electron-to-chromium@1.5.56
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
