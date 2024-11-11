@@ -10269,10 +10269,10 @@ gnome-common/jammy 3.18.0-4 all
 gnome-connections/jammy 42.1.2-1 amd64
 gnome-console/jammy 42~beta-1 amd64
 gnome-contacts/jammy 41.0-2 amd64
-gnome-control-center-data/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 all
-gnome-control-center-dev/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 all
-gnome-control-center-faces/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 all
-gnome-control-center/jammy-updates,jammy-security 1:41.7-0ubuntu0.22.04.8 amd64
+gnome-control-center-data/jammy-updates 1:41.7-0ubuntu0.22.04.9 all
+gnome-control-center-dev/jammy-updates 1:41.7-0ubuntu0.22.04.9 all
+gnome-control-center-faces/jammy-updates 1:41.7-0ubuntu0.22.04.9 all
+gnome-control-center/jammy-updates 1:41.7-0ubuntu0.22.04.9 amd64
 gnome-core/jammy 1:42+3 amd64
 gnome-desktop-3-tests/jammy-updates 42.9-0ubuntu1 amd64
 gnome-desktop-testing/jammy 2021.1-2 amd64
