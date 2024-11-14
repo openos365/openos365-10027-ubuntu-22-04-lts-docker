@@ -71199,8 +71199,12 @@ oem-somerville-lapras-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-magmar-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-marill-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-muk-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-qwilfish-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-tentacool-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-tentacool-rpl-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-torchic-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-wartortle-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-zubat-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-aron-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-asobo-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-beldum-meta/jammy-updates 22.04~ubuntu1 all

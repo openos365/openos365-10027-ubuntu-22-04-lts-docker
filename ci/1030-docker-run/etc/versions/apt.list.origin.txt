@@ -10947,10 +10947,10 @@ golang-1.13-go/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.2 amd64
 golang-1.13-race-detector-runtime/jammy 0.0+svn332029-0ubuntu2 amd64
 golang-1.13-src/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.2 amd64
 golang-1.13/jammy-updates,jammy-security 1.13.8-1ubuntu2.22.04.2 all
-golang-1.17-doc/jammy-security 1.17.13-3ubuntu1.3 all
-golang-1.17-go/jammy-security 1.17.13-3ubuntu1.3 amd64
-golang-1.17-src/jammy-security 1.17.13-3ubuntu1.3 all
-golang-1.17/jammy-security 1.17.13-3ubuntu1.3 all
+golang-1.17-doc/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
+golang-1.17-go/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 amd64
+golang-1.17-src/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
+golang-1.17/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
 golang-1.18-doc/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
 golang-1.18-go/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 amd64 [installed,automatic]
 golang-1.18-src/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
