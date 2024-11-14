@@ -10950,10 +10950,10 @@ golang-1.17-doc/jammy-updates,jammy-security 1.17.13-3ubuntu1.2 all
 golang-1.17-go/jammy-updates,jammy-security 1.17.13-3ubuntu1.2 amd64
 golang-1.17-src/jammy-updates,jammy-security 1.17.13-3ubuntu1.2 all
 golang-1.17/jammy-updates,jammy-security 1.17.13-3ubuntu1.2 all
-golang-1.18-doc/jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
-golang-1.18-go/jammy-security,now 1.18.1-1ubuntu1.2 amd64 [installed,automatic]
-golang-1.18-src/jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
-golang-1.18/jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
+golang-1.18-doc/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
+golang-1.18-go/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 amd64 [installed,automatic]
+golang-1.18-src/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
+golang-1.18/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
 golang-1.20-doc/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
 golang-1.20-go/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 amd64
 golang-1.20-src/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
