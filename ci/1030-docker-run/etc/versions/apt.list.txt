@@ -22789,7 +22789,7 @@ libgctp-2.0.0/jammy 2.0.0-6 amd64
 libgctp-dev/jammy 2.0.0-6 amd64
 libgcu0v5/jammy 0.14.17-6.1 amd64
 libgd-barcode-perl/jammy 1.15-7 all
-libgd-dev/jammy 2.3.0-2ubuntu2 amd64
+libgd-dev/jammy-updates,jammy-security 2.3.0-2ubuntu2.3 amd64
 libgd-gd2-noxpm-ocaml-dev/jammy 1.0~alpha5-9build4 all
 libgd-gd2-noxpm-ocaml/jammy 1.0~alpha5-9build4 all
 libgd-graph-perl/jammy 1.54~ds-3 all
@@ -22800,8 +22800,8 @@ libgd-perl/jammy 2.76-2build1 amd64
 libgd-securityimage-perl/jammy 1.75-1 all
 libgd-svg-perl/jammy 0.33-3 all
 libgd-text-perl/jammy 0.86-10 all
-libgd-tools/jammy 2.3.0-2ubuntu2 amd64
-libgd3/jammy,now 2.3.0-2ubuntu2 amd64 [installed,automatic]
+libgd-tools/jammy-updates,jammy-security 2.3.0-2ubuntu2.3 amd64
+libgd3/jammy-updates,jammy-security,now 2.3.0-2ubuntu2.3 amd64 [installed,automatic]
 libgda-5.0-4/jammy 5.2.10-2 amd64
 libgda-5.0-bin/jammy 5.2.10-2 amd64
 libgda-5.0-common/jammy 5.2.10-2 all
