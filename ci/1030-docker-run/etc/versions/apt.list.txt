@@ -74336,7 +74336,7 @@ python-ase-doc/jammy 3.22.1-1ubuntu1 all
 python-astroplan-doc/jammy 0.7-2 all
 python-astropy-doc/jammy 5.0.2-1 all
 python-astroquery-doc/jammy 0.4.1+dfsg-7 all
-python-asyncssh-doc/jammy 2.5.0-1 all
+python-asyncssh-doc/jammy-updates,jammy-security 2.5.0-1ubuntu0.1 all
 python-attr-doc/jammy 21.2.0-1 all
 python-authlib-doc/jammy 0.15.5-1 all
 python-automaton-doc/jammy 2.4.0-0ubuntu1 all
@@ -75303,7 +75303,7 @@ python3-async-generator/jammy 1.10-3 all
 python3-async-timeout/jammy 4.0.1-1 all
 python3-asyncio-mqtt/jammy 0.10.0-2 all
 python3-asyncpg/jammy 0.25.0-1build1 amd64
-python3-asyncssh/jammy 2.5.0-1 all
+python3-asyncssh/jammy-updates,jammy-security 2.5.0-1ubuntu0.1 all
 python3-atomicwrites/jammy 1.4.0-2 all
 python3-attr/jammy 21.2.0-1 all
 python3-aubio/jammy 0.4.9-4.1build2 amd64
