@@ -31818,7 +31818,7 @@ libmodule-reader-perl/jammy 0.003003-1 all
 libmodule-refresh-perl/jammy 0.17-1.1 all
 libmodule-runtime-conflicts-perl/jammy 0.003-1.1 all
 libmodule-runtime-perl/jammy 0.016-1 all
-libmodule-scandeps-perl/jammy 1.31-1 all
+libmodule-scandeps-perl/jammy-updates,jammy-security 1.31-1ubuntu0.1 all
 libmodule-signature-perl/jammy 0.88-1 all
 libmodule-starter-pbp-perl/jammy 0.0.3-2.1 all
 libmodule-starter-perl/jammy 1.770+dfsg-1 all
@@ -68821,7 +68821,7 @@ neat/jammy 2.3.2-2 amd64
 nec2c/jammy 1.3-4 amd64
 nedit/jammy 1:5.7-3 amd64
 needrestart-session/jammy 0.3-9 all
-needrestart/jammy-updates,jammy-security 3.5-5ubuntu2.1 all
+needrestart/jammy-updates,jammy-security 3.5-5ubuntu2.2 all
 neko-dev/jammy 2.3.0-1build3 amd64
 neko/jammy 2.3.0-1build3 amd64
 nemiver/jammy 0.9.6-1.2build1 amd64
@@ -75269,7 +75269,7 @@ python-vine-doc/jammy 5.0.0+dfsg-2 all
 python-vispy-doc/jammy 0.6.6-2build1 all
 python-vitrageclient-doc/jammy 4.4.0-0ubuntu2 all
 python-vmware-nsxlib-doc/jammy 17.4.0-0ubuntu1 all
-python-waitress-doc/jammy-security 1.4.4-1.1ubuntu1.1 all
+python-waitress-doc/jammy-updates,jammy-security 1.4.4-1.1ubuntu1.1 all
 python-watcherclient-doc/jammy 3.3.0-0ubuntu1 all
 python-webassets-doc/jammy 3:0.12.1-1.1 all
 python-webob-doc/jammy-updates,jammy-security 1:1.8.6-1.1ubuntu0.1 all
@@ -79147,7 +79147,7 @@ python3-vulndb/jammy 0.1.3-2 all
 python3-w3lib/jammy 1.22.0-3 all
 python3-wadllib/jammy 1.3.6-1 all
 python3-waiting/jammy 1.4.1-6 all
-python3-waitress/jammy-security 1.4.4-1.1ubuntu1.1 all
+python3-waitress/jammy-updates,jammy-security 1.4.4-1.1ubuntu1.1 all
 python3-wand/jammy 0.6.7-1 all
 python3-warlock/jammy 1.3.3-2 all
 python3-watchdog/jammy 2.1.6-1 all
