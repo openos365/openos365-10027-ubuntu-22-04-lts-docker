@@ -3857,14 +3857,6 @@ yarn list v1.22.22
 │  ├─ web-components-with-react@^1.2.1
 │  └─ webcomponents-in-react@^1.0.1
 ├─ @steedos-ui/builder-community@2.2.53
-├─ @steedos-ui/builder-creator@2.2.53
-│  ├─ @steedos-ui/design-system@2.2.53
-│  ├─ classnames@^2.3.1
-│  ├─ markd@^1.2.0
-│  ├─ react-redux@^7.1.1
-│  ├─ redux-thunk@^2.4.1
-│  ├─ tslib@^2.3.1
-│  └─ underscore@^1.13.2
 ├─ @steedos-ui/builder-form@2.2.53
 │  ├─ @ant-design/pro-form@^1.59.3
 │  ├─ @chakra-ui/react@^1.4.2
@@ -12836,7 +12828,8 @@ yarn list v1.22.22
 │  └─ upper-case@^1.1.1
 ├─ character-entities-legacy@1.1.4
 ├─ character-entities@1.2.4
-├─ character-parser@1.2.1
+├─ character-parser@2.2.0
+│  └─ is-regex@^1.0.3
 ├─ character-reference-invalid@1.1.4
 ├─ chardet@0.7.0
 ├─ charenc@0.0.2
@@ -12948,13 +12941,8 @@ yarn list v1.22.22
 │  ├─ validator@9.2.0
 │  └─ validator@9.2.0
 ├─ classnames@2.5.1
-├─ clean-css@3.4.28
-│  ├─ commander@2.8.1
-│  │  └─ graceful-readlink@>= 1.0.0
-│  ├─ commander@2.8.x
-│  ├─ source-map@0.4.4
-│  │  └─ amdefine@>=0.0.4
-│  └─ source-map@0.4.x
+├─ clean-css@4.2.4
+│  └─ source-map@~0.6.0
 ├─ clean-pslg@1.1.2
 │  ├─ big-rat@^1.0.3
 │  ├─ box-intersect@^1.0.1
@@ -13511,7 +13499,6 @@ yarn list v1.22.22
 │  │  ├─ source-map@^0.6.1
 │  │  └─ supports-color@^5.4.0
 │  └─ seekout@^1.0.1
-├─ css-parse@1.0.4
 ├─ css-prefers-color-scheme@3.1.1
 │  └─ postcss@^7.0.5
 ├─ css-select-base-adapter@0.1.1
@@ -13523,7 +13510,6 @@ yarn list v1.22.22
 ├─ css-selector-tokenizer@0.7.3
 │  ├─ cssesc@^3.0.0
 │  └─ fastparse@^1.1.2
-├─ css-stringify@1.0.5
 ├─ css-system-font-keywords@1.0.0
 ├─ css-to-react-native@3.2.0
 │  ├─ camelize@^1.0.0
@@ -13534,9 +13520,6 @@ yarn list v1.22.22
 │  ├─ mdn-data@2.0.14
 │  └─ source-map@^0.6.1
 ├─ css-what@3.4.2
-├─ css@1.0.8
-│  ├─ css-parse@1.0.4
-│  └─ css-stringify@1.0.5
 ├─ csscolorparser@1.0.3
 ├─ cssdb@4.4.0
 ├─ cssesc@3.0.0
@@ -15212,7 +15195,6 @@ yarn list v1.22.22
 │  ├─ p-cancelable@^2.0.0
 │  └─ responselike@^2.0.0
 ├─ graceful-fs@4.2.11
-├─ graceful-readlink@1.0.1
 ├─ graphql-extensions@0.16.0
 │  ├─ @apollographql/apollo-tools@^0.5.0
 │  ├─ apollo-server-env@^3.2.0
@@ -15391,8 +15373,6 @@ yarn list v1.22.22
 ├─ html-escaper@2.0.2
 ├─ html-minifier@3.5.21
 │  ├─ camel-case@3.0.x
-│  ├─ clean-css@4.2.4
-│  │  └─ source-map@~0.6.0
 │  ├─ clean-css@4.2.x
 │  ├─ commander@2.17.1
 │  ├─ commander@2.17.x
@@ -15833,47 +15813,6 @@ yarn list v1.22.22
 ├─ jackspeak@3.4.3
 │  ├─ @isaacs/cliui@^8.0.2
 │  └─ @pkgjs/parseargs@^0.11.0
-├─ jade-gist@1.0.5
-├─ jade@1.11.0
-│  ├─ acorn-globals@1.0.9
-│  │  ├─ acorn@^2.1.0
-│  │  └─ acorn@2.7.0
-│  ├─ acorn@1.2.2
-│  ├─ camelcase@1.2.1
-│  ├─ character-parser@1.2.1
-│  ├─ clean-css@^3.1.9
-│  ├─ cliui@2.1.0
-│  │  ├─ center-align@^0.1.1
-│  │  ├─ right-align@^0.1.1
-│  │  └─ wordwrap@0.0.2
-│  ├─ commander@~2.6.0
-│  ├─ commander@2.6.0
-│  ├─ constantinople@~3.0.1
-│  ├─ constantinople@3.0.2
-│  │  ├─ acorn@^2.1.0
-│  │  └─ acorn@2.7.0
-│  ├─ jstransformer@0.0.2
-│  ├─ mkdirp@~0.5.0
-│  ├─ source-map@0.5.7
-│  ├─ transformers@2.1.0
-│  ├─ uglify-js@^2.4.19
-│  ├─ uglify-js@2.8.29
-│  │  ├─ source-map@~0.5.1
-│  │  ├─ uglify-to-browserify@~1.0.0
-│  │  └─ yargs@~3.10.0
-│  ├─ void-elements@~2.0.1
-│  ├─ void-elements@2.0.1
-│  ├─ window-size@0.1.0
-│  ├─ with@~4.0.0
-│  ├─ with@4.0.3
-│  │  ├─ acorn-globals@^1.0.3
-│  │  └─ acorn@^1.0.1
-│  ├─ wordwrap@0.0.2
-│  └─ yargs@3.10.0
-│     ├─ camelcase@^1.0.2
-│     ├─ cliui@^2.1.0
-│     ├─ decamelize@^1.0.0
-│     └─ window-size@0.1.0
 ├─ jake@10.9.2
 │  ├─ async@^3.2.3
 │  ├─ chalk@^4.0.2
@@ -16530,13 +16469,10 @@ yarn list v1.22.22
 │  ├─ bluebird@3.5.4
 │  └─ node.extend.without.arrays@1.1.6
 ├─ jsreport-text@2.0.0
-├─ jstransformer@0.0.2
-│  ├─ asap@1.0.0
+├─ jstransformer@1.0.0
 │  ├─ is-promise@^2.0.0
 │  ├─ is-promise@2.2.2
-│  ├─ promise@^6.0.1
-│  └─ promise@6.1.0
-│     └─ asap@~1.0.0
+│  └─ promise@^7.0.1
 ├─ jsx-ast-utils@2.4.1
 │  ├─ array-includes@^3.1.1
 │  └─ object.assign@^4.1.0
@@ -16972,14 +16908,6 @@ yarn list v1.22.22
 │  └─ vt-pbf@^3.1.1
 ├─ marching-simplex-table@1.0.0
 │  └─ convex-hull@^1.0.3
-├─ markd@1.2.0
-│  ├─ express@^4.13.4
-│  ├─ jade-gist@^1.0.5
-│  ├─ jade@^1.11.0
-│  ├─ lodash@^4.10.0
-│  ├─ marked@^0.3.5
-│  ├─ marked@0.3.19
-│  └─ pygmentize-bundled@^2.3.0
 ├─ markdown-it-container@3.0.0
 ├─ markdown-it-emoji@2.0.2
 ├─ markdown-it@12.3.2
@@ -19536,18 +19464,12 @@ yarn list v1.22.22
 ├─ pug-error@2.1.0
 ├─ pug-filters@4.0.0
 │  ├─ constantinople@^4.0.1
-│  ├─ is-promise@2.2.2
 │  ├─ jstransformer@1.0.0
-│  ├─ jstransformer@1.0.0
-│  │  ├─ is-promise@^2.0.0
-│  │  └─ promise@^7.0.1
 │  ├─ pug-error@^2.0.0
 │  ├─ pug-walk@^2.0.0
 │  └─ resolve@^1.15.1
 ├─ pug-lexer@5.0.1
 │  ├─ character-parser@^2.2.0
-│  ├─ character-parser@2.2.0
-│  │  └─ is-regex@^1.0.3
 │  ├─ is-expression@^4.0.0
 │  └─ pug-error@^2.0.0
 ├─ pug-linker@4.0.0
@@ -19602,29 +19524,6 @@ yarn list v1.22.22
 │  ├─ ws@^6.1.0
 │  └─ ws@6.2.3
 │     └─ async-limiter@~1.0.0
-├─ pygmentize-bundled@2.3.0
-│  ├─ bl@~0.4.1
-│  ├─ bl@0.4.2
-│  │  └─ readable-stream@~1.0.2
-│  ├─ isarray@0.0.1
-│  ├─ object-keys@0.4.0
-│  ├─ readable-stream@1.0.34
-│  │  ├─ core-util-is@~1.0.0
-│  │  ├─ inherits@~2.0.1
-│  │  ├─ isarray@0.0.1
-│  │  └─ string_decoder@~0.10.x
-│  ├─ string_decoder@0.10.31
-│  ├─ through2@~0.2.1
-│  ├─ through2@0.2.3
-│  │  ├─ readable-stream@~1.1.9
-│  │  ├─ readable-stream@1.1.14
-│  │  │  ├─ core-util-is@~1.0.0
-│  │  │  ├─ inherits@~2.0.1
-│  │  │  ├─ isarray@0.0.1
-│  │  │  └─ string_decoder@~0.10.x
-│  │  └─ xtend@~2.1.1
-│  └─ xtend@2.1.2
-│     └─ object-keys@~0.4.0
 ├─ q@1.5.1
 ├─ qr.js@0.0.0
 ├─ qrcode.react@1.0.1
@@ -22405,17 +22304,6 @@ yarn list v1.22.22
 │  └─ punycode@^2.1.1
 ├─ tr46@1.0.1
 │  └─ punycode@^2.1.0
-├─ transformers@2.1.0
-│  ├─ css@~1.0.8
-│  ├─ promise@~2.0
-│  ├─ promise@2.0.0
-│  │  └─ is-promise@~1
-│  ├─ source-map@0.1.43
-│  │  └─ amdefine@>=0.0.4
-│  ├─ uglify-js@~2.2.5
-│  └─ uglify-js@2.2.5
-│     ├─ optimist@~0.3.5
-│     └─ source-map@~0.1.7
 ├─ traverse@0.6.10
 │  ├─ gopd@^1.0.1
 │  ├─ typedarray.prototype.slice@^1.0.3
