@@ -31819,7 +31819,7 @@ libmodule-reader-perl/jammy 0.003003-1 all
 libmodule-refresh-perl/jammy 0.17-1.1 all
 libmodule-runtime-conflicts-perl/jammy 0.003-1.1 all
 libmodule-runtime-perl/jammy 0.016-1 all
-libmodule-scandeps-perl/jammy-security 1.31-1ubuntu0.1 all
+libmodule-scandeps-perl/jammy-updates,jammy-security 1.31-1ubuntu0.1 all
 libmodule-signature-perl/jammy 0.88-1 all
 libmodule-starter-pbp-perl/jammy 0.0.3-2.1 all
 libmodule-starter-perl/jammy 1.770+dfsg-1 all
@@ -68822,7 +68822,7 @@ neat/jammy 2.3.2-2 amd64
 nec2c/jammy 1.3-4 amd64
 nedit/jammy 1:5.7-3 amd64
 needrestart-session/jammy 0.3-9 all
-needrestart/jammy-security 3.5-5ubuntu2.2 all
+needrestart/jammy-updates,jammy-security 3.5-5ubuntu2.2 all
 neko-dev/jammy 2.3.0-1build3 amd64
 neko/jammy 2.3.0-1build3 amd64
 nemiver/jammy 0.9.6-1.2build1 amd64
