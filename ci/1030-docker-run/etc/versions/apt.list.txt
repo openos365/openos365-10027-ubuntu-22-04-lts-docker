@@ -70947,7 +70947,7 @@ nudoku/jammy 2.1.0-0.1 amd64
 nuget/jammy 2.8.7+md510+dhx1-1.1 all
 nuitka/jammy 0.6.19.1+ds-1 all
 nulib2/jammy 3.1.0-5 amd64
-nullboot/jammy-updates,jammy-security 0.4.0-0ubuntu0.22.04.3 amd64
+nullboot/jammy-security 0.4.0-0ubuntu0.22.04.4 amd64
 nullidentd/jammy 1.0-5build1 amd64
 nullmailer/jammy 1:2.2-3build1 amd64
 num-utils/jammy 0.5-15 all
