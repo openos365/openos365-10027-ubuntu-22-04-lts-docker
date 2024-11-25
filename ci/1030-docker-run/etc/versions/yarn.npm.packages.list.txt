@@ -11438,7 +11438,7 @@ yarn list v1.22.22
 ├─ @types/cors@2.8.17
 │  └─ @types/node@*
 ├─ @types/estree@1.0.6
-├─ @types/express-serve-static-core@5.0.1
+├─ @types/express-serve-static-core@5.0.2
 │  ├─ @types/node@*
 │  ├─ @types/qs@*
 │  ├─ @types/range-parser@*
