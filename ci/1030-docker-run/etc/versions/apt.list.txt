@@ -79217,7 +79217,7 @@ python3-ttystatus/jammy 0.38-4 all
 python3-tvdb-api/jammy 3.1-1 all
 python3-tweepy/jammy 4.5.0-1 all
 python3-twilio/jammy 7.1.0+ds-1 all
-python3-twisted/jammy-security 22.1.0-2ubuntu2.6 all
+python3-twisted/jammy-updates,jammy-security 22.1.0-2ubuntu2.6 all
 python3-twitter/jammy 3.3-2 all
 python3-twodict/jammy 1.2-2ubuntu1 all
 python3-twython/jammy 3.8.2+dfsg-2 all
@@ -86993,7 +86993,7 @@ twinkle-common/jammy 1:1.10.2+dfsg-1 all
 twinkle-console/jammy 1:1.10.2+dfsg-1 amd64
 twinkle/jammy 1:1.10.2+dfsg-1 amd64
 twinvoicerecalc/jammy 0.0.20170711-1.1 all
-twisted-doc/jammy-security 22.1.0-2ubuntu2.6 all
+twisted-doc/jammy-updates,jammy-security 22.1.0-2ubuntu2.6 all
 twittering-mode/jammy 3.1.0-1.2 all
 twitterwatch/jammy 0.1-2 all
 twm/jammy 1:1.0.10-1 amd64
