@@ -12925,7 +12925,7 @@ yarn list v1.22.22
 │  └─ ms@2.0.0
 ├─ chrome-trace-event@1.0.4
 ├─ ci-info@2.0.0
-├─ cipher-base@1.0.5
+├─ cipher-base@1.0.6
 │  ├─ inherits@^2.0.4
 │  └─ safe-buffer@^5.2.1
 ├─ circumcenter@1.0.0
