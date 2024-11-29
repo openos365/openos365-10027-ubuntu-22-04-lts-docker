@@ -16341,7 +16341,6 @@ yarn list v1.22.22
 │  ├─ https-proxy-agent@^5.0.0
 │  ├─ is-potential-custom-element-name@^1.0.1
 │  ├─ nwsapi@^2.2.0
-│  ├─ nwsapi@2.2.15
 │  ├─ parse5@6.0.1
 │  ├─ saxes@^5.0.1
 │  ├─ symbol-tree@^3.2.4
