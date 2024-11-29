@@ -16341,6 +16341,7 @@ yarn list v1.22.22
 │  ├─ https-proxy-agent@^5.0.0
 │  ├─ is-potential-custom-element-name@^1.0.1
 │  ├─ nwsapi@^2.2.0
+│  ├─ nwsapi@2.2.15
 │  ├─ parse5@6.0.1
 │  ├─ saxes@^5.0.1
 │  ├─ symbol-tree@^3.2.4
@@ -18529,7 +18530,7 @@ yarn list v1.22.22
 ├─ number-is-nan@1.0.1
 ├─ numeral@2.0.6
 ├─ numeric@1.2.6
-├─ nwsapi@2.2.15
+├─ nwsapi@2.2.16
 ├─ oauth-sign@0.8.2
 ├─ oauth@0.10.0
 ├─ oauth2-server@2.4.1
