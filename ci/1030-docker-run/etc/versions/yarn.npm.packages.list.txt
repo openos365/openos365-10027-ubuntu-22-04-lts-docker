@@ -12763,7 +12763,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001684
+├─ caniuse-lite@1.0.30001685
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -15685,9 +15685,9 @@ yarn list v1.22.22
 │  └─ has-bigints@^1.0.1
 ├─ is-binary-path@2.1.0
 │  └─ binary-extensions@^2.0.0
-├─ is-boolean-object@1.1.2
-│  ├─ call-bind@^1.0.2
-│  └─ has-tostringtag@^1.0.0
+├─ is-boolean-object@1.2.0
+│  ├─ call-bind@^1.0.7
+│  └─ has-tostringtag@^1.0.2
 ├─ is-browser@2.1.0
 ├─ is-buffer@1.1.6
 ├─ is-callable@1.2.7
@@ -15781,8 +15781,9 @@ yarn list v1.22.22
 │  └─ protocols@2.0.1
 ├─ is-stream@1.1.0
 ├─ is-string-blank@1.0.1
-├─ is-string@1.0.7
-│  └─ has-tostringtag@^1.0.0
+├─ is-string@1.1.0
+│  ├─ call-bind@^1.0.7
+│  └─ has-tostringtag@^1.0.2
 ├─ is-svg-path@1.0.2
 ├─ is-symbol@1.0.4
 │  └─ has-symbols@^1.0.2
@@ -19394,7 +19395,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.25.0
+├─ preact@10.25.1
 ├─ prelude-ls@1.1.2
 ├─ prepend-http@2.0.0
 ├─ prettier-plugin-svelte@1.4.2
@@ -19524,7 +19525,7 @@ yarn list v1.22.22
 ├─ proxy-from-env@1.1.0
 ├─ prr@1.0.1
 ├─ pseudomap@1.0.2
-├─ psl@1.14.0
+├─ psl@1.15.0
 │  └─ punycode@^2.3.1
 ├─ public-encrypt@4.0.3
 │  ├─ bn.js@^4.1.0
