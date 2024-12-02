@@ -15745,8 +15745,9 @@ yarn list v1.22.22
 ├─ is-negative-zero@2.0.3
 ├─ is-number-like@1.0.8
 │  └─ lodash.isfinite@^3.3.2
-├─ is-number-object@1.0.7
-│  └─ has-tostringtag@^1.0.0
+├─ is-number-object@1.1.0
+│  ├─ call-bind@^1.0.7
+│  └─ has-tostringtag@^1.0.2
 ├─ is-number@3.0.0
 │  └─ kind-of@^3.0.2
 ├─ is-obj@1.0.1
