@@ -23005,12 +23005,12 @@ yarn list v1.22.22
 │  ├─ webidl-conversions@^6.1.0
 │  └─ webidl-conversions@6.1.0
 ├─ when@3.7.8
-├─ which-boxed-primitive@1.0.2
-│  ├─ is-bigint@^1.0.1
-│  ├─ is-boolean-object@^1.1.0
-│  ├─ is-number-object@^1.0.4
-│  ├─ is-string@^1.0.5
-│  └─ is-symbol@^1.0.3
+├─ which-boxed-primitive@1.1.0
+│  ├─ is-bigint@^1.1.0
+│  ├─ is-boolean-object@^1.2.0
+│  ├─ is-number-object@^1.1.0
+│  ├─ is-string@^1.1.0
+│  └─ is-symbol@^1.1.0
 ├─ which-builtin-type@1.2.0
 │  ├─ call-bind@^1.0.7
 │  ├─ function.prototype.name@^1.1.6
