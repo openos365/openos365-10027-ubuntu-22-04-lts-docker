@@ -15312,7 +15312,7 @@ yarn list v1.22.22
 │  └─ es-define-property@^1.0.0
 ├─ has-proto@1.1.0
 │  └─ call-bind@^1.0.7
-├─ has-symbols@1.0.3
+├─ has-symbols@1.1.0
 ├─ has-tostringtag@1.0.2
 │  └─ has-symbols@^1.0.3
 ├─ has-unicode@2.0.1
@@ -22182,7 +22182,6 @@ yarn list v1.22.22
 │  │  ├─ mdn-data@2.0.4
 │  │  └─ source-map@^0.6.1
 │  ├─ csso@^4.0.2
-│  ├─ has-symbols@1.1.0
 │  ├─ js-yaml@^3.13.1
 │  ├─ mdn-data@2.0.4
 │  ├─ mkdirp@~0.5.1
