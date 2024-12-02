@@ -15310,7 +15310,8 @@ yarn list v1.22.22
 │  └─ is-browser@^2.0.1
 ├─ has-property-descriptors@1.0.2
 │  └─ es-define-property@^1.0.0
-├─ has-proto@1.0.3
+├─ has-proto@1.1.0
+│  └─ call-bind@^1.0.7
 ├─ has-symbols@1.0.3
 ├─ has-tostringtag@1.0.2
 │  └─ has-symbols@^1.0.3
