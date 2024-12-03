@@ -12763,7 +12763,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001685
+├─ caniuse-lite@1.0.30001686
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -13820,7 +13820,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.54.1
+├─ docxtemplater@3.55.0
 │  └─ @xmldom/xmldom@^0.9.5
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
@@ -17584,7 +17584,7 @@ yarn list v1.22.22
 │  ├─ commander@^2.20.3
 │  ├─ dateformat@^3.0.3
 │  ├─ dotenv@^16.0.0
-│  ├─ dotenv@16.4.5
+│  ├─ dotenv@16.4.6
 │  ├─ inherits@^2.0.3
 │  ├─ minimatch@^5.0.1
 │  ├─ minimatch@5.1.6
