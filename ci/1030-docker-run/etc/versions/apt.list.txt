@@ -72419,7 +72419,7 @@ paraclu/jammy 10-1 amd64
 parafly/jammy 0.1.0-3 amd64
 parallel-fastq-dump/jammy 0.6.7-2 amd64
 parallel/jammy 20210822+ds-2 all
-paramiko-doc/jammy-updates,jammy-security 2.9.3-0ubuntu1.2 all
+paramiko-doc/jammy-updates 2.9.3-0ubuntu1.3 all
 parasail/jammy 2.5+dfsg-3 amd64
 paraview-dev/jammy 5.10.0~rc1-1build3 amd64
 paraview-doc/jammy 5.10.0~rc1-1build3 all
@@ -77822,7 +77822,7 @@ python3-parallax/jammy 1.0.6-3 all
 python3-parallel/jammy 0.2.2-4 all
 python3-param/jammy 1.9.3-2 all
 python3-parameterized/jammy 0.8.1-3 all
-python3-paramiko/jammy-updates,jammy-security 2.9.3-0ubuntu1.2 all
+python3-paramiko/jammy-updates 2.9.3-0ubuntu1.3 all
 python3-parasail/jammy 1.2.4-3 all
 python3-paraview/jammy 5.10.0~rc1-1build3 amd64
 python3-parfive/jammy 1.5.1-1 all
