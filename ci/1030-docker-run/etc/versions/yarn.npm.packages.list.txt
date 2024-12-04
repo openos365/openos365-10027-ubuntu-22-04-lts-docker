@@ -17584,7 +17584,7 @@ yarn list v1.22.22
 │  ├─ commander@^2.20.3
 │  ├─ dateformat@^3.0.3
 │  ├─ dotenv@^16.0.0
-│  ├─ dotenv@16.4.6
+│  ├─ dotenv@16.4.7
 │  ├─ inherits@^2.0.3
 │  ├─ minimatch@^5.0.1
 │  ├─ minimatch@5.1.6
@@ -17678,7 +17678,7 @@ yarn list v1.22.22
 │  ├─ @types/graphql-upload@^8.0.11
 │  ├─ apollo-server-core@^2.22.2
 │  ├─ dataloader@^2.1.0
-│  ├─ dataloader@2.2.2
+│  ├─ dataloader@2.2.3
 │  ├─ graphql-subscriptions@^1.2.1
 │  ├─ graphql-tools@^7.0.5
 │  ├─ graphql-upload@^11.0.0
@@ -22211,7 +22211,7 @@ yarn list v1.22.22
 │  └─ acorn-node@^1.2.0
 ├─ systeminformation@5.9.17
 ├─ systemjs@6.15.1
-├─ table@6.8.2
+├─ table@6.9.0
 │  ├─ ajv@^8.0.1
 │  ├─ ajv@8.17.1
 │  │  ├─ fast-deep-equal@^3.1.3
