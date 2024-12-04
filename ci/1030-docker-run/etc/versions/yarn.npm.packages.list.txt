@@ -15186,8 +15186,7 @@ yarn list v1.22.22
 │  │  ├─ pseudomap@^1.0.2
 │  │  └─ yallist@^2.1.2
 │  └─ yallist@2.1.2
-├─ gopd@1.1.0
-│  └─ get-intrinsic@^1.2.4
+├─ gopd@1.2.0
 ├─ got@11.8.6
 │  ├─ @sindresorhus/is@^4.0.0
 │  ├─ @szmarczak/http-timer@^4.0.5
@@ -19476,7 +19475,7 @@ yarn list v1.22.22
 │  └─ uc.micro@2.1.0
 ├─ prosemirror-model@1.24.0
 │  └─ orderedmap@^2.0.0
-├─ prosemirror-schema-list@1.4.1
+├─ prosemirror-schema-list@1.5.0
 │  ├─ prosemirror-model@^1.0.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.7.3
