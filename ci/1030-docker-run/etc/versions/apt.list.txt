@@ -5984,7 +5984,7 @@ exmh/jammy 1:2.9.0-3 all
 exo-utils/jammy 4.16.3-1 amd64
 exonerate/jammy 2.4.0-5 amd64
 expand-region-el/jammy 0.11.0+36-1 all
-expat/jammy-updates,jammy-security 2.4.7-1ubuntu0.4 amd64
+expat/jammy-updates,jammy-security 2.4.7-1ubuntu0.5 amd64
 expect-lite/jammy 4.9.0-0ubuntu1 all
 expect/jammy,now 5.45.4-2build1 amd64 [installed]
 expeyes-clib/jammy 4.8.8+repack-2 amd64
@@ -21789,8 +21789,8 @@ libexodusii5/jammy 6.02.dfsg.1-10build1 amd64
 libexpat-gst/jammy 3.2.5-1.3ubuntu1 amd64
 libexpat-ocaml-dev/jammy 1.1.0-1build2 amd64
 libexpat-ocaml/jammy 1.1.0-1build2 amd64
-libexpat1-dev/jammy-updates,jammy-security,now 2.4.7-1ubuntu0.4 amd64 [installed,automatic]
-libexpat1/jammy-updates,jammy-security,now 2.4.7-1ubuntu0.4 amd64 [installed,automatic]
+libexpat1-dev/jammy-updates,jammy-security,now 2.4.7-1ubuntu0.5 amd64 [installed,automatic]
+libexpat1/jammy-updates,jammy-security,now 2.4.7-1ubuntu0.5 amd64 [installed,automatic]
 libexpect-ocaml-dev/jammy 0.0.6-2build1 amd64
 libexpect-ocaml/jammy 0.0.6-2build1 amd64
 libexpect-perl/jammy 1.21-1.2 all
@@ -71841,9 +71841,9 @@ oem-sutton-caressa-meta/jammy-updates 22.04~ubuntu1 all
 office2003-schemas/jammy 1.0+ds-1 all
 offlineimap3/jammy 0.0~git20211018.e64c254+dfsg-1 all
 offlineimap/jammy 7.3.3+dfsg1-1+0.0~git20211018.e64c254+dfsg-1 all
-ofono-dev/jammy 1.31-3ubuntu1 all
-ofono-scripts/jammy 1.31-3ubuntu1 all
-ofono/jammy 1.31-3ubuntu1 amd64
+ofono-dev/jammy-updates,jammy-security 1.31-3ubuntu1.1 all
+ofono-scripts/jammy-updates,jammy-security 1.31-3ubuntu1.1 all
+ofono/jammy-updates,jammy-security 1.31-3ubuntu1.1 amd64
 ofx/jammy 1:0.10.3-1 amd64
 ofxstatement-plugins/jammy 20210310 all
 ofxstatement/jammy 0.7.1-1 all
