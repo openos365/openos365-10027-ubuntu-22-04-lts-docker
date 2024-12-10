@@ -18349,7 +18349,7 @@ yarn list v1.22.22
 │  │  ├─ parseurl@~1.3.3
 │  │  └─ send@0.17.1
 │  └─ setprototypeof@1.1.1
-├─ node-releases@2.0.18
+├─ node-releases@2.0.19
 ├─ node-rsa@1.0.0
 │  ├─ asn1@0.2.3
 │  └─ asn1@0.2.3
