@@ -71940,6 +71940,7 @@ oem-stella-cascoon-rpl-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-chiko-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-graveler-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-kuku-meta/jammy-updates 22.04~ubuntu1 all
+oem-stella-nobisuke-rpl-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-purrloin-rpl-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-romi-meta/jammy-updates 22.04~ubuntu1 all
 oem-stella-sensei-meta/jammy-updates 22.04~ubuntu1 all
@@ -77669,7 +77670,7 @@ python3-magcode-core/jammy 1.5.4-5 all
 python3-magic-wormhole-mailbox-server/jammy 0.4.1-1 all
 python3-magic/jammy 2:0.4.24-2 all
 python3-magics++/jammy 2:1.5.7-1 amd64
-python3-magnum-ui/jammy 10.0.0-0ubuntu3 all
+python3-magnum-ui/jammy-updates 10.0.0-0ubuntu3.1 all
 python3-magnum/jammy-updates 14.1.1-0ubuntu1 all
 python3-magnumclient/jammy 3.5.0-0ubuntu3 all
 python3-mailer/jammy 0.8.1-4 all
