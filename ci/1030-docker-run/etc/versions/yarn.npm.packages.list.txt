@@ -15651,7 +15651,9 @@ yarn list v1.22.22
 │  └─ hasown@^2.0.2
 ├─ is-data-descriptor@1.0.1
 │  └─ hasown@^2.0.0
-├─ is-data-view@1.0.1
+├─ is-data-view@1.0.2
+│  ├─ call-bound@^1.0.2
+│  ├─ get-intrinsic@^1.2.6
 │  └─ is-typed-array@^1.1.13
 ├─ is-date-object@1.0.5
 │  └─ has-tostringtag@^1.0.0
@@ -15710,9 +15712,9 @@ yarn list v1.22.22
 ├─ is-promise@1.0.1
 ├─ is-reference@1.2.1
 │  └─ @types/estree@*
-├─ is-regex@1.2.0
-│  ├─ call-bind@^1.0.7
-│  ├─ gopd@^1.1.0
+├─ is-regex@1.2.1
+│  ├─ call-bound@^1.0.2
+│  ├─ gopd@^1.2.0
 │  ├─ has-tostringtag@^1.0.2
 │  └─ hasown@^2.0.2
 ├─ is-regexp@1.0.0
