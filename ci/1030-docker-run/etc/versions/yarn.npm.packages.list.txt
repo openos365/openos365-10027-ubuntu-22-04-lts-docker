@@ -19332,7 +19332,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.25.1
+├─ preact@10.25.2
 ├─ prelude-ls@1.1.2
 ├─ prepend-http@2.0.0
 ├─ prettier-plugin-svelte@1.4.2
@@ -19862,7 +19862,7 @@ yarn list v1.22.22
 │  ├─ @babel/runtime@^7.18.3
 │  ├─ classnames@^2.2.5
 │  └─ rc-util@^5.2.0
-├─ rc-util@5.44.1
+├─ rc-util@5.44.2
 │  ├─ @babel/runtime@^7.18.3
 │  ├─ react-is@^18.2.0
 │  └─ react-is@18.3.1
