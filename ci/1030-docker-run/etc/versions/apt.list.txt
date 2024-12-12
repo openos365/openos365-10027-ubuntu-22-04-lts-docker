@@ -71984,9 +71984,9 @@ oem-sutton-caressa-meta/jammy-updates 22.04~ubuntu1 all
 office2003-schemas/jammy 1.0+ds-1 all
 offlineimap3/jammy 0.0~git20211018.e64c254+dfsg-1 all
 offlineimap/jammy 7.3.3+dfsg1-1+0.0~git20211018.e64c254+dfsg-1 all
-ofono-dev/jammy-security 1.31-3ubuntu1.2 all
-ofono-scripts/jammy-security 1.31-3ubuntu1.2 all
-ofono/jammy-security 1.31-3ubuntu1.2 amd64
+ofono-dev/jammy-updates,jammy-security 1.31-3ubuntu1.2 all
+ofono-scripts/jammy-updates,jammy-security 1.31-3ubuntu1.2 all
+ofono/jammy-updates,jammy-security 1.31-3ubuntu1.2 amd64
 ofx/jammy 1:0.10.3-1 amd64
 ofxstatement-plugins/jammy 20210310 all
 ofxstatement/jammy 0.7.1-1 all
