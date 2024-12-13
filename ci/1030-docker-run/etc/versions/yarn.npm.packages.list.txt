@@ -15619,9 +15619,9 @@ yarn list v1.22.22
 ├─ is-alphanumerical@1.0.4
 │  ├─ is-alphabetical@^1.0.0
 │  └─ is-decimal@^1.0.0
-├─ is-arguments@1.1.1
-│  ├─ call-bind@^1.0.2
-│  └─ has-tostringtag@^1.0.0
+├─ is-arguments@1.2.0
+│  ├─ call-bound@^1.0.2
+│  └─ has-tostringtag@^1.0.2
 ├─ is-array-buffer@3.0.4
 │  ├─ call-bind@^1.0.2
 │  └─ get-intrinsic@^1.2.1
@@ -15632,8 +15632,8 @@ yarn list v1.22.22
 │  └─ has-bigints@^1.0.2
 ├─ is-binary-path@2.1.0
 │  └─ binary-extensions@^2.0.0
-├─ is-boolean-object@1.2.0
-│  ├─ call-bind@^1.0.7
+├─ is-boolean-object@1.2.1
+│  ├─ call-bound@^1.0.2
 │  └─ has-tostringtag@^1.0.2
 ├─ is-browser@2.1.0
 ├─ is-buffer@1.1.6
@@ -15735,10 +15735,10 @@ yarn list v1.22.22
 │  ├─ call-bind@^1.0.7
 │  └─ has-tostringtag@^1.0.2
 ├─ is-svg-path@1.0.2
-├─ is-symbol@1.1.0
-│  ├─ call-bind@^1.0.7
-│  ├─ has-symbols@^1.0.3
-│  └─ safe-regex-test@^1.0.3
+├─ is-symbol@1.1.1
+│  ├─ call-bound@^1.0.2
+│  ├─ has-symbols@^1.1.0
+│  └─ safe-regex-test@^1.1.0
 ├─ is-text-path@1.0.1
 │  └─ text-extensions@^1.0.0
 ├─ is-typed-array@1.1.13
@@ -22986,21 +22986,21 @@ yarn list v1.22.22
 │  ├─ is-number-object@^1.1.0
 │  ├─ is-string@^1.1.0
 │  └─ is-symbol@^1.1.0
-├─ which-builtin-type@1.2.0
-│  ├─ call-bind@^1.0.7
+├─ which-builtin-type@1.2.1
+│  ├─ call-bound@^1.0.2
 │  ├─ function.prototype.name@^1.1.6
 │  ├─ has-tostringtag@^1.0.2
 │  ├─ is-async-function@^2.0.0
-│  ├─ is-date-object@^1.0.5
+│  ├─ is-date-object@^1.1.0
 │  ├─ is-finalizationregistry@^1.1.0
 │  ├─ is-generator-function@^1.0.10
-│  ├─ is-regex@^1.1.4
+│  ├─ is-regex@^1.2.1
 │  ├─ is-weakref@^1.0.2
 │  ├─ isarray@^2.0.5
 │  ├─ isarray@2.0.5
-│  ├─ which-boxed-primitive@^1.0.2
+│  ├─ which-boxed-primitive@^1.1.0
 │  ├─ which-collection@^1.0.2
-│  └─ which-typed-array@^1.1.15
+│  └─ which-typed-array@^1.1.16
 ├─ which-collection@1.0.2
 │  ├─ is-map@^2.0.3
 │  ├─ is-set@^2.0.3
