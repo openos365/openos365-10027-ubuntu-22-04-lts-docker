@@ -15655,8 +15655,9 @@ yarn list v1.22.22
 │  ├─ call-bound@^1.0.2
 │  ├─ get-intrinsic@^1.2.6
 │  └─ is-typed-array@^1.1.13
-├─ is-date-object@1.0.5
-│  └─ has-tostringtag@^1.0.0
+├─ is-date-object@1.1.0
+│  ├─ call-bound@^1.0.2
+│  └─ has-tostringtag@^1.0.2
 ├─ is-decimal@1.0.4
 ├─ is-descriptor@1.0.3
 │  ├─ is-accessor-descriptor@^1.0.1
