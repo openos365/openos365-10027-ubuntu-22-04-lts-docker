@@ -11423,7 +11423,7 @@ yarn list v1.22.22
 │  ├─ fs-capacitor@^8.0.0
 │  ├─ fs-capacitor@8.0.0
 │  ├─ graphql@0.13.1 - 16
-│  └─ graphql@16.9.0
+│  └─ graphql@16.10.0
 ├─ @types/hast@2.3.10
 │  └─ @types/unist@^2
 ├─ @types/hoist-non-react-statics@3.3.6
