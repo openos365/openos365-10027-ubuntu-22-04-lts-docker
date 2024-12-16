@@ -15731,8 +15731,8 @@ yarn list v1.22.22
 │  └─ protocols@2.0.1
 ├─ is-stream@1.1.0
 ├─ is-string-blank@1.0.1
-├─ is-string@1.1.0
-│  ├─ call-bind@^1.0.7
+├─ is-string@1.1.1
+│  ├─ call-bound@^1.0.3
 │  └─ has-tostringtag@^1.0.2
 ├─ is-svg-path@1.0.2
 ├─ is-symbol@1.1.1
