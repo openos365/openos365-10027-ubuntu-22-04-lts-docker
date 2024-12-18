@@ -18505,10 +18505,11 @@ yarn list v1.22.22
 ├─ object-treeify@1.1.33
 ├─ object-visit@1.0.1
 │  └─ isobject@^3.0.0
-├─ object.assign@4.1.6
+├─ object.assign@4.1.7
 │  ├─ call-bind@^1.0.8
 │  ├─ call-bound@^1.0.3
 │  ├─ define-properties@^1.2.1
+│  ├─ es-object-atoms@^1.0.0
 │  ├─ has-symbols@^1.1.0
 │  └─ object-keys@^1.1.1
 ├─ object.fromentries@2.0.8
@@ -19338,7 +19339,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.25.2
+├─ preact@10.25.3
 ├─ prelude-ls@1.1.2
 ├─ prepend-http@2.0.0
 ├─ prettier-plugin-svelte@1.4.2
