@@ -18505,10 +18505,11 @@ yarn list v1.22.22
 ├─ object-treeify@1.1.33
 ├─ object-visit@1.0.1
 │  └─ isobject@^3.0.0
-├─ object.assign@4.1.5
-│  ├─ call-bind@^1.0.5
+├─ object.assign@4.1.6
+│  ├─ call-bind@^1.0.8
+│  ├─ call-bound@^1.0.3
 │  ├─ define-properties@^1.2.1
-│  ├─ has-symbols@^1.0.3
+│  ├─ has-symbols@^1.1.0
 │  └─ object-keys@^1.1.1
 ├─ object.fromentries@2.0.8
 │  ├─ call-bind@^1.0.7
