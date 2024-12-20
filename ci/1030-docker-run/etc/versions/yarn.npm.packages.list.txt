@@ -11942,9 +11942,9 @@ yarn list v1.22.22
 ├─ arr-flatten@1.1.0
 ├─ arr-union@3.1.0
 ├─ array-bounds@1.0.1
-├─ array-buffer-byte-length@1.0.1
-│  ├─ call-bind@^1.0.5
-│  └─ is-array-buffer@^3.0.4
+├─ array-buffer-byte-length@1.0.2
+│  ├─ call-bound@^1.0.3
+│  └─ is-array-buffer@^3.0.5
 ├─ array-differ@3.0.0
 ├─ array-equal@1.0.2
 ├─ array-filter@0.0.1
