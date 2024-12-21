@@ -3089,7 +3089,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
-code-server/now 4.96.1 amd64 [installed,local]
+code-server/now 4.96.2 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -9408,7 +9408,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy-updates,jammy-security 1.0.0+ds-1ubuntu0.22.04.1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.63.2 amd64 [installed]
+gh/unknown,now 2.64.0 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
