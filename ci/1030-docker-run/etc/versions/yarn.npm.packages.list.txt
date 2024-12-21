@@ -406,7 +406,7 @@ yarn list v1.22.22
 │  ├─ signedsource@^1.0.0
 │  ├─ supports-color@7.2.0
 │  │  └─ has-flag@^4.0.0
-│  ├─ ua-parser-js@1.0.39
+│  ├─ ua-parser-js@1.0.40
 │  ├─ wrap-ansi@6.2.0
 │  │  ├─ ansi-styles@^4.0.0
 │  │  ├─ string-width@^4.1.0
@@ -20746,7 +20746,7 @@ yarn list v1.22.22
 │  │  ├─ setimmediate@^1.0.5
 │  │  └─ ua-parser-js@^1.0.35
 │  ├─ invariant@^2.2.4
-│  └─ ua-parser-js@1.0.39
+│  └─ ua-parser-js@1.0.40
 ├─ remote-redux-devtools@0.5.16
 │  ├─ jsan@^3.1.13
 │  ├─ querystring@^0.2.0
@@ -22554,7 +22554,7 @@ yarn list v1.22.22
 │  │  └─ yargs-parser@^21.1.1
 │  └─ zen-observable-ts@^1.0.0
 ├─ typescript@4.9.5
-├─ ua-parser-js@0.7.39
+├─ ua-parser-js@0.7.40
 ├─ uc.micro@1.0.6
 ├─ uglify-es@3.3.9
 │  ├─ commander@~2.13.0
