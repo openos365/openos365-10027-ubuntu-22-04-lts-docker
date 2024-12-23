@@ -14417,7 +14417,7 @@ yarn list v1.22.22
 ├─ fastest-stable-stringify@2.0.2
 ├─ fastest-validator@1.19.0
 ├─ fastparse@1.1.2
-├─ fastq@1.17.1
+├─ fastq@1.18.0
 │  └─ reusify@^1.0.4
 ├─ fastscan@1.0.6
 ├─ faye-websocket@0.11.1
