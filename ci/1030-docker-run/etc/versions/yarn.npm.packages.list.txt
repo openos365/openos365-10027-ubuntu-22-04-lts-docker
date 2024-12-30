@@ -18220,7 +18220,7 @@ yarn list v1.22.22
 ├─ osenv@0.1.5
 │  ├─ os-homedir@^1.0.0
 │  └─ os-tmpdir@^1.0.0
-├─ own-keys@1.0.0
+├─ own-keys@1.0.1
 │  ├─ get-intrinsic@^1.2.6
 │  ├─ object-keys@^1.1.1
 │  └─ safe-push-apply@^1.0.0
