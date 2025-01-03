@@ -21888,7 +21888,7 @@ yarn list v1.22.22
 │  └─ dup@^1.0.0
 ├─ typedarray-to-buffer@3.1.5
 │  └─ is-typedarray@^1.0.0
-├─ typedarray.prototype.slice@1.0.4
+├─ typedarray.prototype.slice@1.0.5
 │  ├─ call-bind@^1.0.8
 │  ├─ define-properties@^1.2.1
 │  ├─ es-abstract@^1.23.9
