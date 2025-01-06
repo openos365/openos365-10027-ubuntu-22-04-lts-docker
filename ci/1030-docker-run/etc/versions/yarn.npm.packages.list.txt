@@ -14049,7 +14049,7 @@ yarn list v1.22.22
 ├─ fast-json-stable-stringify@2.1.0
 ├─ fast-levenshtein@2.0.6
 ├─ fast-safe-stringify@2.1.1
-├─ fast-uri@3.0.3
+├─ fast-uri@3.0.4
 ├─ fastest-validator@1.19.0
 ├─ fastparse@1.1.2
 ├─ fastq@1.18.0
