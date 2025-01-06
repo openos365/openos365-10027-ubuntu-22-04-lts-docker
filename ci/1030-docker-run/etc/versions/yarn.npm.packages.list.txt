@@ -11137,7 +11137,7 @@ yarn list v1.22.22
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
 ├─ @types/react-transition-group@4.4.12
-├─ @types/react@19.0.2
+├─ @types/react@19.0.3
 │  └─ csstype@^3.0.2
 ├─ @types/requirejs@2.1.37
 ├─ @types/responselike@1.0.3
@@ -13403,7 +13403,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.55.9
+├─ docxtemplater@3.56.0
 │  └─ @xmldom/xmldom@^0.9.6
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
@@ -14049,7 +14049,7 @@ yarn list v1.22.22
 ├─ fast-json-stable-stringify@2.1.0
 ├─ fast-levenshtein@2.0.6
 ├─ fast-safe-stringify@2.1.1
-├─ fast-uri@3.0.4
+├─ fast-uri@3.0.5
 ├─ fastest-validator@1.19.0
 ├─ fastparse@1.1.2
 ├─ fastq@1.18.0
