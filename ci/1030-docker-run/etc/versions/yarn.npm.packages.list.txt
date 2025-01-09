@@ -12156,7 +12156,6 @@ yarn list v1.22.22
 │  └─ pako@0.2.9
 ├─ browserslist@4.24.4
 │  ├─ caniuse-lite@^1.0.30001688
-│  ├─ caniuse-lite@1.0.30001690
 │  ├─ electron-to-chromium@^1.5.73
 │  ├─ node-releases@^2.0.19
 │  └─ update-browserslist-db@^1.1.1
@@ -17525,7 +17524,6 @@ yarn list v1.22.22
 │  ├─ @next/swc-win32-x64-msvc@12.3.4
 │  ├─ @swc/helpers@0.4.11
 │  ├─ caniuse-lite@^1.0.30001406
-│  ├─ caniuse-lite@1.0.30001690
 │  ├─ nanoid@3.3.8
 │  ├─ postcss@8.4.14
 │  ├─ postcss@8.4.14
