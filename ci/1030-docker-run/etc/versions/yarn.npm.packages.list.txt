@@ -16394,7 +16394,7 @@ yarn list v1.22.22
 ├─ loglevel@1.9.2
 ├─ lolex@2.3.1
 ├─ long-timeout@0.1.1
-├─ long@5.2.3
+├─ long@5.2.4
 ├─ longest@1.0.1
 ├─ loose-envify@1.4.0
 │  └─ js-tokens@^3.0.0 || ^4.0.0
