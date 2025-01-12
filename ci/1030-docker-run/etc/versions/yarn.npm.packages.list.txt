@@ -11106,7 +11106,7 @@ yarn list v1.22.22
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
 ├─ @types/react-transition-group@4.4.12
-├─ @types/react@19.0.4
+├─ @types/react@19.0.5
 │  └─ csstype@^3.0.2
 ├─ @types/requirejs@2.1.37
 ├─ @types/responselike@1.0.3
