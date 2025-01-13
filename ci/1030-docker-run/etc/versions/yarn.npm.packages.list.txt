@@ -11106,7 +11106,7 @@ yarn list v1.22.22
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
 ├─ @types/react-transition-group@4.4.12
-├─ @types/react@19.0.5
+├─ @types/react@19.0.6
 │  └─ csstype@^3.0.2
 ├─ @types/requirejs@2.1.37
 ├─ @types/responselike@1.0.3
@@ -20281,7 +20281,7 @@ yarn list v1.22.22
 │  ├─ is-core-module@^2.16.0
 │  ├─ path-parse@^1.0.7
 │  └─ supports-preserve-symlinks-flag@^1.0.0
-├─ response-iterator@0.2.11
+├─ response-iterator@0.2.13
 ├─ responselike@2.0.1
 │  └─ lowercase-keys@^2.0.0
 ├─ restore-cursor@2.0.0
