@@ -20281,7 +20281,7 @@ yarn list v1.22.22
 │  ├─ is-core-module@^2.16.0
 │  ├─ path-parse@^1.0.7
 │  └─ supports-preserve-symlinks-flag@^1.0.0
-├─ response-iterator@0.2.14
+├─ response-iterator@0.2.15
 ├─ responselike@2.0.1
 │  └─ lowercase-keys@^2.0.0
 ├─ restore-cursor@2.0.0
@@ -20884,7 +20884,7 @@ yarn list v1.22.22
 ├─ spdx-expression-parse@3.0.1
 │  ├─ spdx-exceptions@^2.1.0
 │  └─ spdx-license-ids@^3.0.0
-├─ spdx-license-ids@3.0.20
+├─ spdx-license-ids@3.0.21
 ├─ spdy-transport@3.0.0
 │  ├─ debug@^4.1.0
 │  ├─ debug@4.4.0
