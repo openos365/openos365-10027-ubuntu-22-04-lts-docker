@@ -13338,7 +13338,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.57.2
+├─ docxtemplater@3.57.3
 │  └─ @xmldom/xmldom@^0.9.6
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
@@ -19324,7 +19324,7 @@ yarn list v1.22.22
 │  ├─ @babel/runtime@^7.18.3
 │  ├─ react-is@^18.2.0
 │  └─ react-is@18.3.1
-├─ rc-virtual-list@3.17.0
+├─ rc-virtual-list@3.17.1
 │  ├─ @babel/runtime@^7.20.0
 │  ├─ classnames@^2.2.6
 │  ├─ rc-resize-observer@^1.0.0
