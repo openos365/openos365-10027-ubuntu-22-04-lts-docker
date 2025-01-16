@@ -83705,7 +83705,7 @@ rst2pdf/jammy 0.98-2 all
 rstat-client/jammy 4.0.1-11 amd64
 rstatd/jammy 4.0.1-11 amd64
 rstcheck/jammy 3.3.1-6 all
-rsync/jammy-updates,jammy-security,now 3.2.7-0ubuntu0.22.04.3 amd64 [installed]
+rsync/jammy-security,now 3.2.7-0ubuntu0.22.04.4 amd64 [installed]
 rsyncrypto/jammy 1.14-1.2build1 amd64
 rsyslog-czmq/jammy-updates,jammy-security 8.2112.0-2ubuntu2.2 amd64
 rsyslog-doc/jammy 8.2202.0+dfsg-1 all
