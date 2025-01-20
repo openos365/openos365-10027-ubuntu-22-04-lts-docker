@@ -11195,7 +11195,7 @@ yarn list v1.22.22
 │  └─ tslib@^2.3.0
 ├─ @wry/trie@0.5.0
 │  └─ tslib@^2.3.0
-├─ @xmldom/xmldom@0.9.6
+├─ @xmldom/xmldom@0.9.7
 ├─ @xtuc/ieee754@1.2.0
 ├─ @xtuc/long@4.2.2
 ├─ 3d-view@2.0.1
@@ -13306,7 +13306,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.58.0
+├─ docxtemplater@3.58.1
 │  └─ @xmldom/xmldom@^0.9.6
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
@@ -17061,7 +17061,7 @@ yarn list v1.22.22
 ├─ mimic-fn@2.1.0
 ├─ mimic-response@1.0.1
 ├─ min-indent@1.0.1
-├─ mingo@6.5.1
+├─ mingo@6.5.2
 ├─ mini-css-extract-plugin@0.5.0
 │  ├─ loader-utils@^1.1.0
 │  ├─ schema-utils@^1.0.0
