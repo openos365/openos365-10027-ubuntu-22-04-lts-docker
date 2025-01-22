@@ -12579,7 +12579,7 @@ yarn list v1.22.22
 ├─ color-rgba@2.4.0
 │  ├─ color-parse@^1.4.2
 │  └─ color-space@^2.0.0
-├─ color-space@2.0.1
+├─ color-space@2.1.0
 ├─ color-string@1.9.1
 │  ├─ color-name@^1.0.0
 │  └─ simple-swizzle@^0.2.2
