@@ -88848,7 +88848,7 @@ ubuntustudio-live/jammy 1.4 all
 ubuntustudio-look/jammy 22.04.9 all
 ubuntustudio-lowlatency-settings/jammy-updates 22.04.26.3 all
 ubuntustudio-menu-add/jammy 0.2 all
-ubuntustudio-menu/jammy-updates 0.55.1 all
+ubuntustudio-menu/jammy-updates 0.55.2 all
 ubuntustudio-performance-tweaks/jammy-updates 22.04.26.3 all
 ubuntustudio-photography/jammy-updates 0.266.3 amd64
 ubuntustudio-publishing/jammy-updates 0.266.3 amd64
