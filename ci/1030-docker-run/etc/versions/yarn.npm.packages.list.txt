@@ -11080,7 +11080,7 @@ yarn list v1.22.22
 │  ├─ decamelize@^1.1.0
 │  └─ map-obj@^1.0.0
 ├─ decamelize@1.2.0
-├─ decimal.js@10.4.3
+├─ decimal.js@10.5.0
 ├─ decode-uri-component@0.2.2
 ├─ decompress-response@6.0.0
 │  └─ mimic-response@^3.1.0
