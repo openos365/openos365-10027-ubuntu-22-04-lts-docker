@@ -17961,7 +17961,7 @@ yarn list v1.22.22
 │  ├─ is-core-module@^2.16.0
 │  ├─ path-parse@^1.0.7
 │  └─ supports-preserve-symlinks-flag@^1.0.0
-├─ response-iterator@0.2.17
+├─ response-iterator@0.2.19
 │  └─ readable-stream@^2.3.8
 ├─ responselike@2.0.1
 │  └─ lowercase-keys@^2.0.0
