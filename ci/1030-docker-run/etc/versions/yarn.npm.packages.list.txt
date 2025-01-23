@@ -16616,6 +16616,8 @@ yarn list v1.22.22
 │  ├─ @protobufjs/pool@^1.1.0
 │  ├─ @protobufjs/utf8@^1.1.0
 │  ├─ @types/node@>=13.7.0
+│  ├─ @types/node@22.10.10
+│  │  └─ undici-types@~6.20.0
 │  └─ long@^5.0.0
 ├─ protocol-buffers-schema@3.6.0
 ├─ protocols@1.4.8
