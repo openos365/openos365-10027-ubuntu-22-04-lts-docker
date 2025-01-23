@@ -90594,8 +90594,8 @@ xfpt/jammy-updates,jammy-security 0.11-1ubuntu0.1 amd64
 xfractint/jammy 20.4.10-2.1 amd64
 xfrisk/jammy 1.2-8 amd64
 xfsdump/jammy 3.1.9+0+nmu2 amd64
-xfslibs-dev/jammy 5.13.0-1ubuntu2 amd64
-xfsprogs/jammy 5.13.0-1ubuntu2 amd64
+xfslibs-dev/jammy-updates 5.13.0-1ubuntu2.1 amd64
+xfsprogs/jammy-updates 5.13.0-1ubuntu2.1 amd64
 xfwm4-theme-breeze/jammy 0.1.0-4 all
 xfwm4/jammy 4.16.1-1 amd64
 xgalaga++/jammy 0.9-2build1 amd64
