@@ -34544,8 +34544,8 @@ libpam-ccreds/jammy 10-8ubuntu1 amd64
 libpam-cgfs/jammy-updates 1:5.0.0~git2209-g5a7b9ce67-0ubuntu1.1 amd64
 libpam-cgroup/jammy 2.0-2 amd64
 libpam-chroot/jammy 0.9-5 amd64
-libpam-cracklib/jammy-updates,jammy-security 1.4.0-11ubuntu2.4 amd64
-libpam-doc/jammy-updates,jammy-security 1.4.0-11ubuntu2.4 all
+libpam-cracklib/jammy-updates 1.4.0-11ubuntu2.5 amd64
+libpam-doc/jammy-updates 1.4.0-11ubuntu2.5 all
 libpam-duo/jammy 1.11.3-1build1 amd64
 libpam-encfs/jammy 0.1.4.4-14 amd64
 libpam-fprintd/jammy-updates 1.94.2-1ubuntu0.22.04.1 amd64
@@ -34566,8 +34566,8 @@ libpam-ldap/jammy 186-4ubuntu2 amd64
 libpam-ldapd/jammy 0.9.12-2 amd64
 libpam-malcontent/jammy 0.10.4-1 amd64
 libpam-mklocaluser/jammy 0.18 all
-libpam-modules-bin/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.4 amd64 [installed]
-libpam-modules/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.4 amd64 [installed]
+libpam-modules-bin/jammy-updates 1.4.0-11ubuntu2.5 amd64 [upgradable from: 1.4.0-11ubuntu2.4]
+libpam-modules/jammy-updates 1.4.0-11ubuntu2.5 amd64 [upgradable from: 1.4.0-11ubuntu2.4]
 libpam-mount-bin/jammy 2.18-2build2 amd64
 libpam-mount/jammy 2.18-2build2 amd64
 libpam-mysql/jammy 0.8.1-5build1 amd64
@@ -34586,7 +34586,7 @@ libpam-pwquality/jammy 1.4.4-1build2 amd64
 libpam-python-doc/jammy 1.0.9-2 all
 libpam-python/jammy 1.0.9-2 amd64
 libpam-radius-auth/jammy 2.0.0-1 amd64
-libpam-runtime/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.4 all [installed]
+libpam-runtime/jammy-updates 1.4.0-11ubuntu2.5 all [upgradable from: 1.4.0-11ubuntu2.4]
 libpam-script/jammy 1.1.9-5 amd64
 libpam-shield/jammy 0.9.6-1.3build2 amd64
 libpam-shishi/jammy 1.0.2-11 amd64
@@ -34607,8 +34607,8 @@ libpam-x2go-dev/jammy 0.0.2.0-3 amd64
 libpam-x2go/jammy 0.0.2.0-3 amd64
 libpam-yubico/jammy 2.26-1.1build1 amd64
 libpam-zfs/jammy-updates,jammy-security 2.1.5-1ubuntu6~22.04.4 amd64
-libpam0g-dev/jammy-updates,jammy-security 1.4.0-11ubuntu2.4 amd64
-libpam0g/jammy-updates,jammy-security,now 1.4.0-11ubuntu2.4 amd64 [installed]
+libpam0g-dev/jammy-updates 1.4.0-11ubuntu2.5 amd64
+libpam0g/jammy-updates 1.4.0-11ubuntu2.5 amd64 [upgradable from: 1.4.0-11ubuntu2.4]
 libpamtest0-dev/jammy 1.1.4-1build1 amd64
 libpamtest0/jammy 1.1.4-1build1 amd64
 libpandoc-elements-perl/jammy 0.38-3 all
