@@ -221,7 +221,7 @@ libgssapi-krb5-2/jammy-updates,jammy-security,now 1.19.2-2ubuntu0.4 amd64 [insta
 libgtest-dev/jammy,now 1.11.0-3 amd64 [installed]
 libguava-java/jammy,now 29.0-6 all [installed,automatic]
 libguice-java/jammy,now 4.2.3-2 all [installed,automatic]
-libharfbuzz0b/jammy-updates,jammy-security,now 2.7.4-1ubuntu3.1 amd64 [installed,automatic]
+libharfbuzz0b/jammy-updates,jammy-security,now 2.7.4-1ubuntu3.2 amd64 [installed,automatic]
 libhawtjni-runtime-java/jammy,now 1.17-1 all [installed,automatic]
 libhogweed6/jammy,now 3.7.3-1build2 amd64 [installed]
 libice-dev/jammy,now 2:1.0.10-1build2 amd64 [installed,automatic]
