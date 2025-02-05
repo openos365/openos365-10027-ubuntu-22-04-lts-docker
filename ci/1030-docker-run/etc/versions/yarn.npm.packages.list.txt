@@ -15164,8 +15164,8 @@ yarn list v1.22.22
 │  └─ has-bigints@^1.0.2
 ├─ is-binary-path@2.1.0
 │  └─ binary-extensions@^2.0.0
-├─ is-boolean-object@1.2.1
-│  ├─ call-bound@^1.0.2
+├─ is-boolean-object@1.2.2
+│  ├─ call-bound@^1.0.3
 │  └─ has-tostringtag@^1.0.2
 ├─ is-browser@2.1.0
 ├─ is-buffer@1.1.6
@@ -17988,7 +17988,7 @@ yarn list v1.22.22
 │  ├─ define-property@^0.2.5
 │  └─ kind-of@^3.0.3
 ├─ object-hash@2.2.0
-├─ object-inspect@1.13.3
+├─ object-inspect@1.13.4
 ├─ object-is@1.1.6
 │  ├─ call-bind@^1.0.7
 │  └─ define-properties@^1.2.1
@@ -19655,6 +19655,7 @@ yarn list v1.22.22
 │  ├─ dotenv-expand@4.2.0
 │  ├─ dotenv@6.2.0
 │  ├─ dotenv@6.2.0
+│  ├─ electron-to-chromium@1.5.92
 │  ├─ eslint-config-react-app@^4.0.1
 │  ├─ eslint-loader@2.1.2
 │  ├─ eslint-plugin-flowtype@2.50.1
