@@ -7258,7 +7258,7 @@ yarn list v1.22.22
 ├─ font-awesome@4.7.0
 ├─ font-measure@1.2.2
 │  └─ css-font@^1.2.0
-├─ for-each@0.3.4
+├─ for-each@0.3.5
 │  └─ is-callable@^1.2.7
 ├─ for-in@1.0.2
 ├─ for-own@1.0.0
