@@ -9677,8 +9677,8 @@ gir1.2-libxfce4util-1.0/jammy 4.16.0-1 amd64
 gir1.2-lightdm-1/jammy 1.30.0-0ubuntu5 amd64
 gir1.2-lokdocview-0.1/jammy-updates,jammy-security 1:7.3.7-0ubuntu0.22.04.8 amd64
 gir1.2-lunardate-3.0/jammy 3.0.1-2 amd64
-gir1.2-malcontent-0/jammy 0.10.4-1 amd64
-gir1.2-malcontentui-0/jammy 0.10.4-1 amd64
+gir1.2-malcontent-0/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
+gir1.2-malcontentui-0/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
 gir1.2-manette-0.2/jammy 0.2.6-3build1 amd64
 gir1.2-matedesktop-2.0/jammy 1.26.0-1 amd64
 gir1.2-matekbd-1.0/jammy 1.26.0-1 amd64
@@ -31124,10 +31124,10 @@ libmakefile-dom-perl/jammy 0.008-2 all
 libmalaga-dev/jammy 7.12-7.1 amd64
 libmalaga7/jammy 7.12-7.1 amd64
 libmalai-java/jammy 2.0+ds1-2 all
-libmalcontent-0-0/jammy 0.10.4-1 amd64
-libmalcontent-0-dev/jammy 0.10.4-1 amd64
-libmalcontent-ui-0-0/jammy 0.10.4-1 amd64
-libmalcontent-ui-0-dev/jammy 0.10.4-1 amd64
+libmalcontent-0-0/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
+libmalcontent-0-dev/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
+libmalcontent-ui-0-0/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
+libmalcontent-ui-0-dev/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
 libmaloc-dev/jammy 1.5-1 amd64
 libmaloc1/jammy 1.5-1 amd64
 libmanette-0.2-0/jammy 0.2.6-3build1 amd64
@@ -34564,7 +34564,7 @@ libpam-kwallet-common/jammy 4:5.24.4-0ubuntu1 all
 libpam-kwallet5/jammy 4:5.24.4-0ubuntu1 amd64
 libpam-ldap/jammy 186-4ubuntu2 amd64
 libpam-ldapd/jammy 0.9.12-2 amd64
-libpam-malcontent/jammy 0.10.4-1 amd64
+libpam-malcontent/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
 libpam-mklocaluser/jammy 0.18 all
 libpam-modules-bin/jammy-updates,now 1.4.0-11ubuntu2.5 amd64 [installed]
 libpam-modules/jammy-updates,now 1.4.0-11ubuntu2.5 amd64 [installed]
@@ -69568,8 +69568,8 @@ mako-notifier/jammy 1.6-2 amd64
 malaga-bin/jammy 7.12-7.1 amd64
 malaga-doc/jammy 7.12-7.1 all
 malaga-mode/jammy 7.12-7.1 all
-malcontent-gui/jammy 0.10.4-1 amd64
-malcontent/jammy 0.10.4-1 all
+malcontent-gui/jammy-updates 0.10.4-1ubuntu0.22.04 amd64
+malcontent/jammy-updates 0.10.4-1ubuntu0.22.04 all
 mallard-rng/jammy 1.1.0-1 all
 malt/jammy 0.5.2-2 all
 mame-data/jammy 0.242+dfsg.1-1 all
@@ -73802,6 +73802,7 @@ oem-somerville-magmar-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-marill-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-muk-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-qwilfish-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-rattata-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-tentacool-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-tentacool-rpl-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-torchic-meta/jammy-updates 22.04~ubuntu1 all
@@ -73835,10 +73836,13 @@ oem-sutton-akando-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-balesego-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-balin-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-balint-meta/jammy-updates 22.04~ubuntu1 all
+oem-sutton-balto-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-balwina-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-bambina-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-banagher-meta/jammy-updates 22.04~ubuntu1 all
+oem-sutton-banner-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-barossa-meta/jammy-updates 22.04~ubuntu1 all
+oem-sutton-barrera-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-barrett-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-barrington-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-barry-meta/jammy-updates 22.04~ubuntu1 all
