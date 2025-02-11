@@ -3624,13 +3624,13 @@ yarn list v1.22.22
 │  ├─ node-xlsx@^0.16.1
 │  ├─ notepack.io@^3.0.1
 │  ├─ pg-connection-string@2.7.0
-│  ├─ pg-pool@3.7.0
+│  ├─ pg-pool@3.7.1
 │  ├─ pg@^8.10.0
-│  ├─ pg@8.13.1
+│  ├─ pg@8.13.2
 │  │  ├─ pg-cloudflare@^1.1.1
 │  │  ├─ pg-connection-string@^2.7.0
-│  │  ├─ pg-pool@^3.7.0
-│  │  ├─ pg-protocol@^1.7.0
+│  │  ├─ pg-pool@^3.7.1
+│  │  ├─ pg-protocol@^1.7.1
 │  │  ├─ pg-types@^2.1.0
 │  │  └─ pgpass@1.x
 │  ├─ promise-queue@^2.2.5
@@ -10681,7 +10681,7 @@ yarn list v1.22.22
 ├─ pg-int8@1.0.1
 ├─ pg-packet-stream@1.1.0
 ├─ pg-pool@2.0.10
-├─ pg-protocol@1.7.0
+├─ pg-protocol@1.7.1
 ├─ pg-types@2.2.0
 │  ├─ pg-int8@1.0.1
 │  ├─ postgres-array@~2.0.0
