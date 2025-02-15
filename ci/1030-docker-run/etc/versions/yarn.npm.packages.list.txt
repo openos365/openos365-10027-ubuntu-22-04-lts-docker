@@ -9829,7 +9829,7 @@ yarn list v1.22.22
 ├─ mime@2.6.0
 ├─ mimic-fn@2.1.0
 ├─ mimic-response@1.0.1
-├─ mingo@6.5.2
+├─ mingo@6.5.3
 ├─ mini-css-extract-plugin@0.5.0
 │  ├─ loader-utils@^1.1.0
 │  ├─ schema-utils@^1.0.0
