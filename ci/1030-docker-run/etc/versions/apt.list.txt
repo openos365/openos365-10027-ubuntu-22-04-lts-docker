@@ -33013,7 +33013,7 @@ libnetplan0/jammy-updates,jammy-security 0.106.1-7ubuntu0.22.04.4 amd64
 libnetsds-kannel-perl/jammy 1.300-7 all
 libnetsds-perl/jammy 1.301-4 all
 libnetsds-util-perl/jammy 1.045-1 all
-libnetsnmptrapd40/jammy-updates 5.9.1+dfsg-1ubuntu2.6 amd64
+libnetsnmptrapd40/jammy-updates 5.9.1+dfsg-1ubuntu2.7 amd64
 libnetsvcs-7.0.6/jammy 7.0.6+dfsg-2 amd64
 libnetsvcs-dev/jammy 7.0.6+dfsg-2 amd64
 libnettle8/jammy,now 3.7.3-1build2 amd64 [installed]
@@ -39162,15 +39162,15 @@ libsndobj-dev/jammy 2.6.7+ds1-3 amd64
 libsndobj2v5/jammy 2.6.7+ds1-3 amd64
 libsnl-dev/jammy 0.2.1.svn.18-1.1build1 amd64
 libsnl0/jammy 0.2.1.svn.18-1.1build1 amd64
-libsnmp-base/jammy-updates 5.9.1+dfsg-1ubuntu2.6 all
-libsnmp-dev/jammy-updates 5.9.1+dfsg-1ubuntu2.6 amd64
+libsnmp-base/jammy-updates 5.9.1+dfsg-1ubuntu2.7 all
+libsnmp-dev/jammy-updates 5.9.1+dfsg-1ubuntu2.7 amd64
 libsnmp-extension-passpersist-perl/jammy 0.07-2.1 all
 libsnmp-info-perl/jammy 3.81-1 all
 libsnmp-mib-compiler-perl/jammy 0.06-3 all
 libsnmp-multi-perl/jammy 2.1-4.1 all
-libsnmp-perl/jammy-updates 5.9.1+dfsg-1ubuntu2.6 amd64
+libsnmp-perl/jammy-updates 5.9.1+dfsg-1ubuntu2.7 amd64
 libsnmp-session-perl/jammy 1.14~git20201002.0dedded-1 all
-libsnmp40/jammy-updates 5.9.1+dfsg-1ubuntu2.6 amd64
+libsnmp40/jammy-updates 5.9.1+dfsg-1ubuntu2.7 amd64
 libsnmpkit-dev/jammy 0.9-16ubuntu2 amd64
 libsnmpkit2v5/jammy 0.9-16ubuntu2 amd64
 libsnowball-norwegian-perl/jammy 1.2-2 all
@@ -86843,10 +86843,10 @@ sniffles/jammy 2.0.2-1 all
 snimpy/jammy 1.0.0-1 all
 sniproxy/jammy-updates,jammy-security 0.6.0-2ubuntu0.22.04.1 amd64
 snmp-mibs-downloader/jammy 1.5 all
-snmp/jammy-updates 5.9.1+dfsg-1ubuntu2.6 amd64
-snmpd/jammy-updates 5.9.1+dfsg-1ubuntu2.6 amd64
+snmp/jammy-updates 5.9.1+dfsg-1ubuntu2.7 amd64
+snmpd/jammy-updates 5.9.1+dfsg-1ubuntu2.7 amd64
 snmpsim/jammy 0.4.5-1 all
-snmptrapd/jammy-updates 5.9.1+dfsg-1ubuntu2.6 amd64
+snmptrapd/jammy-updates 5.9.1+dfsg-1ubuntu2.7 amd64
 snmptrapfmt/jammy 1.17 amd64
 snmptt/jammy 1.5~beta2-1 all
 snoopy/jammy 2.4.15-1 amd64
@@ -88734,7 +88734,7 @@ tkgate/jammy 2.1+repack-5 amd64
 tkinfo/jammy 2.11-3 all
 tkinspect/jammy 5.1.6p10-6.1 all
 tklib/jammy 0.7+20210111-1 all
-tkmib/jammy-updates 5.9.1+dfsg-1ubuntu2.6 all
+tkmib/jammy-updates 5.9.1+dfsg-1ubuntu2.7 all
 tkpng/jammy 0.9-3 amd64
 tkremind/jammy 03.04.01-1 all
 tkrzw-doc/jammy 1.0.23-1 all
