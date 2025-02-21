@@ -10020,7 +10020,7 @@ yarn list v1.22.22
 │  ├─ any-promise@^1.0.0
 │  ├─ object-assign@^4.0.1
 │  └─ thenify-all@^1.0.0
-├─ nan@2.22.0
+├─ nan@2.22.1
 ├─ nano-time@1.0.0
 │  └─ big-integer@^1.6.16
 ├─ nanoid@1.0.2
