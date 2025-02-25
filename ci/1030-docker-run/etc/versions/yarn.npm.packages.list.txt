@@ -12443,7 +12443,7 @@ yarn list v1.22.22
 │  └─ signal-exit@^3.0.2
 ├─ ret@0.1.15
 ├─ retry@0.13.1
-├─ reusify@1.0.4
+├─ reusify@1.1.0
 ├─ rgb-regex@1.0.1
 ├─ rgba-regex@1.0.0
 ├─ right-align@0.1.3
