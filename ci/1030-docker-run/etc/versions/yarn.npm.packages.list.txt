@@ -6557,7 +6557,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.105
+├─ electron-to-chromium@1.5.106
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
@@ -10017,7 +10017,7 @@ yarn list v1.22.22
 │  ├─ any-promise@^1.0.0
 │  ├─ object-assign@^4.0.1
 │  └─ thenify-all@^1.0.0
-├─ nan@2.22.1
+├─ nan@2.22.2
 ├─ nano-time@1.0.0
 │  └─ big-integer@^1.6.16
 ├─ nanoid@1.0.2
@@ -10771,7 +10771,7 @@ yarn list v1.22.22
 ├─ polytope-closest-point@1.0.0
 │  └─ numeric@^1.2.6
 ├─ pomelo-protobuf@0.4.0
-├─ portfinder@1.0.32
+├─ portfinder@1.0.33
 │  ├─ async@^2.6.4
 │  ├─ debug@^3.2.7
 │  ├─ debug@3.2.7
@@ -13808,7 +13808,7 @@ yarn list v1.22.22
 │  ├─ readable-stream@~2.3.6
 │  └─ setimmediate@~1.0.4
 ├─ upath@1.2.0
-├─ update-browserslist-db@1.1.2
+├─ update-browserslist-db@1.1.3
 │  ├─ escalade@^3.2.0
 │  └─ picocolors@^1.1.1
 ├─ update-diff@1.1.0
