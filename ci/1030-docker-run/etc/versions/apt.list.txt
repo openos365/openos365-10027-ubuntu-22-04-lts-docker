@@ -86071,7 +86071,7 @@ ruby-rushover/jammy 0.3.0-2 all
 ruby-safe-yaml/jammy 1.0.5-2 all
 ruby-safely-block/jammy 0.2.1-2 all
 ruby-safety-net-attestation/jammy 0.4.0-2 all
-ruby-saml/jammy-security 1.13.0-1ubuntu0.1 all
+ruby-saml/jammy-updates,jammy-security 1.13.0-1ubuntu0.1 all
 ruby-samuel/jammy 0.3.3-1.1 all
 ruby-sanitize/jammy-updates,jammy-security 6.0.0-1ubuntu0.1 all
 ruby-sasl/jammy 0.0.3.3-2.1 all
