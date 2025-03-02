@@ -246,7 +246,7 @@ npm install -g node-gyp
 npm install -g yarn
 
 . ~/.nvm/nvm.sh
-nvm use v18.18.0
+nvm use v16.20.2
 npm install -g node-gyp
 npm install -g yarn
 
