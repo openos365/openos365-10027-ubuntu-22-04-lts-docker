@@ -247,6 +247,7 @@ npm install -g yarn
 
 mkdir /etc/versions
 cd ~
+nvm use v18.18.0
 mkdir -p npm-packages
 cd npm-packages
 yarn init -y
@@ -263,6 +264,7 @@ cd ~
 git clone https://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
 
 cd ~
+nvm use v14.21.3
 rm -rf steedos-platform
 git clone --depth=1 -b 2.6 https://github.com/steedos/steedos-platform.git
 cd steedos-platform
