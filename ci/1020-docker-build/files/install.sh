@@ -245,6 +245,12 @@ nvm use v14.21.3
 npm install -g node-gyp
 npm install -g yarn
 
+. ~/.nvm/nvm.sh
+nvm use v18.18.0
+npm install -g node-gyp
+npm install -g yarn
+
+
 mkdir /etc/versions
 cd ~
 nvm use v18.18.0
