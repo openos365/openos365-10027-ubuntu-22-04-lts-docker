@@ -253,7 +253,9 @@ npm install -g yarn
 
 mkdir /etc/versions
 cd ~
-nvm use v18.18.0
+. ~/.nvm/nvm.sh
+nvm use v16.20.2
+
 mkdir -p npm-packages
 cd npm-packages
 yarn init -y
