@@ -246,7 +246,7 @@ npm install -g node-gyp
 npm install -g yarn
 
 . ~/.nvm/nvm.sh
-nvm use v16.20.2
+nvm use v20.8.0
 npm install -g node-gyp
 npm install -g yarn
 
@@ -254,7 +254,7 @@ npm install -g yarn
 mkdir /etc/versions
 cd ~
 . ~/.nvm/nvm.sh
-nvm use v16.20.2
+nvm use v20.8.0
 
 mkdir -p npm-packages
 cd npm-packages
