@@ -5068,7 +5068,7 @@ ea-utils/jammy 1.1.2+dfsg-9build1 amd64
 eag-healpix-java-doc/jammy 2017.09.06-2 all
 eag-healpix-java/jammy 2017.09.06-2 all
 eancheck/jammy 1.0-2build1 amd64
-eapoltest/jammy-updates,jammy-security 2:2.10-6ubuntu2.1 amd64
+eapoltest/jammy-security 2:2.10-6ubuntu2.2 amd64
 earlyoom/jammy 1.6.2-1 amd64
 easy-rsa/jammy 3.0.8-1ubuntu1 all
 easychem/jammy 0.6-9 amd64
@@ -13771,7 +13771,7 @@ horgand/jammy 1.14-7.1 amd64
 horizon-eda/jammy 2.2.0-1 amd64
 horizon-tempest-plugin/jammy 1.1.0-2 all
 horst/jammy 5.1-2.1 amd64
-hostapd/jammy-updates,jammy-security 2:2.10-6ubuntu2.1 amd64
+hostapd/jammy-security 2:2.10-6ubuntu2.2 amd64
 hostfiles/jammy 0.09-2 all
 hostname/jammy,now 3.23ubuntu2 amd64 [installed]
 hostsed/jammy 0.3.0-2 all
@@ -42164,7 +42164,7 @@ libwoodstox-java/jammy 1:6.2.1-1 all
 libwordnet-querydata-perl/jammy 1.49-1 all
 libworkflow-dev/jammy 0.9.10-1 amd64
 libworkflow1/jammy 0.9.10-1 amd64
-libwpa-client-dev/jammy-updates,jammy-security 2:2.10-6ubuntu2.1 amd64
+libwpa-client-dev/jammy-security 2:2.10-6ubuntu2.2 amd64
 libwpd-0.10-10/jammy 0.10.3-2build1 amd64
 libwpd-dev/jammy 0.10.3-2build1 amd64
 libwpd-doc/jammy 0.10.3-2build1 all
@@ -91305,9 +91305,9 @@ workrave/jammy 1.10.50-1 amd64
 wp2latex-styles/jammy 3.104+ds-1 all
 wp2latex/jammy 3.104+ds-1 amd64
 wp2x/jammy 2.5-mhi-13 amd64
-wpagui/jammy-updates,jammy-security 2:2.10-6ubuntu2.1 amd64
+wpagui/jammy-security 2:2.10-6ubuntu2.2 amd64
 wpan-tools/jammy 0.9-1 amd64
-wpasupplicant/jammy-updates,jammy-security 2:2.10-6ubuntu2.1 amd64
+wpasupplicant/jammy-security 2:2.10-6ubuntu2.2 amd64
 wpd2epub/jammy 0.9.6-3 amd64
 wpd2odt/jammy 0.9.6-3 amd64
 wpewebkit-driver/jammy 2.36.0-2ubuntu3 amd64
