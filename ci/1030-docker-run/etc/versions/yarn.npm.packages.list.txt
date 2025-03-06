@@ -2948,7 +2948,7 @@ yarn list v1.22.22
 │  ├─ ini@^2.0.0
 │  ├─ ini@2.0.0
 │  ├─ ioredis@^5.3.2
-│  ├─ ioredis@5.5.0
+│  ├─ ioredis@5.6.0
 │  │  ├─ @ioredis/commands@^1.1.1
 │  │  ├─ cluster-key-slot@^1.1.0
 │  │  ├─ debug@^4.3.4
@@ -7111,7 +7111,8 @@ yarn list v1.22.22
 │  └─ loose-envify@^1.0.0
 ├─ invert-kv@1.0.0
 ├─ invert-permutation@1.0.0
-├─ ioredis@4.28.5
+├─ ioredis@4.29.1
+│  ├─ @ioredis/commands@^1.0.2
 │  ├─ cluster-key-slot@^1.1.0
 │  ├─ debug@^4.3.1
 │  ├─ debug@4.4.0
@@ -7121,7 +7122,6 @@ yarn list v1.22.22
 │  ├─ lodash.flatten@^4.4.0
 │  ├─ lodash.isarguments@^3.1.0
 │  ├─ p-map@^2.1.0
-│  ├─ redis-commands@1.7.0
 │  ├─ redis-errors@^1.2.0
 │  ├─ redis-parser@^3.0.0
 │  └─ standard-as-callback@^2.1.0
@@ -9926,7 +9926,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.227.0
+├─ posthog-js@1.227.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.41.0
 │  ├─ fflate@^0.4.8
@@ -10984,7 +10984,6 @@ yarn list v1.22.22
 ├─ redeyed@0.4.4
 │  ├─ esprima@~1.0.4
 │  └─ esprima@1.0.4
-├─ redis-commands@1.7.0
 ├─ redis-errors@1.2.0
 ├─ redis-parser@3.0.0
 │  └─ redis-errors@^1.0.0
