@@ -20118,7 +20118,7 @@ libcryptokit-ocaml/jammy 1.16.1-1build3 amd64
 libcryptominisat5-5.8/jammy 5.8.0+dfsg1-2 amd64
 libcryptominisat5-dev/jammy 5.8.0+dfsg1-2 amd64
 libcryptsetup-dev/jammy-updates 2:2.4.3-1ubuntu1.3 amd64
-libcryptsetup12/jammy-updates 2:2.4.3-1ubuntu1.3 amd64 [upgradable from: 2:2.4.3-1ubuntu1.2]
+libcryptsetup12/jammy-updates,now 2:2.4.3-1ubuntu1.3 amd64 [installed,automatic]
 libcryptui-dev/jammy 3.12.2-6 amd64
 libcryptui-doc/jammy 3.12.2-6 all
 libcryptui0a/jammy 3.12.2-6 amd64

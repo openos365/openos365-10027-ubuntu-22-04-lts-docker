@@ -3631,11 +3631,11 @@ cryptmount/jammy 5.3.3-1 amd64
 crypto-policies/jammy 20190816git-1 all
 cryptol/jammy 2.8.0-1build5.1 amd64
 cryptominisat/jammy 5.8.0+dfsg1-2 amd64
-cryptsetup-bin/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
-cryptsetup-initramfs/jammy-updates 2:2.4.3-1ubuntu1.2 all
-cryptsetup-run/jammy-updates 2:2.4.3-1ubuntu1.2 all
-cryptsetup-suspend/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
-cryptsetup/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
+cryptsetup-bin/jammy-updates 2:2.4.3-1ubuntu1.3 amd64
+cryptsetup-initramfs/jammy-updates 2:2.4.3-1ubuntu1.3 all
+cryptsetup-run/jammy-updates 2:2.4.3-1ubuntu1.3 all
+cryptsetup-suspend/jammy-updates 2:2.4.3-1ubuntu1.3 amd64
+cryptsetup/jammy-updates 2:2.4.3-1ubuntu1.3 amd64
 crystal-facet-uml/jammy 1.34.1-1 amd64
 crystalcursors/jammy 1.1.1-14.1 all
 cs/jammy 2.7.1-1 all
@@ -20118,8 +20118,8 @@ libcryptokit-ocaml-dev/jammy 1.16.1-1build3 amd64
 libcryptokit-ocaml/jammy 1.16.1-1build3 amd64
 libcryptominisat5-5.8/jammy 5.8.0+dfsg1-2 amd64
 libcryptominisat5-dev/jammy 5.8.0+dfsg1-2 amd64
-libcryptsetup-dev/jammy-updates 2:2.4.3-1ubuntu1.2 amd64
-libcryptsetup12/jammy-updates,now 2:2.4.3-1ubuntu1.2 amd64 [installed,automatic]
+libcryptsetup-dev/jammy-updates 2:2.4.3-1ubuntu1.3 amd64
+libcryptsetup12/jammy-updates,now 2:2.4.3-1ubuntu1.3 amd64 [installed,automatic]
 libcryptui-dev/jammy 3.12.2-6 amd64
 libcryptui-doc/jammy 3.12.2-6 all
 libcryptui0a/jammy 3.12.2-6 amd64
@@ -78325,7 +78325,7 @@ python-django-csp-doc/jammy 3.7-2 all
 python-django-debreach-doc/jammy 2.0.1-2 all
 python-django-debug-toolbar-doc/jammy 1:3.2.2-1 all
 python-django-dirtyfields-doc/jammy 1.3.1-2 all
-python-django-doc/jammy-security 2:3.2.12-2ubuntu1.17 all
+python-django-doc/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.17 all
 python-django-etcd-settings-doc/jammy 0.1.13+dfsg-3 all
 python-django-extensions-doc/jammy 3.1.5-2 all
 python-django-extra-views-doc/jammy 0.14.0-1 all
@@ -79879,7 +79879,7 @@ python3-django-webpack-loader/jammy 0.6.0-2 all
 python3-django-widget-tweaks/jammy 1.4.8-1 all
 python3-django-wkhtmltopdf/jammy 3.3.0-1 all
 python3-django-xmlrpc/jammy 0.1.8-2 all
-python3-django/jammy-security 2:3.2.12-2ubuntu1.17 all
+python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.17 all
 python3-djangorestframework-api-key/jammy 2.0.0-2 all
 python3-djangorestframework-extensions/jammy 0.7.1-1 all
 python3-djangorestframework-filters/jammy 1.0.0.dev2-1 all
