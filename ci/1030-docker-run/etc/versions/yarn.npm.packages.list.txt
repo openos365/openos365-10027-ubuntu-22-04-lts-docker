@@ -1837,7 +1837,7 @@ yarn list v1.22.22
 │  ├─ lodash.reject@^4.6.0
 │  ├─ memoize-one@^6.0.0
 │  ├─ nanoid@^5.0.9
-│  ├─ nanoid@5.1.2
+│  ├─ nanoid@5.1.3
 │  ├─ popper.js@^1.10.8
 │  ├─ prop-types@>=15.7.2
 │  ├─ react-contenteditable@^3.3.5
@@ -2791,7 +2791,7 @@ yarn list v1.22.22
 │  │  └─ mime-types@^2.1.12
 │  ├─ jsonwebtoken@^8.5.1
 │  ├─ lodash@^4.17.21
-│  ├─ nanoid@3.3.8
+│  ├─ nanoid@3.3.9
 │  ├─ next-auth@4.22.0
 │  ├─ next-use-posthog@^1.16.0
 │  ├─ next@12.2.5
@@ -3230,7 +3230,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.49
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.8.1
+│  ├─ axios@1.8.2
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.0
 │  │  └─ proxy-from-env@^1.1.0
@@ -8999,7 +8999,7 @@ yarn list v1.22.22
 │  ├─ @next/swc-win32-x64-msvc@12.3.4
 │  ├─ @swc/helpers@0.4.11
 │  ├─ caniuse-lite@^1.0.30001406
-│  ├─ nanoid@3.3.8
+│  ├─ nanoid@3.3.9
 │  ├─ postcss@8.4.14
 │  ├─ postcss@8.4.14
 │  │  ├─ nanoid@^3.3.4
@@ -12212,7 +12212,7 @@ yarn list v1.22.22
 │  ├─ micromatch@4.0.8
 │  │  ├─ braces@^3.0.3
 │  │  └─ picomatch@^2.3.1
-│  ├─ nanoid@3.3.8
+│  ├─ nanoid@3.3.9
 │  ├─ normalize-path@^3.0.0
 │  ├─ object-hash@^3.0.0
 │  ├─ object-hash@3.0.0
