@@ -10484,7 +10484,7 @@ gnucash-common/jammy 1:4.8-1build2 all
 gnucash-docs/jammy 4.8-1 all
 gnucash/jammy 1:4.8-1build2 amd64
 gnuchess-book/jammy 1.02-2 all
-gnuchess/jammy 6.2.7-1 amd64
+gnuchess/jammy-security 6.2.7-1+deb11u1build0.22.04.1 amd64
 gnucobol3/jammy 3.1.2-5 amd64
 gnucobol4/jammy 4.0~early~20200606-6 amd64
 gnucobol/jammy 5 amd64
