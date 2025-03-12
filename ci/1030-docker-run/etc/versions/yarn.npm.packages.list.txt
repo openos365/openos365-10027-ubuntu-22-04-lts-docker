@@ -1983,9 +1983,7 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
 │  └─ @steedos-labs/workflow@2.6.4
-├─ @steedos-labs/crm@2.6.1
-│  ├─ @steedos-labs/master@2.6.1
-│  └─ @steedos-labs/master@2.6.1
+├─ @steedos-labs/crm@2.6.3
 ├─ @steedos-labs/demo-ee@2.6.4
 │  ├─ @steedos-labs/asset@2.6.4
 │  ├─ @steedos-labs/contract@2.6.4
@@ -3230,7 +3228,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.49
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.8.2
+│  ├─ axios@1.8.3
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.0
 │  │  └─ proxy-from-env@^1.1.0
