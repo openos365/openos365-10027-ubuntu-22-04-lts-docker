@@ -41481,9 +41481,9 @@ libuno-sal3/jammy-updates,jammy-security 1:7.3.7-0ubuntu0.22.04.9 amd64
 libuno-salhelpergcc3-3/jammy-updates,jammy-security 1:7.3.7-0ubuntu0.22.04.9 amd64
 libunoil-java/jammy-updates,jammy-security 1:7.3.7-0ubuntu0.22.04.9 all
 libunoloader-java/jammy-updates,jammy-security 1:7.3.7-0ubuntu0.22.04.9 all
-libunrar-dev/jammy 1:6.1.5-1 amd64
-libunrar-headers/jammy 1:6.1.5-1 all
-libunrar5/jammy 1:6.1.5-1 amd64
+libunrar-dev/jammy-security 1:6.1.5-1ubuntu0.1 amd64
+libunrar-headers/jammy-security 1:6.1.5-1ubuntu0.1 all
+libunrar5/jammy-security 1:6.1.5-1ubuntu0.1 amd64
 libunsafe-fences-java/jammy 1.0-1.1 all
 libunsafe-mock-java/jammy 8.0-3 all
 libunshield-dev/jammy 1.4.2-1 amd64
@@ -85005,7 +85005,7 @@ rapmap-dev/jammy 0.15.0+dfsg-2 all
 rapmap-example-data/jammy 0.15.0+dfsg-2 all
 rapmap/jammy 0.15.0+dfsg-2 amd64
 raptor2-utils/jammy-updates,jammy-security 2.0.15-0ubuntu4.1 amd64
-rar/jammy 2:5.5.0-1.1 amd64
+rar/jammy-security 2:6.23-1~22.04.1 amd64
 rarcrack/jammy 0.2-1build1 amd64
 raritan-json-rpc-doc/jammy 3.6.1+ds1-1 all
 rarpd/jammy 0.981107-9build1 amd64
@@ -90961,7 +90961,7 @@ unoconv/jammy 0.7-2ubuntu1 all
 unp/jammy 2.0~pre9 all
 unpaper/jammy 6.1-2build1 amd64
 unrar-free/jammy 1:0.0.2-0.1 amd64
-unrar/jammy 1:6.1.5-1 amd64
+unrar/jammy-security 1:6.1.5-1ubuntu0.1 amd64
 unrtf/jammy 0.21.10-clean-1 amd64
 unscd/jammy 0.54-1build3 amd64
 unshield/jammy 1.4.2-1 amd64
