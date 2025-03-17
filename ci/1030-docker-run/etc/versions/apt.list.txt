@@ -7468,8 +7468,8 @@ freetennis-common/jammy 0.4.8-14 all
 freetennis/jammy 0.4.8-14 amd64
 freetts/jammy 1.2.2-7 all
 freetuxtv/jammy 0.6.8~dfsg1-1build2 amd64
-freetype2-demos/jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
-freetype2-doc/jammy-security 2.11.1+dfsg-1ubuntu0.3 all
+freetype2-demos/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
+freetype2-doc/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 all
 freewheeling/jammy 0.6.4-1.1build1 amd64
 freewnn-common/jammy 1.1.1~a021+cvs20130302-7build1 all
 freewnn-cserver/jammy 1.1.1~a021+cvs20130302-7build1 amd64
@@ -22450,9 +22450,9 @@ libfreerdp-shadow2-2/jammy-updates,jammy-security 2.6.1+dfsg1-3ubuntu2.7 amd64
 libfreerdp2-2/jammy-updates,jammy-security 2.6.1+dfsg1-3ubuntu2.7 amd64
 libfreesrp-dev/jammy 0.3.0-2build1 amd64
 libfreesrp0/jammy 0.3.0-2build1 amd64
-libfreetype-dev/jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
-libfreetype6-dev/jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
-libfreetype6/jammy-security,now 2.11.1+dfsg-1ubuntu0.3 amd64 [installed,automatic]
+libfreetype-dev/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
+libfreetype6-dev/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
+libfreetype6/jammy-updates,jammy-security,now 2.11.1+dfsg-1ubuntu0.3 amd64 [installed,automatic]
 libfreexl-dev/jammy 1.0.6-1 amd64
 libfreexl1/jammy 1.0.6-1 amd64
 libfreezethaw-perl/jammy 0.5001-2.1 all
@@ -77175,7 +77175,7 @@ planner-data/jammy 0.14.6-9build2 all
 planner-dev/jammy 0.14.6-9build2 amd64
 planner-doc/jammy 0.14.6-9build2 all
 planner/jammy 0.14.6-9build2 amd64
-plantuml/jammy 1:1.2020.2+ds-1 all
+plantuml/jammy-security 1:1.2020.2+ds-1ubuntu0.1 all
 plasma-browser-integration/jammy 5.24.4-0ubuntu1 amd64
 plasma-calendar-addons/jammy-updates 4:5.24.7-0ubuntu0.1 amd64
 plasma-dataengines-addons/jammy-updates 4:5.24.7-0ubuntu0.1 amd64
