@@ -77176,7 +77176,7 @@ planner-data/jammy 0.14.6-9build2 all
 planner-dev/jammy 0.14.6-9build2 amd64
 planner-doc/jammy 0.14.6-9build2 all
 planner/jammy 0.14.6-9build2 amd64
-plantuml/jammy-security 1:1.2020.2+ds-1ubuntu0.1 all
+plantuml/jammy-updates,jammy-security 1:1.2020.2+ds-1ubuntu0.1 all
 plasma-browser-integration/jammy 5.24.4-0ubuntu1 amd64
 plasma-calendar-addons/jammy-updates 4:5.24.7-0ubuntu0.1 amd64
 plasma-dataengines-addons/jammy-updates 4:5.24.7-0ubuntu0.1 amd64
@@ -79917,7 +79917,7 @@ python3-djangorestframework-haystack/jammy 1.8.10-1 all
 python3-djangorestframework-simplejwt/jammy 5.0.0-1 all
 python3-djangorestframework-spectacular/jammy 0.21.1-1 all
 python3-djangorestframework/jammy 3.12.4-2.1ubuntu1 all
-python3-djoser/jammy 2.1.0-1 all
+python3-djoser/jammy-security 2.1.0-1ubuntu0.22.04.1 all
 python3-djvu-dbg/jammy 0.8.4-3build5 amd64
 python3-djvu/jammy 0.8.4-3build5 amd64
 python3-dkim/jammy 1.0.5-1 all
