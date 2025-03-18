@@ -79917,7 +79917,7 @@ python3-djangorestframework-haystack/jammy 1.8.10-1 all
 python3-djangorestframework-simplejwt/jammy 5.0.0-1 all
 python3-djangorestframework-spectacular/jammy 0.21.1-1 all
 python3-djangorestframework/jammy 3.12.4-2.1ubuntu1 all
-python3-djoser/jammy-security 2.1.0-1ubuntu0.22.04.1 all
+python3-djoser/jammy-updates,jammy-security 2.1.0-1ubuntu0.22.04.1 all
 python3-djvu-dbg/jammy 0.8.4-3build5 amd64
 python3-djvu/jammy 0.8.4-3build5 amd64
 python3-dkim/jammy 1.0.5-1 all
