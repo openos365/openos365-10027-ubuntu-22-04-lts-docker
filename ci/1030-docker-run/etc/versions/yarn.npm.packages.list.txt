@@ -9934,7 +9934,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.232.3
+├─ posthog-js@1.232.4
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.41.0
 │  ├─ fflate@^0.4.8
