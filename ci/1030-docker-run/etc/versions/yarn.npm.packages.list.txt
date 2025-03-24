@@ -2699,9 +2699,9 @@ yarn list v1.22.22
 ├─ @swc/helpers@0.4.3
 │  ├─ tslib@^2.4.0
 │  └─ tslib@2.8.1
-├─ @tanstack/react-virtual@3.13.4
-│  └─ @tanstack/virtual-core@3.13.4
-├─ @tanstack/virtual-core@3.13.4
+├─ @tanstack/react-virtual@3.13.5
+│  └─ @tanstack/virtual-core@3.13.5
+├─ @tanstack/virtual-core@3.13.5
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @turf/area@6.5.0
@@ -2731,7 +2731,7 @@ yarn list v1.22.22
 │  └─ @babel/types@^7.20.7
 ├─ @types/bson@4.0.5
 │  └─ @types/node@*
-├─ @types/estree@1.0.6
+├─ @types/estree@1.0.7
 ├─ @types/glob@7.2.0
 │  ├─ @types/minimatch@*
 │  └─ @types/node@*
@@ -2755,7 +2755,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.3
-├─ @types/node@22.13.11
+├─ @types/node@22.13.13
 │  └─ undici-types@~6.20.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -2778,7 +2778,7 @@ yarn list v1.22.22
 ├─ @types/requirejs@2.1.37
 ├─ @types/speakeasy@2.0.2
 ├─ @types/stack-utils@1.0.1
-├─ @types/systemjs@6.15.1
+├─ @types/systemjs@6.15.3
 ├─ @types/tmp@0.2.6
 ├─ @types/yargs-parser@21.0.3
 ├─ @types/yargs@13.0.12
