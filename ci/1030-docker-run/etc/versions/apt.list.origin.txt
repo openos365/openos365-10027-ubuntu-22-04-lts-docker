@@ -4093,7 +4093,7 @@ debuerreotype/jammy 0.14-1 all
 debug-me-server/jammy 1.20200820-1build1 all
 debug-me/jammy 1.20200820-1build1 amd64
 debugedit/jammy 1:5.0-4build1 amd64
-debuginfod/jammy-security 0.186-1ubuntu0.1 amd64
+debuginfod/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
 deck/jammy-updates,jammy-security 1.4.0-1ubuntu0.20.04.3 amd64
 decopy/jammy 0.2.4.6-0.1 all
 dee-tools/jammy 1.2.7+17.10.20170616-6ubuntu4 amd64
@@ -5235,7 +5235,7 @@ elektroid/jammy 2.0-1 amd64
 elementary-icon-theme/jammy 6.1.0-1 all
 elementary-xfce-icon-theme/jammy 0.16-0ubuntu1 all
 elfrc/jammy 0.7-3 amd64
-elfutils/jammy-security 0.186-1ubuntu0.1 amd64
+elfutils/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
 elfx86exts/jammy 0.3.0-5 amd64
 elida/jammy 0.4.0 all
 elinks-data/jammy 0.13.2-1build3 all
@@ -17657,10 +17657,10 @@ libasis2019.1-dev/jammy 2019-5 amd64
 libasis2019.1/jammy 2019-5 amd64
 libasl-dev/jammy 0.1.7-4 amd64
 libasl0/jammy 0.1.7-4 amd64
-libasm-dev/jammy-security 0.186-1ubuntu0.1 amd64
+libasm-dev/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
 libasm-java-doc/jammy 9.2-1 all
 libasm-java/jammy 9.2-1 all
-libasm1/jammy-security 0.186-1ubuntu0.1 amd64
+libasm1/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
 libasmjit-dev/jammy 0.0~git20201108.4b13f71-1 amd64
 libasmjit0/jammy 0.0~git20201108.4b13f71-1 amd64
 libasmtools-java/jammy-updates,jammy-security 7.0-b09-2ubuntu1~22.04 all
@@ -20718,9 +20718,9 @@ libdebian-source-perl/jammy 0.116 all
 libdebug-trace-perl/jammy 0.05-2 all
 libdebug0-dev/jammy 0.5.3-6 amd64
 libdebug0/jammy 0.5.3-6 amd64
-libdebuginfod-common/jammy-security 0.186-1ubuntu0.1 all
-libdebuginfod-dev/jammy-security 0.186-1ubuntu0.1 amd64
-libdebuginfod1/jammy-security 0.186-1ubuntu0.1 amd64
+libdebuginfod-common/jammy-updates,jammy-security 0.186-1ubuntu0.1 all
+libdebuginfod-dev/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
+libdebuginfod1/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
 libdecentxml-java-doc/jammy 1.4-2.1 all
 libdecentxml-java/jammy 1.4-2.1 all
 libdeclare-constraints-simple-perl/jammy 0.03-1.1 all
@@ -21172,8 +21172,8 @@ libdvdnav-doc/jammy 6.1.1-1 all
 libdvdnav4/jammy 6.1.1-1 amd64
 libdvdread-dev/jammy 6.1.2-1 amd64
 libdvdread8/jammy 6.1.2-1 amd64
-libdw-dev/jammy-security 0.186-1ubuntu0.1 amd64
-libdw1/jammy-security 0.186-1ubuntu0.1 amd64
+libdw-dev/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
+libdw1/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
 libdwarf++0/jammy 0.3-2.1 amd64
 libdwarf-dev/jammy 20210528-1 amd64
 libdwarf1/jammy 20210528-1 amd64
@@ -21465,8 +21465,8 @@ libelementary-bin/jammy 1.26.2-1 amd64
 libelementary-data/jammy 1.26.2-1 all
 libelementary1/jammy 1.26.2-1 amd64
 libelf++0/jammy 0.3-2.1 amd64
-libelf-dev/jammy-security 0.186-1ubuntu0.1 amd64
-libelf1/jammy-security,now 0.186-1ubuntu0.1 amd64 [installed,automatic]
+libelf-dev/jammy-updates,jammy-security 0.186-1ubuntu0.1 amd64
+libelf1/jammy-updates,jammy-security,now 0.186-1ubuntu0.1 amd64 [installed,automatic]
 libelfin-dev/jammy 0.3-2.1 amd64
 libeliom-ocaml-dev/jammy 9.4.0-1 amd64
 libeliom-ocaml-doc/jammy 9.4.0-1 all
