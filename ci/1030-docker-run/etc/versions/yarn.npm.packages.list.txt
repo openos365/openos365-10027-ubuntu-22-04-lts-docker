@@ -945,7 +945,7 @@ yarn list v1.22.22
 ├─ @chakra-ui/icons@1.1.7
 │  ├─ @chakra-ui/icon@2.0.5
 │  ├─ @types/react@^17.0.15
-│  └─ @types/react@17.0.84
+│  └─ @types/react@17.0.85
 │     ├─ @types/prop-types@*
 │     ├─ @types/scheduler@^0.16
 │     └─ csstype@^3.0.2
