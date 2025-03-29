@@ -860,11 +860,11 @@ yarn list v1.22.22
 │  ├─ preact@^10.1.0
 │  ├─ prop-types@^15.7.2
 │  ├─ react-dom@>=14
-│  ├─ react-dom@19.0.0
-│  │  └─ scheduler@^0.25.0
+│  ├─ react-dom@19.1.0
+│  │  └─ scheduler@^0.26.0
 │  ├─ react@>=14
-│  ├─ react@19.0.0
-│  ├─ scheduler@0.25.0
+│  ├─ react@19.1.0
+│  ├─ scheduler@0.26.0
 │  ├─ tslib@^2.4.0
 │  └─ vm2@^3.6.4
 ├─ @builder.io/sdk@1.1.26
@@ -1613,20 +1613,20 @@ yarn list v1.22.22
 ├─ @mrmlnc/readdir-enhanced@2.2.1
 │  ├─ call-me-maybe@^1.0.1
 │  └─ glob-to-regexp@^0.3.0
-├─ @next/env@12.3.6
-├─ @next/swc-android-arm-eabi@12.2.5
-├─ @next/swc-android-arm64@12.2.5
-├─ @next/swc-darwin-arm64@12.3.6
-├─ @next/swc-darwin-x64@12.2.5
-├─ @next/swc-freebsd-x64@12.2.5
-├─ @next/swc-linux-arm-gnueabihf@12.3.6
-├─ @next/swc-linux-arm64-gnu@12.2.5
-├─ @next/swc-linux-arm64-musl@12.2.5
-├─ @next/swc-linux-x64-gnu@12.3.6
-├─ @next/swc-linux-x64-musl@12.3.6
-├─ @next/swc-win32-arm64-msvc@12.3.6
-├─ @next/swc-win32-ia32-msvc@12.3.6
-├─ @next/swc-win32-x64-msvc@12.3.6
+├─ @next/env@12.3.7
+├─ @next/swc-android-arm-eabi@12.3.4
+├─ @next/swc-android-arm64@12.3.4
+├─ @next/swc-darwin-arm64@12.3.4
+├─ @next/swc-darwin-x64@12.3.4
+├─ @next/swc-freebsd-x64@12.3.4
+├─ @next/swc-linux-arm-gnueabihf@12.3.4
+├─ @next/swc-linux-arm64-gnu@12.3.4
+├─ @next/swc-linux-arm64-musl@12.3.4
+├─ @next/swc-linux-x64-gnu@12.3.4
+├─ @next/swc-linux-x64-musl@12.3.4
+├─ @next/swc-win32-arm64-msvc@12.3.4
+├─ @next/swc-win32-ia32-msvc@12.3.4
+├─ @next/swc-win32-x64-msvc@12.3.4
 ├─ @nodelib/fs.scandir@2.1.5
 │  ├─ @nodelib/fs.stat@2.0.5
 │  └─ run-parallel@^1.1.9
@@ -1921,11 +1921,11 @@ yarn list v1.22.22
 │  ├─ preact@^10.1.0
 │  ├─ prop-types@^15.7.2
 │  ├─ react-dom@>=14
-│  ├─ react-dom@19.0.0
-│  │  └─ scheduler@^0.25.0
+│  ├─ react-dom@19.1.0
+│  │  └─ scheduler@^0.26.0
 │  ├─ react@>=14
-│  ├─ react@19.0.0
-│  ├─ scheduler@0.25.0
+│  ├─ react@19.1.0
+│  ├─ scheduler@0.26.0
 │  ├─ tslib@^1.10.0
 │  ├─ tslib@1.14.1
 │  └─ vm2@^3.6.4
@@ -2389,10 +2389,10 @@ yarn list v1.22.22
 │  │  ├─ preact@^10.1.0
 │  │  ├─ prop-types@^15.7.2
 │  │  ├─ react-dom@>=14
-│  │  ├─ react-dom@19.0.0
-│  │  │  └─ scheduler@^0.25.0
+│  │  ├─ react-dom@19.1.0
+│  │  │  └─ scheduler@^0.26.0
 │  │  ├─ react@>=14
-│  │  ├─ react@19.0.0
+│  │  ├─ react@19.1.0
 │  │  ├─ regenerator-runtime@0.14.1
 │  │  ├─ tslib@^1.10.0
 │  │  ├─ tslib@1.14.1
@@ -2442,7 +2442,7 @@ yarn list v1.22.22
 │  ├─ react@^17.0.2
 │  ├─ rich-markdown-editor@^11.17.3
 │  ├─ rollup-plugin-external-globals@^0.6.1
-│  ├─ scheduler@0.25.0
+│  ├─ scheduler@0.26.0
 │  ├─ styled-components@^5.1.1
 │  └─ tslib@^2.3.1
 ├─ @steedos-ui/builder-page@2.2.53
@@ -2547,10 +2547,10 @@ yarn list v1.22.22
 │  ├─ mobx-react-lite@^3.2.0
 │  ├─ mobx-state-tree@^5.0.1
 │  ├─ mobx@^6.1.8
-│  ├─ react-dom@19.0.0
-│  │  └─ scheduler@^0.25.0
-│  ├─ react@19.0.0
-│  ├─ scheduler@0.25.0
+│  ├─ react-dom@19.1.0
+│  │  └─ scheduler@^0.26.0
+│  ├─ react@19.1.0
+│  ├─ scheduler@0.26.0
 │  └─ tslib@1.14.1
 ├─ @steedos-ui/builder-viz-lib@2.2.53
 │  ├─ axios@^0.21.1
@@ -2727,8 +2727,14 @@ yarn list v1.22.22
 │  ├─ @headlessui/react@^1.6.5
 │  ├─ @heroicons/react@^1.0.6
 │  ├─ @next/env@12.2.5
+│  ├─ @next/swc-android-arm-eabi@12.2.5
+│  ├─ @next/swc-android-arm64@12.2.5
 │  ├─ @next/swc-darwin-arm64@12.2.5
+│  ├─ @next/swc-darwin-x64@12.2.5
+│  ├─ @next/swc-freebsd-x64@12.2.5
 │  ├─ @next/swc-linux-arm-gnueabihf@12.2.5
+│  ├─ @next/swc-linux-arm64-gnu@12.2.5
+│  ├─ @next/swc-linux-arm64-musl@12.2.5
 │  ├─ @next/swc-linux-x64-gnu@12.2.5
 │  ├─ @next/swc-linux-x64-musl@12.2.5
 │  ├─ @next/swc-win32-arm64-msvc@12.2.5
@@ -2746,11 +2752,11 @@ yarn list v1.22.22
 │  │  ├─ preact@^10.1.0
 │  │  ├─ prop-types@^15.7.2
 │  │  ├─ react-dom@>=14
-│  │  ├─ react-dom@19.0.0
-│  │  │  └─ scheduler@^0.25.0
+│  │  ├─ react-dom@19.1.0
+│  │  │  └─ scheduler@^0.26.0
 │  │  ├─ react@>=14
-│  │  ├─ react@19.0.0
-│  │  ├─ scheduler@0.25.0
+│  │  ├─ react@19.1.0
+│  │  ├─ scheduler@0.26.0
 │  │  ├─ tslib@^1.10.0
 │  │  └─ vm2@^3.6.4
 │  ├─ @steedos-builder/sdk@0.2.38
@@ -3587,7 +3593,7 @@ yarn list v1.22.22
 │  ├─ clone@^2.1.2
 │  ├─ cookies@^0.8.0
 │  ├─ mingo@^6.0.5
-│  ├─ mingo@6.5.5
+│  ├─ mingo@6.5.6
 │  ├─ psl@1.9.0
 │  ├─ psl@1.9.0
 │  ├─ underscore@1.5.2
@@ -8984,15 +8990,21 @@ yarn list v1.22.22
 ├─ next-tick@1.1.0
 ├─ next-use-posthog@1.16.4
 │  └─ posthog-js@^1.38.0
-├─ next@12.3.6
-│  ├─ @next/env@12.3.6
-│  ├─ @next/swc-darwin-arm64@12.3.6
-│  ├─ @next/swc-linux-arm-gnueabihf@12.3.6
-│  ├─ @next/swc-linux-x64-gnu@12.3.6
-│  ├─ @next/swc-linux-x64-musl@12.3.6
-│  ├─ @next/swc-win32-arm64-msvc@12.3.6
-│  ├─ @next/swc-win32-ia32-msvc@12.3.6
-│  ├─ @next/swc-win32-x64-msvc@12.3.6
+├─ next@12.3.7
+│  ├─ @next/env@12.3.7
+│  ├─ @next/swc-android-arm-eabi@12.3.4
+│  ├─ @next/swc-android-arm64@12.3.4
+│  ├─ @next/swc-darwin-arm64@12.3.4
+│  ├─ @next/swc-darwin-x64@12.3.4
+│  ├─ @next/swc-freebsd-x64@12.3.4
+│  ├─ @next/swc-linux-arm-gnueabihf@12.3.4
+│  ├─ @next/swc-linux-arm64-gnu@12.3.4
+│  ├─ @next/swc-linux-arm64-musl@12.3.4
+│  ├─ @next/swc-linux-x64-gnu@12.3.4
+│  ├─ @next/swc-linux-x64-musl@12.3.4
+│  ├─ @next/swc-win32-arm64-msvc@12.3.4
+│  ├─ @next/swc-win32-ia32-msvc@12.3.4
+│  ├─ @next/swc-win32-x64-msvc@12.3.4
 │  ├─ @swc/helpers@0.4.11
 │  ├─ caniuse-lite@^1.0.30001406
 │  ├─ nanoid@3.3.11
