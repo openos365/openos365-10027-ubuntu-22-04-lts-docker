@@ -5211,7 +5211,7 @@ yarn list v1.22.22
 ├─ create-require@1.1.1
 ├─ cron-parser@4.9.0
 │  ├─ luxon@^3.2.1
-│  └─ luxon@3.6.0
+│  └─ luxon@3.6.1
 ├─ cron@1.8.3
 │  └─ luxon@^1.23.x
 ├─ cross-fetch@3.2.0
@@ -9934,7 +9934,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.234.1
+├─ posthog-js@1.234.4
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.41.0
 │  ├─ fflate@^0.4.8
