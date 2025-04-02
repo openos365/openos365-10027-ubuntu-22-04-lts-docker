@@ -1983,7 +1983,7 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
 │  └─ @steedos-labs/workflow@2.6.4
-├─ @steedos-labs/crm@2.6.14
+├─ @steedos-labs/crm@2.6.17
 ├─ @steedos-labs/demo-ee@2.6.4
 │  ├─ @steedos-labs/asset@2.6.4
 │  ├─ @steedos-labs/contract@2.6.4
@@ -3814,7 +3814,7 @@ yarn list v1.22.22
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
 ├─ @types/react-transition-group@4.4.12
-├─ @types/react@19.0.12
+├─ @types/react@19.1.0
 │  └─ csstype@^3.0.2
 ├─ @types/readable-stream@2.3.15
 │  ├─ @types/node@*
