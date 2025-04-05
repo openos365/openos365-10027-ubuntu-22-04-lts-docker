@@ -3526,7 +3526,6 @@ yarn list v1.22.22
 ├─ @steedos/service-pages@2.7.17
 │  ├─ clone@^2.1.2
 │  └─ ejs@^3.1.8
-├─ @steedos/service-plugin-amis@2.7.17
 ├─ @steedos/service-push@2.7.17
 ├─ @steedos/service-saas@2.7.17
 ├─ @steedos/service-sentry@2.7.17
@@ -4802,7 +4801,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001710
+├─ caniuse-lite@1.0.30001711
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
