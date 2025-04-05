@@ -3526,6 +3526,7 @@ yarn list v1.22.22
 ├─ @steedos/service-pages@2.7.17
 │  ├─ clone@^2.1.2
 │  └─ ejs@^3.1.8
+├─ @steedos/service-plugin-amis@2.7.17
 ├─ @steedos/service-push@2.7.17
 ├─ @steedos/service-saas@2.7.17
 ├─ @steedos/service-sentry@2.7.17
