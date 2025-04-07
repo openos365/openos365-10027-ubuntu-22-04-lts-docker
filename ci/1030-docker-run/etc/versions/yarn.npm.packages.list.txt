@@ -1983,7 +1983,7 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
 │  └─ @steedos-labs/workflow@2.6.4
-├─ @steedos-labs/crm@2.6.17
+├─ @steedos-labs/crm@2.6.19
 ├─ @steedos-labs/demo-ee@2.6.4
 │  ├─ @steedos-labs/asset@2.6.4
 │  ├─ @steedos-labs/contract@2.6.4
