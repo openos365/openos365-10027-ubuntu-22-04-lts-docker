@@ -5986,7 +5986,7 @@ exmh/jammy 1:2.9.0-3 all
 exo-utils/jammy 4.16.3-1 amd64
 exonerate/jammy 2.4.0-5 amd64
 expand-region-el/jammy 0.11.0+36-1 all
-expat/jammy-security 2.4.7-1ubuntu0.6 amd64
+expat/jammy-updates,jammy-security 2.4.7-1ubuntu0.6 amd64
 expect-lite/jammy 4.9.0-0ubuntu1 all
 expect/jammy,now 5.45.4-2build1 amd64 [installed]
 expeyes-clib/jammy 4.8.8+repack-2 amd64
@@ -21791,8 +21791,8 @@ libexodusii5/jammy 6.02.dfsg.1-10build1 amd64
 libexpat-gst/jammy 3.2.5-1.3ubuntu1 amd64
 libexpat-ocaml-dev/jammy 1.1.0-1build2 amd64
 libexpat-ocaml/jammy 1.1.0-1build2 amd64
-libexpat1-dev/jammy-security,now 2.4.7-1ubuntu0.6 amd64 [installed,automatic]
-libexpat1/jammy-security,now 2.4.7-1ubuntu0.6 amd64 [installed,automatic]
+libexpat1-dev/jammy-updates,jammy-security,now 2.4.7-1ubuntu0.6 amd64 [installed,automatic]
+libexpat1/jammy-updates,jammy-security,now 2.4.7-1ubuntu0.6 amd64 [installed,automatic]
 libexpect-ocaml-dev/jammy 0.0.6-2build1 amd64
 libexpect-ocaml/jammy 0.0.6-2build1 amd64
 libexpect-perl/jammy 1.21-1.2 all

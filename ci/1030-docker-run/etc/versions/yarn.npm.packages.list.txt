@@ -6968,7 +6968,7 @@ yarn list v1.22.22
 │  ├─ statuses@2.0.1
 │  ├─ toidentifier@1.0.1
 │  └─ toidentifier@1.0.1
-├─ http-parser-js@0.5.9
+├─ http-parser-js@0.5.10
 ├─ http-proxy-agent@4.0.1
 │  ├─ @tootallnate/once@1
 │  ├─ agent-base@6
@@ -9943,7 +9943,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.234.11
+├─ posthog-js@1.235.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.41.0
 │  ├─ fflate@^0.4.8
