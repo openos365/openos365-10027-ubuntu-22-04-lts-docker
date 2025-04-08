@@ -1982,6 +1982,10 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/invoice@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
+│  ├─ @steedos-labs/project@2.6.4
+│  │  ├─ @steedos-labs/contract@2.6.4
+│  │  ├─ @steedos-labs/finance@2.6.4
+│  │  └─ @steedos-labs/master@2.6.4
 │  └─ @steedos-labs/workflow@2.6.4
 ├─ @steedos-labs/crm@2.6.20
 ├─ @steedos-labs/demo-ee@2.6.4
@@ -1994,6 +1998,10 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/oa@2.6.4
 │  ├─ @steedos-labs/okr@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
+│  ├─ @steedos-labs/project@2.6.4
+│  │  ├─ @steedos-labs/contract@2.6.4
+│  │  ├─ @steedos-labs/finance@2.6.4
+│  │  └─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/purchase@2.2.9-beta.3
 │  ├─ @steedos-labs/purchase@2.2.9-beta.3
 │  │  ├─ @steedos-labs/master@2.2.9-beta.3
@@ -2090,11 +2098,12 @@ yarn list v1.22.22
 │  │  ├─ @steedos-labs/master@2.2.1
 │  │  └─ @steedos-labs/master@2.2.1
 │  ├─ @steedos-labs/master@2.6.4
+│  ├─ @steedos-labs/project@2.6.4
 │  └─ @steedos-labs/project@2.6.4
-├─ @steedos-labs/project@2.6.4
-│  ├─ @steedos-labs/contract@2.6.4
-│  ├─ @steedos-labs/finance@2.6.4
-│  └─ @steedos-labs/master@2.6.4
+│     ├─ @steedos-labs/contract@2.6.4
+│     ├─ @steedos-labs/finance@2.6.4
+│     └─ @steedos-labs/master@2.6.4
+├─ @steedos-labs/project@2.6.5
 ├─ @steedos-labs/purchase@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
