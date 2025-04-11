@@ -2956,7 +2956,7 @@ yarn list v1.22.22
 │  ├─ ini@^2.0.0
 │  ├─ ini@2.0.0
 │  ├─ ioredis@^5.3.2
-│  ├─ ioredis@5.6.0
+│  ├─ ioredis@5.6.1
 │  │  ├─ @ioredis/commands@^1.1.1
 │  │  ├─ cluster-key-slot@^1.1.0
 │  │  ├─ debug@^4.3.4
@@ -5617,7 +5617,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.61.0
+├─ docxtemplater@3.61.1
 │  ├─ @xmldom/xmldom@^0.9.8
 │  └─ @xmldom/xmldom@0.9.8
 ├─ dom-align@1.12.4
@@ -7128,7 +7128,7 @@ yarn list v1.22.22
 │  └─ loose-envify@^1.0.0
 ├─ invert-kv@1.0.0
 ├─ invert-permutation@1.0.0
-├─ ioredis@4.29.1
+├─ ioredis@4.30.0
 │  ├─ @ioredis/commands@^1.0.2
 │  ├─ cluster-key-slot@^1.1.0
 │  ├─ debug@^4.3.1
