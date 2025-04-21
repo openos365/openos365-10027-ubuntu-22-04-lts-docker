@@ -1952,8 +1952,10 @@ yarn list v1.22.22
 │  └─ uglify-js@^3.17.0
 ├─ @steedos-labs/asset@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  └─ @steedos-labs/workflow@2.6.4
 ├─ @steedos-labs/attendance@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/workflow@2.6.4
 │  └─ moleculer-cron@^0.0.2
@@ -1972,6 +1974,7 @@ yarn list v1.22.22
 ├─ @steedos-labs/contract@2.6.4
 │  ├─ @steedos-labs/finance@2.6.4
 │  ├─ @steedos-labs/invoice@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  └─ @steedos-labs/master@2.6.4
 ├─ @steedos-labs/cost-ee@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.2.9-beta.3
@@ -1980,6 +1983,7 @@ yarn list v1.22.22
 │  └─ @steedos-labs/master@2.2.9-beta.3
 ├─ @steedos-labs/cost@2.6.4
 │  ├─ @steedos-labs/invoice@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
@@ -1993,6 +1997,7 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/contract@2.6.4
 │  ├─ @steedos-labs/cost@2.6.4
 │  ├─ @steedos-labs/finance@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/meeting@2.6.4
 │  ├─ @steedos-labs/oa@2.6.4
@@ -2038,11 +2043,13 @@ yarn list v1.22.22
 ├─ @steedos-labs/finance@2.6.4
 │  ├─ @steedos-labs/invoice@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  └─ bignumber.js@^9.1.1
 ├─ @steedos-labs/flows@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
 ├─ @steedos-labs/gw@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
 │  └─ @steedos-labs/workflow@2.6.4
 ├─ @steedos-labs/hr-ee@2.2.8
@@ -2052,21 +2059,21 @@ yarn list v1.22.22
 │  │  └─ @steedos-labs/master@2.2.1
 │  ├─ @steedos-labs/master@2.2.8
 │  └─ @steedos-labs/master@2.2.8
-├─ @steedos-labs/hr@2.6.4
-│  └─ @steedos-labs/master@2.6.4
+├─ @steedos-labs/hr@2.7.0
 ├─ @steedos-labs/invoice@2.6.4
 │  ├─ bignumber.js@^9.1.1
 │  └─ request@^2.88.2
 ├─ @steedos-labs/it@2.1.22
 ├─ @steedos-labs/learning@2.1.62
 │  └─ pug@^3.0.2
-├─ @steedos-labs/master@2.6.4
+├─ @steedos-labs/master@2.7.0
 ├─ @steedos-labs/meeting@2.6.4
 ├─ @steedos-labs/merchant@2.1.64
 ├─ @steedos-labs/npm-scopes@2.1.63
 ├─ @steedos-labs/oa@2.6.4
 │  └─ @steedos/utils@^2.5.11-beta.10
 ├─ @steedos-labs/okr@2.6.4
+│  ├─ @steedos-labs/master@2.6.4
 │  └─ @steedos-labs/master@2.6.4
 ├─ @steedos-labs/order@2.2.8
 │  ├─ @steedos-labs/master@2.2.8
@@ -2097,6 +2104,7 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/flows@2.2.1
 │  │  ├─ @steedos-labs/master@2.2.1
 │  │  └─ @steedos-labs/master@2.2.1
+│  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/project@2.6.4
 │  └─ @steedos-labs/project@2.6.4
@@ -9943,7 +9951,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.236.2
+├─ posthog-js@1.236.3
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.41.0
 │  ├─ fflate@^0.4.8
