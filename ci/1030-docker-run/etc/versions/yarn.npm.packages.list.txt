@@ -11953,13 +11953,13 @@ yarn list v1.22.22
 │  ├─ mysql@^2.15.0
 │  ├─ node-firebird@^0.9.8
 │  ├─ node-machine-id@^1.1.12
-│  ├─ pg-connection-string@2.8.0
-│  ├─ pg-pool@3.9.0
+│  ├─ pg-connection-string@2.8.1
+│  ├─ pg-pool@3.9.1
 │  ├─ pg@^8.3.3
-│  ├─ pg@8.15.0
+│  ├─ pg@8.15.1
 │  │  ├─ pg-cloudflare@^1.2.0
-│  │  ├─ pg-connection-string@^2.8.0
-│  │  ├─ pg-pool@^3.9.0
+│  │  ├─ pg-connection-string@^2.8.1
+│  │  ├─ pg-pool@^3.9.1
 │  │  ├─ pg-protocol@^1.9.0
 │  │  ├─ pg-types@^2.1.0
 │  │  └─ pgpass@1.x
