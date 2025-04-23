@@ -3955,7 +3955,7 @@ yarn list v1.22.22
 │  ├─ mime-types@~2.1.34
 │  ├─ negotiator@0.6.3
 │  └─ negotiator@0.6.3
-├─ ace-builds@1.40.0
+├─ ace-builds@1.40.1
 ├─ acorn-dynamic-import@4.0.0
 ├─ acorn-globals@4.3.4
 │  ├─ acorn-walk@^6.0.1
