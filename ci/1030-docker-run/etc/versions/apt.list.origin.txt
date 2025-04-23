@@ -17376,7 +17376,7 @@ libapache2-mod-auth-gssapi/jammy 1.6.3-1build1 amd64
 libapache2-mod-auth-kerb/jammy 5.4-2.5 amd64
 libapache2-mod-auth-mellon/jammy-updates 0.18.0-1ubuntu0.1 amd64
 libapache2-mod-auth-openid/jammy 0.8-6 amd64
-libapache2-mod-auth-openidc/jammy-security 2.4.11-1ubuntu0.1 amd64
+libapache2-mod-auth-openidc/jammy-updates,jammy-security 2.4.11-1ubuntu0.1 amd64
 libapache2-mod-auth-pgsql/jammy 2.0.3-6.1ubuntu3 amd64
 libapache2-mod-auth-plain/jammy 2.0.52build1 amd64
 libapache2-mod-auth-pubtkt/jammy 0.13-1build1 amd64
