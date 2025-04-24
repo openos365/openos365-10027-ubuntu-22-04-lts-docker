@@ -3246,7 +3246,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.50
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.8.4
+│  ├─ axios@1.9.0
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.0
 │  │  └─ proxy-from-env@^1.1.0
@@ -3817,7 +3817,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.3
-├─ @types/node@22.14.1
+├─ @types/node@22.15.0
 │  └─ undici-types@~6.21.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
