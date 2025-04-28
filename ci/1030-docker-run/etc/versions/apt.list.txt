@@ -94914,7 +94914,7 @@ xwallpaper/jammy 0.7.3-1 amd64
 xwatch/jammy 2.11-16 amd64
 xwax/jammy 1.8-1 amd64
 xwayland-hwe-18.04/jammy 3:14.6 amd64
-xwayland/jammy-updates,jammy-security 2:22.1.1-1ubuntu0.17 amd64
+xwayland/jammy-updates 2:22.1.1-1ubuntu0.18 amd64
 xwelltris/jammy 1.0.1-18 amd64
 xwiimote/jammy 2-4 amd64
 xwit/jammy 3.4-16 amd64
