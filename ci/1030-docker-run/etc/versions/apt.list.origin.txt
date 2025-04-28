@@ -42805,10 +42805,10 @@ libxml-xpathengine-perl/jammy 0.14-1 all
 libxml-xql-perl/jammy 0.68-8ubuntu1 all
 libxml-xslt-perl/jammy 0.48-5 all
 libxml-xupdate-libxml-perl/jammy 0.6.0-3.1 all
-libxml2-dev/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.6 amd64
-libxml2-doc/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.6 all
-libxml2-utils/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.6 amd64
-libxml2/jammy-updates,jammy-security,now 2.9.13+dfsg-1ubuntu0.6 amd64 [installed,automatic]
+libxml2-dev/jammy-security 2.9.13+dfsg-1ubuntu0.7 amd64
+libxml2-doc/jammy-security 2.9.13+dfsg-1ubuntu0.7 all
+libxml2-utils/jammy-security 2.9.13+dfsg-1ubuntu0.7 amd64
+libxml2/jammy-security,now 2.9.13+dfsg-1ubuntu0.7 amd64 [installed,automatic]
 libxmlada-doc/jammy 21.0.0-4 all
 libxmlada-dom10-dev/jammy 21.0.0-4 amd64
 libxmlada-dom7/jammy 21.0.0-4 amd64
@@ -82778,7 +82778,7 @@ python3-libvoikko/jammy 4.3.1-1build1 all
 python3-libvshadow/jammy 20190323-2build1 amd64
 python3-libvslvm/jammy 20181227-1.1build2 amd64
 python3-libwfut-0.2/jammy 0.2.3-8build1 amd64
-python3-libxml2/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.6 amd64
+python3-libxml2/jammy-security 2.9.13+dfsg-1ubuntu0.7 amd64
 python3-libzim/jammy 1.0.0+ds-2build1 amd64
 python3-license-expression/jammy 21.6.14-2 all
 python3-limits/jammy 1.5.1-1 all
