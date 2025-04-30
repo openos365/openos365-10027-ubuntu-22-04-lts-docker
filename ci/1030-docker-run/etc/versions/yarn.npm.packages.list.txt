@@ -6150,7 +6150,7 @@ yarn list v1.22.22
 ├─ fast-levenshtein@2.0.6
 ├─ fast-shallow-equal@1.0.0
 ├─ fastest-stable-stringify@2.0.2
-├─ fastest-validator@1.19.0
+├─ fastest-validator@1.19.1
 ├─ fastparse@1.1.2
 ├─ fastq@1.19.1
 │  └─ reusify@^1.0.4
