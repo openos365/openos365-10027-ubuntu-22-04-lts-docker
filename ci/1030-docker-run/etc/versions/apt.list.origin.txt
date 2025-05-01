@@ -72249,9 +72249,9 @@ linux-xilinx-zynqmp-headers-5.15.0-1038/jammy-updates,jammy-security 5.15.0-1038
 linux-xilinx-zynqmp-headers-5.15.0-1039/jammy-updates,jammy-security 5.15.0-1039.43 all
 linux-xilinx-zynqmp-headers-5.15.0-1041/jammy-updates,jammy-security 5.15.0-1041.45 all
 linux-xilinx-zynqmp-headers-5.15.0-1044/jammy-updates,jammy-security 5.15.0-1044.48 all
-linux-xilinx-zynqmp-headers-5.15.0-1046/jammy-updates 5.15.0-1046.50 all
-linux-xilinx-zynqmp-tools-common/jammy-updates 5.15.0-1046.50 all
-linux-xilinx-zynqmp-tools-host/jammy-updates 5.15.0-1046.50 all
+linux-xilinx-zynqmp-headers-5.15.0-1046/jammy-updates,jammy-security 5.15.0-1046.50 all
+linux-xilinx-zynqmp-tools-common/jammy-updates,jammy-security 5.15.0-1046.50 all
+linux-xilinx-zynqmp-tools-host/jammy-updates,jammy-security 5.15.0-1046.50 all
 linuxaudio-new-session-manager/jammy 1.5.3-0ubuntu1 amd64
 linuxdoc-tools-info/jammy 0.9.82-1 all
 linuxdoc-tools-latex/jammy 0.9.82-1 all
