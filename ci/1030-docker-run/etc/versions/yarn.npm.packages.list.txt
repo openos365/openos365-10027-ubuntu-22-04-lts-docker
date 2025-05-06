@@ -3802,7 +3802,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.3
-├─ @types/node@22.15.13
+├─ @types/node@22.15.14
 │  └─ undici-types@~6.21.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -9951,7 +9951,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.239.1
+├─ posthog-js@1.240.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.42.0
 │  ├─ fflate@^0.4.8
@@ -9970,7 +9970,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.26.5
+├─ preact@10.26.6
 ├─ prelude-ls@1.1.2
 ├─ prettier-plugin-svelte@1.4.2
 ├─ prettier@2.8.8
