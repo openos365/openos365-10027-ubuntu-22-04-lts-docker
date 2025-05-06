@@ -330,7 +330,7 @@ yarn list v1.22.22
 │  ├─ @babel/helper-validator-identifier@^7.27.1
 │  ├─ js-tokens@^4.0.0
 │  └─ picocolors@^1.1.1
-├─ @babel/compat-data@7.27.1
+├─ @babel/compat-data@7.27.2
 ├─ @babel/core@7.27.1
 │  ├─ @ampproject/remapping@^2.2.0
 │  ├─ @babel/code-frame@^7.27.1
@@ -360,8 +360,8 @@ yarn list v1.22.22
 │  └─ jsesc@3.1.0
 ├─ @babel/helper-annotate-as-pure@7.27.1
 │  └─ @babel/types@^7.27.1
-├─ @babel/helper-compilation-targets@7.27.1
-│  ├─ @babel/compat-data@^7.27.1
+├─ @babel/helper-compilation-targets@7.27.2
+│  ├─ @babel/compat-data@^7.27.2
 │  ├─ @babel/helper-validator-option@^7.27.1
 │  ├─ browserslist@^4.24.0
 │  ├─ lru-cache@^5.1.1
@@ -438,7 +438,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  ├─ js-tokens@^3.0.0
 │  └─ js-tokens@3.0.2
-├─ @babel/parser@7.27.1
+├─ @babel/parser@7.27.2
 │  └─ @babel/types@^7.27.1
 ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.27.1
 │  ├─ @babel/helper-plugin-utils@^7.27.1
@@ -634,9 +634,10 @@ yarn list v1.22.22
 │  └─ @babel/helper-plugin-utils@^7.27.1
 ├─ @babel/plugin-transform-object-assign@7.27.1
 │  └─ @babel/helper-plugin-utils@^7.27.1
-├─ @babel/plugin-transform-object-rest-spread@7.27.1
-│  ├─ @babel/helper-compilation-targets@^7.27.1
+├─ @babel/plugin-transform-object-rest-spread@7.27.2
+│  ├─ @babel/helper-compilation-targets@^7.27.2
 │  ├─ @babel/helper-plugin-utils@^7.27.1
+│  ├─ @babel/plugin-transform-destructuring@^7.27.1
 │  └─ @babel/plugin-transform-parameters@^7.27.1
 ├─ @babel/plugin-transform-object-super@7.27.1
 │  ├─ @babel/helper-plugin-utils@^7.27.1
@@ -820,9 +821,9 @@ yarn list v1.22.22
 │  │  └─ kind-of@^6.0.2
 │  └─ source-map-support@^0.5.16
 ├─ @babel/runtime@7.27.1
-├─ @babel/template@7.27.1
+├─ @babel/template@7.27.2
 │  ├─ @babel/code-frame@^7.27.1
-│  ├─ @babel/parser@^7.27.1
+│  ├─ @babel/parser@^7.27.2
 │  └─ @babel/types@^7.27.1
 ├─ @babel/traverse@7.27.1
 │  ├─ @babel/code-frame@^7.27.1
@@ -3650,9 +3651,9 @@ yarn list v1.22.22
 │  ├─ @babel/core@^7.1.6
 │  ├─ @babel/plugin-transform-react-constant-elements@^7.0.0
 │  ├─ @babel/preset-env@^7.1.6
-│  ├─ @babel/preset-env@7.27.1
-│  │  ├─ @babel/compat-data@^7.27.1
-│  │  ├─ @babel/helper-compilation-targets@^7.27.1
+│  ├─ @babel/preset-env@7.27.2
+│  │  ├─ @babel/compat-data@^7.27.2
+│  │  ├─ @babel/helper-compilation-targets@^7.27.2
 │  │  ├─ @babel/helper-plugin-utils@^7.27.1
 │  │  ├─ @babel/helper-validator-option@^7.27.1
 │  │  ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@^7.27.1
@@ -3694,7 +3695,7 @@ yarn list v1.22.22
 │  │  ├─ @babel/plugin-transform-new-target@^7.27.1
 │  │  ├─ @babel/plugin-transform-nullish-coalescing-operator@^7.27.1
 │  │  ├─ @babel/plugin-transform-numeric-separator@^7.27.1
-│  │  ├─ @babel/plugin-transform-object-rest-spread@^7.27.1
+│  │  ├─ @babel/plugin-transform-object-rest-spread@^7.27.2
 │  │  ├─ @babel/plugin-transform-object-super@^7.27.1
 │  │  ├─ @babel/plugin-transform-optional-catch-binding@^7.27.1
 │  │  ├─ @babel/plugin-transform-optional-chaining@^7.27.1
