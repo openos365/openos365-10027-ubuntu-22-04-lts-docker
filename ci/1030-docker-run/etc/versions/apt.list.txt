@@ -78004,6 +78004,11 @@ oem-config-slideshow-ubuntu-mate/jammy-updates 181.1 all
 oem-config-slideshow-ubuntu/jammy-updates 181.1 all
 oem-config/jammy-updates 22.04.20 all
 oem-qemu-meta/jammy 20.04~ubuntu5 all
+oem-somerville-arcanine-14-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-arcanine-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-chansey-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-cinccino-meta/jammy-updates 22.04~ubuntu1 all
+oem-somerville-davos-rpl-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-hoppip-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-lapras-13-meta/jammy-updates 22.04~ubuntu1 all
 oem-somerville-lapras-meta/jammy-updates 22.04~ubuntu1 all
