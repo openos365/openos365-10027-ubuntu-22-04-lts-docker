@@ -3802,7 +3802,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.3
-├─ @types/node@22.15.18
+├─ @types/node@22.15.19
 │  └─ undici-types@~6.21.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -4127,8 +4127,7 @@ yarn list v1.22.22
 │  ├─ leven@2.1.0
 │  ├─ leven@2.1.0
 │  └─ mri@1.1.4
-├─ aria-hidden@1.2.5
-│  ├─ caniuse-lite@^1.0.30001718
+├─ aria-hidden@1.2.6
 │  └─ tslib@^2.0.0
 ├─ aria-query@3.0.0
 │  ├─ ast-types-flow@0.0.7
