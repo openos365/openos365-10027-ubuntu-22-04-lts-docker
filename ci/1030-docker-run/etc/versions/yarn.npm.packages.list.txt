@@ -3790,7 +3790,7 @@ yarn list v1.22.22
 ├─ @types/linkify-it@5.0.0
 ├─ @types/lodash.mergewith@4.6.6
 │  └─ @types/lodash@*
-├─ @types/lodash@4.17.16
+├─ @types/lodash@4.17.17
 ├─ @types/markdown-it@14.1.2
 │  ├─ @types/linkify-it@^5
 │  └─ @types/mdurl@^2
@@ -3802,7 +3802,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.3
-├─ @types/node@22.15.19
+├─ @types/node@22.15.20
 │  └─ undici-types@~6.21.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
