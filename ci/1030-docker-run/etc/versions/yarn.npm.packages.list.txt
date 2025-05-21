@@ -3802,7 +3802,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.3
-├─ @types/node@22.15.20
+├─ @types/node@22.15.21
 │  └─ undici-types@~6.21.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
