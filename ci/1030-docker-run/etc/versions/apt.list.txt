@@ -12880,9 +12880,9 @@ google-android-platform-9-installer/jammy 9+r02+nmu5 all
 google-android-sdk-docs-installer/jammy 24+r3 all
 google-compute-engine-oslogin/jammy-updates 20240701.00-0ubuntu1~22.04.0 amd64
 google-compute-engine/jammy-updates 20241010.00-0ubuntu1~22.04.0 all
-google-guest-agent/jammy-updates 20241011.01-0ubuntu1~22.04.0 amd64
+google-guest-agent/jammy-updates 20250116.00-0ubuntu1~22.04.0 amd64
 google-mock/jammy 1.11.0-3 amd64
-google-osconfig-agent/jammy-updates 20240926.03-0ubuntu1~22.04.0 amd64
+google-osconfig-agent/jammy-updates 20250115.01-0ubuntu1~22.04.0 amd64
 google-perftools/jammy 2.9.1-0ubuntu3 all
 google-wire/jammy 0.5.0-1 amd64
 googler/jammy 4.3.2-1 all

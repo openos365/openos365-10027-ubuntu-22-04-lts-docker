@@ -944,7 +944,7 @@ yarn list v1.22.22
 ├─ @chakra-ui/icons@1.1.7
 │  ├─ @chakra-ui/icon@2.0.5
 │  ├─ @types/react@^17.0.15
-│  └─ @types/react@17.0.85
+│  └─ @types/react@17.0.86
 │     ├─ @types/prop-types@*
 │     ├─ @types/scheduler@^0.16
 │     └─ csstype@^3.0.2
@@ -3816,7 +3816,7 @@ yarn list v1.22.22
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
 ├─ @types/react-transition-group@4.4.12
-├─ @types/react@19.1.4
+├─ @types/react@19.1.5
 │  └─ csstype@^3.0.2
 ├─ @types/readable-stream@2.3.15
 │  ├─ @types/node@*
@@ -9951,7 +9951,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.245.0
+├─ posthog-js@1.245.1
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.42.0
 │  ├─ fflate@^0.4.8
