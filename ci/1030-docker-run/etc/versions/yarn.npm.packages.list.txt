@@ -5098,7 +5098,7 @@ yarn list v1.22.22
 ├─ compressible@2.0.18
 │  ├─ mime-db@>= 1.43.0 < 2
 │  └─ mime-db@1.54.0
-├─ compressing@1.10.1
+├─ compressing@1.10.2
 │  ├─ @eggjs/yauzl@^2.11.0
 │  ├─ flushwritable@^1.0.0
 │  ├─ get-ready@^1.0.0
@@ -9951,7 +9951,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.245.1
+├─ posthog-js@1.245.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.42.0
 │  ├─ fflate@^0.4.8
