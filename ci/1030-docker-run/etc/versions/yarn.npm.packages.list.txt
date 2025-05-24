@@ -5098,7 +5098,7 @@ yarn list v1.22.22
 ├─ compressible@2.0.18
 │  ├─ mime-db@>= 1.43.0 < 2
 │  └─ mime-db@1.54.0
-├─ compressing@1.10.2
+├─ compressing@1.10.3
 │  ├─ @eggjs/yauzl@^2.11.0
 │  ├─ flushwritable@^1.0.0
 │  ├─ get-ready@^1.0.0
@@ -9970,7 +9970,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.26.6
+├─ preact@10.26.7
 ├─ prelude-ls@1.1.2
 ├─ prettier-plugin-svelte@1.4.2
 ├─ prettier@2.8.8
