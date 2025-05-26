@@ -92610,7 +92610,7 @@ systemd-oomd/jammy-updates 249.11-0ubuntu3.15 amd64
 systemd-repart/jammy-updates 249.11-0ubuntu3.15 amd64
 systemd-standalone-sysusers/jammy-updates 249.11-0ubuntu3.15 amd64
 systemd-standalone-tmpfiles/jammy-updates 249.11-0ubuntu3.15 amd64
-systemd-sysv/jammy-updates,now 249.11-0ubuntu3.15 amd64 [installed]
+systemd-sysv/jammy-updates,now 249.11-0ubuntu3.15 amd64 [installed,automatic]
 systemd-tests/jammy-updates 249.11-0ubuntu3.15 amd64
 systemd-timesyncd/jammy-updates,now 249.11-0ubuntu3.15 amd64 [installed,automatic]
 systemd-zram-generator/jammy 0.3.2-1 amd64
