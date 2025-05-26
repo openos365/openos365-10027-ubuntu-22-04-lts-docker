@@ -26420,15 +26420,15 @@ libglib-perl/jammy 3:1.329.3-2build1 amd64
 libglib-testing-0-0/jammy 0.1.1-1 amd64
 libglib-testing-0-dev/jammy 0.1.1-1 amd64
 libglib-testing-doc/jammy 0.1.1-1 all
-libglib2.0-0/jammy-updates,jammy-security,now 2.72.4-0ubuntu2.4 amd64 [installed,automatic]
-libglib2.0-bin/jammy-updates,jammy-security 2.72.4-0ubuntu2.4 amd64
+libglib2.0-0/jammy-security,now 2.72.4-0ubuntu2.5 amd64 [installed,automatic]
+libglib2.0-bin/jammy-security 2.72.4-0ubuntu2.5 amd64
 libglib2.0-cil-dev/jammy 2.12.40-3ubuntu1 amd64
 libglib2.0-cil/jammy 2.12.40-3ubuntu1 amd64
-libglib2.0-data/jammy-updates,jammy-security,now 2.72.4-0ubuntu2.4 all [installed,automatic]
-libglib2.0-dev-bin/jammy-updates,jammy-security 2.72.4-0ubuntu2.4 amd64
-libglib2.0-dev/jammy-updates,jammy-security 2.72.4-0ubuntu2.4 amd64
-libglib2.0-doc/jammy-updates,jammy-security 2.72.4-0ubuntu2.4 all
-libglib2.0-tests/jammy-updates,jammy-security 2.72.4-0ubuntu2.4 amd64
+libglib2.0-data/jammy-security,now 2.72.4-0ubuntu2.5 all [installed,automatic]
+libglib2.0-dev-bin/jammy-security 2.72.4-0ubuntu2.5 amd64
+libglib2.0-dev/jammy-security 2.72.4-0ubuntu2.5 amd64
+libglib2.0-doc/jammy-security 2.72.4-0ubuntu2.5 all
+libglib2.0-tests/jammy-security 2.72.4-0ubuntu2.5 amd64
 libglib3.0-cil-dev/jammy 2.99.3-4build1 amd64
 libglib3.0-cil/jammy 2.99.3-4build1 amd64
 libglibd-2.0-0/jammy 2.3.0-2build1 amd64
