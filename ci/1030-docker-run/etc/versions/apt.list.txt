@@ -2618,7 +2618,7 @@ ciderwebmail/jammy 1.05+20191006-1 all
 cif-linguist/jammy 0.4.2-3build1 amd64
 cif-tools/jammy 1.0.1b-1 amd64
 cifer/jammy 1.2.0-0ubuntu5 amd64
-cifs-utils/jammy-updates,jammy-security 2:6.14-1ubuntu0.1 amd64
+cifs-utils/jammy-security 2:6.14-1ubuntu0.2 amd64
 cil/jammy 0.07.00-12 all
 cim-schema/jammy 2.48.0-0ubuntu1 all
 cimg-dev/jammy 2.9.4+dfsg-3 all
