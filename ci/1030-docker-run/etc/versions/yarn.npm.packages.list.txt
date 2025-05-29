@@ -9974,7 +9974,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.26.7
+├─ preact@10.26.8
 ├─ prelude-ls@1.1.2
 ├─ prettier-plugin-svelte@1.4.2
 ├─ prettier@2.8.8
