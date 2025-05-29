@@ -14432,10 +14432,10 @@ ingerman/jammy 20161207-9 all
 inhomog/jammy 0.1.9.2-1build2 amd64
 init-system-helpers/jammy,now 1.62 all [installed]
 init/jammy 1.62 amd64
-initramfs-tools-bin/jammy-updates,now 0.140ubuntu13.4 amd64 [installed,automatic]
-initramfs-tools-core/jammy-updates,now 0.140ubuntu13.4 all [installed,automatic]
+initramfs-tools-bin/jammy-updates 0.140ubuntu13.5 amd64 [upgradable from: 0.140ubuntu13.4]
+initramfs-tools-core/jammy-updates 0.140ubuntu13.5 all [upgradable from: 0.140ubuntu13.4]
 initramfs-tools-devices/jammy 0.5 all
-initramfs-tools/jammy-updates,now 0.140ubuntu13.4 all [installed,automatic]
+initramfs-tools/jammy-updates 0.140ubuntu13.5 all [upgradable from: 0.140ubuntu13.4]
 initz/jammy 0.0.11+20030603cvs-17.3 all
 ink-generator/jammy 0.4-2.1 all
 ink/jammy 0.5.3-3 amd64
