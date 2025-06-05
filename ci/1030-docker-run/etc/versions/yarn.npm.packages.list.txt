@@ -430,9 +430,9 @@ yarn list v1.22.22
 │  ├─ @babel/template@^7.27.1
 │  ├─ @babel/traverse@^7.27.1
 │  └─ @babel/types@^7.27.1
-├─ @babel/helpers@7.27.4
+├─ @babel/helpers@7.27.6
 │  ├─ @babel/template@^7.27.2
-│  └─ @babel/types@^7.27.3
+│  └─ @babel/types@^7.27.6
 ├─ @babel/highlight@7.0.0-beta.46
 │  ├─ chalk@^2.0.0
 │  ├─ esutils@^2.0.2
@@ -820,7 +820,7 @@ yarn list v1.22.22
 │  ├─ shallow-clone@3.0.1
 │  │  └─ kind-of@^6.0.2
 │  └─ source-map-support@^0.5.16
-├─ @babel/runtime@7.27.4
+├─ @babel/runtime@7.27.6
 ├─ @babel/template@7.27.2
 │  ├─ @babel/code-frame@^7.27.1
 │  ├─ @babel/parser@^7.27.2
@@ -835,7 +835,7 @@ yarn list v1.22.22
 │  ├─ debug@4.4.1
 │  │  └─ ms@^2.1.3
 │  └─ globals@^11.1.0
-├─ @babel/types@7.27.3
+├─ @babel/types@7.27.6
 │  ├─ @babel/helper-string-parser@^7.27.1
 │  └─ @babel/helper-validator-identifier@^7.27.1
 ├─ @builder.io/react@1.1.54
@@ -2386,7 +2386,7 @@ yarn list v1.22.22
 │  ├─ @rollup/plugin-alias@^3.1.9
 │  ├─ @steedos-builder/react@^0.2.21
 │  ├─ @steedos-builder/react@0.2.38
-│  │  ├─ @babel/runtime@7.27.4
+│  │  ├─ @babel/runtime@7.27.6
 │  │  ├─ @builder.io/react@^1.1.50
 │  │  ├─ @builder.io/sdk@1.1.26
 │  │  ├─ @emotion/core@^10.0.17

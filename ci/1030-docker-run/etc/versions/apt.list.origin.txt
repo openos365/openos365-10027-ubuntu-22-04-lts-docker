@@ -6867,7 +6867,7 @@ fonts-gfs-porson/jammy 1.1-7 all
 fonts-gfs-solomos/jammy 1.1-6 all
 fonts-gfs-theokritos/jammy 1.1-6 all
 fonts-glasstty/jammy 0-2 all
-fonts-glyphicons-halflings/jammy 1.009~3.4.1+dfsg-2 all
+fonts-glyphicons-halflings/jammy-updates,jammy-security 1.009~3.4.1+dfsg-2+deb11u2build0.22.04.1 all
 fonts-gnutypewriter/jammy 1.0-2 all
 fonts-go/jammy 0~20170330-1 all
 fonts-gotico-antiqua/jammy 0+git20190704-4 all
@@ -29283,7 +29283,7 @@ libjs-bootbox/jammy 5.5.2~ds-2 all
 libjs-bootsidemenu/jammy 1.0.0-2 all
 libjs-bootstrap-tour/jammy 0.12.0+dfsg-3 all
 libjs-bootstrap4/jammy 4.6.0+dfsg1-4 all
-libjs-bootstrap/jammy 3.4.1+dfsg-2 all
+libjs-bootstrap/jammy-updates,jammy-security 3.4.1+dfsg-2+deb11u2build0.22.04.1 all
 libjs-bootswatch/jammy 3.3.7+dfsg2-1.1 all
 libjs-browser-request/jammy 0.3.3-5 all
 libjs-c3/jammy 0.4.11+dfsg-4 all
