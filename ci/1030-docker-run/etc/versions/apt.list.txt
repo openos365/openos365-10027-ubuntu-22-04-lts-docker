@@ -2994,7 +2994,7 @@ closure-compiler/jammy 20130227+dfsg1-10.1 all
 cloud-enum/jammy 0.6-2 all
 cloud-guest-utils/jammy 0.32-22-g45fe84a5-0ubuntu1 all
 cloud-image-utils/jammy 0.32-22-g45fe84a5-0ubuntu1 all
-cloud-init/jammy-updates 24.4.1-0ubuntu0~22.04.2 all
+cloud-init/jammy-updates 25.1.2-0ubuntu0~22.04.1 all
 cloud-initramfs-copymods/jammy 0.47ubuntu1 all
 cloud-initramfs-dyn-netconf/jammy 0.47ubuntu1 all
 cloud-initramfs-growroot/jammy 0.47ubuntu1 all
@@ -96076,7 +96076,7 @@ wireguard-dkms/jammy 1.0.20210606-1 all
 wireguard-go/jammy-updates,jammy-security 0.0.20220117-2ubuntu0.1 amd64
 wireguard-tools/jammy 1.0.20210914-1ubuntu2 amd64
 wireguard/jammy 1.0.20210914-1ubuntu2 all
-wireless-regdb/jammy-updates,jammy-security 2024.07.04-0ubuntu1~22.04.1 all
+wireless-regdb/jammy-updates,jammy-security 2024.10.07-0ubuntu1~22.04.1 all
 wireless-tools/jammy 30~pre9-13.1ubuntu4 amd64
 wireplumber/jammy 0.4.8-4 amd64
 wireshark-common/jammy 3.6.2-2 amd64
