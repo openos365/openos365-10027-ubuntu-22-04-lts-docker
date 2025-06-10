@@ -3729,8 +3729,8 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@22.15.30
-│  └─ undici-types@~6.21.0
+├─ @types/node@24.0.0
+│  └─ undici-types@~7.8.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  ├─ path-to-regexp@*
@@ -12396,7 +12396,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.1.0
 │  └─ which-boxed-primitive@^1.1.1
 ├─ underscore@1.13.7
-├─ undici-types@6.21.0
+├─ undici-types@7.8.0
 ├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
