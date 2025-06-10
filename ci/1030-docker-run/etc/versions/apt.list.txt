@@ -86941,7 +86941,7 @@ python3-unpaddedbase64/jammy 1.1.0-5 all
 python3-unrardll/jammy 0.1.5-2build1 amd64
 python3-untokenize/jammy 0.1.1-3 all
 python3-unyt/jammy 2.8.0-2 all
-python3-update-manager/jammy-updates 1:22.04.21 all
+python3-update-manager/jammy-updates 1:22.04.22 all
 python3-upsetplot/jammy 0.6.0-3 all
 python3-upstream-ontologist/jammy 0.1.24-1 all
 python3-uranium/jammy 4.13.0-1 all
@@ -95202,8 +95202,8 @@ unyaffs/jammy 0.9.7-0.2 amd64
 unzip/jammy-updates,now 6.0-26ubuntu3.2 amd64 [installed,automatic]
 upass/jammy 0.3.0-1.1 all
 update-inetd/jammy 4.51 all
-update-manager-core/jammy-updates 1:22.04.21 all
-update-manager/jammy-updates 1:22.04.21 all
+update-manager-core/jammy-updates 1:22.04.22 all
+update-manager/jammy-updates 1:22.04.22 all
 update-motd/jammy 3.10 all
 update-notifier-common/jammy-updates 3.192.54.8 all
 update-notifier/jammy-updates 3.192.54.8 amd64
