@@ -4588,6 +4588,7 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
+dive/now 0.13.1 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -29307,9 +29308,9 @@ libjs-d3/jammy 3.5.17-4 all
 libjs-dateformat/jammy 3.0.0-2 all
 libjs-debug/jammy 4.3.2+~cs4.1.7-1 all
 libjs-debugger/jammy 0.5-5 all
-libjs-dojo-core/jammy 1.15.4+dfsg1-1 all
-libjs-dojo-dijit/jammy 1.15.4+dfsg1-1 all
-libjs-dojo-dojox/jammy 1.15.4+dfsg1-1 all
+libjs-dojo-core/jammy-security 1.15.4+dfsg1-1ubuntu0.1 all
+libjs-dojo-dijit/jammy-security 1.15.4+dfsg1-1ubuntu0.1 all
+libjs-dojo-dojox/jammy-security 1.15.4+dfsg1-1ubuntu0.1 all
 libjs-dropzone/jammy 5.7.2+dfsg-1 all
 libjs-edit-area/jammy 0.8.2-2 all
 libjs-elycharts/jammy 2.1.5+ds-4 all
@@ -83015,7 +83016,7 @@ python-renpy/jammy 7.3.5+dfsg-2 amd64
 python-reportlab-doc/jammy-updates,jammy-security 3.6.8-1ubuntu0.1 all
 python-repoze.tm2-doc/jammy 2.0-2 all
 python-requests-cache-doc/jammy 0.9.1-1 all
-python-requests-doc/jammy-security 2.25.1+dfsg-2ubuntu0.3 all
+python-requests-doc/jammy-updates,jammy-security 2.25.1+dfsg-2ubuntu0.3 all
 python-requests-mock-doc/jammy 1.9.3-2 all
 python-requests-oauthlib-doc/jammy 1.3.0+ds-0.1 all
 python-requests-toolbelt-doc/jammy 0.9.1-1 all
@@ -86275,7 +86276,7 @@ python3-requests-ntlm/jammy 1.1.0-1.1 all
 python3-requests-oauthlib/jammy 1.3.0+ds-0.1 all
 python3-requests-toolbelt/jammy 0.9.1-1 all
 python3-requests-unixsocket/jammy 0.2.0-2 all
-python3-requests/jammy-security 2.25.1+dfsg-2ubuntu0.3 all
+python3-requests/jammy-updates,jammy-security 2.25.1+dfsg-2ubuntu0.3 all
 python3-requestsexceptions/jammy 1.4.0-3 all
 python3-requirement-parser/jammy 0.2.0-1.1 all
 python3-requirements-detector/jammy 0.6-2 all
@@ -91965,7 +91966,7 @@ show-motd/jammy 3.10 all
 showfoto/jammy 4:7.5.0-3fakesync1 amd64
 showfsck/jammy 1.4ubuntu5 all
 showq/jammy 0.4.1+git20200907-1 amd64
-shrinksafe/jammy 1.15.4+dfsg1-1 all
+shrinksafe/jammy-security 1.15.4+dfsg1-1ubuntu0.1 all
 shtool/jammy 2.0.8-10 all
 shunit2/jammy 2.1.6-1.2 all
 shush/jammy 1.2.3-5 amd64
