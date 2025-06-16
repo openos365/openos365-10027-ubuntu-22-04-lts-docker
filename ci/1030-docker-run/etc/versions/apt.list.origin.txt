@@ -4588,7 +4588,6 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
-dive/now 0.13.1 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -83016,7 +83015,7 @@ python-renpy/jammy 7.3.5+dfsg-2 amd64
 python-reportlab-doc/jammy-updates,jammy-security 3.6.8-1ubuntu0.1 all
 python-repoze.tm2-doc/jammy 2.0-2 all
 python-requests-cache-doc/jammy 0.9.1-1 all
-python-requests-doc/jammy-updates,jammy-security 2.25.1+dfsg-2ubuntu0.1 all
+python-requests-doc/jammy-security 2.25.1+dfsg-2ubuntu0.3 all
 python-requests-mock-doc/jammy 1.9.3-2 all
 python-requests-oauthlib-doc/jammy 1.3.0+ds-0.1 all
 python-requests-toolbelt-doc/jammy 0.9.1-1 all
@@ -86276,7 +86275,7 @@ python3-requests-ntlm/jammy 1.1.0-1.1 all
 python3-requests-oauthlib/jammy 1.3.0+ds-0.1 all
 python3-requests-toolbelt/jammy 0.9.1-1 all
 python3-requests-unixsocket/jammy 0.2.0-2 all
-python3-requests/jammy-updates,jammy-security 2.25.1+dfsg-2ubuntu0.1 all
+python3-requests/jammy-security 2.25.1+dfsg-2ubuntu0.3 all
 python3-requestsexceptions/jammy 1.4.0-3 all
 python3-requirement-parser/jammy 0.2.0-1.1 all
 python3-requirements-detector/jammy 0.6-2 all
