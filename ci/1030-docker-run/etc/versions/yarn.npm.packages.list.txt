@@ -3729,7 +3729,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.0.2
+├─ @types/node@24.0.3
 │  └─ undici-types@~7.8.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
