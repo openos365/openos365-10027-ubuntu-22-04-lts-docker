@@ -1818,7 +1818,7 @@ yarn list v1.22.22
 │  ├─ estree-walker@^2.0.1
 │  └─ picomatch@^2.2.2
 ├─ @salesforce/babel-preset-design-system-react@3.0.0
-├─ @salesforce/design-system-react@0.10.63
+├─ @salesforce/design-system-react@0.10.64
 │  ├─ @salesforce/babel-preset-design-system-react@^3.0.0
 │  ├─ classnames@^2.2.6
 │  ├─ column-resizer@^1.3.6
@@ -3729,7 +3729,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.0.3
+├─ @types/node@24.0.4
 │  └─ undici-types@~7.8.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
