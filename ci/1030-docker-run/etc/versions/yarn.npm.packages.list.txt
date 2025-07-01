@@ -8633,7 +8633,7 @@ yarn list v1.22.22
 │  ├─ bson@^1.1.4
 │  ├─ denque@^1.4.1
 │  ├─ optional-require@^1.1.8
-│  ├─ optional-require@1.1.9
+│  ├─ optional-require@1.1.10
 │  │  └─ require-at@^1.0.6
 │  ├─ safe-buffer@^5.1.2
 │  └─ saslprep@^1.0.0
