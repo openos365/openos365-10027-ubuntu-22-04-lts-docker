@@ -1291,6 +1291,9 @@ yarn list v1.22.22
 │  └─ client-only@^0.0.1
 ├─ @heroicons/react@1.0.6
 ├─ @ioredis/commands@1.2.0
+├─ @isaacs/balanced-match@4.0.1
+├─ @isaacs/brace-expansion@5.0.0
+│  └─ @isaacs/balanced-match@^4.0.1
 ├─ @isaacs/cliui@8.0.2
 │  ├─ ansi-regex@6.1.0
 │  ├─ ansi-styles@6.2.1
@@ -1548,12 +1551,12 @@ yarn list v1.22.22
 ├─ @jimp/utils@0.16.13
 │  ├─ @babel/runtime@^7.7.2
 │  └─ regenerator-runtime@^0.13.3
-├─ @jridgewell/gen-mapping@0.3.11
+├─ @jridgewell/gen-mapping@0.3.12
 │  ├─ @jridgewell/sourcemap-codec@^1.5.0
 │  └─ @jridgewell/trace-mapping@^0.3.24
 ├─ @jridgewell/resolve-uri@3.1.2
-├─ @jridgewell/sourcemap-codec@1.5.3
-├─ @jridgewell/trace-mapping@0.3.28
+├─ @jridgewell/sourcemap-codec@1.5.4
+├─ @jridgewell/trace-mapping@0.3.29
 │  ├─ @jridgewell/resolve-uri@^3.1.0
 │  └─ @jridgewell/sourcemap-codec@^1.4.14
 ├─ @jsx-lite/core@0.0.17
@@ -3717,19 +3720,22 @@ yarn list v1.22.22
 ├─ @types/linkify-it@5.0.0
 ├─ @types/lodash.mergewith@4.6.6
 │  └─ @types/lodash@*
-├─ @types/lodash@4.17.19
+├─ @types/lodash@4.17.20
 ├─ @types/markdown-it@14.1.2
 │  ├─ @types/linkify-it@^5
 │  └─ @types/mdurl@^2
 ├─ @types/mdurl@2.0.0
-├─ @types/minimatch@5.1.2
+├─ @types/minimatch@6.0.0
+│  ├─ minimatch@*
+│  └─ minimatch@10.0.3
+│     └─ @isaacs/brace-expansion@^5.0.0
 ├─ @types/mongodb@3.6.20
 │  ├─ @types/bson@*
 │  ├─ @types/bson@4.2.4
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.0.8
+├─ @types/node@24.0.10
 │  └─ undici-types@~7.8.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -11461,9 +11467,10 @@ yarn list v1.22.22
 │  └─ split-string@^3.0.1
 ├─ setimmediate@1.0.5
 ├─ setprototypeof@1.1.1
-├─ sha.js@2.4.11
-│  ├─ inherits@^2.0.1
-│  └─ safe-buffer@^5.0.1
+├─ sha.js@2.4.12
+│  ├─ inherits@^2.0.4
+│  ├─ safe-buffer@^5.2.1
+│  └─ to-buffer@^1.2.0
 ├─ sha256@0.2.0
 │  ├─ convert-hex@~0.1.0
 │  └─ convert-string@~0.1.0
