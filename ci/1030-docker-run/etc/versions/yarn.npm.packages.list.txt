@@ -1974,17 +1974,17 @@ yarn list v1.22.22
 │  ├─ @steedos-labs/flows@2.2.1
 │  │  └─ @steedos-labs/master@2.2.1
 │  └─ @steedos-labs/master@2.2.1
-├─ @steedos-labs/contract@2.6.4
-│  ├─ @steedos-labs/finance@2.6.4
-│  ├─ @steedos-labs/invoice@2.6.4
-│  ├─ @steedos-labs/master@2.6.4
-│  └─ @steedos-labs/master@2.6.4
+├─ @steedos-labs/contract@2.7.0
 ├─ @steedos-labs/cost-ee@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.2.9-beta.3
 │  │  └─ @steedos-labs/master@2.2.9-beta.3
 │  └─ @steedos-labs/master@2.2.9-beta.3
 ├─ @steedos-labs/cost@2.6.4
+│  ├─ @steedos-labs/contract@2.6.4
+│  │  ├─ @steedos-labs/finance@2.6.4
+│  │  ├─ @steedos-labs/invoice@2.6.4
+│  │  └─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/invoice@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
@@ -1998,6 +1998,10 @@ yarn list v1.22.22
 ├─ @steedos-labs/demo-ee@2.6.4
 │  ├─ @steedos-labs/asset@2.6.4
 │  ├─ @steedos-labs/contract@2.6.4
+│  ├─ @steedos-labs/contract@2.6.4
+│  │  ├─ @steedos-labs/finance@2.6.4
+│  │  ├─ @steedos-labs/invoice@2.6.4
+│  │  └─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/cost@2.6.4
 │  ├─ @steedos-labs/finance@2.6.4
 │  ├─ @steedos-labs/master@2.6.4
@@ -2100,6 +2104,10 @@ yarn list v1.22.22
 │  │  ├─ @steedos-labs/flows@2.2.1
 │  │  └─ @steedos-labs/master@2.2.9-beta.3
 │  ├─ @steedos-labs/contract@2.6.4
+│  ├─ @steedos-labs/contract@2.6.4
+│  │  ├─ @steedos-labs/finance@2.6.4
+│  │  ├─ @steedos-labs/invoice@2.6.4
+│  │  └─ @steedos-labs/master@2.6.4
 │  ├─ @steedos-labs/cost-ee@2.2.9-beta.3
 │  ├─ @steedos-labs/cost@2.6.4
 │  ├─ @steedos-labs/demo-ee@2.6.4
