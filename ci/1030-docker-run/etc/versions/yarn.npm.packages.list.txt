@@ -4886,7 +4886,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001726
+├─ caniuse-lite@1.0.30001727
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -5560,7 +5560,7 @@ yarn list v1.22.22
 │  ├─ ms@2.0.0
 │  └─ ms@2.0.0
 ├─ decamelize@1.2.0
-├─ decimal.js@10.5.0
+├─ decimal.js@10.6.0
 ├─ decode-uri-component@0.2.2
 ├─ dedent@0.7.0
 ├─ deep-assign@3.0.0
