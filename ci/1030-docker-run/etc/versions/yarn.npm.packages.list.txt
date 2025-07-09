@@ -5273,7 +5273,7 @@ yarn list v1.22.22
 ├─ create-require@1.1.1
 ├─ cron-parser@4.9.0
 │  ├─ luxon@^3.2.1
-│  └─ luxon@3.6.1
+│  └─ luxon@3.7.0
 ├─ cron@1.8.3
 │  └─ luxon@^1.23.x
 ├─ cross-fetch@3.2.0
