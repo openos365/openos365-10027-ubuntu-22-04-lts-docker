@@ -3876,7 +3876,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.0.10
+├─ @types/node@24.0.12
 │  └─ undici-types@~7.8.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -5661,7 +5661,7 @@ yarn list v1.22.22
 ├─ doctypes@1.1.0
 ├─ docx@7.8.2
 │  ├─ @types/node@^18.0.0
-│  ├─ @types/node@18.19.115
+│  ├─ @types/node@18.19.117
 │  │  └─ undici-types@~5.26.4
 │  ├─ jszip@^3.1.5
 │  ├─ nanoid@^3.1.20
@@ -9987,7 +9987,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.256.2
+├─ posthog-js@1.257.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.44.0
 │  ├─ fflate@^0.4.8
