@@ -9779,7 +9779,7 @@ gis-web/jammy 0.0.20 all
 gis-workstation/jammy 0.0.20 all
 gist/jammy 6.0.0-2 all
 git-absorb/jammy 0.6.6-2build2 amd64
-git-all/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+git-all/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 git-annex-remote-rclone/jammy 0.6-1 all
 git-annex/jammy 8.20210223-2ubuntu2 amd64
 git-autofixup/jammy 0.003001-2 all
@@ -9791,26 +9791,26 @@ git-bump/jammy 1.1.0-2 all
 git-cola/jammy 3.12.0-1 all
 git-crecord/jammy 20201025.0-1 all
 git-crypt/jammy 0.6.0-1ubuntu1 amd64
-git-cvs/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
-git-daemon-run/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
-git-daemon-sysvinit/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+git-cvs/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-daemon-run/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-daemon-sysvinit/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 git-debpush/jammy 9.15 all
 git-debrebase/jammy 9.15 all
-git-doc/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+git-doc/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 git-dpm/jammy 0.10.0-1.1 all
-git-email/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+git-email/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 git-evtag-tests/jammy 2016.1-2 all
 git-evtag/jammy 2016.1-2 amd64
 git-extras/jammy 6.1.0-1 all
 git-filter-repo/jammy 2.34.0-1 all
 git-flow/jammy 1.12.3-3 all
 git-ftp/jammy 1.6.0+dfsg-1 all
-git-gui/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+git-gui/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 git-hub/jammy 2.1.3-1 all
 git-imerge/jammy 1.2.0-3 all
 git-lfs/jammy-updates,jammy-security 3.0.2-1ubuntu0.3 amd64
-git-man/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.14 all [installed,automatic]
-git-mediawiki/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+git-man/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.15 all [installed,automatic]
+git-mediawiki/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 git-merge-changelog/jammy 20210822~d383792-1 amd64
 git-phab/jammy 2.9.0~git20170531+6877964-2 all
 git-publish/jammy 1.6.0-1 all
@@ -9826,9 +9826,9 @@ git-revise/jammy 0.6.0-2 all
 git-secret/jammy 0.4.0-1 all
 git-secrets/jammy 1.3.0-4 all
 git-sizer/jammy 1.3.0+dfsg-1build2 amd64
-git-svn/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+git-svn/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 git2cl/jammy 1:2.0+git20120920-3 all
-git/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.14 amd64 [installed]
+git/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.15 amd64 [installed]
 gita/jammy 0.16.2-1 all
 gitbatch/jammy-updates,jammy-security 0.5.0-3ubuntu0.22.04.3 amd64
 gitbrute/jammy 0~12-4 amd64
@@ -9836,7 +9836,7 @@ gitg/jammy 41-2 amd64
 github-backup/jammy 1.20200721-2build1 amd64
 gitinspector/jammy 0.4.4+dfsg-11 all
 gitit/jammy 0.13.0.0+dfsg-2build5 amd64
-gitk/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+gitk/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 gitlab-cli/jammy 1:2.10.1-2 all
 gitlab-rulez/jammy 0.0~git20220111.6a67fc5-1 all
 gitlab-shell/jammy-updates,jammy-security 13.19.1-2ubuntu0.20.04.3 amd64
@@ -9848,7 +9848,7 @@ gitolite3/jammy 3.6.12-1 all
 gitpkg/jammy 0.30 all
 gitso/jammy 0.6.2+svn158+dfsg-4 all
 gitsome/jammy 0.8.0+ds-6ubuntu1 all
-gitweb/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.14 all
+gitweb/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
 givaro-dev-doc/jammy 4.2.0-1 all
 givaro-user-doc/jammy 4.2.0-1 all
 giza-dev/jammy 1.3.1-1 amd64
@@ -32485,8 +32485,8 @@ libmysql++3v5/jammy 3.2.5-2.1 amd64
 libmysql-diff-perl/jammy 0.60-1 all
 libmysql-ocaml-dev/jammy 1.2.4-1ubuntu3 amd64
 libmysql-ocaml/jammy 1.2.4-1ubuntu3 amd64
-libmysqlclient-dev/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
-libmysqlclient21/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
+libmysqlclient-dev/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
+libmysqlclient21/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
 libmysqlcppconn-dev/jammy 1.1.12-4ubuntu2 amd64
 libmysqlcppconn7v5/jammy 1.1.12-4ubuntu2 amd64
 libmyth-dev/jammy 2:32.0+fixes.20220325.f69ce764b7-0ubuntu1 amd64
@@ -78387,18 +78387,18 @@ myspell-uk/jammy 1.8.0+dfsg-1 all
 myspell-ve/jammy 20070206-3ubuntu3 all
 myspell-xh/jammy 20070206-4ubuntu4 all
 myspell-zu/jammy 20070207-5ubuntu3 all
-mysql-client-8.0/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
-mysql-client-core-8.0/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
-mysql-client/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 all
+mysql-client-8.0/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
+mysql-client-core-8.0/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
+mysql-client/jammy-updates 8.0.42-0ubuntu0.22.04.2 all
 mysql-common/jammy 5.8+1.0.8 all
-mysql-router/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
+mysql-router/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
 mysql-sandbox/jammy 3.2.05-1 all
-mysql-server-8.0/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
-mysql-server-core-8.0/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
-mysql-server/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 all
-mysql-source-8.0/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
-mysql-testsuite-8.0/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 amd64
-mysql-testsuite/jammy-updates,jammy-security 8.0.42-0ubuntu0.22.04.1 all
+mysql-server-8.0/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
+mysql-server-core-8.0/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
+mysql-server/jammy-updates 8.0.42-0ubuntu0.22.04.2 all
+mysql-source-8.0/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
+mysql-testsuite-8.0/jammy-updates 8.0.42-0ubuntu0.22.04.2 amd64
+mysql-testsuite/jammy-updates 8.0.42-0ubuntu0.22.04.2 all
 mysqltcl/jammy 3.052-3ubuntu1 amd64
 mysqltuner/jammy 1.7.17-1 all
 mysqmail-courier-logger/jammy 0.4.9-10.3 amd64
