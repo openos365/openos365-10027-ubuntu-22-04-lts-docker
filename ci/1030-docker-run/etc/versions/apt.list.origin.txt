@@ -646,13 +646,13 @@ appmenu-gtk-module-common/jammy 0.7.6-2 all
 appmenu-gtk2-module/jammy 0.7.6-2 amd64
 appmenu-gtk3-module/jammy 0.7.6-2 amd64
 appmenu-registrar/jammy 0.7.6-2 amd64
-apport-gtk/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
-apport-kde/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
-apport-noui/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
-apport-retrace/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
+apport-gtk/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
+apport-kde/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
+apport-noui/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
+apport-retrace/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
 apport-symptoms/jammy 0.24 all
-apport-valgrind/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
-apport/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
+apport-valgrind/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
+apport/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
 approx/jammy 5.10-2build2 amd64
 appstream-compose/jammy 0.15.2-2 amd64
 appstream-doc/jammy 0.15.2-2 all
@@ -4226,7 +4226,7 @@ dgit/jammy 9.15 all
 dh-acc/jammy 2.3-1ubuntu1 all
 dh-ada-library/jammy 7.3 amd64
 dh-apparmor/jammy-updates,jammy-security 3.0.4-2ubuntu2.4 all
-dh-apport/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
+dh-apport/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
 dh-autoreconf/jammy 20 all
 dh-buildinfo/jammy 0.11+nmu2 all
 dh-cargo/jammy 28 all
@@ -9415,7 +9415,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy-updates,jammy-security 1.0.0+ds-1ubuntu0.22.04.1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.75.0 amd64 [installed]
+gh/unknown,now 2.75.1 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -10567,8 +10567,8 @@ gnustep-icons/jammy 1.0-9 all
 gnustep-make-doc/jammy 2.9.0-3 all
 gnustep-make/jammy 2.9.0-3 all
 gnustep/jammy 7.10 all
-gnutls-bin/jammy-updates,jammy-security 3.7.3-4ubuntu1.6 amd64
-gnutls-doc/jammy-updates,jammy-security 3.7.3-4ubuntu1.6 all
+gnutls-bin/jammy-updates,jammy-security 3.7.3-4ubuntu1.7 amd64
+gnutls-doc/jammy-updates,jammy-security 3.7.3-4ubuntu1.7 all
 go-bindata/jammy 3.0.7+git20151023.72.a0ff256-3build2 amd64
 go-cve-dictionary/jammy-updates,jammy-security 0.3.1-4ubuntu0.22.04.3 amd64
 go-dqlite/jammy-updates,jammy-security 1.10.1-1ubuntu0.1 amd64
@@ -13406,7 +13406,7 @@ guile-git/jammy 0.5.2-3 amd64
 guile-gnome2-dev/jammy 2.16.5-4 amd64
 guile-gnome2-glib/jammy 2.16.5-4 amd64
 guile-gnome2-gtk/jammy 2.16.5-4 amd64
-guile-gnutls/jammy-updates,jammy-security 3.7.3-4ubuntu1.6 amd64
+guile-gnutls/jammy-updates,jammy-security 3.7.3-4ubuntu1.7 amd64
 guile-json/jammy 4.5.2-3 amd64
 guile-library/jammy 0.2.7-3 amd64
 guile-lzlib/jammy 0.0.2-3 amd64
@@ -26988,11 +26988,11 @@ libgnustep-dl2-0d/jammy 0.12.0-15.1build6 amd64
 libgnustep-dl2-dev/jammy 0.12.0-15.1build6 amd64
 libgnustep-gui-dev/jammy 0.29.0-2build1 amd64
 libgnustep-gui0.29/jammy 0.29.0-2build1 amd64
-libgnutls-dane0/jammy-updates,jammy-security 3.7.3-4ubuntu1.6 amd64
-libgnutls-openssl27/jammy-updates,jammy-security 3.7.3-4ubuntu1.6 amd64
-libgnutls28-dev/jammy-updates,jammy-security 3.7.3-4ubuntu1.6 amd64
-libgnutls30/jammy-updates,jammy-security,now 3.7.3-4ubuntu1.6 amd64 [installed]
-libgnutlsxx28/jammy-updates,jammy-security 3.7.3-4ubuntu1.6 amd64
+libgnutls-dane0/jammy-updates,jammy-security 3.7.3-4ubuntu1.7 amd64
+libgnutls-openssl27/jammy-updates,jammy-security 3.7.3-4ubuntu1.7 amd64
+libgnutls28-dev/jammy-updates,jammy-security 3.7.3-4ubuntu1.7 amd64
+libgnutls30/jammy-updates,jammy-security,now 3.7.3-4ubuntu1.7 amd64 [installed]
+libgnutlsxx28/jammy-updates,jammy-security 3.7.3-4ubuntu1.7 amd64
 libgo-10-dev-alpha-cross/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04cross1 all
 libgo-10-dev-amd64-cross/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04cross1 all
 libgo-10-dev-arm64-cross/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04cross1 all
@@ -85327,7 +85327,7 @@ python3-aplpy/jammy 2.0.3+git2020.05.29-2 all
 python3-apparmor/jammy-updates,jammy-security 3.0.4-2ubuntu2.4 all
 python3-appdirs/jammy 1.4.4-2 all
 python3-applicationinsights/jammy 0.11.10-1 all
-python3-apport/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
+python3-apport/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
 python3-apptools/jammy 5.1.0-1 all
 python3-apriltag/jammy 3.2.0-1 amd64
 python3-apscheduler/jammy 3.8.1-1 all
@@ -87686,7 +87686,7 @@ python3-primecountpy-doc/jammy 0.1.0-2build1 all
 python3-primecountpy/jammy 0.1.0-2build1 amd64
 python3-priority/jammy 1.3.0-3 all
 python3-prison/jammy 0.1.3-2 all
-python3-problem-report/jammy-updates,jammy-security 2.20.11-0ubuntu82.8 all
+python3-problem-report/jammy-updates,jammy-security 2.20.11-0ubuntu82.9 all
 python3-proboscis/jammy 1.2.6.0-5 all
 python3-procrunner/jammy 1.1.0-1 amd64
 python3-profitbricks/jammy 4.1.3-3 all
