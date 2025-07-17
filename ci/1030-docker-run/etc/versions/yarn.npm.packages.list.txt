@@ -3166,7 +3166,7 @@ yarn list v1.22.22
 │  │  ├─ object-assign@^4.1.1
 │  │  ├─ prop-types@^15.6.2
 │  │  └─ scheduler@^0.19.1
-│  ├─ react-monaco-editor@0.58.0
+│  ├─ react-monaco-editor@0.59.0
 │  ├─ react-monaco-editor@latest
 │  ├─ react@^16.13.1
 │  ├─ react@16.14.0
@@ -7790,10 +7790,11 @@ yarn list v1.22.22
 │  │  └─ webidl-conversions@5.0.0
 │  ├─ escodegen@^2.0.0
 │  ├─ form-data@^3.0.0
-│  ├─ form-data@3.0.3
+│  ├─ form-data@3.0.4
 │  │  ├─ asynckit@^0.4.0
 │  │  ├─ combined-stream@^1.0.8
 │  │  ├─ es-set-tostringtag@^2.1.0
+│  │  ├─ hasown@^2.0.2
 │  │  └─ mime-types@^2.1.35
 │  ├─ html-encoding-sniffer@^2.0.1
 │  ├─ html-encoding-sniffer@2.0.1
