@@ -8837,14 +8837,15 @@ yarn list v1.22.22
 │  └─ sliced@1.0.1
 ├─ monotone-convex-hull-2d@1.0.1
 │  └─ robust-orientation@^1.1.3
-├─ morgan@1.10.0
+├─ morgan@1.10.1
 │  ├─ basic-auth@~2.0.1
 │  ├─ debug@2.6.9
 │  ├─ depd@~2.0.0
 │  ├─ on-finished@~2.3.0
 │  ├─ on-finished@2.3.0
 │  │  └─ ee-first@1.1.1
-│  └─ on-headers@~1.0.2
+│  ├─ on-headers@~1.1.0
+│  └─ on-headers@1.1.0
 ├─ mouse-change@1.4.0
 │  └─ mouse-event@^1.0.0
 ├─ mouse-event-offset@3.0.2
