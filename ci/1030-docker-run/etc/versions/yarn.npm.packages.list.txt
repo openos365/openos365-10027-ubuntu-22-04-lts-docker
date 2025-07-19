@@ -436,11 +436,11 @@ yarn list v1.22.22
 ├─ @babel/helpers@7.27.6
 │  ├─ @babel/template@^7.27.2
 │  └─ @babel/types@^7.27.6
-├─ @babel/highlight@7.0.0-beta.46
-│  ├─ chalk@^2.0.0
-│  ├─ esutils@^2.0.2
-│  ├─ js-tokens@^3.0.0
-│  └─ js-tokens@3.0.2
+├─ @babel/highlight@7.25.9
+│  ├─ @babel/helper-validator-identifier@^7.25.9
+│  ├─ chalk@^2.4.2
+│  ├─ js-tokens@^4.0.0
+│  └─ picocolors@^1.0.0
 ├─ @babel/parser@7.28.0
 │  └─ @babel/types@^7.28.0
 ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.27.1
@@ -1726,7 +1726,6 @@ yarn list v1.22.22
 │  ├─ connect@^3.6.5
 │  ├─ cosmiconfig@^5.1.0
 │  ├─ deepmerge@^3.2.0
-│  ├─ deepmerge@3.3.0
 │  ├─ didyoumean@^1.2.1
 │  ├─ envinfo@^7.1.0
 │  ├─ errorhandler@^1.5.0
@@ -3143,15 +3142,6 @@ yarn list v1.22.22
 │  ├─ wechat-crypto@^0.0.2
 │  └─ wx-ding-aes@^0.0.10
 ├─ @steedos/plugin-enterprise@2.1.116
-├─ @steedos/plugin-jsreport@2.1.39
-│  ├─ @babel/runtime@^7.5.4
-│  ├─ jsreport-chrome-pdf@1.5.0
-│  ├─ jsreport-core@2.5.0
-│  ├─ jsreport-handlebars@2.0.2
-│  ├─ jsreport-html-to-xlsx@2.3.1
-│  ├─ jsreport-scripts@2.1.0
-│  ├─ jsreport-text@2.0.0
-│  └─ puppeteer@1.17.0
 ├─ @steedos/plugin-keycloak@2.5.51
 ├─ @steedos/plugin-mailcow@0.0.7
 │  ├─ dotenv-flow@^3.1.0
@@ -3668,7 +3658,6 @@ yarn list v1.22.22
 │  ├─ @steedos/odata-v4-parser@2.5.11-beta.10
 │  ├─ clone@^2.1.2
 │  ├─ mingo@^6.0.5
-│  ├─ mingo@6.6.1
 │  ├─ underscore@1.5.2
 │  └─ underscore@1.5.2
 ├─ @steedos/webapp-accounts@2.6.38
@@ -4646,7 +4635,7 @@ yarn list v1.22.22
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
 │  └─ safe-buffer@5.1.2
-├─ batch@0.4.0
+├─ batch@0.6.1
 ├─ bcrypt-pbkdf@1.0.2
 │  └─ tweetnacl@^0.14.3
 ├─ bcryptjs@2.4.3
@@ -4837,16 +4826,7 @@ yarn list v1.22.22
 │  ├─ component-emitter@1.3.1
 │  ├─ get-value@^2.0.6
 │  ├─ has-value@^1.0.0
-│  ├─ has-value@1.0.0
-│  │  ├─ get-value@^2.0.6
-│  │  ├─ has-values@^1.0.0
-│  │  └─ isobject@^3.0.0
-│  ├─ has-values@1.0.0
-│  │  ├─ is-number@^3.0.0
-│  │  └─ kind-of@^4.0.0
 │  ├─ isobject@^3.0.1
-│  ├─ kind-of@4.0.0
-│  │  └─ is-buffer@^1.1.5
 │  ├─ set-value@^2.0.0
 │  ├─ to-object-path@^0.3.0
 │  ├─ union-value@^1.0.0
@@ -4960,11 +4940,6 @@ yarn list v1.22.22
 │  └─ upath@^1.1.1
 ├─ chownr@1.1.4
 ├─ chroma-js@1.4.1
-├─ chrome-page-eval@1.2.0
-│  ├─ debug@3.1.0
-│  ├─ debug@3.1.0
-│  │  └─ ms@2.0.0
-│  └─ ms@2.0.0
 ├─ chrome-trace-event@1.0.4
 ├─ ci-info@2.0.0
 ├─ cipher-base@1.0.6
@@ -5040,18 +5015,15 @@ yarn list v1.22.22
 ├─ cli-spinners@2.9.2
 ├─ cli-width@2.2.1
 ├─ client-only@0.0.1
-├─ cliui@3.2.0
-│  ├─ ansi-regex@2.1.1
-│  ├─ is-fullwidth-code-point@1.0.0
-│  │  └─ number-is-nan@^1.0.0
-│  ├─ string-width@^1.0.1
-│  ├─ string-width@1.0.2
-│  │  ├─ code-point-at@^1.0.0
-│  │  ├─ is-fullwidth-code-point@^1.0.0
-│  │  └─ strip-ansi@^3.0.0
-│  ├─ strip-ansi@^3.0.1
-│  ├─ strip-ansi@3.0.1
-│  │  └─ ansi-regex@^2.0.0
+├─ cliui@4.1.0
+│  ├─ ansi-regex@3.0.1
+│  ├─ string-width@^2.1.1
+│  ├─ string-width@2.1.1
+│  │  ├─ is-fullwidth-code-point@^2.0.0
+│  │  └─ strip-ansi@^4.0.0
+│  ├─ strip-ansi@^4.0.0
+│  ├─ strip-ansi@4.0.0
+│  │  └─ ansi-regex@^3.0.0
 │  └─ wrap-ansi@^2.0.0
 ├─ clone-deep@2.0.2
 │  ├─ for-own@^1.0.0
@@ -5099,7 +5071,6 @@ yarn list v1.22.22
 ├─ colorette@1.4.0
 ├─ colormap@2.3.2
 │  └─ lerp@^1.0.3
-├─ colors@1.0.3
 ├─ column-resizer@1.4.0
 │  └─ string-hash@~1.1.3
 ├─ combined-stream@1.0.8
@@ -5498,14 +5469,12 @@ yarn list v1.22.22
 │  │  ├─ source-map@~0.5.1
 │  │  ├─ uglify-to-browserify@~1.0.0
 │  │  └─ yargs@~3.10.0
-│  ├─ window-size@0.1.0
 │  ├─ wordwrap@0.0.2
 │  └─ yargs@3.10.0
 │     ├─ camelcase@^1.0.2
 │     ├─ cliui@^2.1.0
 │     ├─ decamelize@^1.0.0
 │     └─ window-size@0.1.0
-├─ cycle@1.0.3
 ├─ cyclist@1.0.2
 ├─ d@1.0.2
 │  ├─ es5-ext@^0.10.64
@@ -5576,7 +5545,7 @@ yarn list v1.22.22
 │  └─ regexp.prototype.flags@^1.5.1
 ├─ deep-extend@0.6.0
 ├─ deep-is@0.1.4
-├─ deepmerge@2.1.0
+├─ deepmerge@3.3.0
 ├─ default-gateway@4.2.0
 │  ├─ execa@^1.0.0
 │  └─ ip-regex@^2.1.0
@@ -5866,9 +5835,6 @@ yarn list v1.22.22
 │  ├─ es5-ext@^0.10.35
 │  └─ es6-symbol@^3.1.1
 ├─ es6-promise@3.3.1
-├─ es6-promisify@5.0.0
-│  ├─ es6-promise@^4.0.3
-│  └─ es6-promise@4.2.8
 ├─ es6-symbol@3.1.4
 │  ├─ d@^1.0.2
 │  └─ ext@^1.7.0
@@ -6166,13 +6132,7 @@ yarn list v1.22.22
 │  ├─ snapdragon@^0.8.1
 │  └─ to-regex@^3.0.1
 ├─ extract-frustum-planes@1.0.0
-├─ extract-zip@1.7.0
-│  ├─ concat-stream@^1.6.2
-│  ├─ debug@^2.6.9
-│  ├─ mkdirp@^0.5.4
-│  └─ yauzl@^2.10.0
 ├─ extsprintf@1.3.0
-├─ eyes@0.1.8
 ├─ falafel@2.2.5
 │  ├─ acorn@^7.1.1
 │  ├─ acorn@7.4.1
@@ -6824,7 +6784,6 @@ yarn list v1.22.22
 │  ├─ minimist@^1.2.5
 │  ├─ resolve@^1.1.5
 │  ├─ stack-trace@0.0.9
-│  ├─ stack-trace@0.0.9
 │  ├─ static-eval@^2.0.5
 │  ├─ through2@^2.0.1
 │  └─ xtend@^4.0.0
@@ -6857,8 +6816,6 @@ yarn list v1.22.22
 ├─ has-flag@3.0.0
 ├─ has-hover@1.0.1
 │  └─ is-browser@^2.0.1
-├─ has-own-deep@1.1.0
-│  └─ isobject@^3.0.1
 ├─ has-passive-events@1.0.0
 │  └─ is-browser@^2.0.1
 ├─ has-property-descriptors@1.0.2
@@ -6869,14 +6826,15 @@ yarn list v1.22.22
 ├─ has-tostringtag@1.0.2
 │  └─ has-symbols@^1.0.3
 ├─ has-unicode@2.0.1
-├─ has-value@0.3.1
-│  ├─ get-value@^2.0.3
-│  ├─ has-values@^0.1.4
-│  ├─ isarray@1.0.0
-│  ├─ isobject@^2.0.0
-│  └─ isobject@2.1.0
-│     └─ isarray@1.0.0
-├─ has-values@0.1.4
+├─ has-value@1.0.0
+│  ├─ get-value@^2.0.6
+│  ├─ has-values@^1.0.0
+│  └─ isobject@^3.0.0
+├─ has-values@1.0.0
+│  ├─ is-number@^3.0.0
+│  ├─ kind-of@^4.0.0
+│  └─ kind-of@4.0.0
+│     └─ is-buffer@^1.1.5
 ├─ has@1.0.4
 ├─ hash-base@3.0.5
 │  ├─ inherits@^2.0.4
@@ -6947,14 +6905,6 @@ yarn list v1.22.22
 │  ├─ htmlparser2@^3.10.1
 │  ├─ lodash@^4.17.11
 │  └─ minimist@^1.2.0
-├─ html-to-xlsx@1.1.1
-│  ├─ moment@2.22.1
-│  ├─ moment@2.22.1
-│  ├─ tinycolor2@1.4.1
-│  ├─ tinycolor2@1.4.1
-│  ├─ uuid@3.2.1
-│  ├─ uuid@3.2.1
-│  └─ xlsx-populate@1.18.0
 ├─ html-webpack-plugin@4.0.0-beta.5
 │  ├─ html-minifier@^3.5.20
 │  ├─ loader-utils@^1.1.0
@@ -7151,7 +7101,7 @@ yarn list v1.22.22
 │  └─ intl-messageformat-parser@^3.6.4
 ├─ invariant@2.2.4
 │  └─ loose-envify@^1.0.0
-├─ invert-kv@1.0.0
+├─ invert-kv@2.0.0
 ├─ invert-permutation@1.0.0
 ├─ ioredis@4.30.0
 │  ├─ @ioredis/commands@^1.0.2
@@ -7256,8 +7206,6 @@ yarn list v1.22.22
 ├─ is-map@2.0.3
 ├─ is-mobile@2.2.2
 ├─ is-negative-zero@2.0.3
-├─ is-number-like@1.0.8
-│  └─ lodash.isfinite@^3.3.2
 ├─ is-number-object@1.1.1
 │  ├─ call-bound@^1.0.3
 │  └─ has-tostringtag@^1.0.2
@@ -7311,7 +7259,6 @@ yarn list v1.22.22
 │  └─ get-intrinsic@^1.2.6
 ├─ is-windows@1.0.2
 ├─ is-wsl@1.1.0
-├─ is@3.3.0
 ├─ isarray@2.0.5
 ├─ isexe@2.0.0
 ├─ ismobilejs@1.1.1
@@ -7382,7 +7329,6 @@ yarn list v1.22.22
 │  │  └─ yargs@~3.10.0
 │  ├─ void-elements@~2.0.1
 │  ├─ void-elements@2.0.1
-│  ├─ window-size@0.1.0
 │  ├─ with@~4.0.0
 │  ├─ with@4.0.3
 │  │  ├─ acorn-globals@^1.0.3
@@ -7876,124 +7822,6 @@ yarn list v1.22.22
 │  ├─ extsprintf@1.3.0
 │  ├─ json-schema@0.4.0
 │  └─ verror@1.10.0
-├─ jsreport-chrome-pdf@1.5.0
-│  └─ node.extend.without.arrays@1.1.6
-├─ jsreport-core@2.5.0
-│  ├─ @babel/code-frame@7.0.0-beta.46
-│  ├─ @babel/code-frame@7.0.0-beta.46
-│  │  └─ @babel/highlight@7.0.0-beta.46
-│  ├─ ajv@6.4.0
-│  ├─ ajv@6.4.0
-│  │  ├─ fast-deep-equal@^1.0.0
-│  │  ├─ fast-json-stable-stringify@^2.0.0
-│  │  ├─ json-schema-traverse@^0.3.0
-│  │  └─ uri-js@^3.0.2
-│  ├─ app-root-path@2.0.1
-│  ├─ app-root-path@2.0.1
-│  ├─ bluebird@3.5.4
-│  ├─ bluebird@3.5.4
-│  ├─ camelcase@5.0.0
-│  ├─ camelcase@5.0.0
-│  ├─ debug@3.1.0
-│  ├─ debug@3.1.0
-│  │  └─ ms@2.0.0
-│  ├─ decamelize@2.0.0
-│  ├─ decamelize@2.0.0
-│  │  └─ xregexp@4.0.0
-│  ├─ deepmerge@2.1.0
-│  ├─ fast-deep-equal@1.1.0
-│  ├─ has-own-deep@1.1.0
-│  ├─ json-schema-traverse@0.3.1
-│  ├─ listener-collection@1.2.0
-│  ├─ lodash.get@4.4.2
-│  ├─ lodash.groupby@4.6.0
-│  ├─ lodash.omit@4.5.0
-│  ├─ lodash.set@4.3.2
-│  ├─ lodash.uniqby@4.7.0
-│  ├─ lru-cache@4.1.1
-│  ├─ lru-cache@4.1.1
-│  │  ├─ pseudomap@^1.0.2
-│  │  └─ yallist@^2.1.2
-│  ├─ mingo@2.1.1
-│  ├─ minimist@0.0.8
-│  ├─ mkdirp@0.5.1
-│  ├─ mkdirp@0.5.1
-│  │  └─ minimist@0.0.8
-│  ├─ ms@2.0.0
-│  ├─ nanoid@1.0.2
-│  ├─ nanoid@1.0.2
-│  ├─ nconf@0.10.0
-│  ├─ node.extend.without.arrays@1.1.6
-│  ├─ reap2@1.0.1
-│  ├─ script-manager@0.8.6
-│  ├─ stack-trace@0.0.10
-│  ├─ streamifier@0.1.1
-│  ├─ unset-value@1.0.0
-│  ├─ uri-js@3.0.2
-│  │  └─ punycode@^2.1.0
-│  ├─ uuid@3.3.2
-│  ├─ uuid@3.3.2
-│  ├─ vm2@3.5.2
-│  ├─ vm2@3.5.2
-│  ├─ winston-transport@3.0.1
-│  ├─ winston@2.4.0
-│  └─ yallist@2.1.2
-├─ jsreport-handlebars@2.0.2
-│  ├─ handlebars@4.1.2
-│  ├─ handlebars@4.1.2
-│  │  ├─ neo-async@^2.6.0
-│  │  ├─ optimist@^0.6.1
-│  │  ├─ source-map@^0.6.1
-│  │  └─ uglify-js@^3.1.4
-│  ├─ minimist@0.0.10
-│  ├─ optimist@0.6.1
-│  │  ├─ minimist@~0.0.1
-│  │  └─ wordwrap@~0.0.2
-│  └─ wordwrap@0.0.3
-├─ jsreport-html-to-xlsx@2.3.1
-│  ├─ caseless@0.12.0
-│  ├─ chrome-page-eval@1.2.0
-│  ├─ form-data@2.3.3
-│  │  ├─ asynckit@^0.4.0
-│  │  ├─ combined-stream@^1.0.6
-│  │  └─ mime-types@^2.1.12
-│  ├─ html-to-xlsx@1.1.1
-│  ├─ node.extend.without.arrays@1.1.6
-│  ├─ phantom-page-eval@1.2.0
-│  ├─ punycode@1.4.1
-│  ├─ qs@6.5.3
-│  ├─ request@2.88.0
-│  ├─ request@2.88.0
-│  │  ├─ aws-sign2@~0.7.0
-│  │  ├─ aws4@^1.8.0
-│  │  ├─ caseless@~0.12.0
-│  │  ├─ combined-stream@~1.0.6
-│  │  ├─ extend@~3.0.2
-│  │  ├─ forever-agent@~0.6.1
-│  │  ├─ form-data@~2.3.2
-│  │  ├─ har-validator@~5.1.0
-│  │  ├─ http-signature@~1.2.0
-│  │  ├─ is-typedarray@~1.0.0
-│  │  ├─ isstream@~0.1.2
-│  │  ├─ json-stringify-safe@~5.0.1
-│  │  ├─ mime-types@~2.1.19
-│  │  ├─ oauth-sign@~0.9.0
-│  │  ├─ performance-now@^2.1.0
-│  │  ├─ qs@~6.5.2
-│  │  ├─ safe-buffer@^5.1.2
-│  │  ├─ tough-cookie@~2.4.3
-│  │  ├─ tunnel-agent@^0.6.0
-│  │  └─ uuid@^3.3.2
-│  ├─ stream-to-array@2.3.0
-│  ├─ tough-cookie@2.4.3
-│  │  ├─ psl@^1.1.24
-│  │  └─ punycode@^1.4.1
-│  └─ uuid@3.4.0
-├─ jsreport-scripts@2.1.0
-│  ├─ bluebird@3.5.4
-│  ├─ bluebird@3.5.4
-│  └─ node.extend.without.arrays@1.1.6
-├─ jsreport-text@2.0.0
 ├─ jstransformer@0.0.2
 │  ├─ asap@1.0.0
 │  ├─ is-promise@^2.0.0
@@ -8021,7 +7849,6 @@ yarn list v1.22.22
 ├─ kdbush@3.0.0
 ├─ keygrip@1.1.0
 │  └─ tsscmp@1.0.6
-├─ keypress@0.1.0
 ├─ killable@1.0.1
 ├─ kind-of@3.2.2
 │  └─ is-buffer@^1.1.5
@@ -8034,8 +7861,8 @@ yarn list v1.22.22
 ├─ lazy-cache@1.0.4
 ├─ lazystream@1.0.1
 │  └─ readable-stream@^2.0.5
-├─ lcid@1.0.0
-│  └─ invert-kv@^1.0.0
+├─ lcid@2.0.0
+│  └─ invert-kv@^2.0.0
 ├─ leaflet-fullscreen@1.0.2
 ├─ leaflet.markercluster@1.5.3
 ├─ leaflet@1.9.4
@@ -8064,12 +7891,6 @@ yarn list v1.22.22
 ├─ linkify-it@3.0.2
 │  └─ uc.micro@^1.0.1
 ├─ liquidjs@9.43.0
-├─ listener-collection@1.2.0
-│  ├─ async@2.6.0
-│  ├─ async@2.6.0
-│  │  └─ lodash@^4.14.0
-│  ├─ bluebird@3.5.1
-│  └─ bluebird@3.5.1
 ├─ listenercount@1.0.1
 ├─ load-bmfont@1.4.2
 │  ├─ buffer-equal@0.0.1
@@ -8135,7 +7956,6 @@ yarn list v1.22.22
 ├─ lodash.isboolean@3.0.3
 ├─ lodash.isdate@4.0.1
 ├─ lodash.isequal@4.5.0
-├─ lodash.isfinite@3.3.2
 ├─ lodash.isfunction@3.0.9
 ├─ lodash.isinteger@4.0.4
 ├─ lodash.isnil@4.0.0
@@ -8149,7 +7969,6 @@ yarn list v1.22.22
 ├─ lodash.omit@4.5.0
 ├─ lodash.once@4.1.1
 ├─ lodash.reject@4.6.0
-├─ lodash.set@4.3.2
 ├─ lodash.sortby@4.7.0
 ├─ lodash.tail@4.1.1
 ├─ lodash.template@4.5.0
@@ -8162,17 +7981,12 @@ yarn list v1.22.22
 ├─ lodash.unescape@4.0.1
 ├─ lodash.union@4.6.0
 ├─ lodash.uniq@4.5.0
-├─ lodash.uniqby@4.7.0
 ├─ lodash@4.17.21
 ├─ log-symbols@2.2.0
 │  └─ chalk@^2.0.1
 ├─ logkitty@0.6.1
 │  ├─ ansi-fragments@^0.2.1
 │  ├─ ansi-regex@3.0.1
-│  ├─ cliui@4.1.0
-│  │  ├─ string-width@^2.1.1
-│  │  ├─ strip-ansi@^4.0.0
-│  │  └─ wrap-ansi@^2.0.0
 │  ├─ dayjs@^1.8.15
 │  ├─ get-caller-file@1.0.3
 │  ├─ string-width@2.1.1
@@ -8473,8 +8287,18 @@ yarn list v1.22.22
 │  ├─ metro-resolver@^0.56.4
 │  └─ wordwrap@^1.0.0
 ├─ metro-inspector-proxy@0.56.4
-│  ├─ ansi-regex@3.0.1
+│  ├─ ansi-regex@2.1.1
 │  ├─ camelcase@4.1.0
+│  ├─ cliui@3.2.0
+│  │  ├─ is-fullwidth-code-point@1.0.0
+│  │  │  └─ number-is-nan@^1.0.0
+│  │  ├─ string-width@^1.0.1
+│  │  ├─ string-width@1.0.2
+│  │  │  ├─ code-point-at@^1.0.0
+│  │  │  ├─ is-fullwidth-code-point@^1.0.0
+│  │  │  └─ strip-ansi@^3.0.0
+│  │  ├─ strip-ansi@^3.0.1
+│  │  └─ wrap-ansi@^2.0.0
 │  ├─ connect@^3.6.5
 │  ├─ debug@^2.2.0
 │  ├─ execa@0.7.0
@@ -8487,6 +8311,9 @@ yarn list v1.22.22
 │  │  └─ strip-eof@^1.0.0
 │  ├─ get-caller-file@1.0.3
 │  ├─ get-stream@3.0.0
+│  ├─ invert-kv@1.0.0
+│  ├─ lcid@1.0.0
+│  │  └─ invert-kv@^1.0.0
 │  ├─ mem@1.1.0
 │  │  └─ mimic-fn@^1.0.0
 │  ├─ os-locale@2.1.0
@@ -8497,10 +8324,13 @@ yarn list v1.22.22
 │  ├─ rxjs@5.5.12
 │  │  └─ symbol-observable@1.0.1
 │  ├─ string-width@2.1.1
+│  │  ├─ ansi-regex@3.0.1
 │  │  ├─ is-fullwidth-code-point@^2.0.0
-│  │  └─ strip-ansi@^4.0.0
-│  ├─ strip-ansi@4.0.0
-│  │  └─ ansi-regex@^3.0.0
+│  │  ├─ strip-ansi@^4.0.0
+│  │  └─ strip-ansi@4.0.0
+│  │     └─ ansi-regex@^3.0.0
+│  ├─ strip-ansi@3.0.1
+│  │  └─ ansi-regex@^2.0.0
 │  ├─ symbol-observable@1.0.1
 │  ├─ ws@^1.1.5
 │  ├─ y18n@3.2.2
@@ -8592,12 +8422,22 @@ yarn list v1.22.22
 │  ├─ @babel/traverse@^7.0.0
 │  ├─ @babel/types@^7.0.0
 │  ├─ absolute-path@^0.0.0
-│  ├─ ansi-regex@3.0.1
+│  ├─ ansi-regex@2.1.1
 │  ├─ async@^2.4.0
 │  ├─ babel-preset-fbjs@^3.1.2
 │  ├─ buffer-crc32@^0.2.13
 │  ├─ camelcase@4.1.0
 │  ├─ chalk@^2.4.1
+│  ├─ cliui@3.2.0
+│  │  ├─ is-fullwidth-code-point@1.0.0
+│  │  │  └─ number-is-nan@^1.0.0
+│  │  ├─ string-width@^1.0.1
+│  │  ├─ string-width@1.0.2
+│  │  │  ├─ code-point-at@^1.0.0
+│  │  │  ├─ is-fullwidth-code-point@^1.0.0
+│  │  │  └─ strip-ansi@^3.0.0
+│  │  ├─ strip-ansi@^3.0.1
+│  │  └─ wrap-ansi@^2.0.0
 │  ├─ concat-stream@^1.6.0
 │  ├─ connect@^3.6.5
 │  ├─ debug@^2.2.0
@@ -8632,9 +8472,12 @@ yarn list v1.22.22
 │  ├─ graceful-fs@^4.1.3
 │  ├─ image-size@^0.6.0
 │  ├─ invariant@^2.2.4
+│  ├─ invert-kv@1.0.0
 │  ├─ jest-haste-map@^24.7.1
 │  ├─ jest-worker@^24.6.0
 │  ├─ json-stable-stringify@^1.0.1
+│  ├─ lcid@1.0.0
+│  │  └─ invert-kv@^1.0.0
 │  ├─ lodash.throttle@^4.1.1
 │  ├─ mem@1.1.0
 │  │  └─ mimic-fn@^1.0.0
@@ -8670,10 +8513,13 @@ yarn list v1.22.22
 │  ├─ source-map@^0.5.6
 │  ├─ source-map@0.5.7
 │  ├─ string-width@2.1.1
+│  │  ├─ ansi-regex@3.0.1
 │  │  ├─ is-fullwidth-code-point@^2.0.0
-│  │  └─ strip-ansi@^4.0.0
-│  ├─ strip-ansi@4.0.0
-│  │  └─ ansi-regex@^3.0.0
+│  │  ├─ strip-ansi@^4.0.0
+│  │  └─ strip-ansi@4.0.0
+│  │     └─ ansi-regex@^3.0.0
+│  ├─ strip-ansi@3.0.1
+│  │  └─ ansi-regex@^2.0.0
 │  ├─ temp@0.8.3
 │  ├─ throat@^4.1.0
 │  ├─ wordwrap@^1.0.0
@@ -8733,7 +8579,7 @@ yarn list v1.22.22
 ├─ mimic-fn@1.2.0
 ├─ min-document@2.19.0
 │  └─ dom-walk@^0.1.0
-├─ mingo@2.1.1
+├─ mingo@6.6.1
 ├─ mini-css-extract-plugin@0.5.0
 │  ├─ loader-utils@^1.1.0
 │  ├─ schema-utils@^1.0.0
@@ -8953,33 +8799,6 @@ yarn list v1.22.22
 │  ├─ nuid@^1.1.4
 │  └─ ts-nkeys@^1.0.16
 ├─ natural-compare@1.4.0
-├─ nconf@0.10.0
-│  ├─ ansi-regex@2.1.1
-│  ├─ async@^1.4.0
-│  ├─ async@1.5.2
-│  ├─ camelcase@2.1.1
-│  ├─ ini@^1.3.0
-│  ├─ is-fullwidth-code-point@1.0.0
-│  │  └─ number-is-nan@^1.0.0
-│  ├─ os-locale@1.4.0
-│  │  └─ lcid@^1.0.0
-│  ├─ secure-keys@^1.0.0
-│  ├─ string-width@1.0.2
-│  │  ├─ code-point-at@^1.0.0
-│  │  ├─ is-fullwidth-code-point@^1.0.0
-│  │  └─ strip-ansi@^3.0.0
-│  ├─ strip-ansi@3.0.1
-│  │  └─ ansi-regex@^2.0.0
-│  ├─ y18n@3.2.2
-│  ├─ yargs@^3.19.0
-│  └─ yargs@3.32.0
-│     ├─ camelcase@^2.0.1
-│     ├─ cliui@^3.0.3
-│     ├─ decamelize@^1.1.1
-│     ├─ os-locale@^1.4.0
-│     ├─ string-width@^1.0.1
-│     ├─ window-size@^0.1.4
-│     └─ y18n@^3.2.0
 ├─ ndarray-extract-contour@1.0.1
 │  └─ typedarray-pool@^1.0.0
 ├─ ndarray-fill@1.0.2
@@ -9016,7 +8835,6 @@ yarn list v1.22.22
 │  └─ sax@^1.2.4
 ├─ negotiator@0.6.4
 ├─ neo-async@2.6.2
-├─ net-cluster@0.0.2
 ├─ next-auth@4.22.0
 │  ├─ @babel/runtime@^7.20.13
 │  ├─ @panva/hkdf@^1.0.2
@@ -9148,8 +8966,6 @@ yarn list v1.22.22
 │  ├─ jszip@2.5.0
 │  │  └─ pako@~0.2.5
 │  └─ pako@0.2.9
-├─ node.extend.without.arrays@1.1.6
-│  └─ is@^3.1.0
 ├─ node4mailer@4.0.3
 ├─ nodeify@1.0.1
 │  ├─ is-promise@~1.0.0
@@ -9296,10 +9112,7 @@ yarn list v1.22.22
 ├─ os-homedir@1.0.2
 ├─ os-locale@3.1.0
 │  ├─ execa@^1.0.0
-│  ├─ invert-kv@2.0.0
 │  ├─ lcid@^2.0.0
-│  ├─ lcid@2.0.0
-│  │  └─ invert-kv@^2.0.0
 │  └─ mem@^4.0.0
 ├─ os-tmpdir@1.0.2
 ├─ os@0.1.2
@@ -9483,13 +9296,6 @@ yarn list v1.22.22
 │  └─ semver@4.3.2
 ├─ pgpass@1.0.5
 │  └─ split2@^4.1.0
-├─ phantom-page-eval@1.2.0
-│  ├─ debug@3.1.0
-│  ├─ debug@3.1.0
-│  │  └─ ms@2.0.0
-│  ├─ ms@2.0.0
-│  ├─ nanoid@1.0.2
-│  └─ nanoid@1.0.2
 ├─ phin@2.9.3
 ├─ phone@1.0.3
 ├─ pick-by-alias@1.2.0
@@ -9642,9 +9448,6 @@ yarn list v1.22.22
 │  ├─ debug@^4.3.6
 │  └─ debug@4.4.1
 │     └─ ms@^2.1.3
-├─ portscanner@2.2.0
-│  ├─ async@^2.6.0
-│  └─ is-number-like@^1.0.3
 ├─ posix-character-classes@0.1.1
 ├─ possible-typed-array-names@1.1.0
 ├─ postcss-attribute-case-insensitive@4.0.2
@@ -10192,27 +9995,6 @@ yarn list v1.22.22
 │     └─ once@^1.3.1
 ├─ punycode.js@2.3.1
 ├─ punycode@2.3.1
-├─ puppeteer@1.17.0
-│  ├─ agent-base@4.3.0
-│  │  └─ es6-promisify@^5.0.0
-│  ├─ debug@^4.1.0
-│  ├─ debug@4.4.1
-│  │  └─ ms@^2.1.3
-│  ├─ extract-zip@^1.6.6
-│  ├─ https-proxy-agent@^2.2.1
-│  ├─ https-proxy-agent@2.2.4
-│  │  ├─ agent-base@^4.3.0
-│  │  ├─ debug@^3.1.0
-│  │  └─ debug@3.2.7
-│  │     └─ ms@^2.1.1
-│  ├─ mime@^2.0.3
-│  ├─ mime@2.6.0
-│  ├─ progress@^2.0.1
-│  ├─ proxy-from-env@^1.0.0
-│  ├─ rimraf@^2.6.1
-│  ├─ ws@^6.1.0
-│  └─ ws@6.2.3
-│     └─ async-limiter@~1.0.0
 ├─ pygmentize-bundled@2.3.0
 │  ├─ bl@~0.4.1
 │  ├─ bl@0.4.2
@@ -10512,11 +10294,6 @@ yarn list v1.22.22
 │  ├─ @babel/code-frame@7.5.5
 │  ├─ @babel/code-frame@7.5.5
 │  │  └─ @babel/highlight@^7.0.0
-│  ├─ @babel/highlight@7.25.9
-│  │  ├─ @babel/helper-validator-identifier@^7.25.9
-│  │  ├─ chalk@^2.4.2
-│  │  ├─ js-tokens@^4.0.0
-│  │  └─ picocolors@^1.0.0
 │  ├─ address@1.1.2
 │  ├─ ansi-regex@3.0.1
 │  ├─ browserslist@4.7.0
@@ -11028,19 +10805,6 @@ yarn list v1.22.22
 │  └─ readable-stream@^2.0.2
 ├─ realpath-native@1.1.0
 │  └─ util.promisify@^1.0.0
-├─ reap2@1.0.1
-│  ├─ batch@~0.4.0
-│  ├─ bytes@~0.2.1
-│  ├─ bytes@0.2.1
-│  ├─ commander@~1.2.0
-│  ├─ commander@1.2.0
-│  │  └─ keypress@0.1.x
-│  ├─ debug@*
-│  ├─ debug@4.4.1
-│  │  ├─ ms@^2.1.3
-│  │  └─ ms@2.1.3
-│  ├─ ms@0.7.1
-│  └─ ms@0.7.1
 ├─ recursive-readdir@2.2.2
 │  ├─ minimatch@3.0.4
 │  └─ minimatch@3.0.4
@@ -11509,49 +11273,9 @@ yarn list v1.22.22
 │  ├─ ajv-keywords@^3.1.0
 │  └─ ajv@^6.1.0
 ├─ screenfull@5.2.0
-├─ script-manager@0.8.6
-│  ├─ caseless@0.12.0
-│  ├─ form-data@2.3.3
-│  │  ├─ asynckit@^0.4.0
-│  │  ├─ combined-stream@^1.0.6
-│  │  └─ mime-types@^2.1.12
-│  ├─ net-cluster@0.0.2
-│  ├─ portscanner@2.2.0
-│  ├─ punycode@1.4.1
-│  ├─ qs@6.5.3
-│  ├─ request@2.88.0
-│  ├─ request@2.88.0
-│  │  ├─ aws-sign2@~0.7.0
-│  │  ├─ aws4@^1.8.0
-│  │  ├─ caseless@~0.12.0
-│  │  ├─ combined-stream@~1.0.6
-│  │  ├─ extend@~3.0.2
-│  │  ├─ forever-agent@~0.6.1
-│  │  ├─ form-data@~2.3.2
-│  │  ├─ har-validator@~5.1.0
-│  │  ├─ http-signature@~1.2.0
-│  │  ├─ is-typedarray@~1.0.0
-│  │  ├─ isstream@~0.1.2
-│  │  ├─ json-stringify-safe@~5.0.1
-│  │  ├─ mime-types@~2.1.19
-│  │  ├─ oauth-sign@~0.9.0
-│  │  ├─ performance-now@^2.1.0
-│  │  ├─ qs@~6.5.2
-│  │  ├─ safe-buffer@^5.1.2
-│  │  ├─ tough-cookie@~2.4.3
-│  │  ├─ tunnel-agent@^0.6.0
-│  │  ├─ uuid@^3.3.2
-│  │  └─ uuid@3.4.0
-│  ├─ serializator@1.0.1
-│  ├─ tough-cookie@2.4.3
-│  │  ├─ psl@^1.1.24
-│  │  └─ punycode@^1.4.1
-│  ├─ uuid@3.3.2
-│  └─ uuid@3.3.2
 ├─ scroll-into-view-if-needed@2.2.31
 │  ├─ compute-scroll-into-view@^1.0.20
 │  └─ compute-scroll-into-view@1.0.20
-├─ secure-keys@1.0.0
 ├─ seekout@1.0.2
 ├─ select-hose@2.0.0
 ├─ selfsigned@1.10.14
@@ -11586,13 +11310,11 @@ yarn list v1.22.22
 ├─ sentence-case@2.1.1
 │  ├─ no-case@^2.2.0
 │  └─ upper-case-first@^1.1.2
-├─ serializator@1.0.1
 ├─ serialize-error@6.0.0
 │  └─ type-fest@^0.12.0
 ├─ serialize-javascript@2.1.2
 ├─ serve-index@1.9.1
 │  ├─ accepts@~1.3.4
-│  ├─ batch@0.6.1
 │  ├─ batch@0.6.1
 │  ├─ debug@2.6.9
 │  ├─ depd@1.1.2
@@ -11889,7 +11611,7 @@ yarn list v1.22.22
 ├─ stable@0.1.8
 ├─ stack-generator@2.0.10
 │  └─ stackframe@^1.3.4
-├─ stack-trace@0.0.10
+├─ stack-trace@0.0.9
 ├─ stack-utils@1.0.5
 │  ├─ escape-string-regexp@^2.0.0
 │  └─ escape-string-regexp@2.0.0
@@ -12005,8 +11727,6 @@ yarn list v1.22.22
 │  ├─ bluebird@^2.6.2
 │  └─ bluebird@2.11.0
 ├─ stream-shift@1.0.3
-├─ stream-to-array@2.3.0
-│  └─ any-promise@^1.1.0
 ├─ stream-to-string@1.2.1
 │  └─ promise-polyfill@^1.1.6
 ├─ streamifier@0.1.1
@@ -12621,6 +12341,14 @@ yarn list v1.22.22
 ├─ unquote@1.1.1
 ├─ unset-value@1.0.0
 │  ├─ has-value@^0.3.1
+│  ├─ has-value@0.3.1
+│  │  ├─ get-value@^2.0.3
+│  │  ├─ has-values@^0.1.4
+│  │  ├─ isobject@^2.0.0
+│  │  └─ isobject@2.1.0
+│  │     └─ isarray@1.0.0
+│  ├─ has-values@0.1.4
+│  ├─ isarray@1.0.0
 │  └─ isobject@^3.0.0
 ├─ unstated-next@1.1.0
 ├─ unzipper@0.10.14
@@ -12804,13 +12532,6 @@ yarn list v1.22.22
 │  ├─ bonjour@^3.5.0
 │  ├─ camelcase@4.1.0
 │  ├─ chokidar@^2.0.0
-│  ├─ cliui@4.1.0
-│  │  ├─ ansi-regex@3.0.1
-│  │  ├─ string-width@^2.1.1
-│  │  ├─ strip-ansi@^4.0.0
-│  │  ├─ strip-ansi@4.0.0
-│  │  │  └─ ansi-regex@^3.0.0
-│  │  └─ wrap-ansi@^2.0.0
 │  ├─ compression@^1.5.2
 │  ├─ connect-history-api-fallback@^1.3.0
 │  ├─ debug@^4.1.1
@@ -13000,16 +12721,7 @@ yarn list v1.22.22
 │  └─ isexe@^2.0.0
 ├─ wide-align@1.1.5
 │  └─ string-width@^1.0.2 || 2 || 3 || 4
-├─ window-size@0.1.4
-├─ winston-transport@3.0.1
-├─ winston@2.4.0
-│  ├─ async@~1.0.0
-│  ├─ async@1.0.0
-│  ├─ colors@1.0.x
-│  ├─ cycle@1.0.x
-│  ├─ eyes@0.1.x
-│  ├─ isstream@0.1.x
-│  └─ stack-trace@0.0.x
+├─ window-size@0.1.0
 ├─ with@7.0.2
 │  ├─ @babel/parser@^7.9.6
 │  ├─ @babel/types@^7.9.6
@@ -13126,11 +12838,6 @@ yarn list v1.22.22
 │  ├─ is-function@^1.0.1
 │  ├─ parse-headers@^2.0.0
 │  └─ xtend@^4.0.0
-├─ xlsx-populate@1.18.0
-│  ├─ cfb@^1.0.7
-│  ├─ jszip@^3.1.5
-│  ├─ lodash@^4.17.10
-│  └─ sax@^1.2.4
 ├─ xlsx@0.17.5
 │  ├─ adler-32@~1.2.0
 │  ├─ cfb@^1.1.4
