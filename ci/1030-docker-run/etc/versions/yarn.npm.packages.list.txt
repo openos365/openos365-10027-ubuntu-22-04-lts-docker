@@ -307,11 +307,11 @@ yarn list v1.22.22
 │  ├─ @azure/core-auth@^1.1.4
 │  ├─ abort-controller@^3.0.0
 │  ├─ form-data@^2.5.0
-│  ├─ form-data@2.5.4
+│  ├─ form-data@2.5.5
 │  │  ├─ asynckit@^0.4.0
 │  │  ├─ combined-stream@^1.0.8
 │  │  ├─ es-set-tostringtag@^2.1.0
-│  │  ├─ has-own@^1.0.1
+│  │  ├─ hasown@^2.0.2
 │  │  ├─ mime-types@^2.1.35
 │  │  └─ safe-buffer@^5.2.1
 │  ├─ node-fetch@^2.6.7
@@ -3877,7 +3877,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.0.14
+├─ @types/node@24.0.15
 │  └─ undici-types@~7.8.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -5663,7 +5663,7 @@ yarn list v1.22.22
 ├─ doctypes@1.1.0
 ├─ docx@7.8.2
 │  ├─ @types/node@^18.0.0
-│  ├─ @types/node@18.19.119
+│  ├─ @types/node@18.19.120
 │  │  └─ undici-types@~5.26.4
 │  ├─ jszip@^3.1.5
 │  ├─ nanoid@^3.1.20
@@ -6859,7 +6859,6 @@ yarn list v1.22.22
 │  └─ is-browser@^2.0.1
 ├─ has-own-deep@1.1.0
 │  └─ isobject@^3.0.1
-├─ has-own@1.0.1
 ├─ has-passive-events@1.0.0
 │  └─ is-browser@^2.0.1
 ├─ has-property-descriptors@1.0.2
