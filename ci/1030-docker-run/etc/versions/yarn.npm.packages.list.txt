@@ -3175,9 +3175,9 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.51
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.10.0
+│  ├─ axios@1.11.0
 │  │  ├─ follow-redirects@^1.15.6
-│  │  ├─ form-data@^4.0.0
+│  │  ├─ form-data@^4.0.4
 │  │  └─ proxy-from-env@^1.1.0
 │  ├─ cookies@^0.8.0
 │  ├─ dotenv-flow@^3.1.0
