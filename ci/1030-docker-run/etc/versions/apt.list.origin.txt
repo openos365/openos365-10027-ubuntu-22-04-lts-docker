@@ -9416,7 +9416,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy-updates,jammy-security 1.0.0+ds-1ubuntu0.22.04.1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.76.0 amd64 [installed]
+gh/unknown,now 2.76.1 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -64925,6 +64925,7 @@ linux-mtk-headers-5.15.0-1034/jammy-updates,jammy-security 5.15.0-1034.40 all
 linux-mtk-headers-5.15.0-1036/jammy-updates 5.15.0-1036.43 all
 linux-mtk-headers-5.15.0-1037/jammy-updates,jammy-security 5.15.0-1037.44 all
 linux-mtk-headers-5.15.0-1038/jammy-updates,jammy-security 5.15.0-1038.45 all
+linux-mtk-headers-5.15.0-1040/jammy-updates 5.15.0-1040.48 all
 linux-nvidia-5.15/jammy-updates,jammy-security 5.15.0.1082.82 amd64
 linux-nvidia-5.19-cloud-tools-5.19.0-1010/jammy-updates,jammy-security 5.19.0-1010.10 amd64
 linux-nvidia-5.19-cloud-tools-5.19.0-1014/jammy-updates,jammy-security 5.19.0-1014.14 amd64
