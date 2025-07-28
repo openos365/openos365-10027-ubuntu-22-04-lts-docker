@@ -82730,16 +82730,16 @@ openimageio-tools/jammy 2.2.18.0+dfsg-1ubuntu2 amd64
 openipmi/jammy 2.0.29-0.1ubuntu6 amd64
 openjade/jammy 1.4devel1-22 amd64
 openjazz/jammy 20190106-3build1 amd64
-openjdk-11-dbg/jammy-updates,jammy-security 11.0.27+6~us1-0ubuntu1~22.04 amd64
-openjdk-11-demo/jammy-updates,jammy-security 11.0.27+6~us1-0ubuntu1~22.04 amd64
-openjdk-11-doc/jammy-updates,jammy-security 11.0.27+6~us1-0ubuntu1~22.04 all
-openjdk-11-jdk-headless/jammy-updates,jammy-security,now 11.0.27+6~us1-0ubuntu1~22.04 amd64 [installed,automatic]
-openjdk-11-jdk/jammy-updates,jammy-security,now 11.0.27+6~us1-0ubuntu1~22.04 amd64 [installed,automatic]
+openjdk-11-dbg/jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
+openjdk-11-demo/jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
+openjdk-11-doc/jammy-security 11.0.28+6-1ubuntu1~22.04.1 all
+openjdk-11-jdk-headless/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
+openjdk-11-jdk/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
 openjdk-11-jre-dcevm/jammy 11.0.12+7-1 amd64
-openjdk-11-jre-headless/jammy-updates,jammy-security,now 11.0.27+6~us1-0ubuntu1~22.04 amd64 [installed,automatic]
-openjdk-11-jre-zero/jammy-updates,jammy-security 11.0.27+6~us1-0ubuntu1~22.04 amd64
-openjdk-11-jre/jammy-updates,jammy-security,now 11.0.27+6~us1-0ubuntu1~22.04 amd64 [installed,automatic]
-openjdk-11-source/jammy-updates,jammy-security 11.0.27+6~us1-0ubuntu1~22.04 all
+openjdk-11-jre-headless/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
+openjdk-11-jre-zero/jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
+openjdk-11-jre/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
+openjdk-11-source/jammy-security 11.0.28+6-1ubuntu1~22.04.1 all
 openjdk-17-dbg/jammy-updates,jammy-security 17.0.15+6~us1-0ubuntu1~22.04 amd64
 openjdk-17-demo/jammy-updates,jammy-security 17.0.15+6~us1-0ubuntu1~22.04 amd64
 openjdk-17-doc/jammy-updates,jammy-security 17.0.15+6~us1-0ubuntu1~22.04 all
