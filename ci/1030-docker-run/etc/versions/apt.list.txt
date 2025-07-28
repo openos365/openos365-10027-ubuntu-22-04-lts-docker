@@ -9715,7 +9715,7 @@ gir1.2-peas-1.0/jammy 1.32.0-1 amd64
 gir1.2-playerctl-2.0/jammy 2.4.1-1 amd64
 gir1.2-pluma-1.0/jammy 1.26.0-1ubuntu1 amd64
 gir1.2-polkit-1.0/jammy 0.105-33 amd64
-gir1.2-poppler-0.18/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
+gir1.2-poppler-0.18/jammy-security 22.02.0-2ubuntu0.9 amd64
 gir1.2-qmi-1.0/jammy-updates 1.32.0-1ubuntu0.22.04.1 amd64
 gir1.2-qrtr-1.0/jammy 1.2.2-1 amd64
 gir1.2-rb-3.0/jammy 3.4.4-5ubuntu1 amd64
@@ -35393,16 +35393,16 @@ libpomp2-doc/jammy 2.0.6-2 all
 libponapi-client-perl/jammy 0.002012-1 all
 libpoppler-cil-dev/jammy 0.0.3-4.1 all
 libpoppler-cil/jammy 0.0.3-4.1 all
-libpoppler-cpp-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler-cpp0v5/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler-glib-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler-glib-doc/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 all
-libpoppler-glib8/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler-private-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler-qt5-1/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler-qt5-dev/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
-libpoppler118/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
+libpoppler-cpp-dev/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler-cpp0v5/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler-dev/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler-glib-dev/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler-glib-doc/jammy-security 22.02.0-2ubuntu0.9 all
+libpoppler-glib8/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler-private-dev/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler-qt5-1/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler-qt5-dev/jammy-security 22.02.0-2ubuntu0.9 amd64
+libpoppler118/jammy-security 22.02.0-2ubuntu0.9 amd64
 libpopplerkit-dev/jammy 0.0.20051227svn-8.2 amd64
 libpopplerkit0/jammy 0.0.20051227svn-8.2 amd64
 libpopt-dev/jammy 1.18-3build1 amd64
@@ -82729,16 +82729,16 @@ openimageio-tools/jammy 2.2.18.0+dfsg-1ubuntu2 amd64
 openipmi/jammy 2.0.29-0.1ubuntu6 amd64
 openjade/jammy 1.4devel1-22 amd64
 openjazz/jammy 20190106-3build1 amd64
-openjdk-11-dbg/jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
-openjdk-11-demo/jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
-openjdk-11-doc/jammy-security 11.0.28+6-1ubuntu1~22.04.1 all
-openjdk-11-jdk-headless/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
-openjdk-11-jdk/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
+openjdk-11-dbg/jammy-updates,jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
+openjdk-11-demo/jammy-updates,jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
+openjdk-11-doc/jammy-updates,jammy-security 11.0.28+6-1ubuntu1~22.04.1 all
+openjdk-11-jdk-headless/jammy-updates,jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
+openjdk-11-jdk/jammy-updates,jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
 openjdk-11-jre-dcevm/jammy 11.0.12+7-1 amd64
-openjdk-11-jre-headless/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
-openjdk-11-jre-zero/jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
-openjdk-11-jre/jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
-openjdk-11-source/jammy-security 11.0.28+6-1ubuntu1~22.04.1 all
+openjdk-11-jre-headless/jammy-updates,jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
+openjdk-11-jre-zero/jammy-updates,jammy-security 11.0.28+6-1ubuntu1~22.04.1 amd64
+openjdk-11-jre/jammy-updates,jammy-security,now 11.0.28+6-1ubuntu1~22.04.1 amd64 [installed,automatic]
+openjdk-11-source/jammy-updates,jammy-security 11.0.28+6-1ubuntu1~22.04.1 all
 openjdk-17-dbg/jammy-updates,jammy-security 17.0.15+6~us1-0ubuntu1~22.04 amd64
 openjdk-17-demo/jammy-updates,jammy-security 17.0.15+6~us1-0ubuntu1~22.04 amd64
 openjdk-17-doc/jammy-updates,jammy-security 17.0.15+6~us1-0ubuntu1~22.04 all
@@ -84719,7 +84719,7 @@ popfile/jammy 1.1.3+dfsg-0ubuntu3 all
 poppass-cgi/jammy 3-6.1 all
 poppassd/jammy 1.8.5-6 amd64
 poppler-data/jammy 0.4.11-1 all
-poppler-utils/jammy-updates,jammy-security 22.02.0-2ubuntu0.8 amd64
+poppler-utils/jammy-security 22.02.0-2ubuntu0.9 amd64
 popularity-contest/jammy 1.71ubuntu3 all
 populations/jammy 1.2.33+svn0120106+dfsg-6 amd64
 porechop/jammy 0.2.4+dfsg-3 amd64
