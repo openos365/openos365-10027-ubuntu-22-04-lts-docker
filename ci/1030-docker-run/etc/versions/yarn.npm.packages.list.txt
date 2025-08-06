@@ -9739,7 +9739,7 @@ yarn list v1.22.22
 ├─ postcss-load-config@4.0.2
 │  ├─ lilconfig@^3.0.0
 │  ├─ yaml@^2.3.4
-│  └─ yaml@2.8.0
+│  └─ yaml@2.8.1
 ├─ postcss-loader@3.0.0
 │  ├─ loader-utils@^1.1.0
 │  ├─ postcss-load-config@^2.0.0
