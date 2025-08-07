@@ -10079,7 +10079,7 @@ yarn list v1.22.22
 │  ├─ mdurl@2.0.0
 │  ├─ prosemirror-model@^1.25.0
 │  └─ uc.micro@2.1.0
-├─ prosemirror-model@1.25.2
+├─ prosemirror-model@1.25.3
 │  └─ orderedmap@^2.0.0
 ├─ prosemirror-schema-list@1.5.1
 │  ├─ prosemirror-model@^1.0.0
@@ -11819,7 +11819,7 @@ yarn list v1.22.22
 ├─ spdx-expression-parse@3.0.1
 │  ├─ spdx-exceptions@^2.1.0
 │  └─ spdx-license-ids@^3.0.0
-├─ spdx-license-ids@3.0.21
+├─ spdx-license-ids@3.0.22
 ├─ spdy-transport@3.0.0
 │  ├─ debug@^4.1.0
 │  ├─ debug@4.4.1
