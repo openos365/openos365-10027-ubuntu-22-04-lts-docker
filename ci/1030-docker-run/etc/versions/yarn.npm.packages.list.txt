@@ -3076,7 +3076,7 @@ yarn list v1.22.22
 │  ├─ semver@7.7.2
 │  ├─ tar-stream@^2.1.4
 │  ├─ tmp@^0.2.1
-│  ├─ tmp@0.2.4
+│  ├─ tmp@0.2.5
 │  ├─ tslib@^2.0.3
 │  ├─ uuid@^8.3.1
 │  └─ yauzl@^2.10.0
@@ -3871,7 +3871,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.2.0
+├─ @types/node@24.2.1
 │  └─ undici-types@~7.10.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -5661,7 +5661,7 @@ yarn list v1.22.22
 ├─ doctypes@1.1.0
 ├─ docx@7.8.2
 │  ├─ @types/node@^18.0.0
-│  ├─ @types/node@18.19.121
+│  ├─ @types/node@18.19.122
 │  │  └─ undici-types@~5.26.4
 │  ├─ jszip@^3.1.5
 │  ├─ nanoid@^3.1.20
@@ -6040,7 +6040,7 @@ yarn list v1.22.22
 │  │  └─ util-deprecate@^1.0.1
 │  ├─ saxes@^5.0.1
 │  ├─ tmp@^0.2.0
-│  ├─ tmp@0.2.4
+│  ├─ tmp@0.2.5
 │  ├─ unzipper@^0.10.11
 │  └─ uuid@^8.3.0
 ├─ exec-sh@0.3.6
@@ -6542,7 +6542,7 @@ yarn list v1.22.22
 │  ├─ gl-mat2@^1.0.0
 │  ├─ gl-mat3@^1.0.0
 │  └─ gl-mat4@^1.0.0
-├─ gl-matrix@3.4.3
+├─ gl-matrix@3.4.4
 ├─ gl-mesh3d@2.3.2
 │  ├─ barycentric@^1.0.1
 │  ├─ colormap@^2.3.1
