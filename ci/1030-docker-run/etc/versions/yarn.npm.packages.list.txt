@@ -5668,7 +5668,7 @@ yarn list v1.22.22
 │  ├─ undici-types@5.26.5
 │  ├─ xml-js@^1.6.8
 │  └─ xml@^1.0.1
-├─ docxtemplater@3.65.2
+├─ docxtemplater@3.65.3
 │  ├─ @xmldom/xmldom@^0.9.8
 │  └─ @xmldom/xmldom@0.9.8
 ├─ dom-align@1.12.4
@@ -8864,6 +8864,7 @@ yarn list v1.22.22
 │  │  └─ ms@2.0.0
 │  ├─ ms@2.0.0
 │  ├─ regexp-clone@^1.0.0
+│  ├─ regexp-clone@1.1.0
 │  ├─ safe-buffer@5.1.2
 │  ├─ safe-buffer@5.1.2
 │  └─ sliced@1.0.1
