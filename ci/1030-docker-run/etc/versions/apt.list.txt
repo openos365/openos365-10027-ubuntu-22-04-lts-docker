@@ -84056,6 +84056,7 @@ oem-sutton-bartek-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-barth-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-bash-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-baz-meta/jammy-updates 22.04~ubuntu1 all
+oem-sutton-belgin-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-caia-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-cailean-meta/jammy-updates 22.04~ubuntu1 all
 oem-sutton-cailyn-meta/jammy-updates 22.04~ubuntu1 all
