@@ -5742,7 +5742,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.211
+├─ electron-to-chromium@1.5.212
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
@@ -9984,7 +9984,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.261.0
+├─ posthog-js@1.261.1
 │  ├─ @posthog/core@1.0.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.45.1
