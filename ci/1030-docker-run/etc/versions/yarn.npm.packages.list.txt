@@ -3872,7 +3872,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.3.0
+├─ @types/node@24.3.1
 │  └─ undici-types@~7.10.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -5662,7 +5662,7 @@ yarn list v1.22.22
 ├─ doctypes@1.1.0
 ├─ docx@7.8.2
 │  ├─ @types/node@^18.0.0
-│  ├─ @types/node@18.19.123
+│  ├─ @types/node@18.19.124
 │  │  └─ undici-types@~5.26.4
 │  ├─ jszip@^3.1.5
 │  ├─ nanoid@^3.1.20
