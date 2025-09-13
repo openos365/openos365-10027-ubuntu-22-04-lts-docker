@@ -4651,7 +4651,7 @@ yarn list v1.22.22
 ├─ base32.js@0.0.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.8.2
+├─ baseline-browser-mapping@2.8.3
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -9997,7 +9997,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.265.0
+├─ posthog-js@1.265.1
 │  ├─ @posthog/core@1.0.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.45.1
@@ -10018,7 +10018,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.27.1
+├─ preact@10.27.2
 ├─ prelude-ls@1.1.2
 ├─ prettier-plugin-svelte@1.4.2
 ├─ prettier@2.8.8
