@@ -3882,8 +3882,8 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.3.3
-│  └─ undici-types@~7.10.0
+├─ @types/node@24.4.0
+│  └─ undici-types@~7.11.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  ├─ path-to-regexp@*
@@ -9997,7 +9997,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.265.1
+├─ posthog-js@1.266.0
 │  ├─ @posthog/core@1.0.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.45.1
@@ -12601,7 +12601,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.1.0
 │  └─ which-boxed-primitive@^1.1.1
 ├─ underscore@1.13.7
-├─ undici-types@7.10.0
+├─ undici-types@7.11.0
 ├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
