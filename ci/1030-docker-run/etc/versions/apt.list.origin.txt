@@ -19984,7 +19984,7 @@ libcpan-reporter-smoker-perl/jammy 0.29-1 all
 libcpan-sqlite-perl/jammy 0.219-1 all
 libcpan-uploader-perl/jammy 0.103016-1 all
 libcpandb-perl/jammy 0.18-2 all
-libcpanel-json-xs-perl/jammy-security 4.27-1ubuntu0.2 amd64
+libcpanel-json-xs-perl/jammy-updates,jammy-security 4.27-1ubuntu0.2 amd64
 libcpanplus-dist-build-perl/jammy 0.90-2 all
 libcpanplus-perl/jammy 0.9914-1 all
 libcpath-clojure/jammy 0.1.2-2 all
@@ -29633,7 +29633,7 @@ libjson-smart-java/jammy-updates,jammy-security 2.2-2ubuntu0.22.04.1 all
 libjson-types-perl/jammy 0.05-1.1 all
 libjson-validator-perl/jammy 5.05+dfsg-1 all
 libjson-webtoken-perl/jammy 0.10-2 all
-libjson-xs-perl/jammy-security 4.040-0ubuntu0.22.04.1 amd64
+libjson-xs-perl/jammy-updates,jammy-security 4.040-0ubuntu0.22.04.1 amd64
 libjson11-1-dev/jammy 1.0.0-3 amd64
 libjson11-1/jammy 1.0.0-3 amd64
 libjson4s-java/jammy 3.5.1+really3.2.10-1 all
