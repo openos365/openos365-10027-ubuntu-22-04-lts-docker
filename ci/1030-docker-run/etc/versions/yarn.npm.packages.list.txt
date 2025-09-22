@@ -1838,7 +1838,7 @@ yarn list v1.22.22
 │  ├─ lodash.reject@^4.6.0
 │  ├─ memoize-one@^6.0.0
 │  ├─ nanoid@^5.0.9
-│  ├─ nanoid@5.1.5
+│  ├─ nanoid@5.1.6
 │  ├─ popper.js@^1.10.8
 │  ├─ prop-types@>=15.7.2
 │  ├─ react-contenteditable@^3.3.5
@@ -9997,7 +9997,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.266.3
+├─ posthog-js@1.267.0
 │  ├─ @posthog/core@1.1.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.45.1
