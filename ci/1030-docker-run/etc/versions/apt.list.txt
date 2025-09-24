@@ -4594,7 +4594,6 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
-dive/now 0.13.1 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -9417,7 +9416,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy-updates,jammy-security 1.0.0+ds-1ubuntu0.22.04.1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.79.0 amd64 [installed]
+gh/unknown,now 2.80.0 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -92322,8 +92321,8 @@ python3-pil.imagetk/jammy-updates,jammy-security 9.0.1-1ubuntu0.3 amd64
 python3-pil/jammy-updates,jammy-security 9.0.1-1ubuntu0.3 amd64
 python3-pilkit/jammy 2.0-4 all
 python3-pint/jammy 0.18-1 all
-python3-pip-whl/jammy-security 22.0.2+dfsg-1ubuntu0.7 all
-python3-pip/jammy-security,now 22.0.2+dfsg-1ubuntu0.7 all [installed]
+python3-pip-whl/jammy-updates,jammy-security 22.0.2+dfsg-1ubuntu0.7 all
+python3-pip/jammy-updates,jammy-security,now 22.0.2+dfsg-1ubuntu0.7 all [installed]
 python3-pipdeptree/jammy 2.2.0-3 amd64
 python3-piston-mini-client/jammy 0.7.5-0ubuntu7 all
 python3-pivy/jammy-updates 0.6.5-1ubuntu0.22.04.1 amd64
