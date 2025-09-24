@@ -1657,7 +1657,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.1.0
+├─ @posthog/core@1.2.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -9428,7 +9428,7 @@ yarn list v1.22.22
 ├─ pbf@3.3.0
 │  ├─ ieee754@^1.1.12
 │  └─ resolve-protobuf-schema@^2.1.0
-├─ pbkdf2@3.1.4
+├─ pbkdf2@3.1.5
 │  ├─ create-hash@^1.2.0
 │  ├─ create-hmac@^1.1.7
 │  ├─ ripemd160@^2.0.3
@@ -9976,8 +9976,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.268.1
-│  ├─ @posthog/core@1.1.0
+├─ posthog-js@1.268.3
+│  ├─ @posthog/core@1.2.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.45.1
 │  ├─ fflate@^0.4.8
