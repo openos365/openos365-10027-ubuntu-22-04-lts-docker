@@ -4875,12 +4875,12 @@ dpic/jammy 2021.11.01-1 amd64
 dpkg-awk/jammy 1.2+nmu2 all
 dpkg-cross/jammy 2.6.18+nmu2 all
 dpkg-dev-el/jammy 37.8ubuntu1 all
-dpkg-dev/jammy-security,now 1.21.1ubuntu2.6 all [installed,automatic]
+dpkg-dev/jammy-updates,jammy-security,now 1.21.1ubuntu2.6 all [installed,automatic]
 dpkg-repack/jammy 1.50 all
 dpkg-sig/jammy 0.13.1+nmu4 all
 dpkg-source-gitarchive/jammy 0.1.3 all
 dpkg-www/jammy 2.62 all
-dpkg/jammy-security,now 1.21.1ubuntu2.6 amd64 [installed]
+dpkg/jammy-updates,jammy-security,now 1.21.1ubuntu2.6 amd64 [installed]
 dpo-tools/jammy 1.3-4 all
 dpt-i2o-raidutils/jammy 0.0.6-23 amd64
 dptfxtract/jammy 1.4.2-0ubuntu1 amd64
@@ -4950,7 +4950,7 @@ drumstick-tools/jammy 2.5.1-1 amd64
 dsdcc/jammy 1.9.3-1 amd64
 dsdp-doc/jammy 5.8-9.4build1 all
 dsdp/jammy 5.8-9.4build1 amd64
-dselect/jammy-security 1.21.1ubuntu2.6 amd64
+dselect/jammy-updates,jammy-security 1.21.1ubuntu2.6 amd64
 dsh/jammy 0.25.10-1.4 amd64
 dsmidiwifi/jammy 2build1 amd64
 dsniff/jammy 2.4b1+debian-30build1 amd64
@@ -21056,9 +21056,9 @@ libdoxia-sitetools-java-doc/jammy 1.7.5-2 all
 libdoxia-sitetools-java/jammy 1.7.5-2 all
 libdoxygen-filter-perl/jammy 1.72-2.1 all
 libdpdk-dev/jammy-updates 21.11.9-0ubuntu0.22.04.1 amd64
-libdpkg-dev/jammy-security 1.21.1ubuntu2.6 amd64
+libdpkg-dev/jammy-updates,jammy-security 1.21.1ubuntu2.6 amd64
 libdpkg-parse-perl/jammy 0.03-2 all
-libdpkg-perl/jammy-security,now 1.21.1ubuntu2.6 all [installed,automatic]
+libdpkg-perl/jammy-updates,jammy-security,now 1.21.1ubuntu2.6 all [installed,automatic]
 libdqlite-dev/jammy 1.9.1-1 amd64
 libdqlite0/jammy 1.9.1-1 amd64
 libdr-sundown-perl/jammy 0.02-1build9 amd64
