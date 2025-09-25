@@ -4774,7 +4774,7 @@ yarn list v1.22.22
 │  ├─ bn.js@5.2.2
 │  ├─ randombytes@^2.1.0
 │  └─ safe-buffer@^5.2.1
-├─ browserify-sign@4.2.4
+├─ browserify-sign@4.2.5
 │  ├─ bn.js@^5.2.2
 │  ├─ bn.js@5.2.2
 │  ├─ browserify-rsa@^4.1.1
@@ -4782,7 +4782,7 @@ yarn list v1.22.22
 │  ├─ create-hmac@^1.1.7
 │  ├─ elliptic@^6.6.1
 │  ├─ inherits@^2.0.4
-│  ├─ parse-asn1@^5.1.7
+│  ├─ parse-asn1@^5.1.9
 │  ├─ readable-stream@^2.3.8
 │  └─ safe-buffer@^5.2.1
 ├─ browserify-zlib@0.2.0
@@ -4902,7 +4902,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001743
+├─ caniuse-lite@1.0.30001745
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -4982,9 +4982,10 @@ yarn list v1.22.22
 │  └─ ms@2.0.0
 ├─ chrome-trace-event@1.0.4
 ├─ ci-info@2.0.0
-├─ cipher-base@1.0.6
+├─ cipher-base@1.0.7
 │  ├─ inherits@^2.0.4
-│  └─ safe-buffer@^5.2.1
+│  ├─ safe-buffer@^5.2.1
+│  └─ to-buffer@^1.2.2
 ├─ circumcenter@1.0.0
 │  ├─ dup@^1.0.0
 │  └─ robust-linear-solve@^1.0.0
@@ -9976,7 +9977,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.268.4
+├─ posthog-js@1.268.5
 │  ├─ @posthog/core@1.2.1
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.45.1
@@ -12363,7 +12364,7 @@ yarn list v1.22.22
 │  └─ os-tmpdir@~1.0.2
 ├─ tmpl@1.0.5
 ├─ to-arraybuffer@1.0.1
-├─ to-buffer@1.2.1
+├─ to-buffer@1.2.2
 │  ├─ isarray@^2.0.5
 │  ├─ safe-buffer@^5.2.1
 │  └─ typed-array-buffer@^1.0.3
