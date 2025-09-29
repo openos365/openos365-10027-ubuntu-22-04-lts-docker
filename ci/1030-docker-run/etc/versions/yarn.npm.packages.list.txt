@@ -6438,6 +6438,7 @@ yarn list v1.22.22
 │  │  └─ ansi-regex@^2.0.0
 │  └─ wide-align@^1.1.0
 ├─ gemoji@6.1.0
+├─ generator-function@2.0.0
 ├─ generic-names@1.0.3
 │  ├─ big.js@3.2.0
 │  ├─ json5@0.5.1
@@ -7263,8 +7264,9 @@ yarn list v1.22.22
 ├─ is-fullwidth-code-point@2.0.0
 ├─ is-function@1.0.2
 ├─ is-generator-fn@2.1.0
-├─ is-generator-function@1.1.0
+├─ is-generator-function@1.1.1
 │  ├─ call-bound@^1.0.3
+│  ├─ generator-function@^2.0.0
 │  ├─ get-proto@^1.0.0
 │  ├─ has-tostringtag@^1.0.2
 │  └─ safe-regex-test@^1.1.0
