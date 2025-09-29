@@ -1657,7 +1657,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.2.1
+├─ @posthog/core@1.2.2
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -5689,7 +5689,7 @@ yarn list v1.22.22
 │  ├─ undici-types@5.26.5
 │  ├─ xml-js@^1.6.8
 │  └─ xml@^1.0.1
-├─ docxtemplater@3.66.3
+├─ docxtemplater@3.66.4
 │  ├─ @xmldom/xmldom@^0.9.8
 │  └─ @xmldom/xmldom@0.9.8
 ├─ dom-align@1.12.4
@@ -9977,8 +9977,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.268.6
-│  ├─ @posthog/core@1.2.1
+├─ posthog-js@1.268.8
+│  ├─ @posthog/core@1.2.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.45.1
 │  ├─ fflate@^0.4.8
@@ -10094,7 +10094,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.10.4
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.41.1
+├─ prosemirror-view@1.41.2
 │  ├─ prosemirror-model@^1.20.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
