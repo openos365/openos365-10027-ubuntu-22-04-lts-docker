@@ -3887,8 +3887,8 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.5.2
-│  └─ undici-types@~7.12.0
+├─ @types/node@24.6.0
+│  └─ undici-types@~7.13.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  ├─ path-to-regexp@*
@@ -5682,7 +5682,7 @@ yarn list v1.22.22
 ├─ doctypes@1.1.0
 ├─ docx@7.8.2
 │  ├─ @types/node@^18.0.0
-│  ├─ @types/node@18.19.127
+│  ├─ @types/node@18.19.128
 │  │  └─ undici-types@~5.26.4
 │  ├─ jszip@^3.1.5
 │  ├─ nanoid@^3.1.20
@@ -12574,7 +12574,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.1.0
 │  └─ which-boxed-primitive@^1.1.1
 ├─ underscore@1.13.7
-├─ undici-types@7.12.0
+├─ undici-types@7.13.0
 ├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
