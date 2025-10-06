@@ -13536,9 +13536,9 @@ happycoders-libdbg-dev/jammy 1.2-2ubuntu5 amd64
 happycoders-libdbg/jammy 1.2-2ubuntu5 amd64
 happycoders-libsocket-dev/jammy 1.6-1ubuntu5 amd64
 happycoders-libsocket/jammy 1.6-1ubuntu5 amd64
-haproxy-doc/jammy-security 2.4.24-0ubuntu0.22.04.3 all
+haproxy-doc/jammy-updates,jammy-security 2.4.24-0ubuntu0.22.04.3 all
 haproxy-log-analysis/jammy 2.0~b0-2 all
-haproxy/jammy-security 2.4.24-0ubuntu0.22.04.3 amd64
+haproxy/jammy-updates,jammy-security 2.4.24-0ubuntu0.22.04.3 amd64
 haproxyctl/jammy 1.4.3-1 all
 harden-doc/jammy 3.19+nmu1 all
 hardening-runtime/jammy 2 all
@@ -34662,7 +34662,7 @@ libpam-sss/jammy-updates 2.6.3-1ubuntu3.6 amd64
 libpam-systemd/jammy-updates,jammy-security,now 249.11-0ubuntu3.16 amd64 [installed,automatic]
 libpam-tacplus/jammy 1.3.8-2.1 amd64
 libpam-tmpdir/jammy 0.09build1 amd64
-libpam-u2f/jammy-security 1.1.0-1.1+deb12u1build0.22.04.1 amd64
+libpam-u2f/jammy-updates,jammy-security 1.1.0-1.1+deb12u1build0.22.04.1 amd64
 libpam-ufpidentity/jammy 1.0-1 amd64
 libpam-winbind/jammy-updates 2:4.15.13+dfsg-0ubuntu1.8 amd64
 libpam-wrapper/jammy 1.1.4-1build1 amd64
@@ -87663,7 +87663,7 @@ paml-doc/jammy 4.9j+dfsg-3 all
 paml/jammy 4.9j+dfsg-3 amd64
 pampi/jammy 1.1+dfsg1-3 all
 pamtester/jammy 0.1.2-4 amd64
-pamu2fcfg/jammy-security 1.1.0-1.1+deb12u1build0.22.04.1 amd64
+pamu2fcfg/jammy-updates,jammy-security 1.1.0-1.1+deb12u1build0.22.04.1 amd64
 pan-config/jammy 0.3 all
 pan-control-systems-dev/jammy 0.3 all
 pan-control-systems/jammy 0.3 all
@@ -103188,7 +103188,7 @@ vim-gitgutter/jammy 0~20200414-2 all
 vim-gtk3/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.24 amd64
 vim-gtk/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.24 all
 vim-gui-common/jammy-updates,jammy-security 2:8.2.3995-1ubuntu2.24 all
-vim-haproxy/jammy-security 2.4.24-0ubuntu0.22.04.3 all
+vim-haproxy/jammy-updates,jammy-security 2.4.24-0ubuntu0.22.04.3 all
 vim-icinga2/jammy 2.13.2-1build2 all
 vim-julia/jammy 0.0~git20211208.e497299-1 all
 vim-khuno/jammy 1.0.3-3 all
