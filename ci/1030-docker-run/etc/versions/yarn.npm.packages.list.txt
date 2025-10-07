@@ -133,31 +133,6 @@ yarn list v1.22.22
 ├─ @ag-grid-enterprise/viewport-row-model@26.2.0
 │  ├─ @ag-grid-community/core@~26.2.0
 │  └─ @ag-grid-enterprise/core@~26.2.0
-├─ @alifd/field@2.0.4
-│  ├─ @alifd/validate@^2.0.2
-│  └─ tslib@^2.6.2
-├─ @alifd/next@1.27.32
-│  ├─ @alifd/field@~2.0.4
-│  ├─ @alifd/overlay@^0.3.7
-│  ├─ @alifd/validate@~2.0.3
-│  ├─ @types/react-transition-group@^4.4.6
-│  ├─ babel-runtime@^6.26.0
-│  ├─ big.js@^6.2.0
-│  ├─ big.js@6.2.2
-│  ├─ classnames@^2.2.3
-│  ├─ dayjs@^1.9.6
-│  ├─ hoist-non-react-statics@^3.0.0
-│  ├─ lodash.clonedeep@^4.5.0
-│  ├─ prop-types@^15.6.0
-│  ├─ react-lifecycles-compat@^3.0.4
-│  ├─ react-transition-group@^2.2.1
-│  ├─ resize-observer-polyfill@^1.5.1
-│  ├─ shallow-element-equals@^1.0.1
-│  └─ tslib@^2.6.2
-├─ @alifd/overlay@0.3.7
-│  └─ resize-observer-polyfill@^1.5.1
-├─ @alifd/validate@2.0.3
-│  └─ tslib@^2.6.2
 ├─ @alloc/quick-lru@5.2.0
 ├─ @ant-design/colors@6.0.0
 │  └─ @ctrl/tinycolor@^3.4.0
@@ -2845,23 +2820,6 @@ yarn list v1.22.22
 │  ├─ crypto@^1.0.1
 │  ├─ node-fetch@^2.6.0
 │  └─ systeminformation@5.9.17
-├─ @steedos/lowcode-widgets@0.0.3
-│  ├─ @alifd/next@^1.25.27
-│  ├─ prop-types@^15.5.8
-│  ├─ react-dom@^16.x
-│  ├─ react-dom@16.14.0
-│  │  ├─ loose-envify@^1.1.0
-│  │  ├─ object-assign@^4.1.1
-│  │  ├─ prop-types@^15.6.2
-│  │  └─ scheduler@^0.19.1
-│  ├─ react@^16.x
-│  ├─ react@16.14.0
-│  │  ├─ loose-envify@^1.1.0
-│  │  ├─ object-assign@^4.1.1
-│  │  └─ prop-types@^15.6.2
-│  └─ scheduler@0.19.1
-│     ├─ loose-envify@^1.1.0
-│     └─ object-assign@^4.1.1
 ├─ @steedos/metadata-core@2.7.21
 │  ├─ @steedos/client@2.7.21
 │  ├─ archiver@^5.1.0
@@ -3902,7 +3860,6 @@ yarn list v1.22.22
 │  │  └─ csstype@^3.0.2
 │  ├─ hoist-non-react-statics@^3.3.0
 │  └─ redux@^4.0.0
-├─ @types/react-transition-group@4.4.12
 ├─ @types/react@17.0.89
 │  ├─ @types/prop-types@*
 │  ├─ @types/scheduler@^0.16
@@ -10922,13 +10879,6 @@ yarn list v1.22.22
 ├─ react-text-truncate@0.19.0
 │  └─ prop-types@^15.5.7
 ├─ react-to-webcomponent@1.7.6
-├─ react-transition-group@2.9.0
-│  ├─ dom-helpers@^3.4.0
-│  ├─ dom-helpers@3.4.0
-│  │  └─ @babel/runtime@^7.1.2
-│  ├─ loose-envify@^1.4.0
-│  ├─ prop-types@^15.6.2
-│  └─ react-lifecycles-compat@^3.0.4
 ├─ react-universal-interface@0.6.2
 ├─ react-use@17.6.0
 │  ├─ @types/js-cookie@^2.2.6
@@ -11646,8 +11596,6 @@ yarn list v1.22.22
 │  ├─ kind-of@5.1.0
 │  └─ mixin-object@^2.0.1
 ├─ shallow-copy@0.0.1
-├─ shallow-element-equals@1.0.1
-│  └─ style-equal@^1.0.0
 ├─ shallow-equal@1.2.1
 ├─ shallow-equals@1.0.0
 ├─ shallowequal@1.1.0
@@ -12060,7 +12008,6 @@ yarn list v1.22.22
 ├─ strtok3@6.3.0
 │  ├─ @tokenizer/token@^0.3.0
 │  └─ peek-readable@^4.1.0
-├─ style-equal@1.0.0
 ├─ style-loader@0.23.1
 │  ├─ loader-utils@^1.1.0
 │  └─ schema-utils@^1.0.0
