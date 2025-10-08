@@ -7281,7 +7281,7 @@ forkstat/jammy 0.02.17-1 amd64
 form-doc/jammy 4.2.1+git20200217-1 all
 form/jammy 4.2.1+git20200217-1 amd64
 formiko/jammy 1.3.0-2 all
-fort-validator/jammy 1.5.3-1build1 amd64
+fort-validator/jammy-security 1.5.3-1ubuntu0.1 amd64
 fort77/jammy 1.15-11.1 all
 fortran-language-server/jammy 1.12.0-1 all
 fortunate.app/jammy 3.1-3build3 amd64
