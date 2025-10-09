@@ -4656,7 +4656,7 @@ yarn list v1.22.22
 ├─ base32.js@0.0.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.8.14
+├─ baseline-browser-mapping@2.8.15
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -5689,7 +5689,7 @@ yarn list v1.22.22
 │  ├─ undici-types@5.26.5
 │  ├─ xml-js@^1.6.8
 │  └─ xml@^1.0.1
-├─ docxtemplater@3.66.6
+├─ docxtemplater@3.66.7
 │  ├─ @xmldom/xmldom@^0.9.8
 │  └─ @xmldom/xmldom@0.9.8
 ├─ dom-align@1.12.4
