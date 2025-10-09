@@ -2127,6 +2127,8 @@ yarn list v1.22.22
 ├─ @steedos-labs/sensitive-words-scan@2.1.62
 │  └─ fastscan@^1.0.6
 ├─ @steedos-labs/services@2.1.62
+├─ @steedos-labs/shop@2.1.62
+│  └─ pug@^3.0.2
 ├─ @steedos-labs/site@2.1.62
 │  └─ pug@^3.0.2
 ├─ @steedos-labs/stimulsoft-reports@2.1.62
@@ -10092,7 +10094,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.10.4
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.41.2
+├─ prosemirror-view@1.41.3
 │  ├─ prosemirror-model@^1.20.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
