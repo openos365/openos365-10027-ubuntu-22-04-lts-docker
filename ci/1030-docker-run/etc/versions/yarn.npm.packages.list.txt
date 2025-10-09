@@ -2127,8 +2127,6 @@ yarn list v1.22.22
 ├─ @steedos-labs/sensitive-words-scan@2.1.62
 │  └─ fastscan@^1.0.6
 ├─ @steedos-labs/services@2.1.62
-├─ @steedos-labs/shop@2.1.62
-│  └─ pug@^3.0.2
 ├─ @steedos-labs/site@2.1.62
 │  └─ pug@^3.0.2
 ├─ @steedos-labs/stimulsoft-reports@2.1.62
