@@ -86695,9 +86695,9 @@ oce-draw/jammy 0.18.3-2 amd64
 ocfs2-tools-dev/jammy 1.8.7-1build1 amd64
 ocfs2-tools/jammy 1.8.7-1build1 amd64
 oci-image-tool/jammy 1.0.0~rc2+really.rc1+dfsg-2 amd64
-ocl-icd-dev/jammy 2.2.14-3 amd64
-ocl-icd-libopencl1/jammy 2.2.14-3 amd64
-ocl-icd-opencl-dev/jammy 2.2.14-3 amd64
+ocl-icd-dev/jammy,jammy-updates 2.2.14-3 amd64
+ocl-icd-libopencl1/jammy,jammy-updates 2.2.14-3 amd64
+ocl-icd-opencl-dev/jammy,jammy-updates 2.2.14-3 amd64
 oclgrind/jammy 21.10-1 amd64
 ocp-indent/jammy 1.8.2-1build4 amd64
 ocplib-simplex-ocaml-dev/jammy 0.4-2build3 amd64
