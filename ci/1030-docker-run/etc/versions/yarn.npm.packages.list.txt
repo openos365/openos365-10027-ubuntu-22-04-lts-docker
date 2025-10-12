@@ -3887,7 +3887,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.7.1
+├─ @types/node@24.7.2
 │  └─ undici-types@~7.14.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -4902,7 +4902,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001749
+├─ caniuse-lite@1.0.30001750
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
