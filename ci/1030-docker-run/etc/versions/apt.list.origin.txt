@@ -100805,7 +100805,7 @@ sopwith/jammy 1.8.4-18 amd64
 sordi/jammy 0.16.8-2 amd64
 sortmail/jammy 1:2.4-5 amd64
 sortmerna/jammy 2.1-5 amd64
-sosreport/jammy-updates 4.8.2-0ubuntu0~22.04.2 amd64
+sosreport/jammy-updates 4.9.2-0ubuntu0~22.04.1 amd64
 sound-icons/jammy 0.1-8 all
 sound-juicer/jammy 3.38.0-2 amd64
 sound-theme-freedesktop/jammy 0.8-2ubuntu1 all

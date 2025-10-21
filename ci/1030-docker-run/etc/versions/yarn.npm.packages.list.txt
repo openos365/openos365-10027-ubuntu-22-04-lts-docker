@@ -9144,7 +9144,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.25
+├─ node-releases@2.0.26
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9977,7 +9977,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.278.0
+├─ posthog-js@1.279.0
 │  ├─ @posthog/core@1.3.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.46.0
@@ -10075,7 +10075,7 @@ yarn list v1.22.22
 │  ├─ mdurl@2.0.0
 │  ├─ prosemirror-model@^1.25.0
 │  └─ uc.micro@2.1.0
-├─ prosemirror-model@1.25.3
+├─ prosemirror-model@1.25.4
 │  └─ orderedmap@^2.0.0
 ├─ prosemirror-schema-list@1.5.1
 │  ├─ prosemirror-model@^1.0.0
