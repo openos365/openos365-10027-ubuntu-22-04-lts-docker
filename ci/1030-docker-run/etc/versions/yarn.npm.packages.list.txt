@@ -2908,7 +2908,7 @@ yarn list v1.22.22
 │  ├─ ini@^2.0.0
 │  ├─ ini@2.0.0
 │  ├─ ioredis@^5.3.2
-│  ├─ ioredis@5.8.1
+│  ├─ ioredis@5.8.2
 │  │  ├─ @ioredis/commands@1.4.0
 │  │  ├─ cluster-key-slot@^1.1.0
 │  │  ├─ debug@^4.3.4
@@ -4656,7 +4656,7 @@ yarn list v1.22.22
 ├─ base32.js@0.0.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.8.18
+├─ baseline-browser-mapping@2.8.19
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
