@@ -3846,7 +3846,7 @@ yarn list v1.22.22
 ├─ @types/bson@4.0.5
 │  └─ @types/node@*
 ├─ @types/estree@1.0.8
-├─ @types/fs-extra-promise@1.0.13
+├─ @types/fs-extra-promise@1.0.14
 │  ├─ @types/bluebird@*
 │  ├─ @types/fs-extra@^4
 │  └─ @types/node@*
@@ -5685,7 +5685,7 @@ yarn list v1.22.22
 │  ├─ undici-types@5.26.5
 │  ├─ xml-js@^1.6.8
 │  └─ xml@^1.0.1
-├─ docxtemplater@3.67.0
+├─ docxtemplater@3.67.1
 │  ├─ @xmldom/xmldom@^0.9.8
 │  └─ @xmldom/xmldom@0.9.8
 ├─ dom-align@1.12.4
