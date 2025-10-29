@@ -1506,39 +1506,39 @@ binoculars-doc/jammy 0.0.10-1.1 all
 binoculars/jammy 0.0.10-1.1 all
 binpac/jammy 0.58.0-1 amd64
 binstats/jammy 1.08-9.1 all
-binutils-aarch64-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-aarch64-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-alpha-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-alpha-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-arm-linux-gnueabi-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-arm-linux-gnueabi/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-arm-linux-gnueabihf-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-arm-linux-gnueabihf/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-aarch64-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-aarch64-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-alpha-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-alpha-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-arm-linux-gnueabi-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-arm-linux-gnueabi/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-arm-linux-gnueabihf-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-arm-linux-gnueabihf/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-arm-none-eabi/jammy 2.38-3ubuntu1+15build1 amd64
 binutils-avr/jammy 2.26.20160125+Atmel3.6.2-4 amd64
 binutils-bpf/jammy 2.38-2ubuntu1+3 amd64
-binutils-common/jammy-updates,jammy-security,now 2.38-4ubuntu2.8 amd64 [installed,automatic]
-binutils-dev/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-common/jammy-security,now 2.38-4ubuntu2.10 amd64 [installed,automatic]
+binutils-dev/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-djgpp/jammy 2.35.1+dfsg-1 amd64
-binutils-doc/jammy-updates,jammy-security 2.38-4ubuntu2.8 all
-binutils-for-build/jammy-updates,jammy-security 2.38-4ubuntu2.8 all
-binutils-for-host/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-doc/jammy-security 2.38-4ubuntu2.10 all
+binutils-for-build/jammy-security 2.38-4ubuntu2.10 all
+binutils-for-host/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-h8300-hms/jammy 2.16.1-10build1 amd64
-binutils-hppa-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-hppa-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-hppa64-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-hppa64-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-i686-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-i686-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-i686-kfreebsd-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-i686-kfreebsd-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-i686-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-i686-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-ia64-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-ia64-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-hppa-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-hppa-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-hppa64-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-hppa64-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-i686-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-i686-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-i686-kfreebsd-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-i686-kfreebsd-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-i686-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-i686-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-ia64-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-ia64-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-m68hc1x/jammy 1:2.38+3.0.1build1 amd64
-binutils-m68k-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-m68k-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-m68k-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-m68k-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-mingw-w64-i686/jammy 2.38-3ubuntu1+9build1 amd64
 binutils-mingw-w64-x86-64/jammy 2.38-3ubuntu1+9build1 amd64
 binutils-mingw-w64/jammy 2.38-3ubuntu1+9build1 all
@@ -1567,36 +1567,36 @@ binutils-mipsisa64r6el-linux-gnuabi64/jammy 2.38-1ubuntu1cross2 amd64
 binutils-mipsisa64r6el-linux-gnuabin32-dbg/jammy 2.38-1ubuntu1cross2 amd64
 binutils-mipsisa64r6el-linux-gnuabin32/jammy 2.38-1ubuntu1cross2 amd64
 binutils-msp430/jammy 2.22~msp20120406-5.1 amd64
-binutils-multiarch-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-multiarch-dev/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-multiarch/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-multiarch-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-multiarch-dev/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-multiarch/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-or1k-elf/jammy 2.38-3ubuntu1+1.0.3 amd64
-binutils-powerpc-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-powerpc-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-powerpc64-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-powerpc64-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-powerpc64le-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-powerpc64le-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-riscv64-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-riscv64-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-powerpc-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-powerpc-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-powerpc64-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-powerpc64-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-powerpc64le-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-powerpc64le-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-riscv64-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-riscv64-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-riscv64-unknown-elf/jammy 2.35.1-0ubuntu1 amd64
-binutils-s390x-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-s390x-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-s390x-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-s390x-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-sh-elf/jammy 2.38+1build1 amd64
-binutils-sh4-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-sh4-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-source/jammy-updates,jammy-security 2.38-4ubuntu2.8 all
-binutils-sparc64-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-sparc64-linux-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-x86-64-kfreebsd-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-x86-64-kfreebsd-gnu/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-x86-64-linux-gnu-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-x86-64-linux-gnu/jammy-updates,jammy-security,now 2.38-4ubuntu2.8 amd64 [installed,automatic]
-binutils-x86-64-linux-gnux32-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-binutils-x86-64-linux-gnux32/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
+binutils-sh4-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-sh4-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-source/jammy-security 2.38-4ubuntu2.10 all
+binutils-sparc64-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-sparc64-linux-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-x86-64-kfreebsd-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-x86-64-kfreebsd-gnu/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-x86-64-linux-gnu-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-x86-64-linux-gnu/jammy-security,now 2.38-4ubuntu2.10 amd64 [installed,automatic]
+binutils-x86-64-linux-gnux32-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+binutils-x86-64-linux-gnux32/jammy-security 2.38-4ubuntu2.10 amd64
 binutils-xtensa-lx106/jammy 2.38-3ubuntu1+4build1 amd64
 binutils-z80/jammy 2.38-3ubuntu1+4build3 amd64
-binutils/jammy-updates,jammy-security,now 2.38-4ubuntu2.8 amd64 [installed,automatic]
+binutils/jammy-security,now 2.38-4ubuntu2.10 amd64 [installed,automatic]
 binwalk/jammy 2.3.3+dfsg1-2 all
 bio-eagle-examples/jammy 2.4.1-3build1 all
 bio-eagle/jammy 2.4.1-3build1 amd64
@@ -18180,8 +18180,8 @@ libbinio-dev/jammy 1.5+dfsg-0.1 amd64
 libbinio1v5/jammy 1.5+dfsg-0.1 amd64
 libbiniou-ocaml-dev/jammy 1.2.1-1build3 amd64
 libbiniou-ocaml/jammy 1.2.1-1build3 amd64
-libbinutils-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-libbinutils/jammy-updates,jammy-security,now 2.38-4ubuntu2.8 amd64 [installed,automatic]
+libbinutils-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+libbinutils/jammy-security,now 2.38-4ubuntu2.10 amd64 [installed,automatic]
 libbio-alignio-stockholm-perl/jammy 1.7.3-2 all
 libbio-asn1-entrezgene-perl/jammy 1.730-2 all
 libbio-chado-schema-perl/jammy 0.20000-3 all
@@ -20188,10 +20188,10 @@ libctapimkt1-dev/jammy 1.0.5~rc1-9 amd64
 libctapimkt1/jammy 1.0.5~rc1-9 amd64
 libctemplate-dev/jammy 2.4-1 amd64
 libctemplate3/jammy 2.4-1 amd64
-libctf-nobfd0-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-libctf-nobfd0/jammy-updates,jammy-security,now 2.38-4ubuntu2.8 amd64 [installed,automatic]
-libctf0-dbg/jammy-updates,jammy-security 2.38-4ubuntu2.8 amd64
-libctf0/jammy-updates,jammy-security,now 2.38-4ubuntu2.8 amd64 [installed,automatic]
+libctf-nobfd0-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+libctf-nobfd0/jammy-security,now 2.38-4ubuntu2.10 amd64 [installed,automatic]
+libctf0-dbg/jammy-security 2.38-4ubuntu2.10 amd64
+libctf0/jammy-security,now 2.38-4ubuntu2.10 amd64 [installed,automatic]
 libctl-dev/jammy 4.5.1-1 amd64
 libctl-doc/jammy 4.5.1-1 all
 libctl7/jammy 4.5.1-1 amd64
