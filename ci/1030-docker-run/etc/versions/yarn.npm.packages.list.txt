@@ -3177,7 +3177,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.52
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.13.0
+│  ├─ axios@1.13.1
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.4
 │  │  └─ proxy-from-env@^1.1.0
@@ -3879,7 +3879,7 @@ yarn list v1.22.22
 ├─ @types/mdurl@2.0.0
 ├─ @types/minimatch@6.0.0
 │  ├─ minimatch@*
-│  └─ minimatch@10.0.3
+│  └─ minimatch@10.1.1
 │     └─ @isaacs/brace-expansion@^5.0.0
 ├─ @types/mongodb@3.6.20
 │  ├─ @types/bson@*
@@ -3887,7 +3887,7 @@ yarn list v1.22.22
 │  │  └─ bson@*
 │  ├─ @types/node@*
 │  └─ bson@6.10.4
-├─ @types/node@24.9.1
+├─ @types/node@24.9.2
 │  └─ undici-types@~7.16.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
