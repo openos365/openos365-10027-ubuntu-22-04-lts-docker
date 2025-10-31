@@ -39544,11 +39544,11 @@ libss7-2.0/jammy 2.0.0-3 amd64
 libss7-dev/jammy 2.0.0-3 amd64
 libsscm-dev/jammy 0.9.1-1 amd64
 libsscm3/jammy 0.9.1-1 amd64
-libssh-4/jammy-updates,jammy-security,now 0.9.6-2ubuntu0.22.04.4 amd64 [installed,automatic]
-libssh-dev/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.4 amd64
-libssh-doc/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.4 all
-libssh-gcrypt-4/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.4 amd64
-libssh-gcrypt-dev/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.4 amd64
+libssh-4/jammy-security,now 0.9.6-2ubuntu0.22.04.5 amd64 [installed,automatic]
+libssh-dev/jammy-security 0.9.6-2ubuntu0.22.04.5 amd64
+libssh-doc/jammy-security 0.9.6-2ubuntu0.22.04.5 all
+libssh-gcrypt-4/jammy-security 0.9.6-2ubuntu0.22.04.5 amd64
+libssh-gcrypt-dev/jammy-security 0.9.6-2ubuntu0.22.04.5 amd64
 libssh2-1-dev/jammy 1.10.0-3 amd64
 libssh2-1/jammy 1.10.0-3 amd64
 libssl-dev/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.20 amd64 [installed]
@@ -42876,10 +42876,10 @@ libxml-xpathengine-perl/jammy 0.14-1 all
 libxml-xql-perl/jammy 0.68-8ubuntu1 all
 libxml-xslt-perl/jammy 0.48-5 all
 libxml-xupdate-libxml-perl/jammy 0.6.0-3.1 all
-libxml2-dev/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.9 amd64
-libxml2-doc/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.9 all
-libxml2-utils/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.9 amd64
-libxml2/jammy-updates,jammy-security,now 2.9.13+dfsg-1ubuntu0.9 amd64 [installed,automatic]
+libxml2-dev/jammy-security 2.9.13+dfsg-1ubuntu0.10 amd64
+libxml2-doc/jammy-security 2.9.13+dfsg-1ubuntu0.10 all
+libxml2-utils/jammy-security 2.9.13+dfsg-1ubuntu0.10 amd64
+libxml2/jammy-security,now 2.9.13+dfsg-1ubuntu0.10 amd64 [installed,automatic]
 libxmlada-doc/jammy 21.0.0-4 all
 libxmlada-dom10-dev/jammy 21.0.0-4 amd64
 libxmlada-dom7/jammy 21.0.0-4 amd64
@@ -93919,7 +93919,7 @@ python3-libvoikko/jammy 4.3.1-1build1 all
 python3-libvshadow/jammy 20190323-2build1 amd64
 python3-libvslvm/jammy 20181227-1.1build2 amd64
 python3-libwfut-0.2/jammy 0.2.3-8build1 amd64
-python3-libxml2/jammy-updates,jammy-security 2.9.13+dfsg-1ubuntu0.9 amd64
+python3-libxml2/jammy-security 2.9.13+dfsg-1ubuntu0.10 amd64
 python3-libzim/jammy 1.0.0+ds-2build1 amd64
 python3-license-expression/jammy 21.6.14-2 all
 python3-limits/jammy 1.5.1-1 all
