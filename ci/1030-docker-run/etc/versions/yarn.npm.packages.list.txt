@@ -378,14 +378,6 @@ yarn list v1.22.22
 ├─ @babel/helper-create-regexp-features-plugin@7.28.5
 │  ├─ @babel/helper-annotate-as-pure@^7.27.3
 │  ├─ regexpu-core@^6.3.1
-│  ├─ regexpu-core@6.4.0
-│  │  ├─ regenerate-unicode-properties@^10.2.2
-│  │  ├─ regenerate@^1.4.2
-│  │  ├─ regjsgen@^0.8.0
-│  │  ├─ regjsparser@^0.13.0
-│  │  ├─ unicode-match-property-ecmascript@^2.0.0
-│  │  └─ unicode-match-property-value-ecmascript@^2.2.1
-│  ├─ regjsgen@0.8.0
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
 ├─ @babel/helper-define-polyfill-provider@0.6.5
@@ -1288,7 +1280,7 @@ yarn list v1.22.22
 │  ├─ @tanstack/react-virtual@^3.0.0-beta.60
 │  └─ client-only@^0.0.1
 ├─ @heroicons/react@1.0.6
-├─ @ioredis/commands@1.4.0
+├─ @ioredis/commands@1.5.0
 ├─ @isaacs/balanced-match@4.0.1
 ├─ @isaacs/brace-expansion@5.0.0
 │  └─ @isaacs/balanced-match@^4.0.1
@@ -2888,6 +2880,7 @@ yarn list v1.22.22
 │  │  └─ has-flag@^4.0.0
 │  └─ underscore@^1.11.0
 ├─ @steedos/metadata-registrar@2.7.22
+│  ├─ @ioredis/commands@1.4.0
 │  ├─ @salesforce/ts-types@1.1.2
 │  ├─ @steedos/client@2.7.22
 │  ├─ @steedos/metadata-core@2.7.22
@@ -4801,11 +4794,24 @@ yarn list v1.22.22
 │  ├─ acorn-jsx@^5.0.1
 │  ├─ acorn@^6.1.1
 │  ├─ chalk@^2.4.2
+│  ├─ jsesc@0.5.0
 │  ├─ magic-string@^0.25.3
 │  ├─ minimist@^1.2.0
 │  ├─ os-homedir@^2.0.0
 │  ├─ os-homedir@2.0.0
-│  └─ regexpu-core@^4.5.4
+│  ├─ regenerate-unicode-properties@9.0.0
+│  │  └─ regenerate@^1.4.2
+│  ├─ regexpu-core@^4.5.4
+│  ├─ regexpu-core@4.8.0
+│  │  ├─ regenerate-unicode-properties@^9.0.0
+│  │  ├─ regenerate@^1.4.2
+│  │  ├─ regjsgen@^0.5.2
+│  │  ├─ regjsparser@^0.7.0
+│  │  ├─ unicode-match-property-ecmascript@^2.0.0
+│  │  └─ unicode-match-property-value-ecmascript@^2.0.0
+│  ├─ regjsgen@0.5.2
+│  └─ regjsparser@0.7.0
+│     └─ jsesc@~0.5.0
 ├─ bubleify@1.2.1
 │  └─ buble@^0.19.3
 ├─ buffer-alloc-unsafe@1.1.0
@@ -9972,7 +9978,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.284.0
+├─ posthog-js@1.285.0
 │  ├─ @posthog/core@1.5.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.46.0
@@ -11102,19 +11108,14 @@ yarn list v1.22.22
 │  ├─ gopd@^1.2.0
 │  └─ set-function-name@^2.0.2
 ├─ regexpp@2.0.1
-├─ regexpu-core@4.8.0
-│  ├─ jsesc@0.5.0
-│  ├─ regenerate-unicode-properties@^9.0.0
-│  ├─ regenerate-unicode-properties@9.0.0
-│  │  └─ regenerate@^1.4.2
+├─ regexpu-core@6.4.0
+│  ├─ regenerate-unicode-properties@^10.2.2
 │  ├─ regenerate@^1.4.2
-│  ├─ regjsgen@^0.5.2
-│  ├─ regjsparser@^0.7.0
-│  ├─ regjsparser@0.7.0
-│  │  └─ jsesc@~0.5.0
+│  ├─ regjsgen@^0.8.0
+│  ├─ regjsparser@^0.13.0
 │  ├─ unicode-match-property-ecmascript@^2.0.0
-│  └─ unicode-match-property-value-ecmascript@^2.0.0
-├─ regjsgen@0.5.2
+│  └─ unicode-match-property-value-ecmascript@^2.2.1
+├─ regjsgen@0.8.0
 ├─ regjsparser@0.13.0
 │  └─ jsesc@~3.1.0
 ├─ regl-error2d@2.0.12
