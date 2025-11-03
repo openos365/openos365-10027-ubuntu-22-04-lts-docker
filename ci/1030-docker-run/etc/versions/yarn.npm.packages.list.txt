@@ -5685,7 +5685,7 @@ yarn list v1.22.22
 │  ├─ undici-types@5.26.5
 │  ├─ xml-js@^1.6.8
 │  └─ xml@^1.0.1
-├─ docxtemplater@3.67.1
+├─ docxtemplater@3.67.2
 │  ├─ @xmldom/xmldom@^0.9.8
 │  └─ @xmldom/xmldom@0.9.8
 ├─ dom-align@1.12.4
