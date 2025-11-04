@@ -11468,7 +11468,7 @@ yarn list v1.22.22
 │  ├─ neo-async@^2.5.0
 │  ├─ pify@^3.0.0
 │  └─ semver@^5.5.0
-├─ sax@1.4.2
+├─ sax@1.4.3
 ├─ saxes@5.0.1
 │  └─ xmlchars@^2.2.0
 ├─ sc-channel@1.2.0
