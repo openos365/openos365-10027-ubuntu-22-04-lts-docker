@@ -4657,7 +4657,7 @@ yarn list v1.22.22
 ├─ base32.js@0.0.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.8.23
+├─ baseline-browser-mapping@2.8.24
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
