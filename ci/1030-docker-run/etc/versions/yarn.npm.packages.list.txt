@@ -9247,7 +9247,7 @@ yarn list v1.22.22
 ├─ oblivious-set@1.0.0
 ├─ obuf@1.1.2
 ├─ odata-v4-literal@0.1.1
-├─ oidc-token-hash@5.1.1
+├─ oidc-token-hash@5.2.0
 ├─ omggif@1.0.10
 ├─ omit.js@2.0.2
 ├─ on-finished@2.4.1
