@@ -2238,8 +2238,6 @@ yarn list v1.22.22
 │  │  ├─ @steedos-labs/master@2.2.9-beta.3
 │  │  └─ @steedos-labs/master@2.2.9-beta.3
 │  ├─ bson@4.6.4
-│  ├─ bson@4.6.4
-│  │  └─ buffer@^5.6.0
 │  ├─ csvtojson@~2.0.10
 │  ├─ globby@9.2.0
 │  ├─ globby@9.2.0
@@ -3030,8 +3028,6 @@ yarn list v1.22.22
 │  ├─ @steedos/metadata-core@3.0.0-beta.131
 │  ├─ @steedos/objectql@3.0.0-beta.131
 │  ├─ bson@4.6.4
-│  ├─ bson@4.6.4
-│  │  └─ buffer@^5.6.0
 │  ├─ csvtojson@~2.0.10
 │  ├─ dotenv-flow@^3.1.0
 │  ├─ lodash@^4.17.21
@@ -3488,8 +3484,6 @@ yarn list v1.22.22
 │  ├─ uuid@^8.3.1
 │  └─ yauzl@^2.10.0
 ├─ @steedos/node-red-app-template@2.1.116
-├─ @steedos/node-red-contrib-mongodb-storage@2.0.2
-│  └─ mongoose@^5.12.13
 ├─ @steedos/node-red-contrib-steedos@2.4.3
 │  ├─ express-dynamic-middleware@^1.0.0
 │  ├─ ioredis@^4.17.3
@@ -4553,8 +4547,6 @@ yarn list v1.22.22
 ├─ @types/body-parser@1.19.6
 │  ├─ @types/connect@*
 │  └─ @types/node@*
-├─ @types/bson@4.0.5
-│  └─ @types/node@*
 ├─ @types/cacheable-request@6.0.3
 │  ├─ @types/http-cache-semantics@*
 │  ├─ @types/keyv@^3.1.4
@@ -4644,12 +4636,6 @@ yarn list v1.22.22
 │  ├─ minimatch@*
 │  └─ minimatch@10.1.1
 │     └─ @isaacs/brace-expansion@^5.0.0
-├─ @types/mongodb@3.6.20
-│  ├─ @types/bson@*
-│  ├─ @types/bson@4.2.4
-│  │  └─ bson@*
-│  ├─ @types/node@*
-│  └─ bson@6.10.4
 ├─ @types/ms@2.1.0
 ├─ @types/node@24.10.0
 │  └─ undici-types@~7.16.0
@@ -5674,7 +5660,8 @@ yarn list v1.22.22
 │  └─ update-browserslist-db@^1.1.4
 ├─ bser@2.1.1
 │  └─ node-int64@^0.4.0
-├─ bson@1.1.6
+├─ bson@4.6.4
+│  └─ buffer@^5.6.0
 ├─ buble@0.19.8
 │  ├─ acorn-dynamic-import@^4.0.0
 │  ├─ acorn-jsx@^5.0.1
@@ -9119,7 +9106,6 @@ yarn list v1.22.22
 │  ├─ jwa@^1.4.1
 │  └─ safe-buffer@^5.0.1
 ├─ jwt-decode@2.2.0
-├─ kareem@2.3.2
 ├─ kdbush@3.0.0
 ├─ keygrip@1.1.0
 │  └─ tsscmp@1.0.6
@@ -9943,29 +9929,11 @@ yarn list v1.22.22
 │  │  ├─ readable-stream@^2.3.5
 │  │  └─ safe-buffer@^5.1.1
 │  ├─ bson@^1.1.4
+│  ├─ bson@1.1.6
 │  ├─ denque@^1.4.1
 │  ├─ optional-require@^1.1.8
-│  ├─ optional-require@1.1.10
-│  │  └─ require-at@^1.0.6
 │  ├─ safe-buffer@^5.1.2
 │  └─ saslprep@^1.0.0
-├─ mongoose-legacy-pluralize@1.0.2
-├─ mongoose@5.13.23
-│  ├─ @types/bson@1.x || 4.0.x
-│  ├─ @types/mongodb@^3.5.27
-│  ├─ bson@^1.1.4
-│  ├─ kareem@2.3.2
-│  ├─ mongodb@3.7.4
-│  ├─ mongoose-legacy-pluralize@1.0.2
-│  ├─ mpath@0.8.4
-│  ├─ mquery@3.2.5
-│  ├─ ms@2.1.2
-│  ├─ ms@2.1.2
-│  ├─ optional-require@1.0.x
-│  ├─ regexp-clone@1.0.0
-│  ├─ safe-buffer@5.2.1
-│  ├─ sift@13.5.2
-│  └─ sliced@1.0.1
 ├─ monotone-convex-hull-2d@1.0.1
 │  └─ robust-orientation@^1.1.3
 ├─ morgan@1.10.1
@@ -9994,19 +9962,6 @@ yarn list v1.22.22
 │  ├─ mkdirp@^0.5.1
 │  ├─ rimraf@^2.5.4
 │  └─ run-queue@^1.0.3
-├─ mpath@0.8.4
-├─ mquery@3.2.5
-│  ├─ bluebird@3.5.1
-│  ├─ bluebird@3.5.1
-│  ├─ debug@3.1.0
-│  ├─ debug@3.1.0
-│  │  └─ ms@2.0.0
-│  ├─ ms@2.0.0
-│  ├─ regexp-clone@^1.0.0
-│  ├─ regexp-clone@1.2.0
-│  ├─ safe-buffer@5.1.2
-│  ├─ safe-buffer@5.1.2
-│  └─ sliced@1.0.1
 ├─ mri@1.1.4
 ├─ ms@2.1.3
 ├─ msgpackr-extract@3.0.3
@@ -10468,7 +10423,8 @@ yarn list v1.22.22
 ├─ optimize-css-assets-webpack-plugin@5.0.1
 │  ├─ cssnano@^4.1.0
 │  └─ last-call-webpack-plugin@^3.0.0
-├─ optional-require@1.0.3
+├─ optional-require@1.1.10
+│  └─ require-at@^1.0.6
 ├─ optionator@0.8.3
 │  ├─ deep-is@~0.1.3
 │  ├─ fast-levenshtein@~2.0.6
@@ -12377,7 +12333,6 @@ yarn list v1.22.22
 │  ├─ is-extendable@1.0.1
 │  │  └─ is-plain-object@^2.0.4
 │  └─ safe-regex@^1.1.0
-├─ regexp-clone@1.0.0
 ├─ regexp.prototype.flags@1.5.4
 │  ├─ call-bind@^1.0.8
 │  ├─ define-properties@^1.2.1
@@ -12999,7 +12954,6 @@ yarn list v1.22.22
 │  ├─ side-channel-list@^1.0.0
 │  ├─ side-channel-map@^1.0.1
 │  └─ side-channel-weakmap@^1.0.2
-├─ sift@13.5.2
 ├─ sigmund@1.0.1
 ├─ signal-exit@3.0.7
 ├─ signum@1.0.0
@@ -13041,7 +12995,6 @@ yarn list v1.22.22
 │  │  └─ color-convert@^1.9.0
 │  ├─ astral-regex@^1.0.0
 │  └─ is-fullwidth-code-point@^2.0.0
-├─ sliced@1.0.1
 ├─ slide@1.1.6
 ├─ slug@5.3.0
 ├─ slugify@1.6.6
