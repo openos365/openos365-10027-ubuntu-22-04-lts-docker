@@ -1823,7 +1823,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.5.1
+├─ @posthog/core@1.5.2
 │  └─ cross-spawn@^7.0.6
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
@@ -9849,7 +9849,7 @@ yarn list v1.22.22
 ├─ mime@1.6.0
 ├─ mimic-fn@1.2.0
 ├─ mimic-response@3.1.0
-├─ min-document@2.19.0
+├─ min-document@2.19.1
 │  └─ dom-walk@^0.1.0
 ├─ mingo@6.7.2
 ├─ mini-css-extract-plugin@0.5.0
@@ -11120,8 +11120,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.288.0
-│  ├─ @posthog/core@1.5.1
+├─ posthog-js@1.288.1
+│  ├─ @posthog/core@1.5.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.46.0
 │  ├─ fflate@^0.4.8
