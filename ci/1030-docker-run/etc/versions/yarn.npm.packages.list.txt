@@ -11163,7 +11163,7 @@ yarn list v1.22.22
 ├─ process-nextick-args@2.0.1
 ├─ process@0.11.10
 ├─ progress@2.0.3
-├─ promise-coalesce@1.1.2
+├─ promise-coalesce@1.5.0
 ├─ promise-inflight@1.0.1
 ├─ promise-polyfill@1.1.6
 ├─ promise@7.3.1
