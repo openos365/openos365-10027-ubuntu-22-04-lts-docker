@@ -5158,10 +5158,10 @@ yarn list v1.22.22
 ├─ atob-lite@1.0.0
 ├─ atob@2.1.2
 ├─ attr-accept@2.2.5
-├─ autoprefixer@10.4.21
-│  ├─ browserslist@^4.24.4
-│  ├─ caniuse-lite@^1.0.30001702
-│  ├─ fraction.js@^4.3.7
+├─ autoprefixer@10.4.22
+│  ├─ browserslist@^4.27.0
+│  ├─ caniuse-lite@^1.0.30001754
+│  ├─ fraction.js@^5.3.4
 │  ├─ normalize-range@^0.1.2
 │  ├─ picocolors@^1.1.1
 │  ├─ postcss-value-parser@^4.2.0
@@ -5652,11 +5652,11 @@ yarn list v1.22.22
 │  └─ safe-buffer@^5.2.1
 ├─ browserify-zlib@0.2.0
 │  └─ pako@~1.0.5
-├─ browserslist@4.27.0
-│  ├─ baseline-browser-mapping@^2.8.19
-│  ├─ caniuse-lite@^1.0.30001751
-│  ├─ electron-to-chromium@^1.5.238
-│  ├─ node-releases@^2.0.26
+├─ browserslist@4.28.0
+│  ├─ baseline-browser-mapping@^2.8.25
+│  ├─ caniuse-lite@^1.0.30001754
+│  ├─ electron-to-chromium@^1.5.249
+│  ├─ node-releases@^2.0.27
 │  └─ update-browserslist-db@^1.1.4
 ├─ bser@2.1.1
 │  └─ node-int64@^0.4.0
@@ -7378,7 +7378,7 @@ yarn list v1.22.22
 │  └─ qs@6.9.3
 ├─ forwarded@0.2.0
 ├─ frac@1.1.2
-├─ fraction.js@4.3.7
+├─ fraction.js@5.3.4
 ├─ fragment-cache@0.2.1
 │  └─ map-cache@^0.2.2
 ├─ framesync@5.3.0
@@ -14002,7 +14002,7 @@ yarn list v1.22.22
 │  └─ spdx-expression-parse@^3.0.0
 ├─ validate-npm-package-name@4.0.0
 │  └─ builtins@^5.0.0
-├─ validator@13.15.22
+├─ validator@13.15.23
 ├─ value-equal@1.0.1
 ├─ vary@1.1.2
 ├─ vectorize-text@3.2.2
