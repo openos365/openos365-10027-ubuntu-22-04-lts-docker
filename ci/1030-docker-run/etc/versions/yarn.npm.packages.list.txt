@@ -9849,7 +9849,7 @@ yarn list v1.22.22
 ├─ mime@1.6.0
 ├─ mimic-fn@1.2.0
 ├─ mimic-response@3.1.0
-├─ min-document@2.19.1
+├─ min-document@2.19.2
 │  └─ dom-walk@^0.1.0
 ├─ mingo@6.7.2
 ├─ mini-css-extract-plugin@0.5.0
