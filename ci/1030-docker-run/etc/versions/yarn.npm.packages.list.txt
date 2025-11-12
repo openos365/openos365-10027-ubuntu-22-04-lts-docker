@@ -4681,7 +4681,7 @@ yarn list v1.22.22
 ├─ @types/systemjs@6.15.3
 ├─ @types/tmp@0.2.6
 ├─ @types/unist@2.0.11
-├─ @types/validator@13.15.7
+├─ @types/validator@13.15.8
 ├─ @types/warning@3.0.3
 ├─ @types/ws@7.4.7
 │  └─ @types/node@*
