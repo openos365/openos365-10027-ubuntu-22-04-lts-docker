@@ -5695,7 +5695,7 @@ yarn list v1.22.22
 ├─ builtins@5.1.0
 │  ├─ semver@^7.0.0
 │  └─ semver@7.7.3
-├─ bullmq@5.63.0
+├─ bullmq@5.63.1
 │  ├─ @ioredis/commands@1.4.0
 │  ├─ cron-parser@^4.9.0
 │  ├─ debug@4.4.3
@@ -11191,7 +11191,7 @@ yarn list v1.22.22
 │  ├─ prosemirror-model@^1.0.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-view@^1.0.0
-├─ prosemirror-history@1.4.1
+├─ prosemirror-history@1.5.0
 │  ├─ prosemirror-state@^1.2.2
 │  ├─ prosemirror-transform@^1.0.0
 │  ├─ prosemirror-view@^1.31.0
