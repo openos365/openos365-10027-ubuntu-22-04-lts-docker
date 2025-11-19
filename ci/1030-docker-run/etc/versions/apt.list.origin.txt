@@ -30483,9 +30483,9 @@ liblaser-geometry-dev/jammy 1.6.7-3 amd64
 liblaser-geometry0d/jammy 1.6.7-3 amd64
 liblasi-dev/jammy 1.1.0-2ubuntu3 amd64
 liblasi0/jammy 1.1.0-2ubuntu3 amd64
-liblasso-perl/jammy 2.7.0-2build3 amd64
-liblasso3-dev/jammy 2.7.0-2build3 amd64
-liblasso3/jammy 2.7.0-2build3 amd64
+liblasso-perl/jammy-updates,jammy-security 2.7.0-2ubuntu0.1 amd64
+liblasso3-dev/jammy-updates,jammy-security 2.7.0-2ubuntu0.1 amd64
+liblasso3/jammy-updates,jammy-security 2.7.0-2ubuntu0.1 amd64
 liblastfm-fingerprint5-1/jammy 1.0.9-1.2 amd64
 liblastfm-fingerprint5-dbg/jammy 1.0.9-1.2 amd64
 liblastfm-java/jammy 1:0.1.0-2.1 all
@@ -94140,7 +94140,7 @@ python3-lammps/jammy 20220106.git7586adbb6a+ds1-2 amd64
 python3-langdetect/jammy 1.0.7-4 all
 python3-lark/jammy 1.1.1-1 all
 python3-laser-geometry/jammy 1.6.7-3 all
-python3-lasso/jammy 2.7.0-2build3 amd64
+python3-lasso/jammy-updates,jammy-security 2.7.0-2ubuntu0.1 amd64
 python3-latexcodec/jammy 2.0.1-1 all
 python3-launchpadlib/jammy 1.10.16-1 all
 python3-lazr.config/jammy 2.2.3-1 all
