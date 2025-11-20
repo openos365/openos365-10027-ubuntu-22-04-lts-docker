@@ -3103,7 +3103,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
-code-server/now 4.105.1 amd64 [installed,local]
+code-server/now 4.106.2 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -8780,7 +8780,7 @@ gccgo-sparc64-linux-gnu/jammy 4:11.2.0--1ubuntu1 amd64
 gccgo-x86-64-linux-gnux32/jammy 4:11.2.0--1ubuntu1 amd64
 gccgo/jammy 4:11.2.0-1ubuntu1 amd64
 gccintro/jammy 1.0-4 all
-gce-compute-image-packages/jammy-updates 20250328.00-0ubuntu2~22.04.0 all
+gce-compute-image-packages/jammy-updates 20250501.00-0ubuntu1~22.04.0 all
 gchempaint/jammy 0.14.17-6.1 amd64
 gcin-anthy/jammy 2.9.0+dfsg1-2build1 amd64
 gcin-data/jammy 2.9.0+dfsg1-2build1 all
@@ -12896,7 +12896,7 @@ google-android-platform-8-installer/jammy 8+r03+nmu5 all
 google-android-platform-9-installer/jammy 9+r02+nmu5 all
 google-android-sdk-docs-installer/jammy 24+r3 all
 google-compute-engine-oslogin/jammy-updates 20240701.00-0ubuntu1~22.04.0 amd64
-google-compute-engine/jammy-updates 20250328.00-0ubuntu2~22.04.0 all
+google-compute-engine/jammy-updates 20250501.00-0ubuntu1~22.04.0 all
 google-guest-agent/jammy-updates,jammy-security 20250116.00-0ubuntu1~22.04.1 amd64
 google-mock/jammy 1.11.0-3 amd64
 google-osconfig-agent/jammy-updates 20250115.01-0ubuntu1~22.04.0 amd64
@@ -32496,8 +32496,8 @@ libmysql++3v5/jammy 3.2.5-2.1 amd64
 libmysql-diff-perl/jammy 0.60-1 all
 libmysql-ocaml-dev/jammy 1.2.4-1ubuntu3 amd64
 libmysql-ocaml/jammy 1.2.4-1ubuntu3 amd64
-libmysqlclient-dev/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
-libmysqlclient21/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
+libmysqlclient-dev/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
+libmysqlclient21/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
 libmysqlcppconn-dev/jammy 1.1.12-4ubuntu2 amd64
 libmysqlcppconn7v5/jammy 1.1.12-4ubuntu2 amd64
 libmyth-dev/jammy 2:32.0+fixes.20220325.f69ce764b7-0ubuntu1 amd64
@@ -85550,18 +85550,18 @@ myspell-uk/jammy 1.8.0+dfsg-1 all
 myspell-ve/jammy 20070206-3ubuntu3 all
 myspell-xh/jammy 20070206-4ubuntu4 all
 myspell-zu/jammy 20070207-5ubuntu3 all
-mysql-client-8.0/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
-mysql-client-core-8.0/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
-mysql-client/jammy-updates 8.0.43-0ubuntu0.22.04.2 all
+mysql-client-8.0/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
+mysql-client-core-8.0/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
+mysql-client/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 all
 mysql-common/jammy 5.8+1.0.8 all
-mysql-router/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
+mysql-router/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
 mysql-sandbox/jammy 3.2.05-1 all
-mysql-server-8.0/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
-mysql-server-core-8.0/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
-mysql-server/jammy-updates 8.0.43-0ubuntu0.22.04.2 all
-mysql-source-8.0/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
-mysql-testsuite-8.0/jammy-updates 8.0.43-0ubuntu0.22.04.2 amd64
-mysql-testsuite/jammy-updates 8.0.43-0ubuntu0.22.04.2 all
+mysql-server-8.0/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
+mysql-server-core-8.0/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
+mysql-server/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 all
+mysql-source-8.0/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
+mysql-testsuite-8.0/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 amd64
+mysql-testsuite/jammy-updates,jammy-security 8.0.44-0ubuntu0.22.04.1 all
 mysqltcl/jammy 3.052-3ubuntu1 amd64
 mysqltuner/jammy 1.7.17-1 all
 mysqmail-courier-logger/jammy 0.4.9-10.3 amd64
