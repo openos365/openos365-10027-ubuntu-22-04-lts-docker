@@ -81154,6 +81154,7 @@ linux-riscv-6.8-headers-6.8.0-83/jammy-updates,jammy-security 6.8.0-83.83~22.04.
 linux-riscv-6.8-headers-6.8.0-84/jammy-updates,jammy-security 6.8.0-84.84~22.04.1 all
 linux-riscv-6.8-headers-6.8.0-86/jammy-updates,jammy-security 6.8.0-86.87~22.04.1 all
 linux-riscv-6.8-headers-6.8.0-87/jammy-updates,jammy-security 6.8.0-87.88~22.04.1 all
+linux-riscv-6.8-headers-6.8.0-88/jammy-updates 6.8.0-88.89~22.04.1 all
 linux-riscv-headers-5.15.0-1007/jammy 5.15.0-1007.7 all
 linux-riscv-headers-5.15.0-1028/jammy-updates,jammy-security 5.15.0-1028.32 all
 linux-show-player/jammy-updates 0.5.2-1ubuntu0.1 all
