@@ -14225,7 +14225,7 @@ ideviceinstaller/jammy 1.1.1-1build1 amd64
 idevicerestore/jammy 1.0.0-3build2 amd64
 idl-font-lock-el/jammy 1.5-11 all
 idle-python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 all
-idle-python3.10/jammy-updates,jammy-security 3.10.12-1~22.04.11 all
+idle-python3.10/jammy-updates,jammy-security 3.10.12-1~22.04.12 all
 idle-python3.11/jammy-updates 3.11.0~rc1-1~22.04 all
 idle3-tools/jammy 0.9.1-6 amd64
 idle3/jammy-updates 3.10.6-1~22.04.1 all
@@ -35738,12 +35738,12 @@ libpython3-all-dev/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dev/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 libpython3-stdlib/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
-libpython3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.11 amd64
-libpython3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.11 amd64 [installed,automatic]
-libpython3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.11 amd64 [installed,automatic]
-libpython3.10-stdlib/jammy-updates,jammy-security,now 3.10.12-1~22.04.11 amd64 [installed,automatic]
-libpython3.10-testsuite/jammy-updates,jammy-security 3.10.12-1~22.04.11 all
-libpython3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.11 amd64 [installed,automatic]
+libpython3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.12 amd64
+libpython3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.12 amd64 [installed,automatic]
+libpython3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.12 amd64 [installed,automatic]
+libpython3.10-stdlib/jammy-updates,jammy-security,now 3.10.12-1~22.04.12 amd64 [installed,automatic]
+libpython3.10-testsuite/jammy-updates,jammy-security 3.10.12-1~22.04.12 all
+libpython3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.12 amd64 [installed,automatic]
 libpython3.11-dbg/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-dev/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-minimal/jammy-updates 3.11.0~rc1-1~22.04 amd64
@@ -89116,27 +89116,27 @@ openjdk-19-jre-headless/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd
 openjdk-19-jre-zero/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd64
 openjdk-19-jre/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd64
 openjdk-19-source/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 all
-openjdk-21-dbg/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-21-demo/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-21-doc/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 all
-openjdk-21-jdk-headless/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-21-jdk/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-21-jre-headless/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-21-jre-zero/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-21-jre/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-21-source/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 all
-openjdk-21-testsupport/jammy-updates,jammy-security 21.0.8+9~us1-0ubuntu1~22.04.1 amd64
-openjdk-25-dbg/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-demo/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-doc/jammy-updates,jammy-security 25+36-1~22.04.2 all
-openjdk-25-jdk-headless/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-jdk/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-jre-headless/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-jre-zero/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-jre/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-jvmci-jdk/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
-openjdk-25-source/jammy-updates,jammy-security 25+36-1~22.04.2 all
-openjdk-25-testsupport/jammy-updates,jammy-security 25+36-1~22.04.2 amd64
+openjdk-21-dbg/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-21-demo/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-21-doc/jammy-updates,jammy-security 21.0.9+10-1~22.04 all
+openjdk-21-jdk-headless/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-21-jdk/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-21-jre-headless/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-21-jre-zero/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-21-jre/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-21-source/jammy-updates,jammy-security 21.0.9+10-1~22.04 all
+openjdk-21-testsupport/jammy-updates,jammy-security 21.0.9+10-1~22.04 amd64
+openjdk-25-dbg/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-demo/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-doc/jammy-updates,jammy-security 25.0.1+8-1~22.04 all
+openjdk-25-jdk-headless/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-jdk/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-jre-headless/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-jre-zero/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-jre/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-jvmci-jdk/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
+openjdk-25-source/jammy-updates,jammy-security 25.0.1+8-1~22.04 all
+openjdk-25-testsupport/jammy-updates,jammy-security 25.0.1+8-1~22.04 amd64
 openjdk-8-dbg/jammy-updates,jammy-security 8u472-ga-1~22.04 amd64
 openjdk-8-demo/jammy-updates,jammy-security 8u472-ga-1~22.04 amd64
 openjdk-8-doc/jammy-updates,jammy-security 8u472-ga-1~22.04 all
@@ -96735,15 +96735,15 @@ python3-zunclient/jammy 4.4.0-0ubuntu1 all
 python3-zvmcloudconnector/jammy 2.0.0~b1~git2019062011.4fc9142.really.1.4.1-0ubuntu3 all
 python3-zxcvbn/jammy 4.4.28-2 all
 python3-zzzeeksphinx/jammy 1.3.2-1 all
-python3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.11 amd64
-python3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.11 amd64 [installed,automatic]
-python3.10-doc/jammy-updates,jammy-security 3.10.12-1~22.04.11 all
-python3.10-examples/jammy-updates,jammy-security 3.10.12-1~22.04.11 all
-python3.10-full/jammy-updates,jammy-security 3.10.12-1~22.04.11 amd64
-python3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.11 amd64 [installed,automatic]
-python3.10-nopie/jammy-updates,jammy-security 3.10.12-1~22.04.11 amd64
-python3.10-venv/jammy-updates,jammy-security 3.10.12-1~22.04.11 amd64
-python3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.11 amd64 [installed,automatic]
+python3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.12 amd64
+python3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.12 amd64 [installed,automatic]
+python3.10-doc/jammy-updates,jammy-security 3.10.12-1~22.04.12 all
+python3.10-examples/jammy-updates,jammy-security 3.10.12-1~22.04.12 all
+python3.10-full/jammy-updates,jammy-security 3.10.12-1~22.04.12 amd64
+python3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.12 amd64 [installed,automatic]
+python3.10-nopie/jammy-updates,jammy-security 3.10.12-1~22.04.12 amd64
+python3.10-venv/jammy-updates,jammy-security 3.10.12-1~22.04.12 amd64
+python3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.12 amd64 [installed,automatic]
 python3.11-dbg/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-dev/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-doc/jammy-updates 3.11.0~rc1-1~22.04 all
@@ -100779,7 +100779,7 @@ rubygems-integration/jammy,now 1.18 all [installed,automatic]
 rumur/jammy 2020.12.20-1 amd64
 run-one/jammy 1.17-0ubuntu1 all
 runawk/jammy 1.6.0-2 amd64
-runc/jammy-updates,jammy-security 1.3.3-0ubuntu1~22.04.2 amd64
+runc/jammy-updates,jammy-security 1.3.3-0ubuntu1~22.04.3 amd64
 runcircos-gui/jammy 0.0+git20200528.82dda8c-1 amd64
 runescape/jammy 0.8-2 all
 rungetty/jammy 1.2-16.1 amd64
@@ -104262,8 +104262,8 @@ ublock-origin-doc/jammy 1.40.2+dfsg-1 all
 ubufox/jammy 3.4-0ubuntu1.17.10.1 all
 ubumirror/jammy 0.5 all
 ubuntu-advantage-desktop-daemon/jammy-updates,jammy-security 1.10.ubuntu0.22.04.2 amd64
-ubuntu-advantage-pro/jammy-updates 36ubuntu0~22.04 all
-ubuntu-advantage-tools/jammy-updates 36ubuntu0~22.04 all
+ubuntu-advantage-pro/jammy-updates 37.1ubuntu0~22.04 all
+ubuntu-advantage-tools/jammy-updates 37.1ubuntu0~22.04 all
 ubuntu-artwork/jammy 1:20.10-0ubuntu2 all
 ubuntu-boot-test/jammy-updates 2.1~22.04 amd64
 ubuntu-budgie-desktop/jammy 0.94 amd64
@@ -104356,9 +104356,9 @@ ubuntu-packaging-guide-pdf-uk/jammy 1.0.4 all
 ubuntu-packaging-guide-pdf/jammy 1.0.4 all
 ubuntu-packaging-guide/jammy 1.0.4 all
 ubuntu-policy/jammy 3.8.2.0ubuntu3 all
-ubuntu-pro-auto-attach/jammy-updates 36ubuntu0~22.04 all
-ubuntu-pro-client-l10n/jammy-updates 36ubuntu0~22.04 amd64
-ubuntu-pro-client/jammy-updates 36ubuntu0~22.04 amd64
+ubuntu-pro-auto-attach/jammy-updates 37.1ubuntu0~22.04 all
+ubuntu-pro-client-l10n/jammy-updates 37.1ubuntu0~22.04 amd64
+ubuntu-pro-client/jammy-updates 37.1ubuntu0~22.04 amd64
 ubuntu-proxy-manager/jammy-updates,jammy-security 0.1.1~22.04ubuntu0.3 amd64
 ubuntu-raspi-settings/jammy 22.04.6 all
 ubuntu-realtime/jammy-updates 1.1.2~22.04.1 amd64
