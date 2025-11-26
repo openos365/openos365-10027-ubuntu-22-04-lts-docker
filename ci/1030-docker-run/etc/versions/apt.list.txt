@@ -1179,12 +1179,12 @@ autossh/jammy 1.4g-1 amd64
 autosuspend/jammy 4.0.1-1 all
 autotalent/jammy 0.2-6 amd64
 autotools-dev/jammy 20220109.1 all
-avahi-autoipd/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-avahi-daemon/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-avahi-discover/jammy-updates,jammy-security 0.8-5ubuntu5.2 all
-avahi-dnsconfd/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-avahi-ui-utils/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-avahi-utils/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
+avahi-autoipd/jammy-updates 0.8-5ubuntu5.3 amd64
+avahi-daemon/jammy-updates 0.8-5ubuntu5.3 amd64
+avahi-discover/jammy-updates 0.8-5ubuntu5.3 all
+avahi-dnsconfd/jammy-updates 0.8-5ubuntu5.3 amd64
+avahi-ui-utils/jammy-updates 0.8-5ubuntu5.3 amd64
+avahi-utils/jammy-updates 0.8-5ubuntu5.3 amd64
 avarice/jammy 2.14+svn392-1 amd64
 avce00/jammy 2.0.0-8 amd64
 averell/jammy 1.2.5-1.1 all
@@ -9522,7 +9522,7 @@ gir1.2-atk-1.0/jammy 2.36.0-3build1 amd64
 gir1.2-atrildocument-1.5.0/jammy-updates,jammy-security 1.26.0-1ubuntu1.2 amd64
 gir1.2-atrilview-1.5.0/jammy-updates,jammy-security 1.26.0-1ubuntu1.2 amd64
 gir1.2-atspi-2.0/jammy 2.44.0-3 amd64
-gir1.2-avahi-0.6/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
+gir1.2-avahi-0.6/jammy-updates 0.8-5ubuntu5.3 amd64
 gir1.2-ayatanaappindicator-0.1/jammy 0.5.90-7ubuntu2 amd64
 gir1.2-ayatanaappindicator3-0.1/jammy 0.5.90-7ubuntu2 amd64
 gir1.2-ayatanacommon-0.0/jammy 0.9.7-1 amd64
@@ -17924,21 +17924,21 @@ libautocomplete-java/jammy 2.5.3-1 all
 libautomaton-java/jammy 1.11-8+dfsg1-1.1 all
 libautopilot-gtk/jammy 1.6.1 amd64
 libautovivification-perl/jammy 0.18-1build4 amd64
-libavahi-client-dev/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-client3/jammy-updates,jammy-security,now 0.8-5ubuntu5.2 amd64 [installed,automatic]
-libavahi-common-data/jammy-updates,jammy-security,now 0.8-5ubuntu5.2 amd64 [installed,automatic]
-libavahi-common-dev/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-common3/jammy-updates,jammy-security,now 0.8-5ubuntu5.2 amd64 [installed,automatic]
-libavahi-compat-libdnssd-dev/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-compat-libdnssd1/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-core-dev/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-core7/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-glib-dev/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-glib1/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-gobject-dev/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-gobject0/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-ui-gtk3-0/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
-libavahi-ui-gtk3-dev/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
+libavahi-client-dev/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-client3/jammy-updates,now 0.8-5ubuntu5.3 amd64 [installed,automatic]
+libavahi-common-data/jammy-updates,now 0.8-5ubuntu5.3 amd64 [installed,automatic]
+libavahi-common-dev/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-common3/jammy-updates,now 0.8-5ubuntu5.3 amd64 [installed,automatic]
+libavahi-compat-libdnssd-dev/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-compat-libdnssd1/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-core-dev/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-core7/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-glib-dev/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-glib1/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-gobject-dev/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-gobject0/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-ui-gtk3-0/jammy-updates 0.8-5ubuntu5.3 amd64
+libavahi-ui-gtk3-dev/jammy-updates 0.8-5ubuntu5.3 amd64
 libavalon-framework-java-doc/jammy 4.2.0-10 all
 libavalon-framework-java/jammy 4.2.0-10 all
 libavc1394-0/jammy 0.5.4-5build2 amd64
@@ -92896,7 +92896,7 @@ python3-autopilot-tests/jammy 1.6.1+21.04.20210120-0ubuntu6 all
 python3-autopilot-trace/jammy 1.6.1+21.04.20210120-0ubuntu6 amd64
 python3-autopilot/jammy 1.6.1+21.04.20210120-0ubuntu6 all
 python3-av/jammy 8.1.0-3build1 amd64
-python3-avahi/jammy-updates,jammy-security 0.8-5ubuntu5.2 amd64
+python3-avahi/jammy-updates 0.8-5ubuntu5.3 amd64
 python3-avogadro/jammy 1.95.1-8 amd64
 python3-avro/jammy 1.11.0+dfsg-1 all
 python3-aws-requests-auth/jammy 0.4.3-2 all
@@ -93039,7 +93039,7 @@ python3-btrees/jammy 4.3.1-2build7 amd64
 python3-btrfs/jammy 12-2 all
 python3-btrfsutil/jammy 5.16.2-1 amd64
 python3-bugzilla/jammy 3.0.2-1 all
-python3-build/jammy 0.7.0-2 all
+python3-build/jammy-updates 0.7.0-2ubuntu0.1 all
 python3-buildbot-doc/jammy 3.4.0-1build1 all
 python3-buildbot-worker/jammy 3.4.0-1build1 all
 python3-buildbot/jammy 3.4.0-1build1 all
@@ -95649,6 +95649,7 @@ python3-pytools/jammy 2021.2.8-1 all
 python3-pytzdata/jammy 2020.1+dfsg-4 all
 python3-pyuca/jammy 1.2-2 all
 python3-pyudev/jammy 0.22.0-2 all
+python3-pyuefivars/jammy-updates 1.0.0-0ubuntu2~22.04 all
 python3-pyutilib/jammy 5.8.0-1 all
 python3-pyverbs/jammy 39.0-1 amd64
 python3-pyvirtualdisplay/jammy 2.2-1 all
@@ -104265,7 +104266,7 @@ ubuntu-advantage-desktop-daemon/jammy-updates,jammy-security 1.10.ubuntu0.22.04.
 ubuntu-advantage-pro/jammy-updates 37.1ubuntu0~22.04 all
 ubuntu-advantage-tools/jammy-updates 37.1ubuntu0~22.04 all
 ubuntu-artwork/jammy 1:20.10-0ubuntu2 all
-ubuntu-boot-test/jammy-updates 2.1~22.04 amd64
+ubuntu-boot-test/jammy-updates 2.2~22.04 amd64
 ubuntu-budgie-desktop/jammy 0.94 amd64
 ubuntu-budgie-themes/jammy 0.14.4 all
 ubuntu-business-defaults/jammy 39 all
