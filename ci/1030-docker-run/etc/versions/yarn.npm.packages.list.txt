@@ -4729,7 +4729,7 @@ yarn list v1.22.22
 ├─ base32.js@0.0.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.8.31
+├─ baseline-browser-mapping@2.8.32
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -8865,7 +8865,7 @@ yarn list v1.22.22
 │  ├─ fastest-validator@^1.19.0
 │  ├─ glob@^7.2.0
 │  ├─ ipaddr.js@^2.2.0
-│  ├─ ipaddr.js@2.2.0
+│  ├─ ipaddr.js@2.3.0
 │  ├─ kleur@^4.1.5
 │  ├─ lodash@^4.17.21
 │  ├─ lru-cache@^6.0.0
