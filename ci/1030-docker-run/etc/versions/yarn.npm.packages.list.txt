@@ -11289,7 +11289,7 @@ yarn list v1.22.22
 ├─ require-like@0.1.2
 ├─ require-main-filename@1.0.1
 ├─ requireindex@1.2.0
-├─ requirejs@2.3.7
+├─ requirejs@2.3.8
 ├─ requires-port@1.0.0
 ├─ reselect@4.0.0
 ├─ resize-observer-polyfill@1.5.1
