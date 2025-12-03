@@ -3203,11 +3203,15 @@ yarn list v1.22.22
 │  │  └─ @babel/runtime@^7.12.0
 │  ├─ underscore@1.13.4
 │  └─ underscore@1.13.4
-├─ @steedos/license@3.0.0
+├─ @steedos/license@3.0.2
 │  ├─ abort-controller@^3.0.0
-│  ├─ crypto@^1.0.1
-│  ├─ node-fetch@^2.6.0
-│  └─ systeminformation@5.9.17
+│  ├─ node-fetch@^3.2.2
+│  ├─ node-fetch@3.3.2
+│  │  ├─ data-uri-to-buffer@^4.0.0
+│  │  ├─ fetch-blob@^3.1.4
+│  │  └─ formdata-polyfill@^4.0.10
+│  ├─ systeminformation@^5.27.11
+│  └─ systeminformation@5.27.11
 ├─ @steedos/lowcode-widgets@0.0.3
 │  ├─ @alifd/next@^1.25.27
 │  ├─ prop-types@^15.5.8
@@ -4013,6 +4017,11 @@ yarn list v1.22.22
 │     └─ mime-types@^3.0.0
 ├─ @steedos/service-license@3.0.0
 │  ├─ @steedos/license@3.0.0
+│  ├─ @steedos/license@3.0.0
+│  │  ├─ abort-controller@^3.0.0
+│  │  ├─ crypto@^1.0.1
+│  │  ├─ node-fetch@^2.6.0
+│  │  └─ systeminformation@5.9.17
 │  └─ axios@^0.21.4
 ├─ @steedos/service-metadata-apps@3.0.1
 │  ├─ @steedos/i18n@3.0.1
@@ -6501,6 +6510,7 @@ yarn list v1.22.22
 ├─ damerau-levenshtein@1.0.8
 ├─ dashdash@1.14.1
 │  └─ assert-plus@^1.0.0
+├─ data-uri-to-buffer@4.0.1
 ├─ data-urls@1.1.0
 │  ├─ abab@^2.0.0
 │  ├─ whatwg-mimetype@^2.2.0
@@ -7253,6 +7263,9 @@ yarn list v1.22.22
 ├─ fd-slicer2@1.2.0
 │  └─ pend@^1.2.0
 ├─ fdir@6.5.0
+├─ fetch-blob@3.2.0
+│  ├─ node-domexception@^1.0.0
+│  └─ web-streams-polyfill@^3.0.3
 ├─ fflate@0.4.8
 ├─ figgy-pudding@3.5.2
 ├─ figlet@1.9.4
@@ -7421,6 +7434,8 @@ yarn list v1.22.22
 │  ├─ es-set-tostringtag@^2.1.0
 │  ├─ hasown@^2.0.2
 │  └─ mime-types@^2.1.12
+├─ formdata-polyfill@4.0.10
+│  └─ fetch-blob@^3.1.2
 ├─ formidable@2.0.1
 │  ├─ dezalgo@1.0.3
 │  ├─ hexoid@1.0.0
@@ -10211,6 +10226,7 @@ yarn list v1.22.22
 │  └─ lower-case@^1.1.1
 ├─ node-abort-controller@3.1.1
 ├─ node-addon-api@1.7.2
+├─ node-domexception@1.0.0
 ├─ node-fetch@2.7.0
 │  ├─ tr46@0.0.3
 │  ├─ webidl-conversions@3.0.1
@@ -14111,6 +14127,7 @@ yarn list v1.22.22
 ├─ weakmap-shim@1.1.1
 ├─ web-components-with-react@1.2.1
 │  └─ @babel/runtime@^7.12.5
+├─ web-streams-polyfill@3.3.3
 ├─ web-vitals@4.2.4
 ├─ webcomponents-in-react@1.0.1
 ├─ webgl-context@2.2.0
