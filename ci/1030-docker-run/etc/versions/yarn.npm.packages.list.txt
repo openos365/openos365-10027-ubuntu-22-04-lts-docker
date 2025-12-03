@@ -10073,7 +10073,7 @@ yarn list v1.22.22
 │  ├─ any-promise@^1.0.0
 │  ├─ object-assign@^4.0.1
 │  └─ thenify-all@^1.0.0
-├─ nan@2.23.1
+├─ nan@2.24.0
 ├─ nano-css@5.6.2
 │  ├─ @jridgewell/sourcemap-codec@^1.4.15
 │  ├─ css-tree@^1.1.2
