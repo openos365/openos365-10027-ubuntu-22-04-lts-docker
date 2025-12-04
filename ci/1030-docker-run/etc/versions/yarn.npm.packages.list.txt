@@ -446,14 +446,14 @@ yarn list v1.22.22
 │  ├─ @azure/ms-rest-azure-env@^2.0.0
 │  ├─ @azure/ms-rest-js@^2.0.4
 │  └─ adal-node@^0.2.2
-├─ @azure/msal-browser@4.26.2
-│  └─ @azure/msal-common@15.13.2
-├─ @azure/msal-common@15.13.2
-├─ @azure/msal-node@3.8.3
-│  ├─ @azure/msal-common@15.13.2
+├─ @azure/msal-browser@4.27.0
+│  └─ @azure/msal-common@15.13.3
+├─ @azure/msal-common@15.13.3
+├─ @azure/msal-node@3.8.4
+│  ├─ @azure/msal-common@15.13.3
 │  ├─ jsonwebtoken@^9.0.0
-│  ├─ jsonwebtoken@9.0.2
-│  │  ├─ jws@^3.2.2
+│  ├─ jsonwebtoken@9.0.3
+│  │  ├─ jws@^4.0.1
 │  │  ├─ lodash.includes@^4.3.0
 │  │  ├─ lodash.isboolean@^3.0.3
 │  │  ├─ lodash.isinteger@^4.0.4
@@ -463,6 +463,13 @@ yarn list v1.22.22
 │  │  ├─ lodash.once@^4.0.0
 │  │  ├─ ms@^2.1.1
 │  │  └─ semver@^7.5.4
+│  ├─ jwa@2.0.1
+│  │  ├─ buffer-equal-constant-time@^1.0.1
+│  │  ├─ ecdsa-sig-formatter@1.0.11
+│  │  └─ safe-buffer@^5.0.1
+│  ├─ jws@4.0.1
+│  │  ├─ jwa@^2.0.1
+│  │  └─ safe-buffer@^5.0.1
 │  ├─ semver@7.7.3
 │  └─ uuid@^8.3.0
 ├─ @babel/code-frame@7.27.1
@@ -9152,8 +9159,8 @@ yarn list v1.22.22
 │  ├─ buffer-equal-constant-time@^1.0.1
 │  ├─ ecdsa-sig-formatter@1.0.11
 │  └─ safe-buffer@^5.0.1
-├─ jws@3.2.2
-│  ├─ jwa@^1.4.1
+├─ jws@3.2.3
+│  ├─ jwa@^1.4.2
 │  └─ safe-buffer@^5.0.1
 ├─ jwt-decode@2.2.0
 ├─ kdbush@3.0.0
@@ -10586,8 +10593,8 @@ yarn list v1.22.22
 ├─ pascalcase@0.1.1
 ├─ passport-jwt@4.0.1
 │  ├─ jsonwebtoken@^9.0.0
-│  ├─ jsonwebtoken@9.0.2
-│  │  ├─ jws@^3.2.2
+│  ├─ jsonwebtoken@9.0.3
+│  │  ├─ jws@^4.0.1
 │  │  ├─ lodash.includes@^4.3.0
 │  │  ├─ lodash.isboolean@^3.0.3
 │  │  ├─ lodash.isinteger@^4.0.4
@@ -10597,6 +10604,13 @@ yarn list v1.22.22
 │  │  ├─ lodash.once@^4.0.0
 │  │  ├─ ms@^2.1.1
 │  │  └─ semver@^7.5.4
+│  ├─ jwa@2.0.1
+│  │  ├─ buffer-equal-constant-time@^1.0.1
+│  │  ├─ ecdsa-sig-formatter@1.0.11
+│  │  └─ safe-buffer@^5.0.1
+│  ├─ jws@4.0.1
+│  │  ├─ jwa@^2.0.1
+│  │  └─ safe-buffer@^5.0.1
 │  ├─ passport-strategy@^1.0.0
 │  └─ semver@7.7.3
 ├─ passport-oauth2@1.8.0
@@ -11161,7 +11175,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.301.0
+├─ posthog-js@1.301.1
 │  ├─ @posthog/core@1.7.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.47.0
@@ -13618,7 +13632,7 @@ yarn list v1.22.22
 │  ├─ @types/readable-stream@4.0.22
 │  │  └─ @types/node@*
 │  ├─ bl@^6.0.11
-│  ├─ bl@6.1.5
+│  ├─ bl@6.1.6
 │  │  ├─ @types/readable-stream@^4.0.0
 │  │  ├─ buffer@^6.0.3
 │  │  ├─ inherits@^2.0.4
@@ -13973,7 +13987,7 @@ yarn list v1.22.22
 │  ├─ readable-stream@~2.3.6
 │  └─ setimmediate@~1.0.4
 ├─ upath@1.2.0
-├─ update-browserslist-db@1.2.1
+├─ update-browserslist-db@1.2.2
 │  ├─ escalade@^3.2.0
 │  └─ picocolors@^1.1.1
 ├─ update-diff@1.1.0
