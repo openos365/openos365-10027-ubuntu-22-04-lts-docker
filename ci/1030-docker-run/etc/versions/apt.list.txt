@@ -106167,6 +106167,7 @@ wsdd/jammy 2:0.7.0-1 all
 wsjtx-data/jammy 2.5.4+repack-1 all
 wsjtx-doc/jammy 2.5.4+repack-1 all
 wsjtx/jammy 2.5.4+repack-1 amd64
+wsl-pro-service/jammy-updates 0.1.18~22.04.2 amd64
 wsl-setup/jammy-updates 0.5.8~22.04.1 amd64
 wsl/jammy 0.2.1-3 all
 wslu/jammy 3.2.3-0ubuntu3 amd64
