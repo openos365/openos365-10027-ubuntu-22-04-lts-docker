@@ -2372,7 +2372,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.18.3
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.1-beta.7
+├─ @steedos-labs/plugin-workflow@3.0.1
 │  ├─ formidable@2.0.1
 │  ├─ graphql-parse-resolve-info@^4.12.3
 │  ├─ he@1.2.0
@@ -5797,7 +5797,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001759
+├─ caniuse-lite@1.0.30001760
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -13382,7 +13382,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.27.12
+├─ systeminformation@5.27.13
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
