@@ -5842,7 +5842,7 @@ yarn list v1.22.22
 ├─ buffers@0.1.1
 ├─ builtin-modules@3.3.0
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.65.1
+├─ bullmq@5.66.0
 │  ├─ @ioredis/commands@1.4.0
 │  ├─ cron-parser@^4.9.0
 │  ├─ denque@2.1.0
