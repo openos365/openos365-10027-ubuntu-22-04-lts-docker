@@ -105992,7 +105992,7 @@ usb.ids/jammy 2022.04.02-1 all
 usbauth-notifier/jammy 1.0.4-1 amd64
 usbauth/jammy 1.0.3-1 amd64
 usbguard/jammy 1.1.1+ds-3 amd64
-usbmuxd/jammy 1.1.1-2build2 amd64
+usbmuxd/jammy-security 1.1.1-2ubuntu0.1 amd64
 usbredirect/jammy 0.11.0-2build1 amd64
 usbredirserver/jammy 0.11.0-2build1 amd64
 usbrelay/jammy 0.4-2 amd64
