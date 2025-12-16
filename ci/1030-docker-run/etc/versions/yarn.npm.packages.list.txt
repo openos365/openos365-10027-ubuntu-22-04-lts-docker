@@ -2266,7 +2266,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.18.3
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.3
+├─ @steedos-labs/plugin-workflow@3.0.4
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -2741,7 +2741,7 @@ yarn list v1.22.22
 │  └─ react-required-if@^1.0.3
 ├─ @steedos-widgets/amis-lib@1.0.19
 │  └─ lodash@^4.17.21
-├─ @steedos-widgets/amis-object@6.10.34
+├─ @steedos-widgets/amis-object@6.10.36
 ├─ @steedos/accounts@3.0.4
 │  ├─ @accounts/types@0.20.1
 │  ├─ @babel/runtime@^7.12.18
@@ -9614,7 +9614,7 @@ yarn list v1.22.22
 │  ├─ @msgpackr-extract/msgpackr-extract-linux-x64@3.0.3
 │  ├─ @msgpackr-extract/msgpackr-extract-win32-x64@3.0.3
 │  └─ node-gyp-build-optional-packages@5.2.2
-├─ msgpackr@1.11.5
+├─ msgpackr@1.11.6
 │  └─ msgpackr-extract@^3.0.2
 ├─ mssql@11.0.1
 │  ├─ @tediousjs/connection-string@^0.5.0
@@ -12912,7 +12912,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.27.13
+├─ systeminformation@5.27.14
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
