@@ -1718,7 +1718,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.8.0
+├─ @posthog/core@1.8.1
 │  ├─ cross-spawn@^7.0.6
 │  ├─ cross-spawn@7.0.6
 │  │  ├─ path-key@^3.1.0
@@ -5334,7 +5334,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.9.8
+├─ baseline-browser-mapping@2.9.9
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -10718,8 +10718,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.309.0
-│  ├─ @posthog/core@1.8.0
+├─ posthog-js@1.309.1
+│  ├─ @posthog/core@1.8.1
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.47.0
 │  ├─ fflate@^0.4.8
