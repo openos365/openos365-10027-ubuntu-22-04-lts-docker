@@ -6943,7 +6943,7 @@ yarn list v1.22.22
 ├─ fastest-stable-stringify@2.0.2
 ├─ fastest-validator@1.19.1
 ├─ fastparse@1.1.2
-├─ fastq@1.19.1
+├─ fastq@1.20.1
 │  └─ reusify@^1.0.4
 ├─ fastscan@1.0.6
 ├─ faye-websocket@0.11.4
@@ -10719,7 +10719,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.310.0
+├─ posthog-js@1.310.1
 │  ├─ @posthog/core@1.9.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.47.0
@@ -12913,7 +12913,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.27.15
+├─ systeminformation@5.27.16
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
