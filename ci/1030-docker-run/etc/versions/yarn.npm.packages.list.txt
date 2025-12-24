@@ -10824,7 +10824,7 @@ yarn list v1.22.22
 │  ├─ prosemirror-model@^1.0.0
 │  ├─ prosemirror-transform@^1.0.0
 │  └─ prosemirror-view@^1.27.0
-├─ prosemirror-tables@1.8.4
+├─ prosemirror-tables@1.8.5
 │  ├─ prosemirror-keymap@^1.2.3
 │  ├─ prosemirror-model@^1.25.4
 │  ├─ prosemirror-state@^1.4.4
@@ -12913,7 +12913,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.27.16
+├─ systeminformation@5.27.17
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
