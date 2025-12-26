@@ -2741,7 +2741,7 @@ yarn list v1.22.22
 │  └─ react-required-if@^1.0.3
 ├─ @steedos-widgets/amis-lib@1.0.19
 │  └─ lodash@^4.17.21
-├─ @steedos-widgets/amis-object@6.10.44
+├─ @steedos-widgets/amis-object@6.10.45
 ├─ @steedos/accounts@3.0.8
 │  ├─ @accounts/types@0.20.1
 │  ├─ @babel/runtime@^7.12.18
@@ -12913,7 +12913,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.28.0
+├─ systeminformation@5.28.1
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
