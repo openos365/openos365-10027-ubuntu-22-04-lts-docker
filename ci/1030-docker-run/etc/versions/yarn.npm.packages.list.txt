@@ -2077,7 +2077,7 @@ yarn list v1.22.22
 │  │  ├─ @steedos-labs/finance@2.6.4
 │  │  └─ @steedos-labs/master@2.6.4
 │  └─ @steedos-labs/workflow@2.6.4
-├─ @steedos-labs/crm@2.6.20
+├─ @steedos-labs/crm@3.1.1
 ├─ @steedos-labs/demo-ee@2.6.4
 │  ├─ @steedos-labs/asset@2.6.4
 │  ├─ @steedos-labs/contract@2.6.4
@@ -2156,7 +2156,7 @@ yarn list v1.22.22
 ├─ @steedos-labs/learning@2.1.62
 │  └─ pug@^3.0.2
 ├─ @steedos-labs/master@2.7.0
-├─ @steedos-labs/meeting@3.0.1
+├─ @steedos-labs/meeting@3.1.1
 ├─ @steedos-labs/merchant@2.1.64
 ├─ @steedos-labs/npm-scopes@2.1.63
 ├─ @steedos-labs/oa@2.6.4
