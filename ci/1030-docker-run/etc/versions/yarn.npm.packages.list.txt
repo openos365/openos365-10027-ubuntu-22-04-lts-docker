@@ -5612,7 +5612,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001761
+├─ caniuse-lite@1.0.30001762
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -10719,7 +10719,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.310.2
+├─ posthog-js@1.311.0
 │  ├─ @posthog/core@1.9.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.47.0
@@ -10968,7 +10968,7 @@ yarn list v1.22.22
 ├─ qs-middleware@1.0.3
 │  ├─ qs@~6.4.0
 │  └─ qs@6.4.1
-├─ qs@6.14.0
+├─ qs@6.14.1
 │  └─ side-channel@^1.1.0
 ├─ quat-slerp@1.0.1
 │  └─ gl-quat@^1.0.0
