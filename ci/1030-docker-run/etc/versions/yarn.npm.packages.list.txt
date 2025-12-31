@@ -2266,7 +2266,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.18.3
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.10
+├─ @steedos-labs/plugin-workflow@3.0.11
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -2741,7 +2741,7 @@ yarn list v1.22.22
 │  └─ react-required-if@^1.0.3
 ├─ @steedos-widgets/amis-lib@1.0.19
 │  └─ lodash@^4.17.21
-├─ @steedos-widgets/amis-object@6.10.47
+├─ @steedos-widgets/amis-object@6.10.48
 ├─ @steedos/accounts@3.0.10
 │  ├─ @accounts/types@0.20.1
 │  ├─ @babel/runtime@^7.12.18
@@ -11361,7 +11361,7 @@ yarn list v1.22.22
 │  ├─ prop-types@^15.8.1
 │  ├─ react-draggable@^4.4.6
 │  ├─ react-resizable@^3.0.5
-│  ├─ react-resizable@3.1.0
+│  ├─ react-resizable@3.1.1
 │  │  ├─ prop-types@15.x
 │  │  └─ react-draggable@^4.5.0
 │  └─ resize-observer-polyfill@^1.5.1
@@ -12913,7 +12913,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.28.5
+├─ systeminformation@5.28.7
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
