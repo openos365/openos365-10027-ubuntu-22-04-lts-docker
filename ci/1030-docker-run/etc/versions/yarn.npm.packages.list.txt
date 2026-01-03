@@ -12913,7 +12913,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.28.9
+├─ systeminformation@5.28.10
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
