@@ -7903,7 +7903,7 @@ yarn list v1.22.22
 │  └─ loose-envify@^1.0.0
 ├─ invert-kv@1.0.0
 ├─ invert-permutation@1.0.0
-├─ ioredis@4.30.1
+├─ ioredis@4.31.0
 │  ├─ @ioredis/commands@^1.0.2
 │  ├─ cluster-key-slot@^1.1.0
 │  ├─ debug@^4.3.1
