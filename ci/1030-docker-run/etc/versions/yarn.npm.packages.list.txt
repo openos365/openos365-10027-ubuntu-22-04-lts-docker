@@ -2264,7 +2264,7 @@ yarn list v1.22.22
 │  ├─ whatwg-encoding@2.0.0
 │  │  └─ iconv-lite@0.6.3
 │  ├─ whatwg-mimetype@3.0.0
-│  ├─ ws@8.18.3
+│  ├─ ws@8.19.0
 │  └─ xml-name-validator@4.0.0
 ├─ @steedos-labs/plugin-workflow@3.0.11
 │  ├─ dezalgo@1.0.4
