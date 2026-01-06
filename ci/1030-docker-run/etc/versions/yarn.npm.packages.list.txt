@@ -2266,7 +2266,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.19.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.11
+├─ @steedos-labs/plugin-workflow@3.0.12
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -2741,7 +2741,7 @@ yarn list v1.22.22
 │  └─ react-required-if@^1.0.3
 ├─ @steedos-widgets/amis-lib@1.0.19
 │  └─ lodash@^4.17.21
-├─ @steedos-widgets/amis-object@6.10.48
+├─ @steedos-widgets/amis-object@6.10.49
 ├─ @steedos/accounts@3.0.10
 │  ├─ @accounts/types@0.20.1
 │  ├─ @babel/runtime@^7.12.18
