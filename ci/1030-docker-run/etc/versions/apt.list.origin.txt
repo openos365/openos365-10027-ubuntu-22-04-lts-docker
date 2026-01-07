@@ -2114,7 +2114,7 @@ ca-certificates/jammy-updates,jammy-security,now 20240203~22.04.1 all [installed
 cabal-debian/jammy 5.0.3-1build1.1 amd64
 cabal-install/jammy 3.0.0.0-3build1.1 amd64
 cabextract/jammy 1.9-3 amd64
-caca-utils/jammy 0.99.beta19-2.2ubuntu4 amd64
+caca-utils/jammy-security 0.99.beta19-2.2ubuntu4.1 amd64
 cachefilesd/jammy 0.10.10-0.2ubuntu1 amd64
 cackey/jammy 0.7.11-1 amd64
 cacti-spine/jammy 1.2.19-1 amd64
@@ -18798,8 +18798,8 @@ libca-certs-ocaml-dev/jammy 0.2.2-2build2 amd64
 libca-certs-ocaml/jammy 0.2.2-2build2 amd64
 libca-dev/jammy 7.0.3.1-3 amd64
 libca4.13.5/jammy 7.0.3.1-3 amd64
-libcaca-dev/jammy 0.99.beta19-2.2ubuntu4 amd64
-libcaca0/jammy 0.99.beta19-2.2ubuntu4 amd64
+libcaca-dev/jammy-security 0.99.beta19-2.2ubuntu4.1 amd64
+libcaca0/jammy-security 0.99.beta19-2.2ubuntu4.1 amd64
 libcacard-dev/jammy 1:2.8.0-3build2 amd64
 libcacard0/jammy 1:2.8.0-3build2 amd64
 libcache-bdb-perl/jammy 0.04-2 all
