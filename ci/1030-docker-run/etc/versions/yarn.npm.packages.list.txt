@@ -1730,6 +1730,7 @@ yarn list v1.22.22
 │  ├─ shebang-regex@3.0.0
 │  └─ which@2.0.2
 │     └─ isexe@^2.0.0
+├─ @posthog/types@1.315.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -10718,8 +10719,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.314.0
+├─ posthog-js@1.315.0
 │  ├─ @posthog/core@1.9.0
+│  ├─ @posthog/types@1.315.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.47.0
 │  ├─ fflate@^0.4.8
@@ -10738,7 +10740,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.28.1
+├─ preact@10.28.2
 ├─ prelude-ls@1.1.2
 ├─ prettier-plugin-svelte@1.4.2
 ├─ prettier@2.8.8
