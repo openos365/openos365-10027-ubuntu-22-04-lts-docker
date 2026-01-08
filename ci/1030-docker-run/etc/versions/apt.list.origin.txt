@@ -4587,7 +4587,7 @@ directx-headers-dev/jammy-updates 1.610.2-2~ubuntu0.22.04.1 amd64
 direnv/jammy 2.25.2-2 amd64
 direvent/jammy 5.2-1 amd64
 direwolf/jammy 1.6+dfsg-2 amd64
-dirmngr/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
+dirmngr/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
 dirsearch/jammy 0.4.2+ds-3 all
 dirtbike/jammy 0.3-8 all
 dirvish/jammy 1.2.1-2.1 all
@@ -10545,15 +10545,15 @@ gnunet-fuse/jammy 0.13.0-2 amd64
 gnunet-gtk-dev/jammy 0.15.0-1 amd64
 gnunet-gtk/jammy 0.15.0-1 amd64
 gnunet/jammy 0.15.3-4 amd64
-gnupg-agent/jammy-updates,jammy-security 2.2.27-3ubuntu2.4 all
-gnupg-l10n/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 all [installed,automatic]
+gnupg-agent/jammy-security 2.2.27-3ubuntu2.5 all
+gnupg-l10n/jammy-security,now 2.2.27-3ubuntu2.5 all [installed,automatic]
 gnupg-pkcs11-scd-proxy/jammy 0.9.2-1build1 amd64
 gnupg-pkcs11-scd/jammy 0.9.2-1build1 amd64
-gnupg-utils/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
+gnupg-utils/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
 gnupg1-l10n/jammy 1.4.23-1.1build1 all
 gnupg1/jammy 1.4.23-1.1build1 amd64
-gnupg2/jammy-updates,jammy-security 2.2.27-3ubuntu2.4 all
-gnupg/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 all [installed,automatic]
+gnupg2/jammy-security 2.2.27-3ubuntu2.5 all
+gnupg/jammy-security,now 2.2.27-3ubuntu2.5 all [installed,automatic]
 gnuplot-data/jammy 5.4.2+dfsg2-2 all
 gnuplot-doc/jammy 5.4.2+dfsg2-2 all
 gnuplot-mode/jammy 1:0.7.0-2014-12-31-2 all
@@ -13010,20 +13010,20 @@ gpaw-data/jammy 0.9.20000-2 all
 gpaw/jammy 22.1.0-1build1 amd64
 gperf/jammy 3.1-1build1 amd64
 gperiodic/jammy 3.0.3-1 amd64
-gpg-agent/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
+gpg-agent/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
 gpg-remailer/jammy 3.04.06-1 amd64
-gpg-wks-client/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
-gpg-wks-server/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
-gpg/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
-gpgconf/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
+gpg-wks-client/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
+gpg-wks-server/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
+gpg/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
+gpgconf/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
 gpgme-json/jammy-updates 1.16.0-1.2ubuntu4.2 amd64
 gpgrt-tools/jammy 1.43-3 amd64
-gpgsm/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed,automatic]
-gpgv-static/jammy-updates,jammy-security 2.2.27-3ubuntu2.4 amd64
-gpgv-win32/jammy-updates,jammy-security 2.2.27-3ubuntu2.4 all
+gpgsm/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed,automatic]
+gpgv-static/jammy-security 2.2.27-3ubuntu2.5 amd64
+gpgv-win32/jammy-security 2.2.27-3ubuntu2.5 all
 gpgv1/jammy 1.4.23-1.1build1 amd64
-gpgv2/jammy-updates,jammy-security 2.2.27-3ubuntu2.4 all
-gpgv/jammy-updates,jammy-security,now 2.2.27-3ubuntu2.4 amd64 [installed]
+gpgv2/jammy-security 2.2.27-3ubuntu2.5 all
+gpgv/jammy-security,now 2.2.27-3ubuntu2.5 amd64 [installed]
 gphoto2/jammy 2.5.27-1 amd64
 gphotofs/jammy 0.5-6 amd64
 gpick/jammy 0.2.6-1 amd64
@@ -102309,7 +102309,7 @@ scanmem/jammy 0.17-3 amd64
 scanssh/jammy 2.1-0ubuntu8 amd64
 scantool/jammy 2.1-2.1build1 amd64
 scantv/jammy 3.107-1.1 amd64
-scdaemon/jammy-updates,jammy-security 2.2.27-3ubuntu2.4 amd64
+scdaemon/jammy-security 2.2.27-3ubuntu2.5 amd64
 scdoc/jammy 1.11.2-1 amd64
 scep/jammy-updates,jammy-security 2.0.0-2ubuntu1.1 amd64
 schedtool/jammy 1.3.0-4 amd64
