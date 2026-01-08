@@ -13050,9 +13050,9 @@ gpsbabel-gui/jammy 1.8.0+ds-4 amd64
 gpsbabel/jammy 1.8.0+ds-4 amd64
 gpscorrelate-gui/jammy 2.0-2 amd64
 gpscorrelate/jammy 2.0-2 amd64
-gpsd-clients/jammy 3.22-4ubuntu2 amd64
-gpsd-tools/jammy 3.22-4ubuntu2 amd64
-gpsd/jammy 3.22-4ubuntu2 amd64
+gpsd-clients/jammy-security 3.22-4ubuntu2.1 amd64
+gpsd-tools/jammy-security 3.22-4ubuntu2.1 amd64
+gpsd/jammy-security 3.22-4ubuntu2.1 amd64
 gpsim-dev/jammy 0.31.0-2build2 amd64
 gpsim-doc/jammy 0.22.0-2.1 all
 gpsim/jammy 0.31.0-2build2 amd64
@@ -27410,9 +27410,9 @@ libgpod-doc/jammy 0.8.3-16build2 all
 libgpod4/jammy 0.8.3-16build2 amd64
 libgportugol-dev/jammy 1.1-7 amd64
 libgportugol0/jammy 1.1-7 amd64
-libgps-dev/jammy 3.22-4ubuntu2 amd64
+libgps-dev/jammy-security 3.22-4ubuntu2.1 amd64
 libgps-point-perl/jammy 0.20-2.1 all
-libgps28/jammy 3.22-4ubuntu2 amd64
+libgps28/jammy-security 3.22-4ubuntu2.1 amd64
 libgpuarray-dev/jammy 0.7.6-9build1 amd64
 libgpuarray-doc/jammy 0.7.6-9build1 all
 libgpuarray3/jammy 0.7.6-9build1 amd64
@@ -35844,8 +35844,8 @@ libqglviewer-doc/jammy 2.6.3+dfsg2-9 all
 libqglviewer-headers/jammy 2.6.3+dfsg2-9 all
 libqglviewer2-qt5/jammy 2.6.3+dfsg2-9 amd64
 libqgpgme7/jammy-updates 1.16.0-1.2ubuntu4.2 amd64
-libqgpsmm-dev/jammy 3.22-4ubuntu2 amd64
-libqgpsmm28/jammy 3.22-4ubuntu2 amd64
+libqgpsmm-dev/jammy-security 3.22-4ubuntu2.1 amd64
+libqgpsmm28/jammy-security 3.22-4ubuntu2.1 amd64
 libqhttpengine-dev/jammy 0.1.0+dfsg1-1.1 amd64
 libqhttpengine-doc/jammy 0.1.0+dfsg1-1.1 all
 libqhttpengine-examples/jammy 0.1.0+dfsg1-1.1 amd64
@@ -95218,7 +95218,7 @@ python3-gpg/jammy-updates 1.16.0-1.2ubuntu4.2 amd64
 python3-gphoto2/jammy 1.9.0-1build3 amd64
 python3-gphoto2cffi/jammy 0.4.3~a1-1.1build2 amd64
 python3-gpiozero/jammy 1.6.1-0ubuntu1 all
-python3-gps/jammy 3.22-4ubuntu2 amd64
+python3-gps/jammy-security 3.22-4ubuntu2.1 amd64
 python3-gpsoauth/jammy 0.4.1-3 all
 python3-gpumodules/jammy 3.6.0-2 all
 python3-gpxpy/jammy 1.5.0-1 all
