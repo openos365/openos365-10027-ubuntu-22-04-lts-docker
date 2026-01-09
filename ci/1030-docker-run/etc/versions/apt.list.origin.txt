@@ -4276,7 +4276,7 @@ dh-make-golang/jammy-updates,jammy-security 0.6.0-1ubuntu0.1 amd64
 dh-make-perl/jammy 0.116 all
 dh-make/jammy 2.202102 all
 dh-migrations/jammy 0.3.6 all
-dh-modaliases/jammy-updates 1:0.9.6.2~0.22.04.9 all
+dh-modaliases/jammy-updates 1:0.9.6.2~0.22.04.10 all
 dh-ocaml/jammy 1.1.3 all
 dh-octave-autopkgtest/jammy 1.1.0 all
 dh-octave/jammy 1.1.0 all
@@ -6444,7 +6444,7 @@ fftw2/jammy 2.1.5-6 amd64
 ffuf/jammy 1.1.0-1 amd64
 fgallery/jammy 1.8.2-2.1 all
 fgetty/jammy 0.7-7 amd64
-fglrx-pxpress/jammy-updates 1:0.9.6.2~0.22.04.9 amd64
+fglrx-pxpress/jammy-updates 1:0.9.6.2~0.22.04.10 amd64
 fh2odg/jammy 0.9.6-3 amd64
 fheroes2-pkg/jammy 0+svn20150122r3274-2-2 all
 fhist/jammy 1.18-2.1 amd64
@@ -9730,7 +9730,7 @@ gir1.2-mypaint-1.5/jammy 1.6.0-2 amd64
 gir1.2-nautilus-3.0/jammy-updates 1:42.6-0ubuntu2 amd64
 gir1.2-nemo-3.0/jammy 5.2.4-1 amd64
 gir1.2-nice-0.1/jammy 0.1.18-2 amd64
-gir1.2-nm-1.0/jammy-updates 1.36.6-0ubuntu2.1 amd64
+gir1.2-nm-1.0/jammy-updates 1.36.6-0ubuntu2.2 amd64
 gir1.2-nma-1.0/jammy 1.8.34-1ubuntu1 amd64
 gir1.2-notify-0.7/jammy-updates 0.7.9-3ubuntu5.22.04.1 amd64
 gir1.2-osmgpsmap-1.0/jammy 1.2.0-1build1 amd64
@@ -13051,9 +13051,9 @@ gpsbabel-gui/jammy 1.8.0+ds-4 amd64
 gpsbabel/jammy 1.8.0+ds-4 amd64
 gpscorrelate-gui/jammy 2.0-2 amd64
 gpscorrelate/jammy 2.0-2 amd64
-gpsd-clients/jammy-security 3.22-4ubuntu2.1 amd64
-gpsd-tools/jammy-security 3.22-4ubuntu2.1 amd64
-gpsd/jammy-security 3.22-4ubuntu2.1 amd64
+gpsd-clients/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
+gpsd-tools/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
+gpsd/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
 gpsim-dev/jammy 0.31.0-2build2 amd64
 gpsim-doc/jammy 0.22.0-2.1 all
 gpsim/jammy 0.31.0-2build2 amd64
@@ -27411,9 +27411,9 @@ libgpod-doc/jammy 0.8.3-16build2 all
 libgpod4/jammy 0.8.3-16build2 amd64
 libgportugol-dev/jammy 1.1-7 amd64
 libgportugol0/jammy 1.1-7 amd64
-libgps-dev/jammy-security 3.22-4ubuntu2.1 amd64
+libgps-dev/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
 libgps-point-perl/jammy 0.20-2.1 all
-libgps28/jammy-security 3.22-4ubuntu2.1 amd64
+libgps28/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
 libgpuarray-dev/jammy 0.7.6-9build1 amd64
 libgpuarray-doc/jammy 0.7.6-9build1 all
 libgpuarray3/jammy 0.7.6-9build1 amd64
@@ -33208,8 +33208,8 @@ libnlopt-cxx0/jammy 2.7.1-3build1 amd64
 libnlopt-dev/jammy 2.7.1-3build1 amd64
 libnlopt-guile0/jammy 2.7.1-3build1 amd64
 libnlopt0/jammy 2.7.1-3build1 amd64
-libnm-dev/jammy-updates 1.36.6-0ubuntu2.1 amd64
-libnm0/jammy-updates 1.36.6-0ubuntu2.1 amd64
+libnm-dev/jammy-updates 1.36.6-0ubuntu2.2 amd64
+libnm0/jammy-updates 1.36.6-0ubuntu2.2 amd64
 libnma-common/jammy 1.8.34-1ubuntu1 all
 libnma-dev/jammy 1.8.34-1ubuntu1 amd64
 libnma0/jammy 1.8.34-1ubuntu1 amd64
@@ -35845,8 +35845,8 @@ libqglviewer-doc/jammy 2.6.3+dfsg2-9 all
 libqglviewer-headers/jammy 2.6.3+dfsg2-9 all
 libqglviewer2-qt5/jammy 2.6.3+dfsg2-9 amd64
 libqgpgme7/jammy-updates 1.16.0-1.2ubuntu4.2 amd64
-libqgpsmm-dev/jammy-security 3.22-4ubuntu2.1 amd64
-libqgpsmm28/jammy-security 3.22-4ubuntu2.1 amd64
+libqgpsmm-dev/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
+libqgpsmm28/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
 libqhttpengine-dev/jammy 0.1.0+dfsg1-1.1 amd64
 libqhttpengine-doc/jammy 0.1.0+dfsg1-1.1 all
 libqhttpengine-examples/jammy 0.1.0+dfsg1-1.1 amd64
@@ -39297,8 +39297,8 @@ libsocksd0-dev/jammy 1.4.2+dfsg-7build4 amd64
 libsocksd0/jammy 1.4.2+dfsg-7build4 amd64
 libsocl-1.3-0/jammy 1.3.9+dfsg-1 amd64
 libsocl-contrib-1.3-0/jammy 1.3.9+dfsg-1 amd64
-libsodium-dev/jammy-security 1.0.18-1ubuntu0.22.04.1 amd64
-libsodium23/jammy-security,now 1.0.18-1ubuntu0.22.04.1 amd64 [installed,automatic]
+libsodium-dev/jammy-updates,jammy-security 1.0.18-1ubuntu0.22.04.1 amd64
+libsodium23/jammy-updates,jammy-security,now 1.0.18-1ubuntu0.22.04.1 amd64 [installed,automatic]
 libsofia-sip-ua-dev/jammy-updates,jammy-security 1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.2 amd64
 libsofia-sip-ua-glib-dev/jammy-updates,jammy-security 1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.2 amd64
 libsofia-sip-ua-glib3/jammy-updates,jammy-security 1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.2 amd64
@@ -87306,9 +87306,9 @@ nettle-dev/jammy 3.7.3-1build2 amd64
 nettoe/jammy 1.5.1-3 amd64
 netwag-doc/jammy 5.39.0-1.4 all
 netwag/jammy 5.39.0-1.4 all
-network-manager-config-connectivity-debian/jammy-updates 1.36.6-0ubuntu2.1 all
-network-manager-config-connectivity-ubuntu/jammy-updates 1.36.6-0ubuntu2.1 all
-network-manager-dev/jammy-updates 1.36.6-0ubuntu2.1 all
+network-manager-config-connectivity-debian/jammy-updates 1.36.6-0ubuntu2.2 all
+network-manager-config-connectivity-ubuntu/jammy-updates 1.36.6-0ubuntu2.2 all
+network-manager-dev/jammy-updates 1.36.6-0ubuntu2.2 all
 network-manager-fortisslvpn-gnome/jammy 1.2.10-0ubuntu3 amd64
 network-manager-fortisslvpn/jammy 1.2.10-0ubuntu3 amd64
 network-manager-gnome/jammy 1.24.0-1ubuntu3 amd64
@@ -87329,7 +87329,7 @@ network-manager-sstp/jammy 1.3.0-0ubuntu1 amd64
 network-manager-strongswan/jammy 1.5.2-1 amd64
 network-manager-vpnc-gnome/jammy 1.2.8-2 amd64
 network-manager-vpnc/jammy 1.2.8-2 amd64
-network-manager/jammy-updates 1.36.6-0ubuntu2.1 amd64
+network-manager/jammy-updates 1.36.6-0ubuntu2.2 amd64
 networkd-dispatcher/jammy-updates,jammy-security,now 2.1-2ubuntu0.22.04.2 all [installed,automatic]
 networking-bagpipe-common/jammy 16.0.0-0ubuntu1 all
 networking-bgpvpn-common/jammy 16.0.0-0ubuntu1 all
@@ -89185,7 +89185,7 @@ nvidia-384/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-cg-dev/jammy 3.1.0013-5 amd64
 nvidia-cg-doc/jammy 3.1.0013-5 all
 nvidia-cg-toolkit/jammy 3.1.0013-5 amd64
-nvidia-common/jammy-updates 1:0.9.6.2~0.22.04.9 amd64
+nvidia-common/jammy-updates 1:0.9.6.2~0.22.04.10 amd64
 nvidia-compute-utils-390/jammy-updates,jammy-security 390.157-0ubuntu0.22.04.2 amd64
 nvidia-compute-utils-418-server/jammy-updates,jammy-security 418.226.00-0ubuntu5~0.22.04.1 amd64
 nvidia-compute-utils-418/jammy 430.50-0ubuntu3 amd64
@@ -95219,7 +95219,7 @@ python3-gpg/jammy-updates 1.16.0-1.2ubuntu4.2 amd64
 python3-gphoto2/jammy 1.9.0-1build3 amd64
 python3-gphoto2cffi/jammy 0.4.3~a1-1.1build2 amd64
 python3-gpiozero/jammy 1.6.1-0ubuntu1 all
-python3-gps/jammy-security 3.22-4ubuntu2.1 amd64
+python3-gps/jammy-updates,jammy-security 3.22-4ubuntu2.1 amd64
 python3-gpsoauth/jammy 0.4.1-3 all
 python3-gpumodules/jammy 3.6.0-2 all
 python3-gpxpy/jammy 1.5.0-1 all
@@ -105498,7 +105498,7 @@ ubuntu-desktop-minimal/jammy-updates 1.481.4 amd64
 ubuntu-desktop/jammy-updates 1.481.4 amd64
 ubuntu-dev-tools/jammy-updates 0.201ubuntu2~22.04.4 all
 ubuntu-docs/jammy-updates 22.04.5 all
-ubuntu-drivers-common/jammy-updates 1:0.9.6.2~0.22.04.9 amd64
+ubuntu-drivers-common/jammy-updates 1:0.9.6.2~0.22.04.10 amd64
 ubuntu-fan/jammy 0.12.16 all
 ubuntu-gnome-default-settings/jammy 22.04.2 all
 ubuntu-gnome-desktop/jammy 0.92 amd64
