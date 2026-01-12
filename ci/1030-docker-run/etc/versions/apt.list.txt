@@ -40365,10 +40365,10 @@ libtask-kensho-webdev-perl/jammy 0.41-1 all
 libtask-kensho-xml-perl/jammy 0.41-1 all
 libtask-weaken-perl/jammy 1.06-1 all
 libtaskmanager6/jammy-updates,jammy-security 4:5.24.7-0ubuntu0.2 amd64
-libtasn1-6-dev/jammy-security 4.18.0-4ubuntu0.2 amd64
-libtasn1-6/jammy-security,now 4.18.0-4ubuntu0.2 amd64 [installed]
-libtasn1-bin/jammy-security 4.18.0-4ubuntu0.2 amd64
-libtasn1-doc/jammy-security 4.18.0-4ubuntu0.2 all
+libtasn1-6-dev/jammy-updates,jammy-security 4.18.0-4ubuntu0.2 amd64
+libtasn1-6/jammy-updates,jammy-security,now 4.18.0-4ubuntu0.2 amd64 [installed]
+libtasn1-bin/jammy-updates,jammy-security 4.18.0-4ubuntu0.2 amd64
+libtasn1-doc/jammy-updates,jammy-security 4.18.0-4ubuntu0.2 all
 libtbb-dev/jammy 2021.5.0-7ubuntu2 amd64
 libtbb-doc/jammy 2021.5.0-7ubuntu2 all
 libtbb12/jammy 2021.5.0-7ubuntu2 amd64
@@ -97667,7 +97667,7 @@ python3-uranium/jammy 4.13.0-1 all
 python3-uritemplate/jammy 3.0.1-1 all
 python3-uritools/jammy 3.0.2-1 all
 python3-url-normalize/jammy 1.4.3-2 all
-python3-urllib3/jammy-security 1.26.5-1~exp1ubuntu0.5 all
+python3-urllib3/jammy-updates,jammy-security 1.26.5-1~exp1ubuntu0.5 all
 python3-urlobject/jammy 2.4.3-3 all
 python3-urwid-satext/jammy 0.8.0-1 all
 python3-urwid-utils/jammy 0.1.2.dev2-2 all
