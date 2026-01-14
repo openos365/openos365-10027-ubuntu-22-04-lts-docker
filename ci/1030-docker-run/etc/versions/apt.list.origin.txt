@@ -15432,7 +15432,7 @@ kleborate/jammy 2.2.0-1 amd64
 kleopatra/jammy 4:21.12.3-0ubuntu1 amd64
 klettres-data/jammy 4:21.12.3-0ubuntu1 all
 klettres/jammy 4:21.12.3-0ubuntu1 amd64
-klibc-utils/jammy-security,now 2.0.10-4ubuntu0.2 amd64 [installed,automatic]
+klibc-utils/jammy-updates,jammy-security,now 2.0.10-4ubuntu0.2 amd64 [installed,automatic]
 klick/jammy 0.12.2-4.1 amd64
 klickety/jammy 4:21.12.3-0ubuntu1 amd64
 klines/jammy 4:21.12.3-0ubuntu1 amd64
@@ -29300,7 +29300,7 @@ libjs-angular-file-upload/jammy 12.2.13+dfsg-2 all
 libjs-angular-gettext/jammy 2.3.8-2.1 all
 libjs-angular-schema-form/jammy 0.8.13-1.1 all
 libjs-angularjs-smart-table/jammy 1.4.13-2 all
-libjs-angularjs/jammy-security 1.8.2-2ubuntu0.1 all
+libjs-angularjs/jammy-updates,jammy-security 1.8.2-2ubuntu0.1 all
 libjs-ansi-up/jammy 5.1.0+dfsg-1 all
 libjs-arbiter/jammy 1.0-4 all
 libjs-asciimathml/jammy 2.0.2-4 all
@@ -30318,8 +30318,8 @@ libkkc2/jammy 0.3.5-7build1 amd64
 libklatexformula4-dev/jammy 4.1.0-1 amd64
 libklatexformula4-doc/jammy 4.1.0-1 all
 libklatexformula4/jammy 4.1.0-1 amd64
-libklibc-dev/jammy-security 2.0.10-4ubuntu0.2 amd64
-libklibc/jammy-security,now 2.0.10-4ubuntu0.2 amd64 [installed,automatic]
+libklibc-dev/jammy-updates,jammy-security 2.0.10-4ubuntu0.2 amd64
+libklibc/jammy-updates,jammy-security,now 2.0.10-4ubuntu0.2 amd64 [installed,automatic]
 libklu1/jammy 1:5.10.1+dfsg-4build1 amd64
 libkmc-dev/jammy 3.2.1+dfsg-1 amd64
 libkmer-dev/jammy 0~20150903+r2013-8build2 amd64
