@@ -6823,7 +6823,7 @@ yarn list v1.22.22
 │  └─ es5-ext@~0.10.14
 ├─ event-target-shim@5.0.1
 ├─ eventemitter2@6.4.9
-├─ eventemitter3@5.0.1
+├─ eventemitter3@5.0.2
 ├─ events@3.3.0
 ├─ eventsource@1.1.2
 ├─ evp_bytestokey@1.0.3
