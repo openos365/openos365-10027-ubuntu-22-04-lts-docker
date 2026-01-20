@@ -2316,7 +2316,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.19.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.16
+├─ @steedos-labs/plugin-workflow@3.0.18
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -10863,7 +10863,7 @@ yarn list v1.22.22
 ├─ prosemirror-keymap@1.2.3
 │  ├─ prosemirror-state@^1.0.0
 │  └─ w3c-keyname@^2.2.0
-├─ prosemirror-markdown@1.13.2
+├─ prosemirror-markdown@1.13.3
 │  ├─ @types/markdown-it@^14.0.0
 │  ├─ entities@4.5.0
 │  ├─ linkify-it@5.0.0
