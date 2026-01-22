@@ -34113,10 +34113,10 @@ libopenblas64-dev/jammy 0.3.20+ds-1 amd64
 libopenblas64-openmp-dev/jammy 0.3.20+ds-1 amd64
 libopenblas64-pthread-dev/jammy 0.3.20+ds-1 amd64
 libopenblas64-serial-dev/jammy 0.3.20+ds-1 amd64
-libopencc-data/jammy-security 1.1.3+ds1-3ubuntu3.1 all
-libopencc-dev/jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
-libopencc-doc/jammy-security 1.1.3+ds1-3ubuntu3.1 all
-libopencc1.1/jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
+libopencc-data/jammy-updates,jammy-security 1.1.3+ds1-3ubuntu3.1 all
+libopencc-dev/jammy-updates,jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
+libopencc-doc/jammy-updates,jammy-security 1.1.3+ds1-3ubuntu3.1 all
+libopencc1.1/jammy-updates,jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
 libopencensus-java/jammy 0.24.0-1 all
 libopenchemlib-java-doc/jammy 2022.2.1+dfsg-1 all
 libopenchemlib-java/jammy 2022.2.1+dfsg-1 all
@@ -90203,7 +90203,7 @@ openbox-menu/jammy 0.8.0+hg20161009-3.1build1 amd64
 openbox/jammy 3.6.1-10 amd64
 openbsc-dev/jammy 1.4.0+dfsg1-1ubuntu2 all
 openbsd-inetd/jammy 0.20160825-5 amd64
-opencc/jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
+opencc/jammy-updates,jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
 opencfu/jammy 4.0.0+dfsg-1build1 amd64
 openchrome-tool/jammy 1:0.6.0-5 amd64
 opencity-data/jammy 0.0.6.5stable-5 all
