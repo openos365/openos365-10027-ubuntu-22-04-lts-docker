@@ -1611,7 +1611,7 @@ yarn list v1.22.22
 ├─ @jridgewell/trace-mapping@0.3.31
 │  ├─ @jridgewell/resolve-uri@^3.1.0
 │  └─ @jridgewell/sourcemap-codec@^1.4.14
-├─ @js-joda/core@5.6.5
+├─ @js-joda/core@5.7.0
 ├─ @jsx-lite/core@0.0.17
 │  ├─ @babel/core@^7.12.3
 │  ├─ @babel/plugin-syntax-decorators@^7.12.1
@@ -2317,7 +2317,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.19.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.19
+├─ @steedos-labs/plugin-workflow@3.0.20
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
