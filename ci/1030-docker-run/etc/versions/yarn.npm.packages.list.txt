@@ -4629,7 +4629,7 @@ yarn list v1.22.22
 │  └─ minimatch@10.1.1
 │     └─ @isaacs/brace-expansion@^5.0.0
 ├─ @types/ms@2.1.0
-├─ @types/node@25.0.9
+├─ @types/node@25.0.10
 │  └─ undici-types@~7.16.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -5561,7 +5561,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.66.5
+├─ bullmq@5.66.6
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
 │  ├─ ioredis@5.9.1

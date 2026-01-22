@@ -1255,7 +1255,7 @@ azure-proxy-agent/jammy-updates 1.0.30-0ubuntu6~22.04.1 amd64
 azure-vm-utils/jammy-updates 0.6.0-4~ubuntu0.22.04.1 amd64
 b3270/jammy 4.1ga10-1.1 amd64
 b3sum/jammy 1.2.0-1 amd64
-b43-fwcutter/jammy-security 1:019-7ubuntu0.1 amd64
+b43-fwcutter/jammy-updates,jammy-security 1:019-7ubuntu0.1 amd64
 b4/jammy 0.8.0-1 all
 b5i2iso/jammy 0.2-0ubuntu3 amd64
 babel-minify/jammy 0.5.1+dfsg+~cs3.2.4-2 all
@@ -6613,8 +6613,8 @@ firewalld/jammy 1.1.1-1ubuntu1 all
 firm-phoenix-ware/jammy 4.7.5+repack-1 all
 firmware-ast/jammy 20140808-4 all
 firmware-ath9k-htc/jammy 1.4.0-106-gc583009+dfsg1-1ubuntu1 all
-firmware-b43-installer/jammy-security 1:019-7ubuntu0.1 all
-firmware-b43legacy-installer/jammy-security 1:019-7ubuntu0.1 all
+firmware-b43-installer/jammy-updates,jammy-security 1:019-7ubuntu0.1 all
+firmware-b43legacy-installer/jammy-updates,jammy-security 1:019-7ubuntu0.1 all
 firmware-microbit-micropython-doc/jammy 1.0.1-2 all
 firmware-microbit-micropython/jammy 1.0.1-2 all
 firmware-sof-signed/jammy-updates 2.0-1ubuntu4.7 all
@@ -13647,12 +13647,12 @@ hearse/jammy 1.5+debian1-1 all
 heartbeat-dev/jammy 1:3.0.6-12build1 amd64
 heartbeat/jammy 1:3.0.6-12build1 amd64
 heartbleeder/jammy 0.1.1-9 amd64
-heat-api-cfn/jammy-updates 1:18.0.1-0ubuntu1.2 all
-heat-api/jammy-updates 1:18.0.1-0ubuntu1.2 all
+heat-api-cfn/jammy-updates 1:18.0.1-0ubuntu1.3 all
+heat-api/jammy-updates 1:18.0.1-0ubuntu1.3 all
 heat-cfntools/jammy 1.4.2-2.1 all
-heat-common/jammy-updates 1:18.0.1-0ubuntu1.2 all
+heat-common/jammy-updates 1:18.0.1-0ubuntu1.3 all
 heat-dashboard-common/jammy-updates 7.0.1-0ubuntu1 all
-heat-engine/jammy-updates 1:18.0.1-0ubuntu1.2 all
+heat-engine/jammy-updates 1:18.0.1-0ubuntu1.3 all
 heat-tempest-plugin/jammy 1.4.0-1 all
 hebcal/jammy 4.27-1 amd64
 hedgewars-data/jammy 1.0.0-16build1 all
@@ -26454,15 +26454,15 @@ libglib-perl/jammy 3:1.329.3-2build1 amd64
 libglib-testing-0-0/jammy 0.1.1-1 amd64
 libglib-testing-0-dev/jammy 0.1.1-1 amd64
 libglib-testing-doc/jammy 0.1.1-1 all
-libglib2.0-0/jammy-security,now 2.72.4-0ubuntu2.8 amd64 [installed,automatic]
-libglib2.0-bin/jammy-security 2.72.4-0ubuntu2.8 amd64
+libglib2.0-0/jammy-updates,jammy-security,now 2.72.4-0ubuntu2.8 amd64 [installed,automatic]
+libglib2.0-bin/jammy-updates,jammy-security 2.72.4-0ubuntu2.8 amd64
 libglib2.0-cil-dev/jammy 2.12.40-3ubuntu1 amd64
 libglib2.0-cil/jammy 2.12.40-3ubuntu1 amd64
-libglib2.0-data/jammy-security,now 2.72.4-0ubuntu2.8 all [installed,automatic]
-libglib2.0-dev-bin/jammy-security 2.72.4-0ubuntu2.8 amd64
-libglib2.0-dev/jammy-security 2.72.4-0ubuntu2.8 amd64
-libglib2.0-doc/jammy-security 2.72.4-0ubuntu2.8 all
-libglib2.0-tests/jammy-security 2.72.4-0ubuntu2.8 amd64
+libglib2.0-data/jammy-updates,jammy-security,now 2.72.4-0ubuntu2.8 all [installed,automatic]
+libglib2.0-dev-bin/jammy-updates,jammy-security 2.72.4-0ubuntu2.8 amd64
+libglib2.0-dev/jammy-updates,jammy-security 2.72.4-0ubuntu2.8 amd64
+libglib2.0-doc/jammy-updates,jammy-security 2.72.4-0ubuntu2.8 all
+libglib2.0-tests/jammy-updates,jammy-security 2.72.4-0ubuntu2.8 amd64
 libglib3.0-cil-dev/jammy 2.99.3-4build1 amd64
 libglib3.0-cil/jammy 2.99.3-4build1 amd64
 libglibd-2.0-0/jammy 2.3.0-2build1 amd64
@@ -34113,10 +34113,10 @@ libopenblas64-dev/jammy 0.3.20+ds-1 amd64
 libopenblas64-openmp-dev/jammy 0.3.20+ds-1 amd64
 libopenblas64-pthread-dev/jammy 0.3.20+ds-1 amd64
 libopenblas64-serial-dev/jammy 0.3.20+ds-1 amd64
-libopencc-data/jammy 1.1.3+ds1-3ubuntu3 all
-libopencc-dev/jammy 1.1.3+ds1-3ubuntu3 amd64
-libopencc-doc/jammy 1.1.3+ds1-3ubuntu3 all
-libopencc1.1/jammy 1.1.3+ds1-3ubuntu3 amd64
+libopencc-data/jammy-security 1.1.3+ds1-3ubuntu3.1 all
+libopencc-dev/jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
+libopencc-doc/jammy-security 1.1.3+ds1-3ubuntu3.1 all
+libopencc1.1/jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
 libopencensus-java/jammy 0.24.0-1 all
 libopenchemlib-java-doc/jammy 2022.2.1+dfsg-1 all
 libopenchemlib-java/jammy 2022.2.1+dfsg-1 all
@@ -90203,7 +90203,7 @@ openbox-menu/jammy 0.8.0+hg20161009-3.1build1 amd64
 openbox/jammy 3.6.1-10 amd64
 openbsc-dev/jammy 1.4.0+dfsg1-1ubuntu2 all
 openbsd-inetd/jammy 0.20160825-5 amd64
-opencc/jammy 1.1.3+ds1-3ubuntu3 amd64
+opencc/jammy-security 1.1.3+ds1-3ubuntu3.1 amd64
 opencfu/jammy 4.0.0+dfsg-1build1 amd64
 openchrome-tool/jammy 1:0.6.0-5 amd64
 opencity-data/jammy 0.0.6.5stable-5 all
@@ -95290,7 +95290,7 @@ python3-hdmf/jammy 3.1.1-2 all
 python3-healpy/jammy 1.15.0-2build1 amd64
 python3-heapdict/jammy 1.0.1-1 all
 python3-heat-dashboard/jammy-updates 7.0.1-0ubuntu1 all
-python3-heat/jammy-updates 1:18.0.1-0ubuntu1.2 all
+python3-heat/jammy-updates 1:18.0.1-0ubuntu1.3 all
 python3-heatclient/jammy 2.5.1-0ubuntu1 all
 python3-hfst/jammy 3.15.4-2 amd64
 python3-hgapi/jammy 1.7.3+git20170127.dd8fb7b-4 all
