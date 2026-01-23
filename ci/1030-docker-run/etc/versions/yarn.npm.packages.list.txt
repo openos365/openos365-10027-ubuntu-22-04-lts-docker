@@ -1767,7 +1767,7 @@ yarn list v1.22.22
 │  ├─ shebang-regex@3.0.0
 │  └─ which@2.0.2
 │     └─ isexe@^2.0.0
-├─ @posthog/types@1.334.1
+├─ @posthog/types@1.335.0
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.4
@@ -10772,7 +10772,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.334.1
+├─ posthog-js@1.335.0
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.5.0
@@ -10784,7 +10784,7 @@ yarn list v1.22.22
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
 │  ├─ @posthog/core@1.13.0
-│  ├─ @posthog/types@1.334.1
+│  ├─ @posthog/types@1.335.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.48.0
 │  ├─ dompurify@^3.3.1
@@ -11346,6 +11346,7 @@ yarn list v1.22.22
 │  ├─ dir-glob@2.0.0
 │  │  ├─ arrify@^1.0.1
 │  │  └─ path-type@^3.0.0
+│  ├─ electron-to-chromium@1.5.278
 │  ├─ escape-string-regexp@1.0.5
 │  ├─ filesize@3.6.1
 │  ├─ find-up@3.0.0
