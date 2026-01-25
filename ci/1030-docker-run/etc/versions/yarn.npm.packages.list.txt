@@ -3557,7 +3557,7 @@ yarn list v1.22.22
 │  ├─ amis-formula@~6.3.0
 │  ├─ app-root-path@^2.2.1
 │  ├─ axios@^1.13.2
-│  ├─ axios@1.13.2
+│  ├─ axios@1.13.3
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.4
 │  │  └─ proxy-from-env@^1.1.0
@@ -4070,7 +4070,7 @@ yarn list v1.22.22
 ├─ @steedos/service-license@3.0.2
 │  ├─ @steedos/license@^3.0.2
 │  ├─ axios@^1.13.2
-│  └─ axios@1.13.2
+│  └─ axios@1.13.3
 │     ├─ follow-redirects@^1.15.6
 │     ├─ form-data@^4.0.4
 │     └─ proxy-from-env@^1.1.0
