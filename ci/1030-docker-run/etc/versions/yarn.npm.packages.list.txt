@@ -435,6 +435,14 @@ yarn list v1.22.22
 ├─ @babel/helper-create-regexp-features-plugin@7.28.5
 │  ├─ @babel/helper-annotate-as-pure@^7.27.3
 │  ├─ regexpu-core@^6.3.1
+│  ├─ regexpu-core@6.4.0
+│  │  ├─ regenerate-unicode-properties@^10.2.2
+│  │  ├─ regenerate@^1.4.2
+│  │  ├─ regjsgen@^0.8.0
+│  │  ├─ regjsparser@^0.13.0
+│  │  ├─ unicode-match-property-ecmascript@^2.0.0
+│  │  └─ unicode-match-property-value-ecmascript@^2.2.1
+│  ├─ regjsgen@0.8.0
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
 ├─ @babel/helper-define-polyfill-provider@0.6.6
@@ -3723,7 +3731,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.52
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.13.2
+│  ├─ axios@1.13.3
 │  │  ├─ follow-redirects@^1.15.6
 │  │  ├─ form-data@^4.0.4
 │  │  └─ proxy-from-env@^1.1.0
@@ -5528,24 +5536,11 @@ yarn list v1.22.22
 │  ├─ acorn-jsx@^5.0.1
 │  ├─ acorn@^6.1.1
 │  ├─ chalk@^2.4.2
-│  ├─ jsesc@0.5.0
 │  ├─ magic-string@^0.25.3
 │  ├─ minimist@^1.2.0
 │  ├─ os-homedir@^2.0.0
 │  ├─ os-homedir@2.0.0
-│  ├─ regenerate-unicode-properties@9.0.0
-│  │  └─ regenerate@^1.4.2
-│  ├─ regexpu-core@^4.5.4
-│  ├─ regexpu-core@4.8.0
-│  │  ├─ regenerate-unicode-properties@^9.0.0
-│  │  ├─ regenerate@^1.4.2
-│  │  ├─ regjsgen@^0.5.2
-│  │  ├─ regjsparser@^0.7.0
-│  │  ├─ unicode-match-property-ecmascript@^2.0.0
-│  │  └─ unicode-match-property-value-ecmascript@^2.0.0
-│  ├─ regjsgen@0.5.2
-│  └─ regjsparser@0.7.0
-│     └─ jsesc@~0.5.0
+│  └─ regexpu-core@^4.5.4
 ├─ bubleify@1.2.1
 │  └─ buble@^0.19.3
 ├─ buffer-alloc-unsafe@1.1.0
@@ -11927,14 +11922,19 @@ yarn list v1.22.22
 │  ├─ gopd@^1.2.0
 │  └─ set-function-name@^2.0.2
 ├─ regexpp@2.0.1
-├─ regexpu-core@6.4.0
-│  ├─ regenerate-unicode-properties@^10.2.2
+├─ regexpu-core@4.8.0
+│  ├─ jsesc@0.5.0
+│  ├─ regenerate-unicode-properties@^9.0.0
+│  ├─ regenerate-unicode-properties@9.0.0
+│  │  └─ regenerate@^1.4.2
 │  ├─ regenerate@^1.4.2
-│  ├─ regjsgen@^0.8.0
-│  ├─ regjsparser@^0.13.0
+│  ├─ regjsgen@^0.5.2
+│  ├─ regjsparser@^0.7.0
+│  ├─ regjsparser@0.7.0
+│  │  └─ jsesc@~0.5.0
 │  ├─ unicode-match-property-ecmascript@^2.0.0
-│  └─ unicode-match-property-value-ecmascript@^2.2.1
-├─ regjsgen@0.8.0
+│  └─ unicode-match-property-value-ecmascript@^2.0.0
+├─ regjsgen@0.5.2
 ├─ regjsparser@0.13.0
 │  └─ jsesc@~3.1.0
 ├─ regl-error2d@2.0.12
