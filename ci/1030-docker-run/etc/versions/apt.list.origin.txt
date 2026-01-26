@@ -19382,8 +19382,8 @@ libcjose-dev/jammy-updates,jammy-security 0.6.1+dfsg1-3ubuntu1.1 amd64
 libcjose0/jammy-updates,jammy-security 0.6.1+dfsg1-3ubuntu1.1 amd64
 libcjs-dev/jammy 5.2.0-2 amd64
 libcjs0/jammy 5.2.0-2 amd64
-libcjson-dev/jammy 1.7.15-1 amd64
-libcjson1/jammy 1.7.15-1 amd64
+libcjson-dev/jammy-updates,jammy-security 1.7.15-1ubuntu0.1 amd64
+libcjson1/jammy-updates,jammy-security 1.7.15-1ubuntu0.1 amd64
 libck-dev/jammy 0.7.1-6ubuntu2 amd64
 libck0/jammy 0.7.1-6ubuntu2 amd64
 libckit-smlnj/jammy 110.79-6 amd64
