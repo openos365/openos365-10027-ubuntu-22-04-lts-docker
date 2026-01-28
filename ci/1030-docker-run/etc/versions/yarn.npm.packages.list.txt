@@ -5561,7 +5561,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.67.1
+├─ bullmq@5.67.2
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
 │  ├─ ioredis@5.9.2
@@ -5917,7 +5917,7 @@ yarn list v1.22.22
 │     └─ util-deprecate@^1.0.1
 ├─ compressible@2.0.18
 │  └─ mime-db@>= 1.43.0 < 2
-├─ compressing@1.10.3
+├─ compressing@1.10.4
 │  ├─ @eggjs/yauzl@^2.11.0
 │  ├─ flushwritable@^1.0.0
 │  ├─ get-ready@^1.0.0
