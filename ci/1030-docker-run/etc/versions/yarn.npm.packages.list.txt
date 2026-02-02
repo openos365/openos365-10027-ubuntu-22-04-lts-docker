@@ -4632,7 +4632,7 @@ yarn list v1.22.22
 │  └─ minimatch@10.1.1
 │     └─ @isaacs/brace-expansion@^5.0.0
 ├─ @types/ms@2.1.0
-├─ @types/node@25.1.0
+├─ @types/node@25.2.0
 │  └─ undici-types@~7.16.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -5668,7 +5668,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001766
+├─ caniuse-lite@1.0.30001767
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
