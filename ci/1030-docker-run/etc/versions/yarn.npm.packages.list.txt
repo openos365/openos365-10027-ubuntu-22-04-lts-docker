@@ -6374,7 +6374,7 @@ yarn list v1.22.22
 ├─ deep-is@0.1.4
 ├─ deepmerge@2.1.0
 ├─ default-browser-id@5.0.1
-├─ default-browser@5.4.0
+├─ default-browser@5.5.0
 │  ├─ bundle-name@^4.1.0
 │  └─ default-browser-id@^5.0.0
 ├─ default-gateway@4.2.0
