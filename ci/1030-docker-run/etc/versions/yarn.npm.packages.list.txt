@@ -1454,7 +1454,11 @@ yarn list v1.22.22
 │  ├─ realpath-native@^1.1.0
 │  ├─ slash@^2.0.0
 │  ├─ source-map@^0.6.1
+│  ├─ write-file-atomic@2.4.1
 │  └─ write-file-atomic@2.4.1
+│     ├─ graceful-fs@^4.1.11
+│     ├─ imurmurhash@^0.1.4
+│     └─ signal-exit@^3.0.2
 ├─ @jest/types@24.9.0
 │  ├─ @types/istanbul-lib-coverage@^2.0.0
 │  ├─ @types/istanbul-reports@^1.1.1
@@ -1468,9 +1472,6 @@ yarn list v1.22.22
 │  ├─ @jimp/utils@^0.16.13
 │  ├─ any-base@^1.1.0
 │  ├─ buffer@^5.2.0
-│  ├─ buffer@5.7.1
-│  │  ├─ base64-js@^1.3.1
-│  │  └─ ieee754@^1.1.13
 │  ├─ exif-parser@^0.1.12
 │  ├─ file-type@^16.5.4
 │  ├─ load-bmfont@^1.3.1
@@ -1752,7 +1753,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.20.2
+├─ @posthog/core@1.21.0
 │  ├─ cross-spawn@^7.0.6
 │  ├─ cross-spawn@7.0.6
 │  │  ├─ path-key@^3.1.0
@@ -1764,7 +1765,7 @@ yarn list v1.22.22
 │  ├─ shebang-regex@3.0.0
 │  └─ which@2.0.2
 │     └─ isexe@^2.0.0
-├─ @posthog/types@1.343.2
+├─ @posthog/types@1.345.1
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.4
@@ -1919,6 +1920,7 @@ yarn list v1.22.22
 │  │  └─ has-flag@^4.0.0
 │  ├─ wcwidth@^1.0.1
 │  └─ ws@^1.1.0
+├─ @react-native-community/netinfo@4.7.0
 ├─ @rollup/plugin-alias@3.1.9
 │  ├─ slash@^3.0.0
 │  └─ slash@3.0.0
@@ -3512,6 +3514,18 @@ yarn list v1.22.22
 │  ├─ moleculer-web@^0.9.1
 │  ├─ moleculer@^0.14.11
 │  └─ nats@^1.4.12
+├─ @steedos/oauth2-messenger@1.0.0
+│  ├─ cookies@^0.7.3
+│  ├─ cookies@0.7.3
+│  │  ├─ depd@~1.1.2
+│  │  └─ keygrip@~1.0.3
+│  ├─ depd@1.1.2
+│  ├─ express@^4.16.4
+│  ├─ keygrip@1.0.3
+│  ├─ mattermost-redux@^5.10.0
+│  ├─ node-fetch@^2.3.0
+│  ├─ passport-oauth2@^1.5.0
+│  └─ passport@^0.4.0
 ├─ @steedos/objectql@3.0.12
 │  ├─ @salesforce/kit@1.0.4
 │  ├─ @salesforce/ts-types@1.1.1
@@ -4020,6 +4034,10 @@ yarn list v1.22.22
 │  ├─ negotiator@1.0.0
 │  ├─ passport-jwt@^4.0.0
 │  ├─ passport@^0.6.0
+│  ├─ passport@0.6.0
+│  │  ├─ passport-strategy@1.x.x
+│  │  ├─ pause@0.0.1
+│  │  └─ utils-merge@^1.0.1
 │  ├─ raw-body@3.0.2
 │  │  ├─ bytes@~3.1.2
 │  │  ├─ http-errors@~2.0.1
@@ -4295,6 +4313,9 @@ yarn list v1.22.22
 │  └─ dotenv-flow@^3.1.0
 ├─ @steedos/steedos-model-generator@1.20.0
 │  ├─ app-root-path@3.1.0
+│  ├─ buffer@6.0.3
+│  │  ├─ base64-js@^1.3.1
+│  │  └─ ieee754@^1.2.1
 │  ├─ chalk@4.1.2
 │  │  ├─ ansi-styles@^4.1.0
 │  │  └─ supports-color@^7.1.0
@@ -5360,6 +5381,7 @@ yarn list v1.22.22
 │  ├─ cache-base@^1.0.1
 │  ├─ class-utils@^0.3.5
 │  ├─ component-emitter@^1.2.1
+│  ├─ component-emitter@1.3.1
 │  ├─ define-property@^1.0.0
 │  ├─ define-property@1.0.0
 │  │  └─ is-descriptor@^1.0.0
@@ -5367,6 +5389,7 @@ yarn list v1.22.22
 │  ├─ mixin-deep@^1.2.0
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
+├─ base64url@3.0.1
 ├─ baseline-browser-mapping@2.9.19
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
@@ -5508,10 +5531,7 @@ yarn list v1.22.22
 ├─ bser@2.1.1
 │  └─ node-int64@^0.4.0
 ├─ bson@4.6.4
-│  ├─ buffer@^5.6.0
-│  └─ buffer@5.7.1
-│     ├─ base64-js@^1.3.1
-│     └─ ieee754@^1.1.13
+│  └─ buffer@^5.6.0
 ├─ buble@0.19.8
 │  ├─ acorn-dynamic-import@^4.0.0
 │  ├─ acorn-jsx@^5.0.1
@@ -5537,9 +5557,9 @@ yarn list v1.22.22
 ├─ buffer-indexof@1.1.1
 ├─ buffer-writer@2.0.0
 ├─ buffer-xor@1.0.3
-├─ buffer@6.0.3
+├─ buffer@5.7.1
 │  ├─ base64-js@^1.3.1
-│  └─ ieee754@^1.2.1
+│  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
 ├─ bullmq@5.67.3
@@ -5593,6 +5613,7 @@ yarn list v1.22.22
 ├─ cache-base@1.0.1
 │  ├─ collection-visit@^1.0.0
 │  ├─ component-emitter@^1.2.1
+│  ├─ component-emitter@1.3.1
 │  ├─ get-value@^2.0.6
 │  ├─ has-value@^1.0.0
 │  ├─ has-value@1.0.0
@@ -5885,7 +5906,7 @@ yarn list v1.22.22
 ├─ compare-oriented-cell@1.0.1
 │  ├─ cell-orientation@^1.0.1
 │  └─ compare-cell@^1.0.0
-├─ component-emitter@1.3.1
+├─ component-emitter@1.2.1
 ├─ compress-commons@4.1.2
 │  ├─ buffer-crc32@^0.2.13
 │  ├─ crc32-stream@^4.0.2
@@ -7229,6 +7250,7 @@ yarn list v1.22.22
 │  └─ math-intrinsics@^1.1.0
 ├─ get-nonce@1.0.1
 ├─ get-own-enumerable-property-symbols@3.0.2
+├─ get-params@0.1.2
 ├─ get-port@5.1.1
 ├─ get-proto@1.0.1
 │  ├─ dunder-proto@^1.0.1
@@ -7243,6 +7265,8 @@ yarn list v1.22.22
 ├─ get-value@2.0.6
 ├─ getpass@0.1.7
 │  └─ assert-plus@^1.0.0
+├─ gfycat-sdk@1.4.18
+│  └─ babel-runtime@^6.23.0
 ├─ gifwrap@0.9.4
 │  ├─ image-q@^4.0.0
 │  └─ omggif@^1.0.10
@@ -8536,6 +8560,7 @@ yarn list v1.22.22
 │  │  └─ sprintf-js@~1.0.2
 │  ├─ esprima@^4.0.0
 │  └─ sprintf-js@1.0.3
+├─ jsan@3.1.14
 ├─ jsbi@3.2.5
 ├─ jsbn@0.1.1
 ├─ jsc-android@245459.0.0
@@ -8842,6 +8867,7 @@ yarn list v1.22.22
 │  └─ immediate@~3.0.5
 ├─ lilconfig@3.1.3
 ├─ lines-and-columns@1.2.4
+├─ linked-list@0.1.0
 ├─ linkify-it@3.0.2
 │  └─ uc.micro@^1.0.1
 ├─ liquidjs@9.43.0
@@ -9110,6 +9136,33 @@ yarn list v1.22.22
 │  ├─ gl-mat4@^1.1.2
 │  ├─ gl-vec3@^1.0.3
 │  └─ mat4-interpolate@^1.0.3
+├─ mattermost-redux@5.33.1
+│  ├─ core-js@3.8.3
+│  ├─ core-js@3.8.3
+│  ├─ form-data@3.0.0
+│  ├─ form-data@3.0.0
+│  │  ├─ asynckit@^0.4.0
+│  │  ├─ combined-stream@^1.0.8
+│  │  └─ mime-types@^2.1.12
+│  ├─ gfycat-sdk@1.4.18
+│  ├─ moment-timezone@0.5.32
+│  ├─ moment-timezone@0.5.32
+│  │  └─ moment@>= 2.9.0
+│  ├─ redux-action-buffer@1.2.0
+│  ├─ redux-offline@git+https://github.com/enahum/redux-offline.git#885024de96b6ec73650c340c8928066585c413df
+│  ├─ redux-persist-node-storage@2.0.0
+│  ├─ redux-persist@4.9.1
+│  ├─ redux-thunk@2.3.0
+│  ├─ redux-thunk@2.3.0
+│  ├─ redux@4.0.5
+│  ├─ redux@4.0.5
+│  │  ├─ loose-envify@^1.4.0
+│  │  └─ symbol-observable@^1.2.0
+│  ├─ remote-redux-devtools@0.5.16
+│  ├─ reselect@4.0.0
+│  ├─ rudder-sdk-js@1.0.14
+│  ├─ serialize-error@6.0.0
+│  └─ shallow-equals@1.0.0
 ├─ md5-file@5.0.0
 ├─ md5.js@1.3.5
 │  ├─ hash-base@^3.0.0
@@ -9253,6 +9306,7 @@ yarn list v1.22.22
 │  │  └─ strip-ansi@^4.0.0
 │  ├─ strip-ansi@4.0.0
 │  │  └─ ansi-regex@^3.0.0
+│  ├─ symbol-observable@1.0.1
 │  ├─ ws@^1.1.5
 │  ├─ y18n@3.2.2
 │  ├─ yargs-parser@7.0.0
@@ -9420,6 +9474,7 @@ yarn list v1.22.22
 │  ├─ resolve@^1.5.0
 │  ├─ rimraf@^2.5.4
 │  ├─ serialize-error@^2.1.0
+│  ├─ serialize-error@2.1.0
 │  ├─ source-map@^0.5.6
 │  ├─ source-map@0.5.7
 │  ├─ string-width@2.1.1
@@ -9431,10 +9486,6 @@ yarn list v1.22.22
 │  ├─ throat@^4.1.0
 │  ├─ wordwrap@^1.0.0
 │  ├─ write-file-atomic@^1.2.0
-│  ├─ write-file-atomic@1.3.4
-│  │  ├─ graceful-fs@^4.1.11
-│  │  ├─ imurmurhash@^0.1.4
-│  │  └─ slide@^1.1.5
 │  ├─ ws@^1.1.5
 │  ├─ xpipe@^1.0.5
 │  ├─ y18n@3.2.2
@@ -9781,6 +9832,7 @@ yarn list v1.22.22
 │  ├─ cookie@0.5.0
 │  ├─ jose@^4.11.4
 │  ├─ oauth@^0.9.15
+│  ├─ oauth@0.9.15
 │  ├─ openid-client@^5.4.0
 │  ├─ preact-render-to-string@^5.1.19
 │  ├─ preact-render-to-string@5.2.6
@@ -9876,6 +9928,8 @@ yarn list v1.22.22
 │  ├─ util@0.11.1
 │  │  └─ inherits@2.0.3
 │  └─ vm-browserify@^1.0.1
+├─ node-localstorage@1.3.1
+│  └─ write-file-atomic@^1.1.4
 ├─ node-machine-id@1.1.12
 ├─ node-notifier@5.4.5
 │  ├─ growly@^1.3.0
@@ -9957,7 +10011,7 @@ yarn list v1.22.22
 ├─ numeric@1.2.6
 ├─ nwsapi@2.2.23
 ├─ oauth-sign@0.9.0
-├─ oauth@0.9.15
+├─ oauth@0.10.2
 ├─ ob1@0.56.4
 ├─ object-assign@4.1.1
 ├─ object-copy@0.1.0
@@ -10139,11 +10193,16 @@ yarn list v1.22.22
 ├─ passport-jwt@4.0.1
 │  ├─ jsonwebtoken@^9.0.0
 │  └─ passport-strategy@^1.0.0
-├─ passport-strategy@1.0.0
-├─ passport@0.6.0
+├─ passport-oauth2@1.8.0
+│  ├─ base64url@3.x.x
+│  ├─ oauth@0.10.x
 │  ├─ passport-strategy@1.x.x
-│  ├─ pause@0.0.1
-│  └─ utils-merge@^1.0.1
+│  ├─ uid2@0.0.x
+│  └─ utils-merge@1.x.x
+├─ passport-strategy@1.0.0
+├─ passport@0.4.1
+│  ├─ passport-strategy@1.x.x
+│  └─ pause@0.0.1
 ├─ path-browserify@0.0.1
 ├─ path-case@2.1.1
 │  └─ no-case@^2.2.0
@@ -10714,7 +10773,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.343.2
+├─ posthog-js@1.345.1
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.5.0
@@ -10725,8 +10784,8 @@ yarn list v1.22.22
 │  │  ├─ @opentelemetry/core@2.5.0
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
-│  ├─ @posthog/core@1.20.2
-│  ├─ @posthog/types@1.343.2
+│  ├─ @posthog/core@1.21.0
+│  ├─ @posthog/types@1.345.1
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.48.0
 │  ├─ dompurify@^3.3.1
@@ -11754,6 +11813,9 @@ yarn list v1.22.22
 │  │  └─ safe-buffer@~5.1.0
 │  └─ util-deprecate@~1.0.1
 ├─ readable-web-to-node-stream@3.0.4
+│  ├─ buffer@6.0.3
+│  │  ├─ base64-js@^1.3.1
+│  │  └─ ieee754@^1.2.1
 │  ├─ readable-stream@^4.7.0
 │  └─ readable-stream@4.7.0
 │     ├─ abort-controller@^3.0.0
@@ -11799,7 +11861,31 @@ yarn list v1.22.22
 │  ├─ cell-orientation@^1.0.1
 │  ├─ compare-cell@^1.0.0
 │  └─ compare-oriented-cell@^1.0.1
+├─ redux-action-buffer@1.2.0
+├─ redux-devtools-core@0.2.1
+│  ├─ get-params@^0.1.2
+│  ├─ jsan@^3.1.13
+│  ├─ lodash@^4.17.11
+│  ├─ nanoid@^2.0.0
+│  ├─ nanoid@2.1.11
+│  └─ remotedev-serialize@^0.1.8
 ├─ redux-devtools-extension@2.13.9
+├─ redux-devtools-instrument@1.10.0
+│  ├─ lodash@^4.17.19
+│  └─ symbol-observable@^1.2.0
+├─ redux-offline@1.1.5
+│  ├─ @react-native-community/netinfo@^4.1.3
+│  ├─ redux-persist@^4.5.0
+│  └─ redux-persist@4.10.2
+│     ├─ json-stringify-safe@^5.0.1
+│     ├─ lodash-es@^4.17.4
+│     └─ lodash@^4.17.4
+├─ redux-persist-node-storage@2.0.0
+│  └─ node-localstorage@^1.3.0
+├─ redux-persist@4.9.1
+│  ├─ json-stringify-safe@^5.0.1
+│  ├─ lodash-es@^4.17.4
+│  └─ lodash@^4.17.4
 ├─ redux-thunk@2.4.2
 ├─ redux@4.2.1
 │  └─ @babel/runtime@^7.9.2
@@ -11903,6 +11989,15 @@ yarn list v1.22.22
 │  ├─ acorn@5.7.4
 │  └─ semver@^5.4.1
 ├─ relateurl@0.2.7
+├─ remote-redux-devtools@0.5.16
+│  ├─ jsan@^3.1.13
+│  ├─ querystring@^0.2.0
+│  ├─ redux-devtools-core@^0.2.1
+│  ├─ redux-devtools-instrument@^1.9.4
+│  ├─ rn-host-detect@^1.1.5
+│  └─ socketcluster-client@^14.2.1
+├─ remotedev-serialize@0.1.9
+│  └─ jsan@^3.1.13
 ├─ remove-accents@0.5.0
 ├─ remove-trailing-separator@1.1.0
 ├─ renderkid@2.0.7
@@ -11981,6 +12076,7 @@ yarn list v1.22.22
 ├─ requireindex@1.2.0
 ├─ requirejs@2.3.8
 ├─ requires-port@1.0.0
+├─ reselect@4.0.0
 ├─ resize-observer-polyfill@1.5.1
 ├─ resolve-cwd@2.0.0
 │  └─ resolve-from@^3.0.0
@@ -12047,6 +12143,7 @@ yarn list v1.22.22
 ├─ ripemd160@2.0.3
 │  ├─ hash-base@^3.1.2
 │  └─ inherits@^2.0.4
+├─ rn-host-detect@1.2.0
 ├─ rndm@1.2.0
 ├─ robust-compress@1.0.0
 ├─ robust-determinant@1.1.0
@@ -12150,6 +12247,7 @@ yarn list v1.22.22
 ├─ rsvp@4.8.5
 ├─ rtl-css-js@1.16.1
 │  └─ @babel/runtime@^7.1.2
+├─ rudder-sdk-js@1.0.14
 ├─ run-applescript@7.1.0
 ├─ run-async@2.4.1
 ├─ run-parallel@1.2.0
@@ -12204,6 +12302,10 @@ yarn list v1.22.22
 ├─ sax@1.4.4
 ├─ saxes@5.0.1
 │  └─ xmlchars@^2.2.0
+├─ sc-channel@1.2.0
+│  └─ component-emitter@1.2.1
+├─ sc-errors@2.0.3
+├─ sc-formatter@3.0.3
 ├─ scheduler@0.20.2
 │  ├─ loose-envify@^1.1.0
 │  └─ object-assign@^4.1.1
@@ -12301,7 +12403,8 @@ yarn list v1.22.22
 │  ├─ validator@^13.9.0
 │  └─ wkx@^0.5.0
 ├─ serializator@1.0.1
-├─ serialize-error@2.1.0
+├─ serialize-error@6.0.0
+│  └─ type-fest@^0.12.0
 ├─ serialize-javascript@2.1.2
 ├─ serve-index@1.9.2
 │  ├─ accepts@~1.3.8
@@ -12370,6 +12473,7 @@ yarn list v1.22.22
 ├─ shallow-element-equals@1.0.1
 │  └─ style-equal@^1.0.0
 ├─ shallow-equal@1.2.1
+├─ shallow-equals@1.0.0
 ├─ shallowequal@1.1.0
 ├─ sharkdown@0.1.1
 │  ├─ cardinal@~0.4.2
@@ -12473,6 +12577,21 @@ yarn list v1.22.22
 │  ├─ source-map@^0.5.6
 │  ├─ source-map@0.5.7
 │  └─ use@^3.1.0
+├─ socketcluster-client@14.3.2
+│  ├─ buffer@^5.2.1
+│  ├─ clone@2.1.1
+│  ├─ clone@2.1.1
+│  ├─ component-emitter@1.2.1
+│  ├─ linked-list@0.1.0
+│  ├─ querystring@0.2.0
+│  ├─ querystring@0.2.0
+│  ├─ sc-channel@^1.2.0
+│  ├─ sc-errors@^2.0.1
+│  ├─ sc-formatter@^3.0.1
+│  ├─ uuid@3.2.1
+│  ├─ uuid@3.2.1
+│  ├─ ws@^7.5.0
+│  └─ ws@7.5.10
 ├─ sockjs-client@1.3.0
 │  ├─ debug@^3.2.5
 │  ├─ debug@3.2.7
@@ -12580,7 +12699,8 @@ yarn list v1.22.22
 │  ├─ stack-generator@^2.0.5
 │  └─ stacktrace-gps@^3.0.4
 ├─ stacktrace-parser@0.1.11
-│  └─ type-fest@^0.7.1
+│  ├─ type-fest@^0.7.1
+│  └─ type-fest@0.7.1
 ├─ standalone-react-addons-pure-render-mixin@0.1.1
 ├─ standard-as-callback@2.1.0
 ├─ state-local@1.0.7
@@ -12870,7 +12990,7 @@ yarn list v1.22.22
 │  ├─ lower-case@^1.1.1
 │  └─ upper-case@^1.1.1
 ├─ swr@1.3.0
-├─ symbol-observable@1.0.1
+├─ symbol-observable@1.2.0
 ├─ symbol-tree@3.2.4
 ├─ sync-request@3.0.1
 │  ├─ concat-stream@^1.4.7
@@ -12962,9 +13082,6 @@ yarn list v1.22.22
 │  │  ├─ buffer@^5.5.0
 │  │  ├─ inherits@^2.0.4
 │  │  └─ readable-stream@^3.4.0
-│  ├─ buffer@5.7.1
-│  │  ├─ base64-js@^1.3.1
-│  │  └─ ieee754@^1.1.13
 │  ├─ end-of-stream@^1.4.1
 │  ├─ fs-constants@^1.0.0
 │  ├─ inherits@^2.0.3
@@ -12996,6 +13113,9 @@ yarn list v1.22.22
 │  │  ├─ buffer@^6.0.3
 │  │  ├─ inherits@^2.0.4
 │  │  └─ readable-stream@^4.2.0
+│  ├─ buffer@6.0.3
+│  │  ├─ base64-js@^1.3.1
+│  │  └─ ieee754@^1.2.1
 │  ├─ iconv-lite@^0.6.3
 │  ├─ iconv-lite@0.6.3
 │  │  └─ safer-buffer@>= 2.1.2 < 3.0.0
@@ -13184,7 +13304,7 @@ yarn list v1.22.22
 ├─ two-sum@1.0.0
 ├─ type-check@0.3.2
 │  └─ prelude-ls@~1.1.2
-├─ type-fest@0.7.1
+├─ type-fest@0.12.0
 ├─ type-is@1.6.18
 │  ├─ media-typer@0.3.0
 │  └─ mime-types@~2.1.24
@@ -13235,6 +13355,9 @@ yarn list v1.22.22
 │  ├─ brace-expansion@2.0.2
 │  │  └─ balanced-match@^1.0.0
 │  ├─ buffer@^6.0.3
+│  ├─ buffer@6.0.3
+│  │  ├─ base64-js@^1.3.1
+│  │  └─ ieee754@^1.2.1
 │  ├─ cliui@8.0.1
 │  │  ├─ string-width@^4.2.0
 │  │  ├─ strip-ansi@^6.0.1
@@ -13289,6 +13412,7 @@ yarn list v1.22.22
 ├─ uglify-to-browserify@1.0.2
 ├─ uid-safe@2.1.5
 │  └─ random-bytes@~1.0.0
+├─ uid2@0.0.4
 ├─ ultron@1.0.2
 ├─ unbox-primitive@1.1.0
 │  ├─ call-bound@^1.0.3
@@ -13806,10 +13930,10 @@ yarn list v1.22.22
 │  └─ strip-ansi@3.0.1
 │     └─ ansi-regex@^2.0.0
 ├─ wrappy@1.0.2
-├─ write-file-atomic@2.4.1
+├─ write-file-atomic@1.3.4
 │  ├─ graceful-fs@^4.1.11
 │  ├─ imurmurhash@^0.1.4
-│  └─ signal-exit@^3.0.2
+│  └─ slide@^1.1.5
 ├─ write@1.0.3
 │  └─ mkdirp@^0.5.1
 ├─ ws@1.1.5
