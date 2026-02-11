@@ -374,11 +374,11 @@ yarn list v1.22.22
 │  ├─ @azure/ms-rest-azure-env@^2.0.0
 │  ├─ @azure/ms-rest-js@^2.0.4
 │  └─ adal-node@^0.2.2
-├─ @azure/msal-browser@4.28.1
-│  └─ @azure/msal-common@15.14.1
-├─ @azure/msal-common@15.14.1
-├─ @azure/msal-node@3.8.6
-│  ├─ @azure/msal-common@15.14.1
+├─ @azure/msal-browser@4.28.2
+│  └─ @azure/msal-common@15.14.2
+├─ @azure/msal-common@15.14.2
+├─ @azure/msal-node@3.8.7
+│  ├─ @azure/msal-common@15.14.2
 │  ├─ jsonwebtoken@^9.0.0
 │  └─ uuid@^8.3.0
 ├─ @babel/code-frame@7.29.0
@@ -1753,7 +1753,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.21.0
+├─ @posthog/core@1.22.0
 │  ├─ cross-spawn@^7.0.6
 │  ├─ cross-spawn@7.0.6
 │  │  ├─ path-key@^3.1.0
@@ -1765,7 +1765,7 @@ yarn list v1.22.22
 │  ├─ shebang-regex@3.0.0
 │  └─ which@2.0.2
 │     └─ isexe@^2.0.0
-├─ @posthog/types@1.345.2
+├─ @posthog/types@1.345.3
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.4
@@ -10773,7 +10773,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.345.2
+├─ posthog-js@1.345.3
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.5.0
@@ -10784,8 +10784,8 @@ yarn list v1.22.22
 │  │  ├─ @opentelemetry/core@2.5.0
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
-│  ├─ @posthog/core@1.21.0
-│  ├─ @posthog/types@1.345.2
+│  ├─ @posthog/core@1.22.0
+│  ├─ @posthog/types@1.345.3
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.48.0
 │  ├─ dompurify@^3.3.1
