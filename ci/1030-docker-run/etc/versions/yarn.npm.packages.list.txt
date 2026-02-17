@@ -4632,7 +4632,7 @@ yarn list v1.22.22
 │  ├─ jackspeak@4.2.3
 │  │  └─ @isaacs/cliui@^9.0.0
 │  ├─ minimatch@*
-│  └─ minimatch@10.2.0
+│  └─ minimatch@10.2.1
 │     └─ brace-expansion@^5.0.2
 ├─ @types/ms@2.1.0
 ├─ @types/node@25.2.3
@@ -6477,7 +6477,7 @@ yarn list v1.22.22
 │  ├─ undici-types@5.26.5
 │  ├─ xml-js@^1.6.8
 │  └─ xml@^1.0.1
-├─ docxtemplater@3.68.1
+├─ docxtemplater@3.68.2
 │  ├─ @xmldom/xmldom@^0.9.8
 │  └─ @xmldom/xmldom@0.9.8
 ├─ dom-align@1.12.4
