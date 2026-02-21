@@ -4817,7 +4817,7 @@ yarn list v1.22.22
 │  └─ debug@4
 ├─ ajv-errors@1.0.1
 ├─ ajv-keywords@3.5.2
-├─ ajv@6.12.6
+├─ ajv@6.14.0
 │  ├─ fast-deep-equal@^3.1.1
 │  ├─ fast-json-stable-stringify@^2.0.0
 │  ├─ json-schema-traverse@^0.4.1
@@ -5565,7 +5565,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.69.3
+├─ bullmq@5.69.4
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
 │  ├─ ioredis@5.9.2
@@ -12635,7 +12635,7 @@ yarn list v1.22.22
 ├─ spdx-expression-parse@3.0.1
 │  ├─ spdx-exceptions@^2.1.0
 │  └─ spdx-license-ids@^3.0.0
-├─ spdx-license-ids@3.0.22
+├─ spdx-license-ids@3.0.23
 ├─ spdy-transport@3.0.0
 │  ├─ debug@^4.1.0
 │  ├─ detect-node@^2.0.4
