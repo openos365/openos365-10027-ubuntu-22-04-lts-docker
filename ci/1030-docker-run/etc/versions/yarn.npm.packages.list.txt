@@ -3263,8 +3263,8 @@ yarn list v1.22.22
 ├─ @steedos/metadata-core@3.0.12
 │  ├─ @steedos/client@3.0.12
 │  ├─ archiver@^5.1.0
-│  ├─ balanced-match@4.0.3
-│  ├─ brace-expansion@5.0.2
+│  ├─ balanced-match@4.0.4
+│  ├─ brace-expansion@5.0.3
 │  │  └─ balanced-match@^4.0.2
 │  ├─ chalk@^4.1.0
 │  ├─ chalk@4.1.2
@@ -3303,8 +3303,8 @@ yarn list v1.22.22
 │  ├─ @steedos/client@3.0.12
 │  ├─ @steedos/metadata-core@3.0.12
 │  ├─ archiver@^5.1.0
-│  ├─ balanced-match@4.0.3
-│  ├─ brace-expansion@5.0.2
+│  ├─ balanced-match@4.0.4
+│  ├─ brace-expansion@5.0.3
 │  │  └─ balanced-match@^4.0.2
 │  ├─ chalk@^4.1.0
 │  ├─ chalk@4.1.2
@@ -4626,8 +4626,8 @@ yarn list v1.22.22
 │  └─ @types/mdurl@^2
 ├─ @types/mdurl@2.0.0
 ├─ @types/minimatch@6.0.0
-│  ├─ balanced-match@4.0.3
-│  ├─ brace-expansion@5.0.2
+│  ├─ balanced-match@4.0.4
+│  ├─ brace-expansion@5.0.3
 │  │  └─ balanced-match@^4.0.2
 │  ├─ minimatch@*
 │  └─ minimatch@10.2.2
@@ -13358,8 +13358,8 @@ yarn list v1.22.22
 │  ├─ ansis@^3.17.0
 │  ├─ app-root-path@^3.1.0
 │  ├─ app-root-path@3.1.0
-│  ├─ balanced-match@4.0.3
-│  ├─ brace-expansion@5.0.2
+│  ├─ balanced-match@4.0.4
+│  ├─ brace-expansion@5.0.3
 │  │  └─ balanced-match@^4.0.2
 │  ├─ buffer@^6.0.3
 │  ├─ buffer@6.0.3
