@@ -5567,11 +5567,11 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.70.0
+├─ bullmq@5.70.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
-│  ├─ ioredis@5.9.2
-│  ├─ ioredis@5.9.2
+│  ├─ ioredis@5.9.3
+│  ├─ ioredis@5.9.3
 │  │  ├─ @ioredis/commands@1.5.0
 │  │  ├─ cluster-key-slot@^1.1.0
 │  │  ├─ debug@^4.3.4
@@ -7053,12 +7053,13 @@ yarn list v1.22.22
 │  ├─ strtok3@^6.2.4
 │  └─ token-types@^4.1.1
 ├─ file-uri-to-path@1.0.0
-├─ filelist@1.0.4
-│  ├─ brace-expansion@2.0.2
-│  │  └─ balanced-match@^1.0.0
-│  ├─ minimatch@^5.0.1
-│  └─ minimatch@5.1.7
-│     └─ brace-expansion@^2.0.1
+├─ filelist@1.0.5
+│  ├─ balanced-match@4.0.4
+│  ├─ brace-expansion@5.0.3
+│  │  └─ balanced-match@^4.0.2
+│  ├─ minimatch@^10.2.1
+│  └─ minimatch@10.2.2
+│     └─ brace-expansion@^5.0.2
 ├─ filesize@3.6.1
 ├─ fill-range@4.0.0
 │  ├─ extend-shallow@^2.0.1
