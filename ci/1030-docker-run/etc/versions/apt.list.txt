@@ -5549,7 +5549,7 @@ elpa-pos-tip/jammy 0.4.6+git20191227-2 all
 elpa-powerline/jammy 2.4-4 all
 elpa-project/jammy 0.8.1-1 all
 elpa-projectile/jammy 2.1.0-1 all
-elpa-protobuf-mode/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 all
+elpa-protobuf-mode/jammy-security 3.12.4-1ubuntu7.22.04.6 all
 elpa-ps-ccrypt/jammy 1.11-2 all
 elpa-puppet-mode/jammy 0.4-2 all
 elpa-py-autopep8/jammy 2016.1-3 all
@@ -9809,7 +9809,7 @@ gis-web/jammy 0.0.20 all
 gis-workstation/jammy 0.0.20 all
 gist/jammy 6.0.0-2 all
 git-absorb/jammy 0.6.6-2build2 amd64
-git-all/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-all/jammy-security 1:2.34.1-1ubuntu1.16 all
 git-annex-remote-rclone/jammy 0.6-1 all
 git-annex/jammy 8.20210223-2ubuntu2 amd64
 git-autofixup/jammy 0.003001-2 all
@@ -9821,26 +9821,26 @@ git-bump/jammy 1.1.0-2 all
 git-cola/jammy 3.12.0-1 all
 git-crecord/jammy 20201025.0-1 all
 git-crypt/jammy 0.6.0-1ubuntu1 amd64
-git-cvs/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
-git-daemon-run/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
-git-daemon-sysvinit/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-cvs/jammy-security 1:2.34.1-1ubuntu1.16 all
+git-daemon-run/jammy-security 1:2.34.1-1ubuntu1.16 all
+git-daemon-sysvinit/jammy-security 1:2.34.1-1ubuntu1.16 all
 git-debpush/jammy 9.15 all
 git-debrebase/jammy 9.15 all
-git-doc/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-doc/jammy-security 1:2.34.1-1ubuntu1.16 all
 git-dpm/jammy 0.10.0-1.1 all
-git-email/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-email/jammy-security 1:2.34.1-1ubuntu1.16 all
 git-evtag-tests/jammy 2016.1-2 all
 git-evtag/jammy 2016.1-2 amd64
 git-extras/jammy 6.1.0-1 all
 git-filter-repo/jammy 2.34.0-1 all
 git-flow/jammy 1.12.3-3 all
 git-ftp/jammy 1.6.0+dfsg-1 all
-git-gui/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-gui/jammy-security 1:2.34.1-1ubuntu1.16 all
 git-hub/jammy 2.1.3-1 all
 git-imerge/jammy 1.2.0-3 all
 git-lfs/jammy-updates,jammy-security 3.0.2-1ubuntu0.3 amd64
-git-man/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.15 all [installed,automatic]
-git-mediawiki/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-man/jammy-security,now 1:2.34.1-1ubuntu1.16 all [installed,automatic]
+git-mediawiki/jammy-security 1:2.34.1-1ubuntu1.16 all
 git-merge-changelog/jammy 20210822~d383792-1 amd64
 git-phab/jammy 2.9.0~git20170531+6877964-2 all
 git-publish/jammy 1.6.0-1 all
@@ -9856,9 +9856,9 @@ git-revise/jammy 0.6.0-2 all
 git-secret/jammy 0.4.0-1 all
 git-secrets/jammy 1.3.0-4 all
 git-sizer/jammy 1.3.0+dfsg-1build2 amd64
-git-svn/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+git-svn/jammy-security 1:2.34.1-1ubuntu1.16 all
 git2cl/jammy 1:2.0+git20120920-3 all
-git/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.15 amd64 [installed]
+git/jammy-security,now 1:2.34.1-1ubuntu1.16 amd64 [installed]
 gita/jammy 0.16.2-1 all
 gitbatch/jammy-updates,jammy-security 0.5.0-3ubuntu0.22.04.3 amd64
 gitbrute/jammy 0~12-4 amd64
@@ -9866,7 +9866,7 @@ gitg/jammy 41-2 amd64
 github-backup/jammy 1.20200721-2build1 amd64
 gitinspector/jammy 0.4.4+dfsg-11 all
 gitit/jammy 0.13.0.0+dfsg-2build5 amd64
-gitk/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+gitk/jammy-security 1:2.34.1-1ubuntu1.16 all
 gitlab-cli/jammy 1:2.10.1-2 all
 gitlab-rulez/jammy 0.0~git20220111.6a67fc5-1 all
 gitlab-shell/jammy-updates,jammy-security 13.19.1-2ubuntu0.20.04.3 amd64
@@ -9878,7 +9878,7 @@ gitolite3/jammy 3.6.12-1 all
 gitpkg/jammy 0.30 all
 gitso/jammy 0.6.2+svn158+dfsg-4 all
 gitsome/jammy 0.8.0+ds-6ubuntu1 all
-gitweb/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.15 all
+gitweb/jammy-security 1:2.34.1-1ubuntu1.16 all
 givaro-dev-doc/jammy 4.2.0-1 all
 givaro-user-doc/jammy 4.2.0-1 all
 giza-dev/jammy 1.3.1-1 amd64
@@ -35644,14 +35644,14 @@ libproperties-cpp-doc/jammy 0.0.2-6 all
 libproperties-maven-plugin-java/jammy 1.0.0-2 all
 libprotobuf-c-dev/jammy-updates,jammy-security 1.3.3-1ubuntu2.1 amd64
 libprotobuf-c1/jammy-updates,jammy-security 1.3.3-1ubuntu2.1 amd64
-libprotobuf-dev/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
+libprotobuf-dev/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
 libprotobuf-java-format-java/jammy 1.3-1.1 all
-libprotobuf-java/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 all
-libprotobuf-lite23/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
+libprotobuf-java/jammy-security 3.12.4-1ubuntu7.22.04.6 all
+libprotobuf-lite23/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
 libprotobuf2-java/jammy 2.6.1-4 all
-libprotobuf23/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
-libprotoc-dev/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
-libprotoc23/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
+libprotobuf23/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
+libprotoc-dev/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
+libprotoc23/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
 libprotocol-http2-perl/jammy 1.10-1 all
 libprotocol-irc-perl/jammy 0.13-1 all
 libprotocol-osc-perl/jammy 0.09-1 all
@@ -95223,7 +95223,7 @@ protobuf-c-compiler/jammy-updates,jammy-security 1.3.3-1ubuntu2.1 amd64
 protobuf-codegen/jammy 2.25.2-1 amd64
 protobuf-compiler-grpc-java-plugin/jammy 1.26.0+ds-1 amd64
 protobuf-compiler-grpc/jammy 1.30.2-3build6 amd64
-protobuf-compiler/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
+protobuf-compiler/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
 protoc-gen-go/jammy-updates,jammy-security 1.27.1-1ubuntu0.1 amd64
 protoc-gen-yarpc/jammy 0.0.1-1build2 amd64
 proton-caller/jammy 3.0.1-2 amd64
@@ -98934,7 +98934,7 @@ python3-prompt-toolkit/jammy 3.0.28-1 all
 python3-proselint/jammy 0.10.2-2 all
 python3-protego/jammy 0.2.1+dfsg-1 all
 python3-protobix/jammy 1.0.2-8 all
-python3-protobuf/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
+python3-protobuf/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
 python3-prov/jammy 2.0.0-2 all
 python3-proxmoxer/jammy 1.2.0-2 all
 python3-psautohint/jammy 2.3.0-1build1 amd64
@@ -103561,7 +103561,7 @@ ruby-gon/jammy 6.4.0-2 all
 ruby-google-api-client/jammy 0.50.0-2 all
 ruby-google-cloud-core/jammy 1.2.0-2 all
 ruby-google-cloud-env/jammy 1.3.2-1 all
-ruby-google-protobuf/jammy-updates,jammy-security 3.12.4-1ubuntu7.22.04.4 amd64
+ruby-google-protobuf/jammy-security 3.12.4-1ubuntu7.22.04.6 amd64
 ruby-googleapis-common-protos-types/jammy 1.0.5-2 all
 ruby-googleauth/jammy 0.13.0-3 all
 ruby-googlecharts/jammy 1.6.12-1 all
