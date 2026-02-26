@@ -1337,7 +1337,7 @@ yarn list v1.22.22
 │  ├─ @tanstack/react-virtual@^3.0.0-beta.60
 │  └─ client-only@^0.0.1
 ├─ @heroicons/react@1.0.6
-├─ @ioredis/commands@1.5.0
+├─ @ioredis/commands@1.5.1
 ├─ @isaacs/cliui@8.0.2
 │  ├─ ansi-regex@6.2.2
 │  ├─ ansi-styles@6.2.3
@@ -1350,8 +1350,8 @@ yarn list v1.22.22
 │  │  └─ strip-ansi@^7.0.1
 │  ├─ strip-ansi-cjs@npm:strip-ansi@^6.0.1
 │  ├─ strip-ansi@^7.0.1
-│  ├─ strip-ansi@7.1.2
-│  │  └─ ansi-regex@^6.0.1
+│  ├─ strip-ansi@7.2.0
+│  │  └─ ansi-regex@^6.2.2
 │  ├─ wrap-ansi-cjs@npm:wrap-ansi@^7.0.0
 │  ├─ wrap-ansi@^8.1.0
 │  └─ wrap-ansi@8.1.0
@@ -3299,6 +3299,7 @@ yarn list v1.22.22
 │  │  └─ has-flag@^4.0.0
 │  └─ underscore@^1.13.7
 ├─ @steedos/metadata-registrar@3.0.12
+│  ├─ @ioredis/commands@1.5.0
 │  ├─ @salesforce/ts-types@1.1.2
 │  ├─ @steedos/client@3.0.12
 │  ├─ @steedos/metadata-core@3.0.12
@@ -5568,6 +5569,7 @@ yarn list v1.22.22
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
 ├─ bullmq@5.70.1
+│  ├─ @ioredis/commands@1.5.0
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
 │  ├─ ioredis@5.9.3
