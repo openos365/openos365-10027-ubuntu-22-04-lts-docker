@@ -1725,7 +1725,7 @@ yarn list v1.22.22
 │  ├─ @opentelemetry/core@2.2.0
 │  ├─ @opentelemetry/resources@2.2.0
 │  └─ @opentelemetry/semantic-conventions@^1.29.0
-├─ @opentelemetry/semantic-conventions@1.39.0
+├─ @opentelemetry/semantic-conventions@1.40.0
 ├─ @panva/hkdf@1.2.1
 ├─ @paralleldrive/cuid2@2.3.1
 │  └─ @noble/hashes@^1.1.5
@@ -1763,7 +1763,7 @@ yarn list v1.22.22
 │  ├─ shebang-regex@3.0.0
 │  └─ which@2.0.2
 │     └─ isexe@^2.0.0
-├─ @posthog/types@1.354.3
+├─ @posthog/types@1.354.4
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.4
@@ -10779,7 +10779,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.354.3
+├─ posthog-js@1.354.4
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.5.1
@@ -10791,7 +10791,7 @@ yarn list v1.22.22
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
 │  ├─ @posthog/core@1.23.1
-│  ├─ @posthog/types@1.354.3
+│  ├─ @posthog/types@1.354.4
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.48.0
 │  ├─ dompurify@^3.3.1
