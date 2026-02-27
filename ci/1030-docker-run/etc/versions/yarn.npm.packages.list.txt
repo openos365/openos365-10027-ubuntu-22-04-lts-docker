@@ -3298,7 +3298,6 @@ yarn list v1.22.22
 │  │  └─ has-flag@^4.0.0
 │  └─ underscore@^1.13.7
 ├─ @steedos/metadata-registrar@3.0.12
-│  ├─ @ioredis/commands@1.5.0
 │  ├─ @salesforce/ts-types@1.1.2
 │  ├─ @steedos/client@3.0.12
 │  ├─ @steedos/metadata-core@3.0.12
@@ -3326,8 +3325,8 @@ yarn list v1.22.22
 │  ├─ ini@^2.0.0
 │  ├─ ini@2.0.0
 │  ├─ ioredis@^5.3.2
-│  ├─ ioredis@5.9.3
-│  │  ├─ @ioredis/commands@1.5.0
+│  ├─ ioredis@5.10.0
+│  │  ├─ @ioredis/commands@1.5.1
 │  │  ├─ cluster-key-slot@^1.1.0
 │  │  ├─ debug@^4.3.4
 │  │  ├─ denque@^2.1.0
