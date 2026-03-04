@@ -14524,7 +14524,7 @@ intel-hdcp/jammy 20.3.0-1build1 amd64
 intel-ipu6-dkms/jammy-updates,jammy-security 0~git202211220708.278b7e3d-0ubuntu0.22.04.1 amd64
 intel-media-va-driver-non-free/jammy-updates 22.3.1+ds1-1ubuntu0.1 amd64
 intel-media-va-driver/jammy-updates 22.3.1+dfsg1-1ubuntu2 amd64
-intel-microcode/jammy-updates,jammy-security 3.20250812.0ubuntu0.22.04.1 amd64
+intel-microcode/jammy-updates,jammy-security 3.20260210.0ubuntu0.22.04.1 amd64
 intel-mkl-cluster/jammy 2020.4.304-2ubuntu3 amd64
 intel-mkl-doc/jammy 2020.4.304-2ubuntu3 all
 intel-mkl-full/jammy 2020.4.304-2ubuntu3 amd64
@@ -98689,7 +98689,7 @@ python3-neutron-taas/jammy 8.0.0+git2022011308.c9d0468-0ubuntu1 all
 python3-neutron-vpnaas-dashboard/jammy 5.0.0-1 all
 python3-neutron-vpnaas/jammy-updates 2:20.0.1-0ubuntu1 all
 python3-neutron/jammy-updates 2:20.5.0-0ubuntu2.1 all
-python3-neutronclient/jammy 1:7.8.0-0ubuntu1 all
+python3-neutronclient/jammy-updates 1:7.8.0-0ubuntu1.1 all
 python3-newt/jammy 0.52.21-5ubuntu2 amd64
 python3-nfs-ganesha/jammy-updates 3.5-1ubuntu1 all
 python3-nftables/jammy-updates 1.0.2-1ubuntu3 amd64

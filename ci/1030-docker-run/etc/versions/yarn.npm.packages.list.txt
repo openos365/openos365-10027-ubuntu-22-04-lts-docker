@@ -1763,7 +1763,7 @@ yarn list v1.22.22
 │  ├─ shebang-regex@3.0.0
 │  └─ which@2.0.2
 │     └─ isexe@^2.0.0
-├─ @posthog/types@1.357.2
+├─ @posthog/types@1.358.0
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.4
@@ -6307,7 +6307,7 @@ yarn list v1.22.22
 │  ├─ es5-ext@^0.10.64
 │  └─ type@^2.7.2
 ├─ d3-array@1.2.4
-├─ d3-cloud@1.2.8
+├─ d3-cloud@1.2.9
 │  └─ d3-dispatch@^1.0.3
 ├─ d3-collection@1.0.7
 ├─ d3-color@1.4.1
@@ -10778,19 +10778,19 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.357.2
+├─ posthog-js@1.358.0
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
-│  ├─ @opentelemetry/core@2.5.1
+│  ├─ @opentelemetry/core@2.6.0
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/exporter-logs-otlp-http@^0.208.0
 │  ├─ @opentelemetry/resources@^2.2.0
-│  ├─ @opentelemetry/resources@2.5.1
-│  │  ├─ @opentelemetry/core@2.5.1
+│  ├─ @opentelemetry/resources@2.6.0
+│  │  ├─ @opentelemetry/core@2.6.0
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
 │  ├─ @posthog/core@1.23.2
-│  ├─ @posthog/types@1.357.2
+│  ├─ @posthog/types@1.358.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.48.0
 │  ├─ dompurify@^3.3.1
@@ -13001,7 +13001,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.31.1
+├─ systeminformation@5.31.2
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
