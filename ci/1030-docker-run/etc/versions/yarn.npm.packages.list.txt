@@ -12389,7 +12389,7 @@ yarn list v1.22.22
 │  ├─ no-case@^2.2.0
 │  └─ upper-case-first@^1.1.2
 ├─ sequelize-pool@7.1.0
-├─ sequelize@6.37.7
+├─ sequelize@6.37.8
 │  ├─ @types/debug@^4.1.8
 │  ├─ @types/validator@^13.7.17
 │  ├─ debug@^4.3.4
