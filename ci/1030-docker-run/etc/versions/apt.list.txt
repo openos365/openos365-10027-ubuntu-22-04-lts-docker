@@ -516,15 +516,15 @@ aom-tools/jammy-updates,jammy-security 3.3.0-1ubuntu0.1 amd64
 aosd-cat/jammy 0.2.7-1.1ubuntu2 amd64
 ap-utils/jammy 1.5-5 amd64
 ap51-flash/jammy 2019.0.1-3 amd64
-apache2-bin/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
-apache2-data/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 all
-apache2-dev/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
-apache2-doc/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 all
-apache2-ssl-dev/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
-apache2-suexec-custom/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
-apache2-suexec-pristine/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
-apache2-utils/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
-apache2/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
+apache2-bin/jammy-security 2.4.52-1ubuntu4.19 amd64
+apache2-data/jammy-security 2.4.52-1ubuntu4.19 all
+apache2-dev/jammy-security 2.4.52-1ubuntu4.19 amd64
+apache2-doc/jammy-security 2.4.52-1ubuntu4.19 all
+apache2-ssl-dev/jammy-security 2.4.52-1ubuntu4.19 amd64
+apache2-suexec-custom/jammy-security 2.4.52-1ubuntu4.19 amd64
+apache2-suexec-pristine/jammy-security 2.4.52-1ubuntu4.19 amd64
+apache2-utils/jammy-security 2.4.52-1ubuntu4.19 amd64
+apache2/jammy-security 2.4.52-1ubuntu4.19 amd64
 apacheds/jammy 2.0.0~M24-4 all
 apachetop/jammy 0.19.7-3 amd64
 apbs-data/jammy 3.0.0+dfsg1-3build2 all
@@ -14245,7 +14245,7 @@ ideviceinstaller/jammy 1.1.1-1build1 amd64
 idevicerestore/jammy 1.0.0-3build2 amd64
 idl-font-lock-el/jammy 1.5-11 all
 idle-python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 all
-idle-python3.10/jammy-security 3.10.12-1~22.04.15 all
+idle-python3.10/jammy-updates,jammy-security 3.10.12-1~22.04.15 all
 idle-python3.11/jammy-updates 3.11.0~rc1-1~22.04 all
 idle3-tools/jammy 0.9.1-6 amd64
 idle3/jammy-updates 3.10.6-1~22.04.1 all
@@ -17446,7 +17446,7 @@ libapache2-mod-log-sql-ssl/jammy 1.100-16.3build2 amd64
 libapache2-mod-log-sql/jammy 1.100-16.3build2 amd64
 libapache2-mod-lookup-identity/jammy 1.0.0-1 amd64
 libapache2-mod-mapcache/jammy 1.12.0-1 amd64
-libapache2-mod-md/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
+libapache2-mod-md/jammy-security 2.4.52-1ubuntu4.19 amd64
 libapache2-mod-mime-xattr/jammy 0.4-6 amd64
 libapache2-mod-mono/jammy 3.8-3 amd64
 libapache2-mod-musicindex/jammy 1.4.1-3.1 amd64
@@ -17461,7 +17461,7 @@ libapache2-mod-php7.4/jammy-updates,jammy-security 8.1.2-1ubuntu2.23 amd64
 libapache2-mod-php8.0/jammy-updates,jammy-security 8.1.2-1ubuntu2.23 amd64
 libapache2-mod-php8.1/jammy-updates,jammy-security 8.1.2-1ubuntu2.23 amd64
 libapache2-mod-php/jammy 2:8.1+92ubuntu1 all
-libapache2-mod-proxy-uwsgi/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64
+libapache2-mod-proxy-uwsgi/jammy-security 2.4.52-1ubuntu4.19 amd64
 libapache2-mod-python-doc/jammy-updates 3.5.0+git20211031-0ubuntu3 all
 libapache2-mod-python/jammy-updates 3.5.0+git20211031-0ubuntu3 amd64
 libapache2-mod-qos/jammy 11.63-1build1 amd64
@@ -35776,12 +35776,12 @@ libpython3-all-dev/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dev/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 libpython3-stdlib/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
-libpython3.10-dbg/jammy-security 3.10.12-1~22.04.15 amd64
-libpython3.10-dev/jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
-libpython3.10-minimal/jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
-libpython3.10-stdlib/jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
-libpython3.10-testsuite/jammy-security 3.10.12-1~22.04.15 all
-libpython3.10/jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
+libpython3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.15 amd64
+libpython3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
+libpython3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
+libpython3.10-stdlib/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
+libpython3.10-testsuite/jammy-updates,jammy-security 3.10.12-1~22.04.15 all
+libpython3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
 libpython3.11-dbg/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-dev/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-minimal/jammy-updates 3.11.0~rc1-1~22.04 amd64
@@ -100591,15 +100591,15 @@ python3-zunclient/jammy 4.4.0-0ubuntu1 all
 python3-zvmcloudconnector/jammy 2.0.0~b1~git2019062011.4fc9142.really.1.4.1-0ubuntu3 all
 python3-zxcvbn/jammy 4.4.28-2 all
 python3-zzzeeksphinx/jammy 1.3.2-1 all
-python3.10-dbg/jammy-security 3.10.12-1~22.04.15 amd64
-python3.10-dev/jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
-python3.10-doc/jammy-security 3.10.12-1~22.04.15 all
-python3.10-examples/jammy-security 3.10.12-1~22.04.15 all
-python3.10-full/jammy-security 3.10.12-1~22.04.15 amd64
-python3.10-minimal/jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
-python3.10-nopie/jammy-security 3.10.12-1~22.04.15 amd64
-python3.10-venv/jammy-security 3.10.12-1~22.04.15 amd64
-python3.10/jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
+python3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.15 amd64
+python3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
+python3.10-doc/jammy-updates,jammy-security 3.10.12-1~22.04.15 all
+python3.10-examples/jammy-updates,jammy-security 3.10.12-1~22.04.15 all
+python3.10-full/jammy-updates,jammy-security 3.10.12-1~22.04.15 amd64
+python3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
+python3.10-nopie/jammy-updates,jammy-security 3.10.12-1~22.04.15 amd64
+python3.10-venv/jammy-updates,jammy-security 3.10.12-1~22.04.15 amd64
+python3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
 python3.11-dbg/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-dev/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-doc/jammy-updates 3.11.0~rc1-1~22.04 all
