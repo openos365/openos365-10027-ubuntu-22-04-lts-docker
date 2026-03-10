@@ -33113,8 +33113,8 @@ libnfs13/jammy 4.0.0-1build2 amd64
 libnfsidmap-dev/jammy-updates 1:2.6.1-1ubuntu1.2 amd64
 libnfsidmap-regex/jammy 1.2-1build1 amd64
 libnfsidmap1/jammy-updates 1:2.6.1-1ubuntu1.2 amd64
-libnftables-dev/jammy-updates 1.0.2-1ubuntu3 amd64
-libnftables1/jammy-updates 1.0.2-1ubuntu3 amd64
+libnftables-dev/jammy-updates 1.0.2-1ubuntu3.1 amd64
+libnftables1/jammy-updates 1.0.2-1ubuntu3.1 amd64
 libnftnl-dev-doc/jammy 1.2.1-1build1 all
 libnftnl-dev/jammy 1.2.1-1build1 amd64
 libnftnl11/jammy 1.2.1-1build1 amd64
@@ -90030,7 +90030,7 @@ nfs4-acl-tools/jammy 0.3.7-1 amd64
 nfstrace-doc/jammy 0.4.3.2+git20200805+b220d04-2.2 all
 nfstrace/jammy 0.4.3.2+git20200805+b220d04-2.2 amd64
 nfswatch/jammy 4.99.11-9 amd64
-nftables/jammy-updates 1.0.2-1ubuntu3 amd64
+nftables/jammy-updates 1.0.2-1ubuntu3.1 amd64
 nftlb/jammy 0.6-1 amd64
 ng-cjk-canna/jammy 1.5~beta1-10 amd64
 ng-cjk/jammy 1.5~beta1-10 amd64
@@ -98638,7 +98638,7 @@ python3-neutron/jammy-updates 2:20.5.0-0ubuntu2.1 all
 python3-neutronclient/jammy-updates 1:7.8.0-0ubuntu1.1 all
 python3-newt/jammy 0.52.21-5ubuntu2 amd64
 python3-nfs-ganesha/jammy-updates 3.5-1ubuntu1 all
-python3-nftables/jammy-updates 1.0.2-1ubuntu3 amd64
+python3-nftables/jammy-updates 1.0.2-1ubuntu3.1 amd64
 python3-ngs/jammy 2.11.2-3 amd64
 python3-nibabel/jammy 3.2.2-1 all
 python3-nine/jammy 1.1.0-1 all

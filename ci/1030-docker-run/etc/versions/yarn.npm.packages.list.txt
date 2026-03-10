@@ -10856,7 +10856,7 @@ yarn list v1.22.22
 │  ├─ prosemirror-state@^1.0.0
 │  ├─ prosemirror-transform@^1.1.0
 │  └─ prosemirror-view@^1.1.0
-├─ prosemirror-gapcursor@1.4.0
+├─ prosemirror-gapcursor@1.4.1
 │  ├─ prosemirror-keymap@^1.0.0
 │  ├─ prosemirror-model@^1.0.0
 │  ├─ prosemirror-state@^1.0.0
