@@ -89923,8 +89923,8 @@ network-manager-l2tp-gnome/jammy 1.20.0-1build2 amd64
 network-manager-l2tp/jammy 1.20.0-1build2 amd64
 network-manager-openconnect-gnome/jammy 1.2.6-4 amd64
 network-manager-openconnect/jammy 1.2.6-4 amd64
-network-manager-openvpn-gnome/jammy-updates 1.8.18-1ubuntu0.1 amd64
-network-manager-openvpn/jammy-updates 1.8.18-1ubuntu0.1 amd64
+network-manager-openvpn-gnome/jammy-updates 1.8.18-1ubuntu0.2 amd64
+network-manager-openvpn/jammy-updates 1.8.18-1ubuntu0.2 amd64
 network-manager-pptp-gnome/jammy 1.2.10-1 amd64
 network-manager-pptp/jammy 1.2.10-1 amd64
 network-manager-ssh-gnome/jammy 1.2.11-1 amd64
