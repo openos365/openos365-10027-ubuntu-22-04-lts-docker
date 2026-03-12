@@ -4631,7 +4631,7 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.4
 │     └─ brace-expansion@^5.0.2
 ├─ @types/ms@2.1.0
-├─ @types/node@25.4.0
+├─ @types/node@25.5.0
 │  └─ undici-types@~7.18.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -10924,8 +10924,6 @@ yarn list v1.22.22
 │  ├─ @protobufjs/pool@^1.1.0
 │  ├─ @protobufjs/utf8@^1.1.0
 │  ├─ @types/node@>=13.7.0
-│  ├─ @types/node@25.5.0
-│  │  └─ undici-types@~7.18.0
 │  ├─ long@^5.0.0
 │  └─ long@5.3.2
 ├─ protocol-buffers-schema@3.6.0
@@ -13112,12 +13110,8 @@ yarn list v1.22.22
 │  ├─ @azure/keyvault-keys@^4.4.0
 │  ├─ @js-joda/core@^5.6.1
 │  ├─ @types/node@>=18
-│  ├─ @types/node@25.5.0
-│  │  └─ undici-types@~7.18.0
 │  ├─ @types/readable-stream@4.0.23
-│  │  ├─ @types/node@*
-│  │  └─ @types/node@25.4.0
-│  │     └─ undici-types@~7.18.0
+│  │  └─ @types/node@*
 │  ├─ bl@^6.0.11
 │  ├─ bl@6.1.6
 │  │  ├─ @types/readable-stream@^4.0.0
