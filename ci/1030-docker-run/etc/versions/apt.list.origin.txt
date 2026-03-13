@@ -1919,13 +1919,13 @@ brz/jammy 3.2.1+bzr7585-1build1 all
 bs1770gain/jammy 0.8.3-2.1 amd64
 bs2b-ladspa/jammy 0.9.1-3ubuntu1 amd64
 bsd-mailx/jammy 8.1.2-0.20180807cvs-2build2 amd64
-bsdextrautils/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installed,automatic]
+bsdextrautils/jammy-security,now 2.37.2-4ubuntu3.5 amd64 [installed,automatic]
 bsdgames-nonfree/jammy 2.17-9build1 amd64
 bsdgames/jammy 2.17-29 amd64
 bsdiff/jammy 4.3-23 amd64
 bsdmainutils/jammy,now 12.1.7+nmu3ubuntu2 all [installed]
 bsdowl/jammy 2.2.2-1.2 all
-bsdutils/jammy-updates,jammy-security,now 1:2.37.2-4ubuntu3.4 amd64 [installed]
+bsdutils/jammy-security,now 1:2.37.2-4ubuntu3.5 amd64 [installed]
 bsequencer/jammy 1.8.10-0ubuntu1 amd64
 bsfilter/jammy-updates 1:1.0.19-2.1ubuntu0.1 all
 bsh-doc/jammy 2.0b4-20 all
@@ -5237,7 +5237,7 @@ ejabberd-mod-spam-filter/jammy 0.2021.11.25~dfsg0-1 amd64
 ejabberd-mod-statsdx/jammy 0.2021.11.25~dfsg0-1 amd64
 ejabberd-mod-webpresence/jammy 0.2021.11.25~dfsg0-1 amd64
 ejabberd/jammy 21.12-1 amd64
-eject/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
+eject/jammy-security 2.37.2-4ubuntu3.5 amd64
 ekeyd-egd-linux/jammy 1.1.5-6.2 amd64
 ekeyd/jammy 1.1.5-6.2 amd64
 el-get/jammy 3.1-1.1 all
@@ -6327,7 +6327,7 @@ fdb5/jammy 5.10.2-1 amd64
 fdclock/jammy 0.1.0+git.20060122-0ubuntu4 amd64
 fdclone/jammy 3.01j-1 amd64
 fdflush/jammy 1.0.1.3build1 amd64
-fdisk/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
+fdisk/jammy-security 2.37.2-4ubuntu3.5 amd64
 fdkaac/jammy 1.0.0-1build1 amd64
 fdm-materials/jammy 4.13.0-1 all
 fdm/jammy 1.9+git20181219-1build1 amd64
@@ -18303,8 +18303,8 @@ libbliss2/jammy 0.73-5 amd64
 libblitz-doc/jammy 1:1.0.2+ds-2 all
 libblitz0-dev/jammy 1:1.0.2+ds-2 amd64
 libblitz0v5/jammy 1:1.0.2+ds-2 amd64
-libblkid-dev/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
-libblkid1/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installed]
+libblkid-dev/jammy-security 2.37.2-4ubuntu3.5 amd64
+libblkid1/jammy-security,now 2.37.2-4ubuntu3.5 amd64 [installed]
 libblkmaker-0.1-6/jammy 0.5.3-1 amd64
 libblkmaker-0.1-dev/jammy 0.5.3-1 amd64
 libblockdev-btrfs-dev/jammy-updates,jammy-security 2.26-1ubuntu0.1 amd64
@@ -22026,8 +22026,8 @@ libfcml0/jammy 1.2.2-2 amd64
 libfdb5-0d/jammy 5.10.2-1 amd64
 libfdb5-dev/jammy 5.10.2-1 amd64
 libfdcore6/jammy 1.2.1-8build1 amd64
-libfdisk-dev/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
-libfdisk1/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
+libfdisk-dev/jammy-security 2.37.2-4ubuntu3.5 amd64
+libfdisk1/jammy-security 2.37.2-4ubuntu3.5 amd64
 libfdk-aac-dev/jammy 2.0.2-1 amd64
 libfdk-aac2/jammy 2.0.2-1 amd64
 libfdkaac-ocaml-dev/jammy 0.3.2-1build2 amd64
@@ -32219,8 +32219,8 @@ libmosquittopp-dev/jammy-updates,jammy-security 2.0.11-1ubuntu1.2 amd64
 libmosquittopp1/jammy-updates,jammy-security 2.0.11-1ubuntu1.2 amd64
 libmotif-common/jammy 2.3.8-3 all
 libmotif-dev/jammy 2.3.8-3 amd64
-libmount-dev/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
-libmount1/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installed]
+libmount-dev/jammy-security 2.37.2-4ubuntu3.5 amd64
+libmount1/jammy-security,now 2.37.2-4ubuntu3.5 amd64 [installed]
 libmouse-perl/jammy 2.5.10-1build4 amd64
 libmousepad-dev/jammy 0.5.8-1 amd64
 libmousepad0/jammy 0.5.8-1 amd64
@@ -39222,8 +39222,8 @@ libsmart-comments-perl/jammy 1.06-1 all
 libsmartcardpp-dev/jammy 0.3.0-0ubuntu9 amd64
 libsmartcardpp1-dbg/jammy 0.3.0-0ubuntu9 amd64
 libsmartcardpp1/jammy 0.3.0-0ubuntu9 amd64
-libsmartcols-dev/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
-libsmartcols1/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installed]
+libsmartcols-dev/jammy-security 2.37.2-4ubuntu3.5 amd64
+libsmartcols1/jammy-security,now 2.37.2-4ubuntu3.5 amd64 [installed]
 libsmbclient-dev/jammy-updates,jammy-security 2:4.15.13+dfsg-0ubuntu1.10 amd64
 libsmbclient/jammy-updates,jammy-security 2:4.15.13+dfsg-0ubuntu1.10 amd64
 libsmbios-c2/jammy 2.4.3-1build1 amd64
@@ -41733,7 +41733,7 @@ libuu0/jammy 0.5.20-13 amd64
 libuuid-perl/jammy 0.28-1build4 amd64
 libuuid-tiny-perl/jammy 1.0400-2 all
 libuuid-urandom-perl/jammy 0.001-1.1 all
-libuuid1/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installed]
+libuuid1/jammy-security,now 2.37.2-4ubuntu3.5 amd64 [installed]
 libuuidm-ocaml-dev/jammy 0.9.7-1build3 amd64
 libuutf-ocaml-dev/jammy 1.0.3-1 amd64
 libuutf-ocaml-doc/jammy 1.0.3-1 all
@@ -89211,7 +89211,7 @@ most/jammy 5.0.0a-4 amd64
 motd-news-config/jammy-updates 12ubuntu4.7 all
 mothur/jammy 1.47.0-1 amd64
 motion/jammy-updates 4.3.2-1ubuntu0.1 amd64
-mount/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installed]
+mount/jammy-security,now 2.37.2-4ubuntu3.5 amd64 [installed]
 mountpy/jammy 0.9 amd64
 mousepad/jammy 0.5.8-1 amd64
 mousetrap/jammy 1.0c-2build1 amd64
@@ -93092,11 +93092,11 @@ opensmtpd-filter-senderscore/jammy 0.1.1-2build1 amd64
 opensmtpd/jammy 6.8.0p2-4build1 amd64
 opensp/jammy 1.5.2-13ubuntu3 amd64
 openssh-client-ssh1/jammy 1:7.5p1-13 amd64
-openssh-client/jammy-updates,jammy-security,now 1:8.9p1-3ubuntu0.13 amd64 [installed,automatic]
+openssh-client/jammy-security,now 1:8.9p1-3ubuntu0.14 amd64 [installed,automatic]
 openssh-known-hosts/jammy 0.6.2-1.1 all
-openssh-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.13 amd64
-openssh-sftp-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.13 amd64
-openssh-tests/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.13 amd64
+openssh-server/jammy-security 1:8.9p1-3ubuntu0.14 amd64
+openssh-sftp-server/jammy-security 1:8.9p1-3ubuntu0.14 amd64
+openssh-tests/jammy-security 1:8.9p1-3ubuntu0.14 amd64
 openssl/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.21 amd64 [installed,automatic]
 openssn-data/jammy 1.4-3build1 all
 openssn/jammy 1.4-3build1 amd64
@@ -95842,7 +95842,7 @@ python-cookiecutter-doc/jammy 1.7.3-1 all
 python-cotyledon-doc/jammy 1.7.3-2 all
 python-coverage-doc/jammy 6.2+dfsg1-2build1 all
 python-cppy-doc/jammy 1.1.0-2 all
-python-cryptography-doc/jammy-security 3.4.8-1ubuntu2.3 all
+python-cryptography-doc/jammy-updates,jammy-security 3.4.8-1ubuntu2.3 all
 python-cssselect2-doc/jammy 0.4.1-2 all
 python-cursive-doc/jammy 0.2.2-4 all
 python-cvxopt-doc/jammy 1.2.7+dfsg-2build2 all
@@ -97133,7 +97133,7 @@ python3-croniter/jammy 1.0.15-2ubuntu1 all
 python3-crontab/jammy 2.6.0-1 all
 python3-crossrefapi/jammy 1.5.0-2 all
 python3-cryptography-vectors/jammy 3.4.8-1 all
-python3-cryptography/jammy-security 3.4.8-1ubuntu2.3 amd64
+python3-cryptography/jammy-updates,jammy-security 3.4.8-1ubuntu2.3 amd64
 python3-cryptominisat/jammy 5.8.0+dfsg1-2 amd64
 python3-cs/jammy 2.7.1-1 all
 python3-csa/jammy 0.1.12-1.1 amd64
@@ -102851,7 +102851,7 @@ rexical/jammy 1.0.7-1 all
 rexima/jammy 1.4-8build1 amd64
 rfcdiff/jammy 1.45-1.1 all
 rfdump/jammy 1.6-8 amd64
-rfkill/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
+rfkill/jammy-security 2.37.2-4ubuntu3.5 amd64
 rgbpaint/jammy 0.8.7-6.1build1 amd64
 rgpio-tools/jammy 0.1.6.1-0ubuntu3 amd64
 rgpiod/jammy 0.1.6.1-0ubuntu3 amd64
@@ -106049,7 +106049,7 @@ ssed/jammy 3.62-8 amd64
 ssft/jammy 0.9.17+nmu1 all
 ssh-agent-filter/jammy 0.5.2-1build4 amd64
 ssh-askpass-fullscreen/jammy 0.3-3.1build2 amd64
-ssh-askpass-gnome/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.13 amd64
+ssh-askpass-gnome/jammy-security 1:8.9p1-3ubuntu0.14 amd64
 ssh-askpass/jammy 1:1.2.4.1-13 amd64
 ssh-audit/jammy 2.5.0-1 all
 ssh-contact-client/jammy 0.7-1.1 amd64
@@ -106058,7 +106058,7 @@ ssh-contact/jammy 0.7-1.1 all
 ssh-cron/jammy 1.03.00-1 amd64
 ssh-import-id/jammy 5.11-0ubuntu1 all
 ssh-tools/jammy 1.7-2 all
-ssh/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.13 all
+ssh/jammy-security 1:8.9p1-3ubuntu0.14 all
 sshcommand/jammy 0~20160110.1~2795f65-1.1 all
 sshesame/jammy-updates,jammy-security 0.0~git20210926.d7fdb81-1ubuntu0.22.04.1 amd64
 sshfs/jammy 3.7.1+repack-2 amd64
@@ -106299,8 +106299,8 @@ suck/jammy 4.3.4-1build1 amd64
 suckless-tools/jammy 46-1 amd64
 sucrack/jammy 1.2.3-6 amd64
 sucrose/jammy 0.118-2 all
-sudo-ldap/jammy-updates,jammy-security 1.9.9-1ubuntu2.5 amd64
-sudo/jammy-updates,jammy-security,now 1.9.9-1ubuntu2.5 amd64 [installed]
+sudo-ldap/jammy-security 1.9.9-1ubuntu2.6 amd64
+sudo/jammy-security,now 1.9.9-1ubuntu2.6 amd64 [installed]
 sudoku-solver/jammy 1.0.1-3 amd64
 sudoku/jammy 1.0.5-2build3 amd64
 suffixfsm/jammy-updates,jammy-security 0.0~git20150829.56e4718-5ubuntu0.22.04.1 amd64
@@ -108687,16 +108687,16 @@ utf8gen/jammy 1.1-4 amd64
 utfcheck/jammy 1.2-3 amd64
 utfout/jammy 0.0.1-1build1 amd64
 uthash-dev/jammy 2.3.0-1 amd64
-util-linux-locales/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 all
-util-linux/jammy-updates,jammy-security,now 2.37.2-4ubuntu3.4 amd64 [installed]
+util-linux-locales/jammy-security 2.37.2-4ubuntu3.5 all
+util-linux/jammy-security,now 2.37.2-4ubuntu3.5 amd64 [installed]
 utop/jammy 2.9.0-1build3 amd64
 utox/jammy 0.18.1-1build1 amd64
 uuagc/jammy 0.9.52.2-3build1.1 amd64
 uucp/jammy 1.07-27build3 amd64
 uucpsend/jammy 1.1-5 amd64
 uudeview/jammy 0.5.20-13 amd64
-uuid-dev/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
-uuid-runtime/jammy-updates,jammy-security 2.37.2-4ubuntu3.4 amd64
+uuid-dev/jammy-security 2.37.2-4ubuntu3.5 amd64
+uuid-runtime/jammy-security 2.37.2-4ubuntu3.5 amd64
 uuid/jammy 1.6.2-1.5build9 amd64
 uuidcdef/jammy 0.3.13-10build1 amd64
 uuu/jammy 1.4.193-1 amd64
