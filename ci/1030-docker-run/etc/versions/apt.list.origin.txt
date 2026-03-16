@@ -4622,7 +4622,6 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
-dive/now 0.13.1 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -39587,11 +39586,11 @@ libss7-2.0/jammy 2.0.0-3 amd64
 libss7-dev/jammy 2.0.0-3 amd64
 libsscm-dev/jammy 0.9.1-1 amd64
 libsscm3/jammy 0.9.1-1 amd64
-libssh-4/jammy-security,now 0.9.6-2ubuntu0.22.04.7 amd64 [installed,automatic]
-libssh-dev/jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
-libssh-doc/jammy-security 0.9.6-2ubuntu0.22.04.7 all
-libssh-gcrypt-4/jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
-libssh-gcrypt-dev/jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
+libssh-4/jammy-updates,jammy-security,now 0.9.6-2ubuntu0.22.04.7 amd64 [installed,automatic]
+libssh-dev/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
+libssh-doc/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.7 all
+libssh-gcrypt-4/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
+libssh-gcrypt-dev/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
 libssh2-1-dev/jammy 1.10.0-3 amd64
 libssh2-1/jammy 1.10.0-3 amd64
 libssl-dev/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.21 amd64 [installed]
@@ -96539,7 +96538,7 @@ python-cookiecutter-doc/jammy 1.7.3-1 all
 python-cotyledon-doc/jammy 1.7.3-2 all
 python-coverage-doc/jammy 6.2+dfsg1-2build1 all
 python-cppy-doc/jammy 1.1.0-2 all
-python-cryptography-doc/jammy-security 3.4.8-1ubuntu2.4 all
+python-cryptography-doc/jammy-updates,jammy-security 3.4.8-1ubuntu2.4 all
 python-cssselect2-doc/jammy 0.4.1-2 all
 python-cursive-doc/jammy 0.2.2-4 all
 python-cvxopt-doc/jammy 1.2.7+dfsg-2build2 all
@@ -97830,7 +97829,7 @@ python3-croniter/jammy 1.0.15-2ubuntu1 all
 python3-crontab/jammy 2.6.0-1 all
 python3-crossrefapi/jammy 1.5.0-2 all
 python3-cryptography-vectors/jammy 3.4.8-1 all
-python3-cryptography/jammy-security 3.4.8-1ubuntu2.4 amd64
+python3-cryptography/jammy-updates,jammy-security 3.4.8-1ubuntu2.4 amd64
 python3-cryptominisat/jammy 5.8.0+dfsg1-2 amd64
 python3-cs/jammy 2.7.1-1 all
 python3-csa/jammy 0.1.12-1.1 amd64
