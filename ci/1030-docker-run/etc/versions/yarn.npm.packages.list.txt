@@ -6014,7 +6014,7 @@ yarn list v1.22.22
 ├─ copy-descriptor@0.1.1
 ├─ copy-to-clipboard@3.3.3
 │  └─ toggle-selection@^1.0.6
-├─ core-js-compat@3.48.0
+├─ core-js-compat@3.49.0
 │  └─ browserslist@^4.28.1
 ├─ core-js@2.6.12
 ├─ core-util-is@1.0.3
@@ -10792,7 +10792,7 @@ yarn list v1.22.22
 │  ├─ @posthog/core@1.23.4
 │  ├─ @posthog/types@1.360.2
 │  ├─ core-js@^3.38.1
-│  ├─ core-js@3.48.0
+│  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
 │  ├─ dompurify@3.3.3
 │  │  └─ @types/trusted-types@^2.0.7
@@ -11309,7 +11309,7 @@ yarn list v1.22.22
 │  └─ prop-types@^15.7.2
 ├─ react-app-polyfill@1.0.6
 │  ├─ core-js@^3.5.0
-│  ├─ core-js@3.48.0
+│  ├─ core-js@3.49.0
 │  ├─ object-assign@^4.1.1
 │  ├─ promise@^8.0.3
 │  ├─ promise@8.3.0
