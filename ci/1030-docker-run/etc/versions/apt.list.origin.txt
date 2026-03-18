@@ -3340,7 +3340,7 @@ coq-hierarchy-builder/jammy 1.2.1-2 amd64
 coq/jammy 8.15.0+dfsg-2 amd64
 coqide/jammy 8.15.0+dfsg-2 amd64
 corekeeper/jammy 1.7 amd64
-coreutils/jammy-updates,now 8.32-4.1ubuntu1.2 amd64 [installed]
+coreutils/jammy-updates,now 8.32-4.1ubuntu1.3 amd64 [installed]
 corkscrew/jammy 2.0-13 amd64
 corosync-doc/jammy-updates,jammy-security 3.1.6-1ubuntu1.1 all
 corosync-notifyd/jammy-updates,jammy-security 3.1.6-1ubuntu1.1 amd64
@@ -4622,7 +4622,6 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
-dive/now 0.13.1 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -6017,7 +6016,7 @@ exim4-doc-html/jammy 4.94.2-1 all
 exim4-doc-info/jammy 4.94.2-1 all
 exim4/jammy-updates,jammy-security 4.95-4ubuntu2.6 all
 eximon4/jammy-updates,jammy-security 4.95-4ubuntu2.6 amd64
-exiv2/jammy 0.27.5-3ubuntu1 amd64
+exiv2/jammy-security 0.27.5-3ubuntu1.1 amd64
 exmh/jammy 1:2.9.0-3 all
 exo-utils/jammy 4.16.3-1 amd64
 exonerate/jammy 2.4.0-5 amd64
@@ -21823,9 +21822,9 @@ libexif-gtk-dev/jammy 0.5.0-2build1 amd64
 libexif-gtk3-5/jammy 0.5.0-2build1 amd64
 libexif-gtk5/jammy 0.5.0-2build1 amd64
 libexif12/jammy 0.6.24-1build1 amd64
-libexiv2-27/jammy 0.27.5-3ubuntu1 amd64
-libexiv2-dev/jammy 0.27.5-3ubuntu1 amd64
-libexiv2-doc/jammy 0.27.5-3ubuntu1 all
+libexiv2-27/jammy-security 0.27.5-3ubuntu1.1 amd64
+libexiv2-dev/jammy-security 0.27.5-3ubuntu1.1 amd64
+libexiv2-doc/jammy-security 0.27.5-3ubuntu1.1 all
 libexo-2-0/jammy 4.16.3-1 amd64
 libexo-2-dev/jammy 4.16.3-1 amd64
 libexo-common/jammy 4.16.3-1 all
@@ -96704,7 +96703,7 @@ python-flask-api-common/jammy 1.1+dfsg-1.1 all
 python-flask-autoindex-doc/jammy 0.6.6-2 all
 python-flask-babel-doc/jammy 2.0.0-2 all
 python-flask-bcrypt-doc/jammy 0.7.1-2 all
-python-flask-doc/jammy-updates,jammy-security 2.0.1-2ubuntu1.1 all
+python-flask-doc/jammy-security 2.0.1-2ubuntu1.2 all
 python-flask-flatpages-doc/jammy 0.6-1.1 all
 python-flask-httpauth-doc/jammy 4.5.0-4 all
 python-flask-login-doc/jammy 0.5.0-2 all
@@ -98445,7 +98444,7 @@ python3-flask-silk/jammy 0.2-18 all
 python3-flask-socketio/jammy 5.0.1-1 all
 python3-flask-sqlalchemy/jammy 2.5.1-1 all
 python3-flask-testing/jammy 0.8.1-1 all
-python3-flask/jammy-updates,jammy-security 2.0.1-2ubuntu1.1 all
+python3-flask/jammy-security 2.0.1-2ubuntu1.2 all
 python3-flaskext.multistatic/jammy 1.0-2 all
 python3-flaskext.wtf/jammy 0.14.3-1 all
 python3-flatbuffers/jammy 1.12.1~git20200711.33e2d80+dfsg1-0.6 all
