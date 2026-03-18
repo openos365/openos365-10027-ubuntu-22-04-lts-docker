@@ -32834,7 +32834,7 @@ libnet-async-tangence-perl/jammy 0.16-1 all
 libnet-bluetooth-perl/jammy 0.41-2build4 amd64
 libnet-bonjour-perl/jammy 0.96-2.1 all
 libnet-cidr-lite-perl/jammy 0.22-1 all
-libnet-cidr-perl/jammy 0.21-1 all
+libnet-cidr-perl/jammy-security 0.21-1ubuntu0.2 all
 libnet-cidr-set-perl/jammy 0.13-3 all
 libnet-cisco-mse-rest-perl/jammy 0.2-1.1 all
 libnet-citadel-perl/jammy 0.25-1 all
