@@ -2312,7 +2312,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.19.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.42
+├─ @steedos-labs/plugin-workflow@3.0.44
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -4591,7 +4591,7 @@ yarn list v1.22.22
 ├─ @types/babel__traverse@7.28.0
 │  └─ @babel/types@^7.28.2
 ├─ @types/bluebird@3.5.42
-├─ @types/debug@4.1.12
+├─ @types/debug@4.1.13
 │  └─ @types/ms@*
 ├─ @types/estree@1.0.8
 ├─ @types/fs-extra-promise@1.0.14
@@ -13001,7 +13001,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.31.4
+├─ systeminformation@5.31.5
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2

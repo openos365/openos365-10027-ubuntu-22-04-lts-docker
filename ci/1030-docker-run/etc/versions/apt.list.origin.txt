@@ -6017,7 +6017,7 @@ exim4-doc-html/jammy 4.94.2-1 all
 exim4-doc-info/jammy 4.94.2-1 all
 exim4/jammy-updates,jammy-security 4.95-4ubuntu2.6 all
 eximon4/jammy-updates,jammy-security 4.95-4ubuntu2.6 amd64
-exiv2/jammy-updates,jammy-security 0.27.5-3ubuntu1.1 amd64
+exiv2/jammy-security 0.27.5-3ubuntu1.3 amd64
 exmh/jammy 1:2.9.0-3 all
 exo-utils/jammy 4.16.3-1 amd64
 exonerate/jammy 2.4.0-5 amd64
@@ -21823,9 +21823,9 @@ libexif-gtk-dev/jammy 0.5.0-2build1 amd64
 libexif-gtk3-5/jammy 0.5.0-2build1 amd64
 libexif-gtk5/jammy 0.5.0-2build1 amd64
 libexif12/jammy 0.6.24-1build1 amd64
-libexiv2-27/jammy-updates,jammy-security 0.27.5-3ubuntu1.1 amd64
-libexiv2-dev/jammy-updates,jammy-security 0.27.5-3ubuntu1.1 amd64
-libexiv2-doc/jammy-updates,jammy-security 0.27.5-3ubuntu1.1 all
+libexiv2-27/jammy-security 0.27.5-3ubuntu1.3 amd64
+libexiv2-dev/jammy-security 0.27.5-3ubuntu1.3 amd64
+libexiv2-doc/jammy-security 0.27.5-3ubuntu1.3 all
 libexo-2-0/jammy 4.16.3-1 amd64
 libexo-2-dev/jammy 4.16.3-1 amd64
 libexo-common/jammy 4.16.3-1 all
@@ -32835,7 +32835,7 @@ libnet-async-tangence-perl/jammy 0.16-1 all
 libnet-bluetooth-perl/jammy 0.41-2build4 amd64
 libnet-bonjour-perl/jammy 0.96-2.1 all
 libnet-cidr-lite-perl/jammy 0.22-1 all
-libnet-cidr-perl/jammy-security 0.21-1ubuntu0.2 all
+libnet-cidr-perl/jammy-updates,jammy-security 0.21-1ubuntu0.2 all
 libnet-cidr-set-perl/jammy 0.13-3 all
 libnet-cisco-mse-rest-perl/jammy 0.2-1.1 all
 libnet-citadel-perl/jammy 0.25-1 all
