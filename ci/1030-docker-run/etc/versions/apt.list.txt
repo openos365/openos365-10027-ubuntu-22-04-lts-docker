@@ -4237,7 +4237,7 @@ devio/jammy 1.2-1.2build3 amd64
 devmem2/jammy 0.0-0ubuntu2 amd64
 devrplay3/jammy 3.3.2-18 amd64
 devscripts-el/jammy 40.5 all
-devscripts/jammy 2.22.1ubuntu1 amd64
+devscripts/jammy-updates 2.22.1ubuntu1.2 amd64
 devtodo/jammy 0.1.20+git20200830.0ad52b0-1 amd64
 dex/jammy 0.9.0-1 all
 dexdeps/jammy 10.0.0+r36-3 all
@@ -9930,10 +9930,10 @@ glabels/jammy 3.4.1-3 amd64
 glade/jammy 3.38.2-7 amd64
 gladtex/jammy 3.1.0-2 all
 glam2/jammy 1064-9 amd64
-glance-api/jammy-updates,jammy-security 2:24.2.1-0ubuntu1.2 all
-glance-common/jammy-updates,jammy-security 2:24.2.1-0ubuntu1.2 all
+glance-api/jammy-security 2:24.2.1-0ubuntu1.4 all
+glance-common/jammy-security 2:24.2.1-0ubuntu1.4 all
 glance-tempest-plugin/jammy 0.2.0-2 all
-glance/jammy-updates,jammy-security 2:24.2.1-0ubuntu1.2 all
+glance/jammy-security 2:24.2.1-0ubuntu1.4 all
 glances-doc/jammy 3.2.4.2+dfsg-1 all
 glances/jammy 3.2.4.2+dfsg-1 all
 glasscoder/jammy 1.0.4-1 amd64
@@ -96743,7 +96743,7 @@ python-gevent-doc/jammy 21.8.0-1build1 all
 python-gi-dev/jammy-updates 3.42.1-0ubuntu1 amd64
 python-git-doc/jammy 3.1.24-1 all
 python-gitlab-doc/jammy 1:2.10.1-2 all
-python-glance-doc/jammy-updates,jammy-security 2:24.2.1-0ubuntu1.2 all
+python-glance-doc/jammy-security 2:24.2.1-0ubuntu1.4 all
 python-glance-store-doc/jammy-updates,jammy-security 3.0.0-0ubuntu1.4 all
 python-glanceclient-doc/jammy-updates 1:3.6.0-0ubuntu2 all
 python-glareclient-doc/jammy 0.5.3-6ubuntu2 all
@@ -98577,7 +98577,7 @@ python3-github/jammy 1.55-1 all
 python3-gitlab/jammy 1:2.10.1-2 all
 python3-glad/jammy 0.1.30-1.1 all
 python3-glance-store/jammy-updates,jammy-security 3.0.0-0ubuntu1.4 all
-python3-glance/jammy-updates,jammy-security 2:24.2.1-0ubuntu1.2 all
+python3-glance/jammy-security 2:24.2.1-0ubuntu1.4 all
 python3-glanceclient/jammy-updates 1:3.6.0-0ubuntu2 all
 python3-glareclient/jammy 0.5.3-6ubuntu2 all
 python3-gleetex/jammy 3.1.0-2 all
