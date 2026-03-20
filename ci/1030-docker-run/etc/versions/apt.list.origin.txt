@@ -3122,7 +3122,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
-code-server/now 4.111.0 amd64 [installed,local]
+code-server/now 4.112.0 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -6017,7 +6017,7 @@ exim4-doc-html/jammy 4.94.2-1 all
 exim4-doc-info/jammy 4.94.2-1 all
 exim4/jammy-updates,jammy-security 4.95-4ubuntu2.6 all
 eximon4/jammy-updates,jammy-security 4.95-4ubuntu2.6 amd64
-exiv2/jammy-security 0.27.5-3ubuntu1.3 amd64
+exiv2/jammy-updates,jammy-security 0.27.5-3ubuntu1.3 amd64
 exmh/jammy 1:2.9.0-3 all
 exo-utils/jammy 4.16.3-1 amd64
 exonerate/jammy 2.4.0-5 amd64
@@ -21823,9 +21823,9 @@ libexif-gtk-dev/jammy 0.5.0-2build1 amd64
 libexif-gtk3-5/jammy 0.5.0-2build1 amd64
 libexif-gtk5/jammy 0.5.0-2build1 amd64
 libexif12/jammy 0.6.24-1build1 amd64
-libexiv2-27/jammy-security 0.27.5-3ubuntu1.3 amd64
-libexiv2-dev/jammy-security 0.27.5-3ubuntu1.3 amd64
-libexiv2-doc/jammy-security 0.27.5-3ubuntu1.3 all
+libexiv2-27/jammy-updates,jammy-security 0.27.5-3ubuntu1.3 amd64
+libexiv2-dev/jammy-updates,jammy-security 0.27.5-3ubuntu1.3 amd64
+libexiv2-doc/jammy-updates,jammy-security 0.27.5-3ubuntu1.3 all
 libexo-2-0/jammy 4.16.3-1 amd64
 libexo-2-dev/jammy 4.16.3-1 amd64
 libexo-common/jammy 4.16.3-1 all
