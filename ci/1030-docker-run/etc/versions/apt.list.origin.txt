@@ -13473,12 +13473,12 @@ guvcview/jammy 2.0.7-2-1 amd64
 guymager/jammy 0.8.13-1 amd64
 gv/jammy 1:3.7.4-2 amd64
 gvb/jammy 1.4-1.1 all
-gvfs-backends/jammy-updates 1.48.2-0ubuntu1 amd64
-gvfs-common/jammy-updates 1.48.2-0ubuntu1 all
-gvfs-daemons/jammy-updates 1.48.2-0ubuntu1 amd64
-gvfs-fuse/jammy-updates 1.48.2-0ubuntu1 amd64
-gvfs-libs/jammy-updates 1.48.2-0ubuntu1 amd64
-gvfs/jammy-updates 1.48.2-0ubuntu1 amd64
+gvfs-backends/jammy-security 1.48.2-0ubuntu1.1 amd64
+gvfs-common/jammy-security 1.48.2-0ubuntu1.1 all
+gvfs-daemons/jammy-security 1.48.2-0ubuntu1.1 amd64
+gvfs-fuse/jammy-security 1.48.2-0ubuntu1.1 amd64
+gvfs-libs/jammy-security 1.48.2-0ubuntu1.1 amd64
+gvfs/jammy-security 1.48.2-0ubuntu1.1 amd64
 gvidm/jammy 0.8-15 amd64
 gvm-tools/jammy 21.1.0-1 all
 gvm/jammy 21.4.3 all
@@ -96922,7 +96922,7 @@ python-odoorpc-doc/jammy 0.7.0-4 all
 python-opcodes-doc/jammy 0.0~git20180424.6e2b0cd-3 all
 python-opcua-tools/jammy 0.98.11-1ubuntu1 all
 python-openslide-examples/jammy 1.1.2-1build4 all
-python-openssl-doc/jammy 21.0.0-1 all
+python-openssl-doc/jammy-security 21.0.0-1ubuntu0.1 all
 python-openstackclient-doc/jammy-updates,jammy-security 5.8.0-0ubuntu1.1 all
 python-openstacksdk-doc/jammy-updates 0.61.0-0ubuntu2 all
 python-opentracing-doc/jammy 2.4.0-1 all
@@ -99496,7 +99496,7 @@ python3-openrazer/jammy 3.2.0+dfsg-3 all
 python3-openscap/jammy-updates 1.2.17-0.1ubuntu7.22.04.3 amd64
 python3-openshot/jammy 0.2.5+dfsg1-6build2 amd64
 python3-openslide/jammy 1.1.2-1build4 amd64
-python3-openssl/jammy 21.0.0-1 all
+python3-openssl/jammy-security 21.0.0-1ubuntu0.1 all
 python3-openstack.nose-plugin/jammy 0.11-5 all
 python3-openstackclient/jammy-updates,jammy-security 5.8.0-0ubuntu1.1 all
 python3-openstackdocstheme/jammy 2.3.0-0ubuntu2 all
