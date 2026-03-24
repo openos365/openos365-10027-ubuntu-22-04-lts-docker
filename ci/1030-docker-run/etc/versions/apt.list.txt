@@ -107335,7 +107335,7 @@ systemd-oomd/jammy-security 249.11-0ubuntu3.19 amd64
 systemd-repart/jammy-security 249.11-0ubuntu3.19 amd64
 systemd-standalone-sysusers/jammy-security 249.11-0ubuntu3.19 amd64
 systemd-standalone-tmpfiles/jammy-security 249.11-0ubuntu3.19 amd64
-systemd-sysv/jammy-security,now 249.11-0ubuntu3.19 amd64 [installed,automatic]
+systemd-sysv/jammy-security,now 249.11-0ubuntu3.19 amd64 [installed]
 systemd-tests/jammy-security 249.11-0ubuntu3.19 amd64
 systemd-timesyncd/jammy-security,now 249.11-0ubuntu3.19 amd64 [installed,automatic]
 systemd-zram-generator/jammy 0.3.2-1 amd64
