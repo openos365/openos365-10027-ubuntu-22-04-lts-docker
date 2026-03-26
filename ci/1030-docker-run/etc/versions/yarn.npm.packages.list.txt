@@ -7651,7 +7651,7 @@ yarn list v1.22.22
 │  ├─ pify@^4.0.1
 │  └─ pify@4.0.1
 ├─ handle-thing@2.0.1
-├─ handlebars@4.7.8
+├─ handlebars@4.7.9
 │  ├─ minimist@^1.2.5
 │  ├─ neo-async@^2.6.2
 │  ├─ source-map@^0.6.1
