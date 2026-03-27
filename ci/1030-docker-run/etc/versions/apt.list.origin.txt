@@ -39681,8 +39681,8 @@ libstd-msgs-dev/jammy 0.5.13-2 amd64
 libstd-rust-1.58/jammy 1.58.1+dfsg1~ubuntu1-0ubuntu2 amd64
 libstd-rust-1.59/jammy-updates,jammy-security 1.59.0+dfsg1-1~ubuntu2~22.04.1 amd64
 libstd-rust-1.61/jammy-updates,jammy-security 1.61.0+dfsg1-1~exp1ubuntu0.22.04.1 amd64
-libstd-rust-1.62-dev/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
-libstd-rust-1.62/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
+libstd-rust-1.62-dev/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
+libstd-rust-1.62/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
 libstd-rust-1.65/jammy-updates,jammy-security 1.65.0+dfsg0ubuntu1-0ubuntu0.22.04.1 amd64
 libstd-rust-1.66/jammy-updates,jammy-security 1.66.1+dfsg0ubuntu1-0ubuntu0.22.04.1 amd64
 libstd-rust-1.70/jammy-updates,jammy-security 1.70.0+dfsg0ubuntu1~bpo2-0ubuntu0.22.04.2 amd64
@@ -105448,11 +105448,11 @@ runsnakerun/jammy 2.0.5-3 all
 rusers/jammy 0.17-11 amd64
 rusersd/jammy 0.17-11 amd64
 rush/jammy 1.8+dfsg-1.1 amd64
-rust-1.62-all/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 all
-rust-1.62-clippy/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
-rust-1.62-gdb/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 all
-rust-1.62-lldb/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 all
-rust-1.62-src/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 all
+rust-1.62-all/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 all
+rust-1.62-clippy/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
+rust-1.62-gdb/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 all
+rust-1.62-lldb/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 all
+rust-1.62-src/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 all
 rust-1.76-all/jammy-updates,jammy-security 1.76.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 all
 rust-1.76-clippy/jammy-updates,jammy-security 1.76.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 amd64
 rust-1.76-doc/jammy-updates,jammy-security 1.76.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 all
@@ -105526,7 +105526,7 @@ rust-gdb/jammy-updates,jammy-security 1.75.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 al
 rust-lldb/jammy-updates,jammy-security 1.75.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 all
 rust-markdown/jammy-updates,jammy-security 0.3.0-1ubuntu0.22.04.1 amd64
 rust-src/jammy-updates,jammy-security 1.75.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 all
-rustc-1.62/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
+rustc-1.62/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
 rustc-1.76/jammy-updates,jammy-security 1.76.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 amd64
 rustc-1.77/jammy-updates,jammy-security 1.77.2+dfsg1ubuntu1~bpo0-0ubuntu0.22.04 amd64
 rustc-1.78/jammy-updates,jammy-security 1.78.0+dfsg1ubuntu1~bpo0-0ubuntu0.22.04 amd64
@@ -105541,7 +105541,7 @@ rustc-1.89/jammy-updates,jammy-security 1.89.0+dfsg~24.04-0ubuntu0.22.04.1 amd64
 rustc/jammy-updates,jammy-security 1.75.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 amd64
 rustdoc-stripper/jammy 0.1.12-1 amd64
 rustfilt/jammy-updates,jammy-security 0.2.1-1ubuntu0.22.04.1 amd64
-rustfmt-1.62/jammy-updates 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
+rustfmt-1.62/jammy-updates,jammy-security 1.62.1+dfsg1-1ubuntu0.22.04.1 amd64
 rustfmt-1.76/jammy-updates,jammy-security 1.76.0+dfsg0ubuntu1~bpo0-0ubuntu0.22.04 amd64
 rustfmt-1.77/jammy-updates,jammy-security 1.77.2+dfsg1ubuntu1~bpo0-0ubuntu0.22.04 amd64
 rustfmt-1.78/jammy-updates,jammy-security 1.78.0+dfsg1ubuntu1~bpo0-0ubuntu0.22.04 amd64
