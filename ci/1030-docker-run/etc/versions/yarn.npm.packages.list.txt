@@ -4765,7 +4765,7 @@ yarn list v1.22.22
 │  ├─ @webassemblyjs/wast-parser@1.8.5
 │  └─ @xtuc/long@4.2.2
 ├─ @webcomponents/custom-elements@1.6.0
-├─ @xmldom/xmldom@0.8.11
+├─ @xmldom/xmldom@0.8.12
 ├─ @xobotyi/scrollbar-width@1.9.5
 ├─ @xtuc/ieee754@1.2.0
 ├─ @xtuc/long@4.2.2
@@ -5672,7 +5672,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001781
+├─ caniuse-lite@1.0.30001782
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -6478,7 +6478,7 @@ yarn list v1.22.22
 │  └─ xml@^1.0.1
 ├─ docxtemplater@3.68.3
 │  ├─ @xmldom/xmldom@^0.9.8
-│  └─ @xmldom/xmldom@0.9.8
+│  └─ @xmldom/xmldom@0.9.9
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
 │  └─ utila@~0.4
