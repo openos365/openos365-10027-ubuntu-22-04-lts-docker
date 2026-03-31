@@ -98954,7 +98954,7 @@ python3-jupyter-telemetry/jammy 0.1.0-3 all
 python3-jupyterlab-pygments/jammy 0.1.2-8 all
 python3-jupyterlab-server/jammy 2.8.2-1 all
 python3-jwcrypto/jammy 1.0.0-2 all
-python3-jwt/jammy-security 2.3.0-1ubuntu0.3 all
+python3-jwt/jammy-updates,jammy-security 2.3.0-1ubuntu0.3 all
 python3-k8sclient/jammy 0.4.0-0ubuntu3 all
 python3-kafka/jammy 2.0.2-2 all
 python3-kaitaistruct/jammy 0.9-1 all
