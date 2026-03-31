@@ -3552,10 +3552,9 @@ yarn list v1.22.22
 │  ├─ amis-formula@~6.3.0
 │  ├─ app-root-path@^2.2.1
 │  ├─ axios@^1.13.2
-│  ├─ axios@1.14.1
+│  ├─ axios@1.14.0
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
-│  │  ├─ plain-crypto-js@^4.2.1
 │  │  └─ proxy-from-env@^2.1.0
 │  ├─ body-parser@^2.2.1
 │  ├─ body-parser@2.2.2
@@ -3729,10 +3728,9 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.52
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.14.1
+│  ├─ axios@1.14.0
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
-│  │  ├─ plain-crypto-js@^4.2.1
 │  │  └─ proxy-from-env@^2.1.0
 │  ├─ cookies@^0.8.0
 │  ├─ dotenv-flow@^3.1.0
@@ -4069,10 +4067,9 @@ yarn list v1.22.22
 ├─ @steedos/service-license@3.0.2
 │  ├─ @steedos/license@^3.0.2
 │  ├─ axios@^1.13.2
-│  ├─ axios@1.14.1
+│  ├─ axios@1.14.0
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
-│  │  ├─ plain-crypto-js@^4.2.1
 │  │  └─ proxy-from-env@^2.1.0
 │  └─ proxy-from-env@2.1.0
 ├─ @steedos/service-metadata-apps@3.0.12
@@ -10311,7 +10308,6 @@ yarn list v1.22.22
 │  ├─ p-locate@2.0.0
 │  │  └─ p-limit@^1.1.0
 │  └─ p-try@1.0.0
-├─ plain-crypto-js@4.2.1
 ├─ planar-dual@1.0.2
 │  ├─ compare-angle@^1.0.0
 │  └─ dup@^1.0.0
