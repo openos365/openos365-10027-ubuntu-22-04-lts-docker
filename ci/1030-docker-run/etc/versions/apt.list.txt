@@ -4859,23 +4859,23 @@ doublecmd-qt/jammy 1.0.5-1 amd64
 douceur/jammy-updates,jammy-security 0.2.0-3ubuntu0.22.04.1 amd64
 dov4l/jammy 0.9+repack-1build1 amd64
 dovecot-antispam/jammy 2.0+20171229-1build9 amd64
-dovecot-auth-lua/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-core/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-dev/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-auth-lua/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-core/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-dev/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
 dovecot-fts-xapian/jammy 1.5.2-1build1 amd64
-dovecot-gssapi/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-imapd/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-ldap/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-lmtpd/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-lucene/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-managesieved/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-mysql/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-pgsql/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-pop3d/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-sieve/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-solr/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-sqlite/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-submissiond/jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-gssapi/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-imapd/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-ldap/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-lmtpd/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-lucene/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-managesieved/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-mysql/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-pgsql/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-pop3d/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-sieve/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-solr/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-sqlite/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-submissiond/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
 downtimed/jammy 1.0-2 amd64
 doxygen-doc/jammy 1.9.1-2ubuntu2 all
 doxygen-doxyparse/jammy 1.9.1-2ubuntu2 amd64
@@ -37202,7 +37202,7 @@ librttr-core0.9.6/jammy 0.9.6+dfsg1-4 amd64
 librttr-dev/jammy 0.9.6+dfsg1-4 amd64
 librubberband-dev/jammy 2.0.0-2 amd64
 librubberband2/jammy 2.0.0-2 amd64
-libruby3.0/jammy-updates,jammy-security,now 3.0.2-7ubuntu2.11 amd64 [installed,automatic]
+libruby3.0/jammy-security,now 3.0.2-7ubuntu2.12 amd64 [installed,automatic]
 libruby/jammy 1:3.0~exp1 all
 librudecgi-dev/jammy 5.0.0-1.1ubuntu2 amd64
 librudecgi5v5/jammy 5.0.0-1.1ubuntu2 amd64
@@ -95711,7 +95711,7 @@ polkit-kde-agent-1/jammy 4:5.24.4-0ubuntu1 amd64
 polkitd/jammy 0.105-33 amd64
 polled-camera-tool/jammy 1.12.0-9build4 amd64
 pollen/jammy 4.21-5ubuntu3 amd64
-pollinate/jammy-security 4.33-3ubuntu2.3 all
+pollinate/jammy-updates,jammy-security 4.33-3ubuntu2.3 all
 polybar/jammy 3.5.7-1build1 amd64
 polygen-data/jammy 1.0.6.ds2-23build1 all
 polygen/jammy 1.0.6.ds2-23build1 all
@@ -105429,9 +105429,9 @@ ruby-zentest/jammy 4.11.0-2 all
 ruby-zip-zip/jammy 0.3+gh-1.1 all
 ruby-zip/jammy 2.3.0-2 all
 ruby-zoom/jammy 0.5.0-2build2 amd64
-ruby3.0-dev/jammy-updates,jammy-security,now 3.0.2-7ubuntu2.11 amd64 [installed,automatic]
-ruby3.0-doc/jammy-updates,jammy-security,now 3.0.2-7ubuntu2.11 all [installed,automatic]
-ruby3.0/jammy-updates,jammy-security,now 3.0.2-7ubuntu2.11 amd64 [installed,automatic]
+ruby3.0-dev/jammy-security,now 3.0.2-7ubuntu2.12 amd64 [installed,automatic]
+ruby3.0-doc/jammy-security,now 3.0.2-7ubuntu2.12 all [installed,automatic]
+ruby3.0/jammy-security,now 3.0.2-7ubuntu2.12 amd64 [installed,automatic]
 ruby/jammy,now 1:3.0~exp1 amd64 [installed]
 rubygems-integration/jammy,now 1.18 all [installed,automatic]
 rumur/jammy 2020.12.20-1 amd64
