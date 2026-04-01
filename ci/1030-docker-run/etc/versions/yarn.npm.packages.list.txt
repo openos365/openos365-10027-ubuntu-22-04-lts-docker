@@ -2226,6 +2226,7 @@ yarn list v1.22.22
 │  │  ├─ mingo@6.1.2
 │  │  ├─ psl@1.9.0
 │  │  └─ underscore@1.5.2
+│  ├─ lodash@4.17.21
 │  ├─ psl@1.9.0
 │  └─ underscore@1.5.2
 ├─ @steedos-labs/okr@2.6.4
@@ -3201,6 +3202,7 @@ yarn list v1.22.22
 │  ├─ @babel/runtime@7.28.4
 │  ├─ @babel/runtime@7.28.4
 │  ├─ lodash@4.17.21
+│  ├─ lodash@4.17.21
 │  └─ moment@^2.24.0
 ├─ @steedos/form-builder@3.6.2-patch.5
 │  ├─ jquery-ui-sortable@*
@@ -3960,6 +3962,7 @@ yarn list v1.22.22
 │  ├─ aws-sdk@2.0.23
 │  ├─ file-type@16.5.4
 │  ├─ formidable@2.0.1
+│  ├─ lodash@4.17.21
 │  ├─ mime-types@2.1.35
 │  ├─ mkdirp@^1.0.4
 │  ├─ mkdirp@1.0.4
@@ -8976,7 +8979,7 @@ yarn list v1.22.22
 ├─ lodash.union@4.6.0
 ├─ lodash.uniq@4.5.0
 ├─ lodash.uniqby@4.7.0
-├─ lodash@4.17.21
+├─ lodash@4.17.23
 ├─ log-symbols@2.2.0
 │  └─ chalk@^2.0.1
 ├─ logkitty@0.6.1
