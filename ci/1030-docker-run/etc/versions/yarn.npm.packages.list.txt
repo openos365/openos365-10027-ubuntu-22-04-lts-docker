@@ -13551,7 +13551,7 @@ yarn list v1.22.22
 ├─ validate-npm-package-license@3.0.4
 │  ├─ spdx-correct@^3.0.0
 │  └─ spdx-expression-parse@^3.0.0
-├─ validator@13.15.26
+├─ validator@13.15.35
 ├─ value-equal@1.0.1
 ├─ vary@1.1.2
 ├─ vectorize-text@3.2.2
