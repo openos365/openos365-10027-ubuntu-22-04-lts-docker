@@ -11959,7 +11959,7 @@ yarn list v1.22.22
 │  ├─ unicode-match-property-ecmascript@^2.0.0
 │  └─ unicode-match-property-value-ecmascript@^2.0.0
 ├─ regjsgen@0.5.2
-├─ regjsparser@0.13.0
+├─ regjsparser@0.13.1
 │  └─ jsesc@~3.1.0
 ├─ regl-error2d@2.0.12
 │  ├─ array-bounds@^1.0.1
