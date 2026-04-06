@@ -10943,7 +10943,7 @@ yarn list v1.22.22
 │  ├─ @types/node@>=13.7.0
 │  ├─ long@^5.0.0
 │  └─ long@5.3.2
-├─ protocol-buffers-schema@3.6.0
+├─ protocol-buffers-schema@3.6.1
 ├─ proxy-addr@2.0.7
 │  ├─ forwarded@0.2.0
 │  └─ ipaddr.js@1.9.1
