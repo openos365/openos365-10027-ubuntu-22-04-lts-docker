@@ -263,7 +263,7 @@ yarn list v1.22.22
 │  ├─ resize-observer-polyfill@^1.5.1
 │  ├─ throttle-debounce@^5.0.0
 │  └─ throttle-debounce@5.0.2
-├─ @azure-rest/core-client@2.5.1
+├─ @azure-rest/core-client@2.6.0
 │  ├─ @azure/abort-controller@^2.1.2
 │  ├─ @azure/core-auth@^1.10.0
 │  ├─ @azure/core-rest-pipeline@^1.22.0
@@ -284,7 +284,7 @@ yarn list v1.22.22
 │  ├─ @azure/core-util@^1.13.0
 │  ├─ @azure/logger@^1.3.0
 │  └─ tslib@^2.6.2
-├─ @azure/core-http-compat@2.3.2
+├─ @azure/core-http-compat@2.4.0
 │  └─ @azure/abort-controller@^2.1.2
 ├─ @azure/core-lro@2.7.2
 │  ├─ @azure/abort-controller@^2.0.0
@@ -912,10 +912,10 @@ yarn list v1.22.22
 │  ├─ preact@^10.1.0
 │  ├─ prop-types@^15.7.2
 │  ├─ react-dom@>=14
-│  ├─ react-dom@19.2.4
+│  ├─ react-dom@19.2.5
 │  │  └─ scheduler@^0.27.0
 │  ├─ react@>=14
-│  ├─ react@19.2.4
+│  ├─ react@19.2.5
 │  ├─ scheduler@0.27.0
 │  ├─ tslib@^2.4.0
 │  └─ vm2@^3.6.4
@@ -1753,7 +1753,7 @@ yarn list v1.22.22
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
 ├─ @posthog/core@1.25.1
-├─ @posthog/types@1.365.3
+├─ @posthog/types@1.365.4
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.4
@@ -2036,10 +2036,10 @@ yarn list v1.22.22
 │  ├─ preact@^10.1.0
 │  ├─ prop-types@^15.7.2
 │  ├─ react-dom@>=14
-│  ├─ react-dom@19.2.4
+│  ├─ react-dom@19.2.5
 │  │  └─ scheduler@^0.27.0
 │  ├─ react@>=14
-│  ├─ react@19.2.4
+│  ├─ react@19.2.5
 │  ├─ scheduler@0.27.0
 │  ├─ tslib@^1.10.0
 │  ├─ tslib@1.14.1
@@ -2585,10 +2585,10 @@ yarn list v1.22.22
 │  │  ├─ preact@^10.1.0
 │  │  ├─ prop-types@^15.7.2
 │  │  ├─ react-dom@>=14
-│  │  ├─ react-dom@19.2.4
+│  │  ├─ react-dom@19.2.5
 │  │  │  └─ scheduler@^0.27.0
 │  │  ├─ react@>=14
-│  │  ├─ react@19.2.4
+│  │  ├─ react@19.2.5
 │  │  ├─ tslib@^1.10.0
 │  │  ├─ tslib@1.14.1
 │  │  └─ vm2@^3.6.4
@@ -2742,9 +2742,9 @@ yarn list v1.22.22
 │  ├─ mobx-react-lite@^3.2.0
 │  ├─ mobx-state-tree@^5.0.1
 │  ├─ mobx@^6.1.8
-│  ├─ react-dom@19.2.4
+│  ├─ react-dom@19.2.5
 │  │  └─ scheduler@^0.27.0
-│  ├─ react@19.2.4
+│  ├─ react@19.2.5
 │  ├─ scheduler@0.27.0
 │  └─ tslib@1.14.1
 ├─ @steedos-ui/builder-viz-lib@2.2.53
@@ -3071,10 +3071,10 @@ yarn list v1.22.22
 │  │  ├─ preact@^10.1.0
 │  │  ├─ prop-types@^15.7.2
 │  │  ├─ react-dom@>=14
-│  │  ├─ react-dom@19.2.4
+│  │  ├─ react-dom@19.2.5
 │  │  │  └─ scheduler@^0.27.0
 │  │  ├─ react@>=14
-│  │  ├─ react@19.2.4
+│  │  ├─ react@19.2.5
 │  │  ├─ scheduler@0.27.0
 │  │  ├─ tslib@^1.10.0
 │  │  └─ vm2@^3.6.4
@@ -3543,7 +3543,7 @@ yarn list v1.22.22
 │  ├─ amis-formula@~6.3.0
 │  ├─ app-root-path@^2.2.1
 │  ├─ axios@^1.13.2
-│  ├─ axios@1.14.0
+│  ├─ axios@1.15.0
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
 │  │  └─ proxy-from-env@^2.1.0
@@ -3719,7 +3719,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.52
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.14.0
+│  ├─ axios@1.15.0
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
 │  │  └─ proxy-from-env@^2.1.0
@@ -4058,7 +4058,7 @@ yarn list v1.22.22
 ├─ @steedos/service-license@3.0.2
 │  ├─ @steedos/license@^3.0.2
 │  ├─ axios@^1.13.2
-│  ├─ axios@1.14.0
+│  ├─ axios@1.15.0
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
 │  │  └─ proxy-from-env@^2.1.0
@@ -4674,7 +4674,7 @@ yarn list v1.22.22
 │  ├─ lodash.unescape@4.0.1
 │  ├─ semver@5.5.0
 │  └─ semver@5.5.0
-├─ @typespec/ts-http-runtime@0.3.4
+├─ @typespec/ts-http-runtime@0.3.5
 │  ├─ agent-base@7.1.4
 │  ├─ http-proxy-agent@^7.0.0
 │  ├─ http-proxy-agent@7.0.2
@@ -10797,7 +10797,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.365.3
+├─ posthog-js@1.365.4
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.6.1
@@ -10809,7 +10809,7 @@ yarn list v1.22.22
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
 │  ├─ @posthog/core@1.25.1
-│  ├─ @posthog/types@1.365.3
+│  ├─ @posthog/types@1.365.4
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
@@ -11075,7 +11075,7 @@ yarn list v1.22.22
 ├─ qs-middleware@1.0.3
 │  ├─ qs@~6.4.0
 │  └─ qs@6.4.3
-├─ qs@6.15.0
+├─ qs@6.15.1
 │  └─ side-channel@^1.1.0
 ├─ quat-slerp@1.0.1
 │  └─ gl-quat@^1.0.0
@@ -12514,9 +12514,9 @@ yarn list v1.22.22
 │  ├─ array-reduce@~0.0.0
 │  └─ jsonify@~0.0.0
 ├─ shellwords@0.1.1
-├─ side-channel-list@1.0.0
+├─ side-channel-list@1.0.1
 │  ├─ es-errors@^1.3.0
-│  └─ object-inspect@^1.13.3
+│  └─ object-inspect@^1.13.4
 ├─ side-channel-map@1.0.1
 │  ├─ call-bound@^1.0.2
 │  ├─ es-errors@^1.3.0
