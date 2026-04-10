@@ -2302,7 +2302,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.20.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.59
+├─ @steedos-labs/plugin-workflow@3.0.61
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -4625,8 +4625,8 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.5
 │     └─ brace-expansion@^5.0.5
 ├─ @types/ms@2.1.0
-├─ @types/node@25.5.2
-│  └─ undici-types@~7.18.0
+├─ @types/node@25.6.0
+│  └─ undici-types@~7.19.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  └─ path-to-regexp@*
@@ -10943,11 +10943,8 @@ yarn list v1.22.22
 │  ├─ @protobufjs/pool@^1.1.0
 │  ├─ @protobufjs/utf8@^1.1.0
 │  ├─ @types/node@>=13.7.0
-│  ├─ @types/node@25.6.0
-│  │  └─ undici-types@~7.19.0
 │  ├─ long@^5.0.0
-│  ├─ long@5.3.2
-│  └─ undici-types@7.19.2
+│  └─ long@5.3.2
 ├─ protocol-buffers-schema@3.6.1
 ├─ proxy-addr@2.0.7
 │  ├─ forwarded@0.2.0
@@ -13448,7 +13445,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.1.0
 │  └─ which-boxed-primitive@^1.1.1
 ├─ underscore@1.13.8
-├─ undici-types@7.18.2
+├─ undici-types@7.19.2
 ├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
