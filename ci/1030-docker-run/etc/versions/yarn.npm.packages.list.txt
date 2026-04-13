@@ -5898,7 +5898,7 @@ yarn list v1.22.22
 │     └─ util-deprecate@^1.0.1
 ├─ compressible@2.0.18
 │  └─ mime-db@>= 1.43.0 < 2
-├─ compressing@1.10.4
+├─ compressing@1.10.5
 │  ├─ @eggjs/yauzl@^2.11.0
 │  ├─ flushwritable@^1.0.0
 │  ├─ get-ready@^1.0.0
