@@ -5022,9 +5022,9 @@ yarn list v1.22.22
 ├─ atob-lite@1.0.0
 ├─ atob@2.1.2
 ├─ attr-accept@2.2.5
-├─ autoprefixer@10.4.27
-│  ├─ browserslist@^4.28.1
-│  ├─ caniuse-lite@^1.0.30001774
+├─ autoprefixer@10.5.0
+│  ├─ browserslist@^4.28.2
+│  ├─ caniuse-lite@^1.0.30001787
 │  ├─ fraction.js@^5.3.4
 │  ├─ picocolors@^1.1.1
 │  ├─ postcss-value-parser@^4.2.0
