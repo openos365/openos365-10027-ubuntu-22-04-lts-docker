@@ -7550,11 +7550,11 @@ frogr/jammy 1.7-1 amd64
 frotz/jammy 2.53+dfsg-1 amd64
 frozen-bubble-data/jammy 2.212-10build1 all
 frozen-bubble/jammy 2.212-10build1 amd64
-frr-doc/jammy-updates,jammy-security 8.1-1ubuntu1.14 all
-frr-pythontools/jammy-updates,jammy-security 8.1-1ubuntu1.14 all
-frr-rpki-rtrlib/jammy-updates,jammy-security 8.1-1ubuntu1.14 amd64
-frr-snmp/jammy-updates,jammy-security 8.1-1ubuntu1.14 amd64
-frr/jammy-updates,jammy-security 8.1-1ubuntu1.14 amd64
+frr-doc/jammy-updates,jammy-security 8.1-1ubuntu1.15 all
+frr-pythontools/jammy-updates,jammy-security 8.1-1ubuntu1.15 all
+frr-rpki-rtrlib/jammy-updates,jammy-security 8.1-1ubuntu1.15 amd64
+frr-snmp/jammy-updates,jammy-security 8.1-1ubuntu1.15 amd64
+frr/jammy-updates,jammy-security 8.1-1ubuntu1.15 amd64
 fruit/jammy 2.1.dfsg-9 amd64
 fs-uae-arcade/jammy 3.1.63-2 all
 fs-uae/jammy 3.1.66-1 amd64
