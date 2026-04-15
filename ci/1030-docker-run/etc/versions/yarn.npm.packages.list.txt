@@ -1937,7 +1937,7 @@ yarn list v1.22.22
 │  ├─ lodash.reject@^4.6.0
 │  ├─ memoize-one@^6.0.0
 │  ├─ nanoid@^5.0.9
-│  ├─ nanoid@5.1.7
+│  ├─ nanoid@5.1.9
 │  ├─ popper.js@^1.10.8
 │  ├─ prop-types@>=15.7.2
 │  ├─ react-contenteditable@^3.3.5
@@ -3136,7 +3136,7 @@ yarn list v1.22.22
 │  ├─ postcss-focus-visible@^6.0.4
 │  ├─ postcss-less@^6.0.0
 │  ├─ postcss@^8.4.14
-│  ├─ postcss@8.5.9
+│  ├─ postcss@8.5.10
 │  │  ├─ nanoid@^3.3.11
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
@@ -13055,7 +13055,7 @@ yarn list v1.22.22
 │  ├─ postcss-nested@^6.2.0
 │  ├─ postcss-selector-parser@^6.1.2
 │  ├─ postcss@^8.4.47
-│  ├─ postcss@8.5.9
+│  ├─ postcss@8.5.10
 │  │  ├─ nanoid@^3.3.11
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
