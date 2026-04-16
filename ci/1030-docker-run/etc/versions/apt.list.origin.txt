@@ -291,7 +291,7 @@ alsa-source/jammy 1.0.25+dfsg-0ubuntu7 all
 alsa-tools-gui/jammy 1.2.5-2 amd64
 alsa-tools/jammy 1.2.5-2 amd64
 alsa-topology-conf/jammy,now 1.2.5.1-2 all [installed,automatic]
-alsa-ucm-conf/jammy-updates 1.2.6.3-1ubuntu1.12 all [upgradable from: 1.2.6.3-1ubuntu1]
+alsa-ucm-conf/jammy-updates,now 1.2.6.3-1ubuntu1.12 all [installed,automatic]
 alsa-utils/jammy 1.2.6-1ubuntu1 amd64
 alsamixergui/jammy 0.9.0rc2-1-10.1 amd64
 alsaplayer-alsa/jammy 0.99.81-2build3 amd64
@@ -2051,7 +2051,7 @@ busco/jammy 5.2.2-2 all
 bustle-pcap/jammy 0.8.0-1build1.1 amd64
 bustle/jammy 0.8.0-1build1.1 amd64
 bustools/jammy 0.41.0+dfsg-1 amd64
-busybox-initramfs/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 amd64
+busybox-initramfs/jammy-updates,jammy-security,now 1:1.30.1-7ubuntu3.1 amd64 [installed,automatic]
 busybox-static/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 amd64
 busybox-syslogd/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 all
 busybox/jammy-updates,jammy-security 1:1.30.1-7ubuntu3.1 amd64
@@ -2108,7 +2108,7 @@ c2hs/jammy 0.28.8-1 amd64
 c2x/jammy 2.40+ds-1 amd64
 c3270/jammy 4.1ga10-1.1 amd64
 ca-cacert/jammy 2019.0411-2 all
-ca-certificates-java/jammy-updates 20190909ubuntu1.3 all [upgradable from: 20190909ubuntu1.2]
+ca-certificates-java/jammy-updates,now 20190909ubuntu1.3 all [installed,automatic]
 ca-certificates-mono/jammy 6.8.0.105+dfsg-3.2 all
 ca-certificates/jammy-updates,jammy-security,now 20240203~22.04.1 all [installed]
 cabal-debian/jammy 5.0.3-1build1.1 amd64
@@ -3063,14 +3063,14 @@ cm-super-minimal/jammy 0.3.4-17 all
 cm-super-x11/jammy 0.3.4-17 all
 cm-super/jammy 0.3.4-17 all
 cmake-curses-gui/jammy-updates 3.22.1-1ubuntu1.22.04.2 amd64
-cmake-data/jammy-updates 3.22.1-1ubuntu1.22.04.2 all [upgradable from: 3.22.1-1ubuntu1]
+cmake-data/jammy-updates,now 3.22.1-1ubuntu1.22.04.2 all [installed,automatic]
 cmake-doc/jammy-updates 3.22.1-1ubuntu1.22.04.2 all
 cmake-extras/jammy 1.6-1 all
 cmake-fedora/jammy 2.9.3-0.1 all
 cmake-format/jammy 0.6.13-2 all
 cmake-qt-gui/jammy-updates 3.22.1-1ubuntu1.22.04.2 amd64
 cmake-vala/jammy 3-1 all
-cmake/jammy-updates 3.22.1-1ubuntu1.22.04.2 amd64 [upgradable from: 3.22.1-1ubuntu1]
+cmake/jammy-updates,now 3.22.1-1ubuntu1.22.04.2 amd64 [installed]
 cmark-gfm/jammy 0.29.0.gfm.3-3 amd64
 cmark/jammy 0.30.2-5 amd64
 cmatrix-xfont/jammy 2.0-3 all
@@ -3972,8 +3972,8 @@ dbus-1-doc/jammy-updates,jammy-security 1.12.20-2ubuntu4.1 all
 dbus-broker/jammy 29-4build1 amd64
 dbus-test-runner/jammy 16.10.0~bzr100+repack1-4.1 amd64
 dbus-tests/jammy-updates,jammy-security 1.12.20-2ubuntu4.1 amd64
-dbus-user-session/jammy-updates,jammy-security 1.12.20-2ubuntu4.1 amd64
-dbus-x11/jammy-updates,jammy-security,now 1.12.20-2ubuntu4.1 amd64 [installed,automatic]
+dbus-user-session/jammy-updates,jammy-security,now 1.12.20-2ubuntu4.1 amd64 [installed,automatic]
+dbus-x11/jammy-updates,jammy-security 1.12.20-2ubuntu4.1 amd64
 dbus/jammy-updates,jammy-security,now 1.12.20-2ubuntu4.1 amd64 [installed,automatic]
 dbview/jammy 1.0.4-4 amd64
 dc3dd/jammy 7.2.646-5 amd64
@@ -3991,8 +3991,8 @@ dcmtk-doc/jammy 3.6.6-5 all
 dcmtk/jammy 3.6.6-5 amd64
 dconf-cli/jammy-updates 0.40.0-3ubuntu0.1 amd64
 dconf-editor/jammy 3.38.3-3 amd64
-dconf-gsettings-backend/jammy-updates 0.40.0-3ubuntu0.1 amd64 [upgradable from: 0.40.0-3]
-dconf-service/jammy-updates 0.40.0-3ubuntu0.1 amd64 [upgradable from: 0.40.0-3]
+dconf-gsettings-backend/jammy-updates,now 0.40.0-3ubuntu0.1 amd64 [installed,automatic]
+dconf-service/jammy-updates,now 0.40.0-3ubuntu0.1 amd64 [installed,automatic]
 dcraw/jammy 9.28-3 amd64
 dctrl-tools/jammy 2.24-3build2 amd64
 ddate/jammy 0.2.2-1build1 amd64
@@ -4670,7 +4670,7 @@ dmktools/jammy 17.0-1ubuntu3 amd64
 dmraid/jammy 1.0.0.rc16-10ubuntu2 amd64
 dmrconfig/jammy 1.1+git20190919.e47491e-7 amd64
 dmrgpp/jammy 6.02-2 amd64
-dmsetup/jammy-updates 2:1.02.175-2.1ubuntu5 amd64 [upgradable from: 2:1.02.175-2.1ubuntu4]
+dmsetup/jammy-updates,now 2:1.02.175-2.1ubuntu5 amd64 [installed,automatic]
 dmtracedump/jammy 10.0.0+r36-3 amd64
 dmtx-utils/jammy 0.7.6-1.1build1 amd64
 dmucs/jammy 0.6.1-3build1 amd64
@@ -9448,7 +9448,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy-updates,jammy-security 1.0.0+ds-1ubuntu0.22.04.1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.89.0 amd64 [installed]
+gh/unknown,now 2.90.0 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -9629,7 +9629,7 @@ gir1.2-gfbgraph-0.2/jammy 0.2.5-2 amd64
 gir1.2-ggit-1.0/jammy 1.0.0.1-1 amd64
 gir1.2-gkbd-3.0/jammy 3.26.1-2 amd64
 gir1.2-gladeui-2.0/jammy 3.38.2-7 amd64
-gir1.2-glib-2.0/jammy 1.72.0-1 amd64
+gir1.2-glib-2.0/jammy,now 1.72.0-1 amd64 [installed,automatic]
 gir1.2-gmenu-3.0/jammy 3.36.0-1ubuntu3 amd64
 gir1.2-gmime-3.0/jammy 3.2.7-1 amd64
 gir1.2-gnomeautoar-0.1/jammy 0.4.3-1 amd64
@@ -12440,7 +12440,7 @@ golang-github-smira-flag-dev/jammy 0.0~git20170926.695ea5e-1.1 all
 golang-github-smira-go-aws-auth-dev/jammy 0.0~git20160320.0070896-1.1 all
 golang-github-smira-go-ftp-protocol-dev/jammy 0.0~git20140829.066b75c-2 all
 golang-github-smira-go-xz-dev/jammy 0.0~git20150414.0c531f0-2.1 all
-golang-github-snapcore-snapd-dev/jammy-updates,jammy-security 2.73+ubuntu22.04.1 all
+golang-github-snapcore-snapd-dev/jammy-updates 2.74.1+ubuntu22.04.4 all
 golang-github-socketplane-libovsdb-dev/jammy 0.1+git20160503.9.d4b9e7a53548-2.1 all
 golang-github-soheilhy-cmux-dev/jammy 0.1.4-2 all
 golang-github-soniah-dnsmadeeasy-dev/jammy 1.1+git20150117.5578a8c-4 all
@@ -12545,7 +12545,7 @@ golang-github-twstrike-otr3-dev/jammy 0.0~git20161015.0.744856d-3.1 all
 golang-github-ua-parser-uap-go-dev/jammy 0.0~git20211112.00c877e-1 all
 golang-github-uber-go-atomic-dev/jammy 1.8.0-2 all
 golang-github-uber-go-tally-dev/jammy 4.0.1-1 all
-golang-github-ubuntu-core-snappy-dev/jammy-updates,jammy-security 2.73+ubuntu22.04.1 all
+golang-github-ubuntu-core-snappy-dev/jammy-updates 2.74.1+ubuntu22.04.4 all
 golang-github-ugorji-go-codec-dev/jammy 1.1.7-2build1 all
 golang-github-ugorji-go-codec/jammy 1.1.7-2build1 amd64
 golang-github-ugorji-go-msgpack-dev/jammy 0.0~git20130605.792643-5 all
@@ -13223,7 +13223,7 @@ grpn/jammy 1.4.1-1 amd64
 grr-client-templates/jammy 3.1.0.2-4 all
 grr.app/jammy 1.0-1build7 amd64
 grsync/jammy 1.3.0-1 amd64
-grub-common/jammy-updates 2.06-2ubuntu7.2 amd64 [upgradable from: 2.06-2ubuntu7]
+grub-common/jammy-updates,now 2.06-2ubuntu7.2 amd64 [installed,automatic]
 grub-coreboot-bin/jammy-updates 2.06-2ubuntu7.2 amd64
 grub-coreboot-dbg/jammy-updates 2.06-2ubuntu7.2 amd64
 grub-coreboot/jammy-updates 2.06-2ubuntu7.2 amd64
@@ -13248,9 +13248,9 @@ grub-invaders/jammy 1.0.0-15 amd64
 grub-ipxe/jammy 1.21.1+git-20220113.fbbdc3926-0ubuntu1 all
 grub-legacy-ec2/jammy 1:1ubuntu2 all
 grub-linuxbios/jammy-updates 2.06-2ubuntu7.2 amd64
-grub-pc-bin/jammy-updates 2.06-2ubuntu7.2 amd64 [upgradable from: 2.06-2ubuntu7]
+grub-pc-bin/jammy-updates,now 2.06-2ubuntu7.2 amd64 [installed,automatic]
 grub-pc-dbg/jammy-updates 2.06-2ubuntu7.2 amd64
-grub-pc/jammy-updates 2.06-2ubuntu7.2 amd64 [upgradable from: 2.06-2ubuntu7]
+grub-pc/jammy-updates,now 2.06-2ubuntu7.2 amd64 [installed,automatic]
 grub-rescue-pc/jammy-updates 2.06-2ubuntu7.2 amd64
 grub-splashimages/jammy 1.2.3+nmu1 all
 grub-theme-breeze/jammy 5.24.4-0ubuntu1 amd64
@@ -13259,7 +13259,7 @@ grub-xen-bin/jammy-updates 2.06-2ubuntu7.2 amd64
 grub-xen-dbg/jammy-updates 2.06-2ubuntu7.2 amd64
 grub-xen-host/jammy-updates 2.06-2ubuntu7.2 amd64
 grub-xen/jammy-updates 2.06-2ubuntu7.2 amd64
-grub2-common/jammy-updates 2.06-2ubuntu7.2 amd64 [upgradable from: 2.06-2ubuntu7]
+grub2-common/jammy-updates,now 2.06-2ubuntu7.2 amd64 [installed,automatic]
 grub2-splashimages/jammy 1.0.1+nmu2 all
 grub2-themes-ubuntu-mate/jammy 0.3.7 all
 grub2-themes-ubuntustudio/jammy 0.5 all
@@ -14476,10 +14476,10 @@ ingerman/jammy 20161207-9 all
 inhomog/jammy 0.1.9.2-1build2 amd64
 init-system-helpers/jammy,now 1.62 all [installed]
 init/jammy 1.62 amd64
-initramfs-tools-bin/jammy-updates 0.140ubuntu13.5 amd64
-initramfs-tools-core/jammy-updates 0.140ubuntu13.5 all
+initramfs-tools-bin/jammy-updates,now 0.140ubuntu13.5 amd64 [installed,automatic]
+initramfs-tools-core/jammy-updates,now 0.140ubuntu13.5 all [installed,automatic]
 initramfs-tools-devices/jammy 0.5 all
-initramfs-tools/jammy-updates 0.140ubuntu13.5 all
+initramfs-tools/jammy-updates,now 0.140ubuntu13.5 all [installed,automatic]
 initz/jammy 0.0.11+20030603cvs-17.3 all
 ink-generator/jammy 0.4-2.1 all
 ink/jammy 0.5.3-3 amd64
@@ -15443,7 +15443,7 @@ kleborate/jammy 2.2.0-1 amd64
 kleopatra/jammy 4:21.12.3-0ubuntu1 amd64
 klettres-data/jammy 4:21.12.3-0ubuntu1 all
 klettres/jammy 4:21.12.3-0ubuntu1 amd64
-klibc-utils/jammy-updates,jammy-security 2.0.10-4ubuntu0.2 amd64
+klibc-utils/jammy-updates,jammy-security,now 2.0.10-4ubuntu0.2 amd64 [installed,automatic]
 klick/jammy 0.12.2-4.1 amd64
 klickety/jammy 4:21.12.3-0ubuntu1 amd64
 klines/jammy 4:21.12.3-0ubuntu1 amd64
@@ -17532,7 +17532,7 @@ libapp-repl-perl/jammy 0.012-2.1 all
 libapp-st-perl/jammy 1.1.4-6 all
 libapp-termcast-perl/jammy 0.13-3 all
 libapparmor-dev/jammy-updates 3.0.4-2ubuntu2.5 amd64
-libapparmor1/jammy-updates 3.0.4-2ubuntu2.5 amd64 [upgradable from: 3.0.4-2ubuntu2.4]
+libapparmor1/jammy-updates,now 3.0.4-2ubuntu2.5 amd64 [installed,automatic]
 libappconfig-perl/jammy 1.71-2.1 all
 libappconfig-std-perl/jammy 1.10-1 all
 libappimage-dev/jammy 0.1.10+dfsg-0ubuntu1 amd64
@@ -17606,7 +17606,7 @@ libarcus-dev/jammy 4.13.0-2build1 amd64
 libarcus3/jammy 4.13.0-2build1 amd64
 libargh-dev/jammy 1.3.1+ds-3 all
 libargon2-0/jammy 0~20171227-0.3 amd64
-libargon2-1/jammy 0~20171227-0.3 amd64
+libargon2-1/jammy,now 0~20171227-0.3 amd64 [installed,automatic]
 libargon2-dev/jammy 0~20171227-0.3 amd64
 libargparse4j-java-doc/jammy 0.4.4-1.1 all
 libargparse4j-java/jammy 0.4.4-1.1 all
@@ -20165,7 +20165,7 @@ libcryptokit-ocaml/jammy 1.16.1-1build3 amd64
 libcryptominisat5-5.8/jammy 5.8.0+dfsg1-2 amd64
 libcryptominisat5-dev/jammy 5.8.0+dfsg1-2 amd64
 libcryptsetup-dev/jammy-updates 2:2.4.3-1ubuntu1.3 amd64
-libcryptsetup12/jammy-updates 2:2.4.3-1ubuntu1.3 amd64
+libcryptsetup12/jammy-updates,now 2:2.4.3-1ubuntu1.3 amd64 [installed,automatic]
 libcryptui-dev/jammy 3.12.2-6 amd64
 libcryptui-doc/jammy 3.12.2-6 all
 libcryptui0a/jammy 3.12.2-6 amd64
@@ -20727,7 +20727,7 @@ libdcmtk-dev/jammy 3.6.6-5 amd64
 libdcmtk16/jammy 3.6.6-5 amd64
 libdconf-dev/jammy-updates 0.40.0-3ubuntu0.1 amd64
 libdconf-doc/jammy-updates 0.40.0-3ubuntu0.1 all
-libdconf1/jammy-updates 0.40.0-3ubuntu0.1 amd64 [upgradable from: 0.40.0-3]
+libdconf1/jammy-updates,now 0.40.0-3ubuntu0.1 amd64 [installed,automatic]
 libdcontainers-dev/jammy 0.8.0~alpha.16-1build6 amd64
 libdcontainers0/jammy 0.8.0~alpha.16-1build6 amd64
 libdd-plist-java/jammy 1.20-1.1 all
@@ -20852,7 +20852,7 @@ libdevil-dev/jammy 1.7.8-10build2 amd64
 libdevil1c2/jammy 1.7.8-10build2 amd64
 libdevmapper-dev/jammy-updates 2:1.02.175-2.1ubuntu5 amd64
 libdevmapper-event1.02.1/jammy-updates 2:1.02.175-2.1ubuntu5 amd64
-libdevmapper1.02.1/jammy-updates 2:1.02.175-2.1ubuntu5 amd64 [upgradable from: 2:1.02.175-2.1ubuntu4]
+libdevmapper1.02.1/jammy-updates,now 2:1.02.175-2.1ubuntu5 amd64 [installed,automatic]
 libdewalls-dev/jammy 1.0.0+ds1-9 amd64
 libdewalls1/jammy 1.0.0+ds1-9 amd64
 libdexx-java/jammy 0.7-2 all
@@ -21102,14 +21102,14 @@ libdraco-dev/jammy 1.5.2+dfsg-2 amd64
 libdraco4/jammy 1.5.2+dfsg-2 amd64
 libdrilbo-common/jammy 0.2.11-2.1 all
 libdrilbo-dev/jammy 0.2.11-2.1 amd64
-libdrm-amdgpu1/jammy-updates 2.4.113-2~ubuntu0.22.04.1 amd64 [upgradable from: 2.4.110-1ubuntu1]
-libdrm-common/jammy-updates 2.4.113-2~ubuntu0.22.04.1 all [upgradable from: 2.4.110-1ubuntu1]
+libdrm-amdgpu1/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 amd64 [installed,automatic]
+libdrm-common/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 all [installed,automatic]
 libdrm-dev/jammy-updates 2.4.113-2~ubuntu0.22.04.1 amd64
-libdrm-intel1/jammy-updates 2.4.113-2~ubuntu0.22.04.1 amd64 [upgradable from: 2.4.110-1ubuntu1]
-libdrm-nouveau2/jammy-updates 2.4.113-2~ubuntu0.22.04.1 amd64 [upgradable from: 2.4.110-1ubuntu1]
-libdrm-radeon1/jammy-updates 2.4.113-2~ubuntu0.22.04.1 amd64 [upgradable from: 2.4.110-1ubuntu1]
+libdrm-intel1/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 amd64 [installed,automatic]
+libdrm-nouveau2/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 amd64 [installed,automatic]
+libdrm-radeon1/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 amd64 [installed,automatic]
 libdrm-tests/jammy-updates 2.4.113-2~ubuntu0.22.04.1 amd64
-libdrm2/jammy-updates 2.4.113-2~ubuntu0.22.04.1 amd64 [upgradable from: 2.4.110-1ubuntu1]
+libdrm2/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 amd64 [installed,automatic]
 libdrmaa1.0-java-doc/jammy 8.1.9+dfsg-10build1 all
 libdrmaa1.0-java/jammy 8.1.9+dfsg-10build1 all
 libdrmaa1.0-ruby/jammy 8.1.9+dfsg-10build1 all
@@ -26382,7 +26382,7 @@ libgio3.0-cil/jammy 2.99.3-4build1 amd64
 libgirara-dev/jammy 0.3.7-1 amd64
 libgirara-doc/jammy 0.3.7-1 all
 libgirara-gtk3-3/jammy 0.3.7-1 amd64
-libgirepository-1.0-1/jammy 1.72.0-1 amd64
+libgirepository-1.0-1/jammy,now 1.72.0-1 amd64 [installed,automatic]
 libgirepository1.0-dev/jammy 1.72.0-1 amd64
 libgirepository1.0-doc/jammy 1.72.0-1 all
 libgisi-dev/jammy 0.1.0-2 amd64
@@ -26419,9 +26419,9 @@ libgkl-java/jammy 0.8.9+dfsg-4 all
 libgkl-jni/jammy 0.8.9+dfsg-4 amd64
 libgl-dev/jammy 1.4.0-1 amd64
 libgl-gst/jammy 3.2.5-1.3ubuntu1 amd64
-libgl1-amber-dri/jammy-updates 21.3.9-0ubuntu1~22.04.1 amd64 [upgradable from: 21.3.7-0ubuntu1]
+libgl1-amber-dri/jammy-updates,now 21.3.9-0ubuntu1~22.04.1 amd64 [installed,automatic]
 libgl1-mesa-dev/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64
-libgl1-mesa-dri/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64 [upgradable from: 22.0.1-1ubuntu2]
+libgl1-mesa-dri/jammy-updates,now 23.2.1-1ubuntu3.1~22.04.3 amd64 [installed,automatic]
 libgl1-mesa-glx/jammy-updates 23.0.4-0ubuntu1~22.04.1 amd64
 libgl1/jammy,now 1.4.0-1 amd64 [installed,automatic]
 libgl2ps-dev/jammy 1.4.2+dfsg1-2 amd64
@@ -26438,7 +26438,7 @@ libgladeui-2-13/jammy 3.38.2-7 amd64
 libgladeui-common/jammy 3.38.2-7 all
 libgladeui-dev/jammy 3.38.2-7 amd64
 libgladeui-doc/jammy 3.38.2-7 all
-libglapi-mesa/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64 [upgradable from: 22.0.1-1ubuntu2]
+libglapi-mesa/jammy-updates,now 23.2.1-1ubuntu3.1~22.04.3 amd64 [installed,automatic]
 libglazedlists-java/jammy 1.9.1-3 all
 libglbinding-dev/jammy 2.1.1-2build1 amd64
 libglbinding2/jammy 2.1.1-2build1 amd64
@@ -26630,7 +26630,7 @@ libglw1-mesa-dev/jammy 8.0.0-1.1build1 amd64
 libglw1-mesa/jammy 8.0.0-1.1build1 amd64
 libglx-amber0/jammy-updates 21.3.9-0ubuntu1~22.04.1 amd64
 libglx-dev/jammy 1.4.0-1 amd64
-libglx-mesa0/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64 [upgradable from: 22.0.1-1ubuntu2]
+libglx-mesa0/jammy-updates,now 23.2.1-1ubuntu3.1~22.04.3 amd64 [installed,automatic]
 libglx0/jammy,now 1.4.0-1 amd64 [installed,automatic]
 libglyr-dev/jammy 1.0.10-1 amd64
 libglyr-doc/jammy 1.0.10-1 all
@@ -28760,7 +28760,7 @@ libiodbc2/jammy 3.52.9-2.1 amd64
 libion-dev/jammy 3.2.1+dfsg-1.1 amd64
 libion0/jammy 3.2.1+dfsg-1.1 amd64
 libip4tc-dev/jammy-updates 1.8.7-1ubuntu5.2 amd64
-libip4tc2/jammy-updates 1.8.7-1ubuntu5.2 amd64
+libip4tc2/jammy-updates,now 1.8.7-1ubuntu5.2 amd64 [installed,automatic]
 libip6tc-dev/jammy-updates 1.8.7-1ubuntu5.2 amd64
 libip6tc2/jammy-updates 1.8.7-1ubuntu5.2 amd64
 libipa-hbac-dev/jammy-updates 2.6.3-1ubuntu3.6 amd64
@@ -29647,7 +29647,7 @@ libjsofa-java/jammy 0~20210512-1 all
 libjson-any-perl/jammy 1.39-2 all
 libjson-c-dev/jammy-updates,jammy-security 0.15-3~ubuntu1.22.04.2 amd64
 libjson-c-doc/jammy-updates,jammy-security 0.15-3~ubuntu1.22.04.2 all
-libjson-c5/jammy-updates,jammy-security 0.15-3~ubuntu1.22.04.2 amd64
+libjson-c5/jammy-updates,jammy-security,now 0.15-3~ubuntu1.22.04.2 amd64 [installed,automatic]
 libjson-glib-1.0-0/jammy 1.6.6-1build1 amd64
 libjson-glib-1.0-common/jammy 1.6.6-1build1 all
 libjson-glib-dev/jammy 1.6.6-1build1 amd64
@@ -30330,7 +30330,7 @@ libklatexformula4-dev/jammy 4.1.0-1 amd64
 libklatexformula4-doc/jammy 4.1.0-1 all
 libklatexformula4/jammy 4.1.0-1 amd64
 libklibc-dev/jammy-updates,jammy-security 2.0.10-4ubuntu0.2 amd64
-libklibc/jammy-updates,jammy-security 2.0.10-4ubuntu0.2 amd64
+libklibc/jammy-updates,jammy-security,now 2.0.10-4ubuntu0.2 amd64 [installed,automatic]
 libklu1/jammy 1:5.10.1+dfsg-4build1 amd64
 libkmc-dev/jammy 3.2.1+dfsg-1 amd64
 libkmer-dev/jammy 0~20150903+r2013-8build2 amd64
@@ -30567,8 +30567,8 @@ libldacbt-abr-dev/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-abr2/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-enc-dev/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
 libldacbt-enc2/jammy 2.0.2.3+git20200429+ed310a0-4 amd64
-libldap-2.5-0/jammy-updates 2.5.20+dfsg-0ubuntu0.22.04.1 amd64 [upgradable from: 2.5.16+dfsg-0ubuntu0.22.04.2]
-libldap-common/jammy-updates 2.5.20+dfsg-0ubuntu0.22.04.1 all [upgradable from: 2.5.16+dfsg-0ubuntu0.22.04.2]
+libldap-2.5-0/jammy-updates,now 2.5.20+dfsg-0ubuntu0.22.04.1 amd64 [installed,automatic]
+libldap-common/jammy-updates,now 2.5.20+dfsg-0ubuntu0.22.04.1 all [installed,automatic]
 libldap-dev/jammy-updates 2.5.20+dfsg-0ubuntu0.22.04.1 amd64
 libldap-java/jammy 5.0.0+dfsg1-1 all
 libldap-ocaml-dev/jammy 2.4.2-1build3 amd64
@@ -30761,9 +30761,9 @@ libllvm-15-ocaml-dev/jammy-updates,jammy-security 1:15.0.7-0ubuntu0.22.04.3 amd6
 libllvm-ocaml-dev/jammy 1:14.0-55~exp2 amd64
 libllvm11/jammy 1:11.1.0-6 amd64
 libllvm12/jammy 1:12.0.1-19ubuntu3 amd64
-libllvm13/jammy-updates,jammy-security,now 1:13.0.1-2ubuntu2.2 amd64 [installed,automatic]
+libllvm13/jammy-updates,jammy-security 1:13.0.1-2ubuntu2.2 amd64
 libllvm14/jammy-updates,jammy-security 1:14.0.0-1ubuntu1.1 amd64
-libllvm15/jammy-updates,jammy-security 1:15.0.7-0ubuntu0.22.04.3 amd64
+libllvm15/jammy-updates,jammy-security,now 1:15.0.7-0ubuntu0.22.04.3 amd64 [installed,automatic]
 libllvmspirvlib-12-dev/jammy 12.0.0-3 amd64
 libllvmspirvlib-14-dev/jammy-updates 14.0.0-3~ubuntu0.22.04.1 amd64
 libllvmspirvlib-15-dev/jammy-updates,jammy-security 15.0.0-1~ubuntu0.22.04.2 amd64
@@ -33310,7 +33310,7 @@ libnss-nisplus/jammy 1.3-0ubuntu6 amd64
 libnss-pgsql2/jammy 1.4.0debian-8 amd64
 libnss-resolve/jammy-updates 249.11-0ubuntu3.20 amd64
 libnss-sss/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libnss-systemd/jammy-updates 249.11-0ubuntu3.20 amd64
+libnss-systemd/jammy-updates,now 249.11-0ubuntu3.20 amd64 [installed,automatic]
 libnss-tls/jammy 1.1-1 amd64
 libnss-unknown/jammy 0.0.2-2 amd64
 libnss-winbind/jammy-updates,jammy-security 2:4.15.13+dfsg-0ubuntu1.10 amd64
@@ -34712,7 +34712,7 @@ libpam-snapper/jammy 0.9.0-1 amd64
 libpam-ssh-agent-auth/jammy 0.10.3-3.1ubuntu2 amd64
 libpam-ssh/jammy 2.3+ds-6 amd64
 libpam-sss/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libpam-systemd/jammy-updates 249.11-0ubuntu3.20 amd64
+libpam-systemd/jammy-updates,now 249.11-0ubuntu3.20 amd64 [installed,automatic]
 libpam-tacplus/jammy 1.3.8-2.1 amd64
 libpam-tmpdir/jammy 0.09build1 amd64
 libpam-u2f/jammy-updates,jammy-security 1.1.0-1.1+deb12u1build0.22.04.1 amd64
@@ -34943,7 +34943,7 @@ libpcsc-perl/jammy 1.4.14-5build2 amd64
 libpcscada0.7.6/jammy 0.7.6-2 amd64
 libpcscada8-dev/jammy 0.7.6-2 amd64
 libpcsclite-dev/jammy-updates 1.9.5-3ubuntu1 amd64
-libpcsclite1/jammy-updates 1.9.5-3ubuntu1 amd64 [upgradable from: 1.9.5-3]
+libpcsclite1/jammy-updates,now 1.9.5-3ubuntu1 amd64 [installed,automatic]
 libpdal-base13/jammy 2.3.0+ds-2ubuntu4 amd64
 libpdal-dev/jammy 2.3.0+ds-2ubuntu4 amd64
 libpdal-plugin-draco/jammy 2.3.0+ds-2ubuntu4 amd64
@@ -35782,8 +35782,8 @@ libpython2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
 libpython3-all-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-all-dev/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
-libpython3-dev/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
-libpython3-stdlib/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+libpython3-dev/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
+libpython3-stdlib/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 libpython3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.15 amd64
 libpython3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
 libpython3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.15 amd64 [installed,automatic]
@@ -38712,16 +38712,16 @@ libsane/jammy 1.1.1-5 amd64
 libsanlock-client1/jammy 3.8.4-1build2 amd64
 libsanlock-dev/jammy 3.8.4-1build2 amd64
 libsanlock1/jammy 3.8.4-1build2 amd64
-libsasl2-2/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64 [upgradable from: 2.1.27+dfsg2-3ubuntu1]
+libsasl2-2/jammy-updates,now 2.1.27+dfsg2-3ubuntu1.2 amd64 [installed,automatic]
 libsasl2-dev/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64
-libsasl2-modules-db/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64 [upgradable from: 2.1.27+dfsg2-3ubuntu1]
+libsasl2-modules-db/jammy-updates,now 2.1.27+dfsg2-3ubuntu1.2 amd64 [installed,automatic]
 libsasl2-modules-gssapi-heimdal/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64
 libsasl2-modules-gssapi-mit/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64
 libsasl2-modules-kdexoauth2/jammy 21.12.3-0ubuntu1 amd64
 libsasl2-modules-ldap/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64
 libsasl2-modules-otp/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64
 libsasl2-modules-sql/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64
-libsasl2-modules/jammy-updates 2.1.27+dfsg2-3ubuntu1.2 amd64 [upgradable from: 2.1.27+dfsg2-3ubuntu1]
+libsasl2-modules/jammy-updates,now 2.1.27+dfsg2-3ubuntu1.2 amd64 [installed,automatic]
 libsass-dev/jammy 3.6.5-1ubuntu1 amd64
 libsass1/jammy 3.6.5-1ubuntu1 amd64
 libsavitar-dev/jammy 4.13.0-2build1 amd64
@@ -42086,7 +42086,7 @@ libvtkgdcm-tools/jammy 3.0.10-1build2 amd64
 libvtkgdcm3.0/jammy 3.0.10-1build2 amd64
 libvulkan-dev/jammy 1.3.204.1-2 amd64
 libvulkan-volk-dev/jammy 1.2.198-1 all
-libvulkan1/jammy,now 1.3.204.1-2 amd64 [installed,automatic]
+libvulkan1/jammy 1.3.204.1-2 amd64
 libvuser-google-api-perl/jammy 1.0.1-1.1 all
 libvw-dev/jammy 8.6.1.dfsg1-1build3 amd64
 libvw0/jammy 8.6.1.dfsg1-1build3 amd64
@@ -42121,7 +42121,7 @@ libwavpack1/jammy 5.4.0-1build2 amd64
 libwayland-bin/jammy-updates,jammy-security 1.20.0-1ubuntu0.1 amd64
 libwayland-client++0/jammy 0.2.8-2 amd64
 libwayland-client-extra++0/jammy 0.2.8-2 amd64
-libwayland-client0/jammy-updates,jammy-security,now 1.20.0-1ubuntu0.1 amd64 [installed,automatic]
+libwayland-client0/jammy-updates,jammy-security 1.20.0-1ubuntu0.1 amd64
 libwayland-cursor++0/jammy 0.2.8-2 amd64
 libwayland-cursor0/jammy-updates,jammy-security 1.20.0-1ubuntu0.1 amd64
 libwayland-dev/jammy-updates,jammy-security 1.20.0-1ubuntu0.1 amd64
@@ -44102,7 +44102,7 @@ linux-azure-tools-5.15.0-1102/jammy-updates,jammy-security 5.15.0-1102.111 amd64
 linux-azure-tools-5.15.0-1109/jammy-updates,jammy-security 5.15.0-1109.118 amd64
 linux-azure/jammy-updates,jammy-security 6.8.0-1052.58~22.04.1 amd64
 linux-base-sgx/jammy-updates 4.5ubuntu9+22.04.1 all
-linux-base/jammy-updates 4.5ubuntu9+22.04.1 all [upgradable from: 4.5ubuntu9]
+linux-base/jammy-updates,now 4.5ubuntu9+22.04.1 all [installed,automatic]
 linux-buildinfo-5.15.0-100-generic/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-buildinfo-5.15.0-100-lowlatency/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-buildinfo-5.15.0-1002-gke/jammy 5.15.0-1002.2 amd64
@@ -90833,7 +90833,7 @@ mesa-utils-bin/jammy 8.4.0-1ubuntu1 amd64
 mesa-utils/jammy 8.4.0-1ubuntu1 amd64
 mesa-va-drivers/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64
 mesa-vdpau-drivers/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64
-mesa-vulkan-drivers/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64 [upgradable from: 22.0.1-1ubuntu2]
+mesa-vulkan-drivers/jammy-updates 23.2.1-1ubuntu3.1~22.04.3 amd64
 mesaflash/jammy 3.4.2-1 amd64
 mescc-tools/jammy 1.3-2 amd64
 meshio-tools/jammy 5.3.0-1 all
@@ -92071,7 +92071,7 @@ network-manager-strongswan/jammy 1.5.2-1 amd64
 network-manager-vpnc-gnome/jammy 1.2.8-2 amd64
 network-manager-vpnc/jammy 1.2.8-2 amd64
 network-manager/jammy-updates 1.36.6-0ubuntu2.4 amd64
-networkd-dispatcher/jammy-updates,jammy-security 2.1-2ubuntu0.22.04.2 all
+networkd-dispatcher/jammy-updates,jammy-security,now 2.1-2ubuntu0.22.04.2 all [installed,automatic]
 networking-bagpipe-common/jammy 16.0.0-0ubuntu1 all
 networking-bgpvpn-common/jammy 16.0.0-0ubuntu1 all
 networking-l2gw-common/jammy 1:18.0.0+git2021120909.6872c3b-0ubuntu1 all
@@ -99329,7 +99329,7 @@ python3-dbfread/jammy 2.0.7-3 all
 python3-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
 python3-dbus-tests/jammy 1.2.18-3build1 amd64
 python3-dbus.mainloop.pyqt5/jammy 5.15.6+dfsg-1ubuntu3 amd64
-python3-dbus/jammy 1.2.18-3build1 amd64
+python3-dbus/jammy,now 1.2.18-3build1 amd64 [installed,automatic]
 python3-dbusdeviation/jammy 0.6.0-2 amd64
 python3-dbusmock/jammy 0.27.5-1 all
 python3-dbussy/jammy 1.3-1.1 amd64
@@ -99365,7 +99365,7 @@ python3-descartes/jammy 1.1.0-4 all
 python3-designate-dashboard/jammy 14.0.0-0ubuntu1 all
 python3-designate/jammy-updates 1:14.0.4-0ubuntu1 all
 python3-designateclient/jammy 4.5.0-0ubuntu1 all
-python3-dev/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3-dev/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 python3-devpi-common/jammy 3.2.2-1.1 all
 python3-dfdatetime/jammy 20210509-1 all
 python3-dfvfs/jammy 20201219-1 all
@@ -99956,7 +99956,7 @@ python3-gflags/jammy 1.5.1-7 all
 python3-ghdiff/jammy 0.4-2 all
 python3-gi-cairo/jammy-updates 3.42.1-0ubuntu1 amd64
 python3-gi-dbg/jammy-updates 3.42.1-0ubuntu1 amd64
-python3-gi/jammy-updates 3.42.1-0ubuntu1 amd64
+python3-gi/jammy-updates,now 3.42.1-0ubuntu1 amd64 [installed,automatic]
 python3-gimmik/jammy 2.1-1.1 all
 python3-ginga/jammy 3.3.0-1 all
 python3-git-os-job/jammy 1.0.1-4 all
@@ -100606,7 +100606,7 @@ python3-minecraftpi/jammy 0.22-3 all
 python3-mini-buildd/jammy 1.9.99 all
 python3-minidb/jammy 2.0.6-1 all
 python3-minieigen/jammy 0.50.3+dfsg1-13build1 amd64
-python3-minimal/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3-minimal/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 python3-minimock/jammy 1.2.8-3 all
 python3-miniupnpc/jammy 2.2.3-1build1 amd64
 python3-mirtop/jammy 0.4.24-1 all
@@ -102747,7 +102747,7 @@ python3.11-minimal/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-nopie/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-venv/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11/jammy-updates 3.11.0~rc1-1~22.04 amd64
-python3/jammy-updates 3.10.6-1~22.04.1 amd64 [upgradable from: 3.10.6-1~22.04]
+python3/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed]
 pythonpy/jammy 0.4.11b-3ubuntu1 all
 pytidylib-doc/jammy 0.3.2~dfsg-7 all
 pytrainer/jammy 2.0.2-2 all
@@ -106734,7 +106734,7 @@ ruby-webkit2-gtk/jammy 3.4.3-1+ubuntu5 all
 ruby-webmock/jammy 3.8.3-1ubuntu1 all
 ruby-webpack-rails/jammy 0.9.11+git-1 all
 ruby-webpacker/jammy 4.2.2-7 all
-ruby-webrick/jammy-updates,jammy-security 1.7.0-3ubuntu0.2 all
+ruby-webrick/jammy-updates,jammy-security,now 1.7.0-3ubuntu0.2 all [installed,automatic]
 ruby-webrobots/jammy 0.1.2-1 all
 ruby-websocket-driver/jammy 0.6.3-3build3 amd64
 ruby-websocket-extensions/jammy 0.1.5-2 all
@@ -106752,7 +106752,7 @@ ruby-xml-simple/jammy 1.1.5-3 all
 ruby-xmlhash-dbg/jammy 1.3.6-2build7 amd64
 ruby-xmlhash/jammy 1.3.6-2build7 amd64
 ruby-xmlparser/jammy 0.7.3-4build2 amd64
-ruby-xmlrpc/jammy-updates 0.3.2-1ubuntu0.1 all [upgradable from: 0.3.2-1]
+ruby-xmlrpc/jammy-updates,now 0.3.2-1ubuntu0.1 all [installed,automatic]
 ruby-xmmsclient/jammy-updates 0.8+dfsg-22ubuntu0.1 amd64
 ruby-xmpp4r/jammy 0.5.6-2 all
 ruby-xpath/jammy 3.2.0-1 all
@@ -107820,7 +107820,7 @@ snake4/jammy 1.0.14-1build1 amd64
 snakemake-doc/jammy 6.15.1-2 all
 snakemake/jammy 6.15.1-2 all
 snap-aligner/jammy 1.0.0+dfsg-3 amd64
-snap-confine/jammy-updates,jammy-security 2.73+ubuntu22.04.1 amd64
+snap-confine/jammy-updates 2.74.1+ubuntu22.04.4 amd64
 snap-templates/jammy 1.0.0.2-4build1 amd64
 snap/jammy 2013-11-29-11 amd64
 snapclient/jammy 0.25.0+dfsg1-2 amd64
@@ -107828,8 +107828,8 @@ snapcraft-examples/jammy 3.0ubuntu2 all
 snapcraft-parser/jammy 3.0ubuntu2 all
 snapcraft/jammy 3.0ubuntu2 all
 snapd-glib-tests/jammy 1.60-0ubuntu1 amd64
-snapd-xdg-open/jammy-updates,jammy-security 2.73+ubuntu22.04.1 amd64
-snapd/jammy-updates,jammy-security 2.73+ubuntu22.04.1 amd64
+snapd-xdg-open/jammy-updates 2.74.1+ubuntu22.04.4 amd64
+snapd/jammy-updates 2.74.1+ubuntu22.04.4 amd64
 snaphu/jammy 2.0.5-1 amd64
 snapper-gui/jammy 0git.960a94834f-3.1 all
 snapper/jammy 0.9.0-1 amd64
@@ -108727,17 +108727,17 @@ systemd-bootchart/jammy 234-1ubuntu1 amd64
 systemd-container/jammy-updates 249.11-0ubuntu3.20 amd64
 systemd-coredump/jammy-updates 249.11-0ubuntu3.20 amd64
 systemd-cron/jammy 1.15.18-1 amd64
-systemd-hwe-hwdb/jammy-updates 249.11.6 all
+systemd-hwe-hwdb/jammy-updates,now 249.11.6 all [installed,automatic]
 systemd-journal-remote/jammy-updates 249.11-0ubuntu3.20 amd64
 systemd-oomd/jammy-updates 249.11-0ubuntu3.20 amd64
 systemd-repart/jammy-updates 249.11-0ubuntu3.20 amd64
 systemd-standalone-sysusers/jammy-updates 249.11-0ubuntu3.20 amd64
 systemd-standalone-tmpfiles/jammy-updates 249.11-0ubuntu3.20 amd64
-systemd-sysv/jammy-updates 249.11-0ubuntu3.20 amd64
+systemd-sysv/jammy-updates,now 249.11-0ubuntu3.20 amd64 [installed]
 systemd-tests/jammy-updates 249.11-0ubuntu3.20 amd64
-systemd-timesyncd/jammy-updates 249.11-0ubuntu3.20 amd64
+systemd-timesyncd/jammy-updates,now 249.11-0ubuntu3.20 amd64 [installed,automatic]
 systemd-zram-generator/jammy 0.3.2-1 amd64
-systemd/jammy-updates 249.11-0ubuntu3.20 amd64
+systemd/jammy-updates,now 249.11-0ubuntu3.20 amd64 [installed,automatic]
 systempreferences.app-dbg/jammy 1.2.0-2build7 amd64
 systempreferences.app/jammy 1.2.0-2build7 amd64
 systemsettings/jammy-updates 4:5.24.6-0ubuntu0.1 amd64
@@ -109687,8 +109687,8 @@ tint2/jammy 17.0.1-1 amd64
 tint/jammy 0.07 amd64
 tintii/jammy 2.10.0-2build1 amd64
 tintin++/jammy 2.02.03-1 amd64
-tiny-initramfs-core/jammy,now 0.1-5 amd64 [installed,automatic]
-tiny-initramfs/jammy,now 0.1-5 all [installed,automatic]
+tiny-initramfs-core/jammy 0.1-5 amd64
+tiny-initramfs/jammy 0.1-5 all
 tinycdb/jammy 0.78build3 amd64
 tinydns/jammy 1:1.05-15fakesync1 amd64
 tinydyndns/jammy 0.4.2.debian1-2 amd64
@@ -110234,7 +110234,7 @@ typecatcher/jammy 0.3-1.2 all
 typespeed/jammy 0.6.5-4 amd64
 tz-converter/jammy 1.0.1-1 all
 tzc/jammy 2.6.15-5.4 amd64
-tzdata/jammy-updates 2026a-0ubuntu0.22.04.1 all [upgradable from: 2025b-0ubuntu0.22.04.1]
+tzdata/jammy-updates,now 2026a-0ubuntu0.22.04.1 all [installed,automatic]
 tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
@@ -110281,8 +110281,8 @@ ubuntu-budgie-themes/jammy 0.14.4 all
 ubuntu-business-defaults/jammy 39 all
 ubuntu-cloud-keyring/jammy 2021.03.26 all
 ubuntu-cloudimage-keyring/jammy 2021.03.26 all
-ubuntu-core-launcher/jammy-updates,jammy-security 2.73+ubuntu22.04.1 amd64
-ubuntu-core-snapd-units/jammy-updates,jammy-security 2.73+ubuntu22.04.1 all
+ubuntu-core-launcher/jammy-updates 2.74.1+ubuntu22.04.4 amd64
+ubuntu-core-snapd-units/jammy-updates 2.74.1+ubuntu22.04.4 all
 ubuntu-dbgsym-keyring/jammy 2021.03.26 all
 ubuntu-defaults-builder/jammy 0.57 all
 ubuntu-defaults-it/jammy 0.2.3 all
@@ -110382,8 +110382,8 @@ ubuntu-server-minimal/jammy-updates 1.481.5 amd64
 ubuntu-server/jammy-updates 1.481.5 amd64
 ubuntu-session/jammy 42.0-1ubuntu2 all
 ubuntu-settings/jammy 22.04.6 all
-ubuntu-snappy-cli/jammy-updates,jammy-security 2.73+ubuntu22.04.1 all
-ubuntu-snappy/jammy-updates,jammy-security 2.73+ubuntu22.04.1 all
+ubuntu-snappy-cli/jammy-updates 2.74.1+ubuntu22.04.4 all
+ubuntu-snappy/jammy-updates 2.74.1+ubuntu22.04.4 all
 ubuntu-sounds/jammy 0.14 all
 ubuntu-standard/jammy-updates 1.481.5 amd64
 ubuntu-touch-settings/jammy 22.04.6 all
@@ -110491,7 +110491,7 @@ ucto/jammy 0.21.1-2build2 amd64
 uctodata/jammy 0.8-2 all
 ucx-utils/jammy 1.12.1~rc2-1 amd64
 udav/jammy 8.0.1-1 amd64
-udev/jammy-updates 249.11-0ubuntu3.20 amd64
+udev/jammy-updates,now 249.11-0ubuntu3.20 amd64 [installed,automatic]
 udevil/jammy 0.4.4-3 amd64
 udfclient/jammy 0.8.11-2 amd64
 udftools/jammy 2.3-1 amd64
@@ -110756,7 +110756,7 @@ unsort/jammy 1.2.1-1build1 amd64
 untex/jammy 1:1.2-7 amd64
 unworkable/jammy 0.53-5build2 amd64
 unyaffs/jammy 0.9.7-0.2 amd64
-unzip/jammy-updates 6.0-26ubuntu3.2 amd64 [upgradable from: 6.0-26ubuntu3.1]
+unzip/jammy-updates,now 6.0-26ubuntu3.2 amd64 [installed,automatic]
 upass/jammy 0.3.0-1.1 all
 update-inetd/jammy 4.51 all
 update-manager-core/jammy-updates 1:22.04.22 all
@@ -113002,7 +113002,7 @@ zsh/jammy 5.8.1-1 amd64
 zsnapd-rcmd/jammy 0.8.12-1 all
 zsnapd/jammy 0.8.12-1 all
 zssh/jammy 1.5c.debian.1-8 amd64
-zstd/jammy 1.4.8+dfsg-3build1 amd64
+zstd/jammy,now 1.4.8+dfsg-3build1 amd64 [installed,automatic]
 zsync/jammy 0.6.2-3ubuntu1 amd64
 zsys/jammy-updates,jammy-security 0.5.9ubuntu0.22.04.1 amd64
 ztclocalagent/jammy 5.0.0.30-0ubuntu3 amd64
