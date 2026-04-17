@@ -1330,7 +1330,7 @@ yarn list v1.22.22
 │  ├─ @tanstack/react-virtual@^3.0.0-beta.60
 │  └─ client-only@^0.0.1
 ├─ @heroicons/react@1.0.6
-├─ @ioredis/commands@1.6.0
+├─ @ioredis/commands@1.7.0
 ├─ @isaacs/cliui@8.0.2
 │  ├─ ansi-regex@6.2.2
 │  ├─ ansi-styles@6.2.3
