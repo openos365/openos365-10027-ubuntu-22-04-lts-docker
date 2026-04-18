@@ -2293,7 +2293,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.20.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.66
+├─ @steedos-labs/plugin-workflow@3.0.67
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -4746,7 +4746,7 @@ yarn list v1.22.22
 │  ├─ @webassemblyjs/wast-parser@1.8.5
 │  └─ @xtuc/long@4.2.2
 ├─ @webcomponents/custom-elements@1.6.0
-├─ @xmldom/xmldom@0.8.12
+├─ @xmldom/xmldom@0.8.13
 ├─ @xobotyi/scrollbar-width@1.9.5
 ├─ @xtuc/ieee754@1.2.0
 ├─ @xtuc/long@4.2.2
@@ -6452,7 +6452,7 @@ yarn list v1.22.22
 │  └─ xml@^1.0.1
 ├─ docxtemplater@3.68.5
 │  ├─ @xmldom/xmldom@^0.9.8
-│  └─ @xmldom/xmldom@0.9.9
+│  └─ @xmldom/xmldom@0.9.10
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
 │  └─ utila@~0.4
