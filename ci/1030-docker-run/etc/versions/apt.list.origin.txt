@@ -4031,7 +4031,7 @@ debaux/jammy 0.1.12-1.1 all
 debbugs-local/jammy 2.6.0ubuntu1 all
 debbugs-web/jammy 2.6.0ubuntu1 all
 debbugs/jammy 2.6.0ubuntu1 all
-debcargo/jammy-updates,jammy-security 2.5.0-2ubuntu0.1 amd64
+debcargo/jammy-security 2.5.0-2ubuntu0.2 amd64
 debci-collector/jammy 3.4 all
 debci-worker/jammy 3.4 all
 debci/jammy 3.4 all
@@ -5245,7 +5245,7 @@ ekeyd-egd-linux/jammy 1.1.5-6.2 amd64
 ekeyd/jammy 1.1.5-6.2 amd64
 el-get/jammy 3.1-1.1 all
 el-ixir/jammy 3.0-3 amd64
-elan/jammy 1.3.1-3 amd64
+elan/jammy-security 1.3.1-3ubuntu0.1 amd64
 elastalert-doc/jammy 0.2.4-1 all
 elastalert/jammy 0.2.4-1 all
 elastichosts-utils/jammy 20090817-0ubuntu1 all
@@ -18936,12 +18936,12 @@ libcanna1g-dev/jammy 3.7p3-17 amd64
 libcanna1g/jammy 3.7p3-17 amd64
 libcantor-dev/jammy 4:21.12.3-0ubuntu1 amd64
 libcantorlibs28/jammy 4:21.12.3-0ubuntu1 amd64
-libcap-dev/jammy-updates,jammy-security 1:2.44-1ubuntu0.22.04.2 amd64
+libcap-dev/jammy-security 1:2.44-1ubuntu0.22.04.3 amd64
 libcap-ng-dev/jammy 0.7.9-2.2build3 amd64
 libcap-ng-utils/jammy 0.7.9-2.2build3 amd64
 libcap-ng0/jammy,now 0.7.9-2.2build3 amd64 [installed]
-libcap2-bin/jammy-updates,jammy-security,now 1:2.44-1ubuntu0.22.04.2 amd64 [installed,automatic]
-libcap2/jammy-updates,jammy-security,now 1:2.44-1ubuntu0.22.04.2 amd64 [installed]
+libcap2-bin/jammy-security,now 1:2.44-1ubuntu0.22.04.3 amd64 [installed,automatic]
+libcap2/jammy-security,now 1:2.44-1ubuntu0.22.04.3 amd64 [installed]
 libcapi20-3/jammy 1:3.27-3 amd64
 libcapi20-dev/jammy 1:3.27-3 amd64
 libcapnp-0.8.0/jammy 0.8.0-2ubuntu2 amd64
@@ -33321,7 +33321,7 @@ libnss3/jammy-updates,jammy-security,now 2:3.98-0ubuntu0.22.04.3 amd64 [installe
 libnsync-cpp1/jammy 1.24.0-1 amd64
 libnsync-dev/jammy 1.24.0-1 amd64
 libnsync1/jammy 1.24.0-1 amd64
-libntfs-3g89/jammy-updates,jammy-security 1:2021.8.22-3ubuntu1.2 amd64
+libntfs-3g89/jammy-security 1:2021.8.22-3ubuntu1.3 amd64
 libnthash-dev/jammy 2.2.0-2 all
 libntirpc-dev/jammy 3.5-2 amd64
 libntirpc3.5/jammy 3.5-2 amd64
@@ -34655,7 +34655,7 @@ libpam-apparmor/jammy-updates 3.0.4-2ubuntu2.5 amd64
 libpam-barada/jammy 0.5-3.1build13 amd64
 libpam-biometric/jammy 1.2.2-1build1 amd64
 libpam-blue/jammy 0.9.0-3 amd64
-libpam-cap/jammy-updates,jammy-security,now 1:2.44-1ubuntu0.22.04.2 amd64 [installed,automatic]
+libpam-cap/jammy-security,now 1:2.44-1ubuntu0.22.04.3 amd64 [installed,automatic]
 libpam-ccreds/jammy 10-8ubuntu1 amd64
 libpam-cgfs/jammy-updates 1:5.0.0~git2209-g5a7b9ce67-0ubuntu1.1 amd64
 libpam-cgroup/jammy 2.0-2 amd64
@@ -37518,7 +37518,7 @@ librust-datetime-dev/jammy 0.5.2-5 amd64
 librust-dbus-0.2-dev/jammy 0.2.3-2 amd64
 librust-dbus-dev/jammy 0.9.0-3 amd64
 librust-dbus-tree-dev/jammy 0.9.2-1 amd64
-librust-debcargo-dev/jammy-updates,jammy-security 2.5.0-2ubuntu0.1 amd64
+librust-debcargo-dev/jammy-security 2.5.0-2ubuntu0.2 amd64
 librust-deflate-dev/jammy 0.7.20-2 amd64
 librust-der-oid-macro-dev/jammy 0.5.0-1 amd64
 librust-derivative-dev/jammy 2.1.1-2 amd64
@@ -94014,8 +94014,8 @@ nstreams/jammy 1.0.4-1build1 amd64
 ntcard/jammy 1.2.2+dfsg-3 amd64
 nted-doc/jammy 1.10.18-13 all
 nted/jammy 1.10.18-13 amd64
-ntfs-3g-dev/jammy-updates,jammy-security 1:2021.8.22-3ubuntu1.2 amd64
-ntfs-3g/jammy-updates,jammy-security 1:2021.8.22-3ubuntu1.2 amd64
+ntfs-3g-dev/jammy-security 1:2021.8.22-3ubuntu1.3 amd64
+ntfs-3g/jammy-security 1:2021.8.22-3ubuntu1.3 amd64
 ntfs2btrfs/jammy 20210923-2 amd64
 nthash/jammy 2.2.0-2 amd64
 ntopng-data/jammy 5.2.1+dfsg1-1 all
