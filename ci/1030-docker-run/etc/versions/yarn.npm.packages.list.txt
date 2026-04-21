@@ -3534,7 +3534,7 @@ yarn list v1.22.22
 │  ├─ amis-formula@~6.3.0
 │  ├─ app-root-path@^2.2.1
 │  ├─ axios@^1.13.2
-│  ├─ axios@1.15.1
+│  ├─ axios@1.15.2
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
 │  │  └─ proxy-from-env@^2.1.0
@@ -3709,7 +3709,7 @@ yarn list v1.22.22
 │     └─ object-assign@^4.1.1
 ├─ @steedos/plugin-qywx@2.5.52
 │  ├─ axios@^1.6.7
-│  ├─ axios@1.15.1
+│  ├─ axios@1.15.2
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
 │  │  └─ proxy-from-env@^2.1.0
@@ -4048,7 +4048,7 @@ yarn list v1.22.22
 ├─ @steedos/service-license@3.0.2
 │  ├─ @steedos/license@^3.0.2
 │  ├─ axios@^1.13.2
-│  ├─ axios@1.15.1
+│  ├─ axios@1.15.2
 │  │  ├─ follow-redirects@^1.15.11
 │  │  ├─ form-data@^4.0.5
 │  │  └─ proxy-from-env@^2.1.0
