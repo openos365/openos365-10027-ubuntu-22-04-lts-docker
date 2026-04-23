@@ -1744,8 +1744,9 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.27.0
-├─ @posthog/types@1.371.1
+├─ @posthog/core@1.27.1
+│  └─ @posthog/types@1.371.2
+├─ @posthog/types@1.371.2
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.4
@@ -4801,7 +4802,7 @@ yarn list v1.22.22
 │  └─ debug@4
 ├─ ajv-errors@1.0.1
 ├─ ajv-keywords@3.5.2
-├─ ajv@6.14.0
+├─ ajv@6.15.0
 │  ├─ fast-deep-equal@^3.1.1
 │  ├─ fast-json-stable-stringify@^2.0.0
 │  ├─ json-schema-traverse@^0.4.1
@@ -7647,6 +7648,11 @@ yarn list v1.22.22
 ├─ har-schema@2.0.0
 ├─ har-validator@5.1.5
 │  ├─ ajv@^6.12.3
+│  ├─ ajv@6.14.0
+│  │  ├─ fast-deep-equal@^3.1.1
+│  │  ├─ fast-json-stable-stringify@^2.0.0
+│  │  ├─ json-schema-traverse@^0.4.1
+│  │  └─ uri-js@^4.2.2
 │  └─ har-schema@^2.0.0
 ├─ harmony-reflect@1.6.2
 ├─ has-ansi@2.0.0
@@ -10770,7 +10776,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.371.1
+├─ posthog-js@1.371.2
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.7.0
@@ -10781,8 +10787,8 @@ yarn list v1.22.22
 │  │  ├─ @opentelemetry/core@2.7.0
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
-│  ├─ @posthog/core@1.27.0
-│  ├─ @posthog/types@1.371.1
+│  ├─ @posthog/core@1.27.1
+│  ├─ @posthog/types@1.371.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
