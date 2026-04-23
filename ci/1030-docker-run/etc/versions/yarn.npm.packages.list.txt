@@ -7648,11 +7648,6 @@ yarn list v1.22.22
 ├─ har-schema@2.0.0
 ├─ har-validator@5.1.5
 │  ├─ ajv@^6.12.3
-│  ├─ ajv@6.14.0
-│  │  ├─ fast-deep-equal@^3.1.1
-│  │  ├─ fast-json-stable-stringify@^2.0.0
-│  │  ├─ json-schema-traverse@^0.4.1
-│  │  └─ uri-js@^4.2.2
 │  └─ har-schema@^2.0.0
 ├─ harmony-reflect@1.6.2
 ├─ has-ansi@2.0.0
