@@ -14944,7 +14944,7 @@ jpegoptim/jammy 1.4.6-1 amd64
 jpegpixi/jammy 1.1.1-4.1build1 amd64
 jpegqs/jammy 1.20210408-2 amd64
 jpnevulator/jammy 2.3.6-1 amd64
-jq/jammy-updates,jammy-security,now 1.6-2.1ubuntu3.1 amd64 [installed]
+jq/jammy-updates,jammy-security,now 1.6-2.1ubuntu3.2 amd64 [installed]
 jquery-alternative-doc/jammy 1.7+dfsg-1.1 all
 jruby-maven-plugins/jammy 1.1.5+ds1-2.1 all
 jruby-openssl/jammy 0.9.21-3 all
@@ -29299,8 +29299,8 @@ libjpf-java/jammy 1.5.1+dfsg-5 all
 libjpfcodegen-java/jammy 0.4+dfsg1-1.1 all
 libjpgalleg4-dev/jammy 2:4.4.3.1-2 amd64
 libjpgalleg4.4/jammy 2:4.4.3.1-2 amd64
-libjq-dev/jammy-updates,jammy-security 1.6-2.1ubuntu3.1 amd64
-libjq1/jammy-updates,jammy-security,now 1.6-2.1ubuntu3.1 amd64 [installed,automatic]
+libjq-dev/jammy-updates,jammy-security 1.6-2.1ubuntu3.2 amd64
+libjq1/jammy-updates,jammy-security,now 1.6-2.1ubuntu3.2 amd64 [installed,automatic]
 libjreen-qt5-1/jammy 1.2.0-2.1fakesync1build1 amd64
 libjreen-qt5-dbg/jammy 1.2.0-2.1fakesync1build1 amd64
 libjreen-qt5-dev/jammy 1.2.0-2.1fakesync1build1 amd64
@@ -44782,6 +44782,7 @@ linux-buildinfo-5.15.0-1099-aws/jammy-updates,jammy-security 5.15.0-1099.106 amd
 linux-buildinfo-5.15.0-1099-azure/jammy-updates 5.15.0-1099.108 amd64
 linux-buildinfo-5.15.0-1099-gcp/jammy-updates,jammy-security 5.15.0-1099.108 amd64
 linux-buildinfo-5.15.0-1099-gke/jammy-updates,jammy-security 5.15.0-1099.105 amd64
+linux-buildinfo-5.15.0-1099-ibm/jammy-updates 5.15.0-1099.102 amd64
 linux-buildinfo-5.15.0-1099-intel-iotg/jammy-updates,jammy-security 5.15.0-1099.105 amd64
 linux-buildinfo-5.15.0-1099-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1099.100 amd64
 linux-buildinfo-5.15.0-1099-nvidia/jammy-updates,jammy-security 5.15.0-1099.100 amd64
@@ -47475,6 +47476,7 @@ linux-headers-5.15.0-1099-aws/jammy-updates,jammy-security 5.15.0-1099.106 amd64
 linux-headers-5.15.0-1099-azure/jammy-updates 5.15.0-1099.108 amd64
 linux-headers-5.15.0-1099-gcp/jammy-updates,jammy-security 5.15.0-1099.108 amd64
 linux-headers-5.15.0-1099-gke/jammy-updates,jammy-security 5.15.0-1099.105 amd64
+linux-headers-5.15.0-1099-ibm/jammy-updates 5.15.0-1099.102 amd64
 linux-headers-5.15.0-1099-intel-iotg/jammy-updates,jammy-security 5.15.0-1099.105 amd64
 linux-headers-5.15.0-1099-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1099.100 amd64
 linux-headers-5.15.0-1099-nvidia/jammy-updates,jammy-security 5.15.0-1099.100 amd64
@@ -48229,10 +48231,10 @@ linux-headers-gke-5.15/jammy-updates,jammy-security 5.15.0.1101.100 amd64
 linux-headers-gke/jammy-updates,jammy-security 5.15.0.1101.100 amd64
 linux-headers-gkeop-5.15/jammy-updates,jammy-security 5.15.0.1088.87 amd64
 linux-headers-gkeop/jammy-updates,jammy-security 5.15.0.1088.87 amd64
-linux-headers-ibm-5.15/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-headers-ibm-5.15/jammy-updates 5.15.0.1099.95 amd64
 linux-headers-ibm-6.8/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
 linux-headers-ibm-edge/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
-linux-headers-ibm/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-headers-ibm/jammy-updates 5.15.0.1099.95 amd64
 linux-headers-intel-iot-realtime/jammy-updates 5.15.0.1073.77 amd64
 linux-headers-intel-iotg-5.15/jammy-updates,jammy-security 5.15.0.1100.99 amd64
 linux-headers-intel-iotg/jammy-updates,jammy-security 5.15.0.1100.99 amd64
@@ -48467,7 +48469,7 @@ linux-hwe-6.8-tools-6.8.0-87/jammy-updates,jammy-security 6.8.0-87.88~22.04.1 am
 linux-hwe-6.8-tools-6.8.0-88/jammy-updates,jammy-security 6.8.0-88.89~22.04.2 amd64
 linux-hwe-6.8-tools-6.8.0-90/jammy-updates,jammy-security 6.8.0-90.91~22.04.1 amd64
 linux-hwe-6.8-tools-6.8.0-94/jammy-updates,jammy-security 6.8.0-94.96~22.04.1 amd64
-linux-ibm-5.15/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-ibm-5.15/jammy-updates 5.15.0.1099.95 amd64
 linux-ibm-6.8-headers-6.8.0-1008/jammy-updates,jammy-security 6.8.0-1008.8~22.04.1 all
 linux-ibm-6.8-headers-6.8.0-1010/jammy-updates,jammy-security 6.8.0-1010.10~22.04.1 all
 linux-ibm-6.8-headers-6.8.0-1011/jammy-updates,jammy-security 6.8.0-1011.11~22.04.1 all
@@ -48536,7 +48538,7 @@ linux-ibm-6.8-tools-6.8.0-1049/jammy-updates,jammy-security 6.8.0-1049.49~22.04.
 linux-ibm-6.8-tools-6.8.0-1050/jammy-updates,jammy-security 6.8.0-1050.50~22.04.1 amd64
 linux-ibm-6.8-tools-6.8.0-1051/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
 linux-ibm-6.8/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
-linux-ibm-cloud-tools-common/jammy-updates,jammy-security 5.15.0-1098.101 all
+linux-ibm-cloud-tools-common/jammy-updates 5.15.0-1099.102 all
 linux-ibm-edge/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
 linux-ibm-headers-5.15.0-1002/jammy 5.15.0-1002.2 all
 linux-ibm-headers-5.15.0-1030/jammy-updates,jammy-security 5.15.0-1030.33 all
@@ -48601,7 +48603,8 @@ linux-ibm-headers-5.15.0-1094/jammy-updates,jammy-security 5.15.0-1094.97 all
 linux-ibm-headers-5.15.0-1095/jammy-updates,jammy-security 5.15.0-1095.98 all
 linux-ibm-headers-5.15.0-1097/jammy-updates,jammy-security 5.15.0-1097.100 all
 linux-ibm-headers-5.15.0-1098/jammy-updates,jammy-security 5.15.0-1098.101 all
-linux-ibm-source-5.15.0/jammy-updates,jammy-security 5.15.0-1098.101 all
+linux-ibm-headers-5.15.0-1099/jammy-updates 5.15.0-1099.102 all
+linux-ibm-source-5.15.0/jammy-updates 5.15.0-1099.102 all
 linux-ibm-tools-5.15.0-1002/jammy 5.15.0-1002.2 amd64
 linux-ibm-tools-5.15.0-1030/jammy-updates,jammy-security 5.15.0-1030.33 amd64
 linux-ibm-tools-5.15.0-1031/jammy-updates,jammy-security 5.15.0-1031.34 amd64
@@ -48665,8 +48668,9 @@ linux-ibm-tools-5.15.0-1094/jammy-updates,jammy-security 5.15.0-1094.97 amd64
 linux-ibm-tools-5.15.0-1095/jammy-updates,jammy-security 5.15.0-1095.98 amd64
 linux-ibm-tools-5.15.0-1097/jammy-updates,jammy-security 5.15.0-1097.100 amd64
 linux-ibm-tools-5.15.0-1098/jammy-updates,jammy-security 5.15.0-1098.101 amd64
-linux-ibm-tools-common/jammy-updates,jammy-security 5.15.0-1098.101 all
-linux-ibm/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-ibm-tools-5.15.0-1099/jammy-updates 5.15.0-1099.102 amd64
+linux-ibm-tools-common/jammy-updates 5.15.0-1099.102 all
+linux-ibm/jammy-updates 5.15.0.1099.95 amd64
 linux-image-5.15.0-100-generic/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-image-5.15.0-100-lowlatency/jammy-updates,jammy-security 5.15.0-100.110 amd64
 linux-image-5.15.0-1002-gke/jammy 5.15.0-1002.2 amd64
@@ -49390,6 +49394,7 @@ linux-image-5.15.0-1099-aws/jammy-updates,jammy-security 5.15.0-1099.106 amd64
 linux-image-5.15.0-1099-azure/jammy-updates 5.15.0-1099.108 amd64
 linux-image-5.15.0-1099-gcp/jammy-updates,jammy-security 5.15.0-1099.108 amd64
 linux-image-5.15.0-1099-gke/jammy-updates,jammy-security 5.15.0-1099.105 amd64
+linux-image-5.15.0-1099-ibm/jammy-updates 5.15.0-1099.102 amd64
 linux-image-5.15.0-1099-intel-iotg/jammy-updates,jammy-security 5.15.0-1099.105 amd64
 linux-image-5.15.0-1099-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1099.100 amd64
 linux-image-5.15.0-1099-nvidia/jammy-updates,jammy-security 5.15.0-1099.100 amd64
@@ -50143,10 +50148,10 @@ linux-image-gke-5.15/jammy-updates,jammy-security 5.15.0.1101.100 amd64
 linux-image-gke/jammy-updates,jammy-security 5.15.0.1101.100 amd64
 linux-image-gkeop-5.15/jammy-updates,jammy-security 5.15.0.1088.87 amd64
 linux-image-gkeop/jammy-updates,jammy-security 5.15.0.1088.87 amd64
-linux-image-ibm-5.15/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-image-ibm-5.15/jammy-updates 5.15.0.1099.95 amd64
 linux-image-ibm-6.8/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
 linux-image-ibm-edge/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
-linux-image-ibm/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-image-ibm/jammy-updates 5.15.0.1099.95 amd64
 linux-image-intel-iot-realtime/jammy-updates 5.15.0.1073.77 amd64
 linux-image-intel-iotg-5.15/jammy-updates,jammy-security 5.15.0.1100.99 amd64
 linux-image-intel-iotg/jammy-updates,jammy-security 5.15.0.1100.99 amd64
@@ -51030,6 +51035,7 @@ linux-image-unsigned-5.15.0-1099-aws/jammy-updates,jammy-security 5.15.0-1099.10
 linux-image-unsigned-5.15.0-1099-azure/jammy-updates 5.15.0-1099.108 amd64
 linux-image-unsigned-5.15.0-1099-gcp/jammy-updates,jammy-security 5.15.0-1099.108 amd64
 linux-image-unsigned-5.15.0-1099-gke/jammy-updates,jammy-security 5.15.0-1099.105 amd64
+linux-image-unsigned-5.15.0-1099-ibm/jammy-updates 5.15.0-1099.102 amd64
 linux-image-unsigned-5.15.0-1099-intel-iotg/jammy-updates,jammy-security 5.15.0-1099.105 amd64
 linux-image-unsigned-5.15.0-1099-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1099.100 amd64
 linux-image-unsigned-5.15.0-1099-nvidia/jammy-updates,jammy-security 5.15.0-1099.100 amd64
@@ -53192,6 +53198,7 @@ linux-modules-5.15.0-1099-aws/jammy-updates,jammy-security 5.15.0-1099.106 amd64
 linux-modules-5.15.0-1099-azure/jammy-updates 5.15.0-1099.108 amd64
 linux-modules-5.15.0-1099-gcp/jammy-updates,jammy-security 5.15.0-1099.108 amd64
 linux-modules-5.15.0-1099-gke/jammy-updates,jammy-security 5.15.0-1099.105 amd64
+linux-modules-5.15.0-1099-ibm/jammy-updates 5.15.0-1099.102 amd64
 linux-modules-5.15.0-1099-intel-iotg/jammy-updates,jammy-security 5.15.0-1099.105 amd64
 linux-modules-5.15.0-1099-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1099.100 amd64
 linux-modules-5.15.0-1099-nvidia/jammy-updates,jammy-security 5.15.0-1099.100 amd64
@@ -54406,6 +54413,7 @@ linux-modules-extra-5.15.0-1099-aws/jammy-updates,jammy-security 5.15.0-1099.106
 linux-modules-extra-5.15.0-1099-azure/jammy-updates 5.15.0-1099.108 amd64
 linux-modules-extra-5.15.0-1099-gcp/jammy-updates,jammy-security 5.15.0-1099.108 amd64
 linux-modules-extra-5.15.0-1099-gke/jammy-updates,jammy-security 5.15.0-1099.105 amd64
+linux-modules-extra-5.15.0-1099-ibm/jammy-updates 5.15.0-1099.102 amd64
 linux-modules-extra-5.15.0-1099-intel-iotg/jammy-updates,jammy-security 5.15.0-1099.105 amd64
 linux-modules-extra-5.15.0-1099-nvidia/jammy-updates,jammy-security 5.15.0-1099.100 amd64
 linux-modules-extra-5.15.0-1100-aws/jammy-updates,jammy-security 5.15.0-1100.107 amd64
@@ -88976,6 +88984,7 @@ linux-tools-5.15.0-1099-aws/jammy-updates,jammy-security 5.15.0-1099.106 amd64
 linux-tools-5.15.0-1099-azure/jammy-updates 5.15.0-1099.108 amd64
 linux-tools-5.15.0-1099-gcp/jammy-updates,jammy-security 5.15.0-1099.108 amd64
 linux-tools-5.15.0-1099-gke/jammy-updates,jammy-security 5.15.0-1099.105 amd64
+linux-tools-5.15.0-1099-ibm/jammy-updates 5.15.0-1099.102 amd64
 linux-tools-5.15.0-1099-intel-iotg/jammy-updates,jammy-security 5.15.0-1099.105 amd64
 linux-tools-5.15.0-1099-nvidia-lowlatency/jammy-updates,jammy-security 5.15.0-1099.100 amd64
 linux-tools-5.15.0-1099-nvidia/jammy-updates,jammy-security 5.15.0-1099.100 amd64
@@ -89732,10 +89741,10 @@ linux-tools-gke/jammy-updates,jammy-security 5.15.0.1101.100 amd64
 linux-tools-gkeop-5.15/jammy-updates,jammy-security 5.15.0.1088.87 amd64
 linux-tools-gkeop/jammy-updates,jammy-security 5.15.0.1088.87 amd64
 linux-tools-host/jammy-updates,jammy-security 5.15.0-176.186 all
-linux-tools-ibm-5.15/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-tools-ibm-5.15/jammy-updates 5.15.0.1099.95 amd64
 linux-tools-ibm-6.8/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
 linux-tools-ibm-edge/jammy-updates,jammy-security 6.8.0-1051.51~22.04.1 amd64
-linux-tools-ibm/jammy-updates,jammy-security 5.15.0.1098.94 amd64
+linux-tools-ibm/jammy-updates 5.15.0.1099.95 amd64
 linux-tools-intel-iot-realtime/jammy-updates 5.15.0.1073.77 amd64
 linux-tools-intel-iotg-5.15/jammy-updates,jammy-security 5.15.0.1100.99 amd64
 linux-tools-intel-iotg/jammy-updates,jammy-security 5.15.0.1100.99 amd64
