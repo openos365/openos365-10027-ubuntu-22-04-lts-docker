@@ -4747,7 +4747,7 @@ yarn list v1.22.22
 │  ├─ @webassemblyjs/wast-parser@1.8.5
 │  └─ @xtuc/long@4.2.2
 ├─ @webcomponents/custom-elements@1.6.0
-├─ @xmldom/xmldom@0.8.13
+├─ @xmldom/xmldom@0.9.10
 ├─ @xobotyi/scrollbar-width@1.9.5
 ├─ @xtuc/ieee754@1.2.0
 ├─ @xtuc/long@4.2.2
@@ -4781,6 +4781,7 @@ yarn list v1.22.22
 ├─ acorn@8.16.0
 ├─ adal-node@0.2.4
 │  ├─ @xmldom/xmldom@^0.8.3
+│  ├─ @xmldom/xmldom@0.8.13
 │  ├─ async@^2.6.3
 │  ├─ axios@^0.21.1
 │  ├─ date-utils@*
@@ -5380,7 +5381,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.10.21
+├─ baseline-browser-mapping@2.10.22
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -6448,8 +6449,7 @@ yarn list v1.22.22
 │  ├─ xml-js@^1.6.8
 │  └─ xml@^1.0.1
 ├─ docxtemplater@3.68.5
-│  ├─ @xmldom/xmldom@^0.9.8
-│  └─ @xmldom/xmldom@0.9.10
+│  └─ @xmldom/xmldom@^0.9.8
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
 │  └─ utila@~0.4
@@ -10310,8 +10310,8 @@ yarn list v1.22.22
 │  ├─ robust-sum@^1.0.0
 │  ├─ two-product@^1.0.0
 │  └─ uniq@^1.0.0
-├─ plist@3.1.0
-│  ├─ @xmldom/xmldom@^0.8.8
+├─ plist@3.1.1
+│  ├─ @xmldom/xmldom@^0.9.10
 │  ├─ base64-js@^1.5.1
 │  ├─ xmlbuilder@^15.1.1
 │  └─ xmlbuilder@15.1.1
