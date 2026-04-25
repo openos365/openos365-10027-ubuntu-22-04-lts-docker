@@ -5540,7 +5540,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.76.1
+├─ bullmq@5.76.2
 │  ├─ @ioredis/commands@1.5.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
@@ -5559,9 +5559,7 @@ yarn list v1.22.22
 │  ├─ node-abort-controller@3.1.1
 │  ├─ semver@7.7.4
 │  ├─ semver@7.7.4
-│  ├─ tslib@2.8.1
-│  ├─ uuid@11.1.0
-│  └─ uuid@11.1.0
+│  └─ tslib@2.8.1
 ├─ bundle-name@4.1.0
 │  └─ run-applescript@^7.0.0
 ├─ bunyan-sfdx-no-dtrace@1.8.2
