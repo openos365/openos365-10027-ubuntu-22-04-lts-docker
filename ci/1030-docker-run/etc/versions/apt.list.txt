@@ -4861,23 +4861,23 @@ doublecmd-qt/jammy 1.0.5-1 amd64
 douceur/jammy-updates,jammy-security 0.2.0-3ubuntu0.22.04.1 amd64
 dov4l/jammy 0.9+repack-1build1 amd64
 dovecot-antispam/jammy 2.0+20171229-1build9 amd64
-dovecot-auth-lua/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-core/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-dev/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-auth-lua/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-core/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-dev/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
 dovecot-fts-xapian/jammy 1.5.2-1build1 amd64
-dovecot-gssapi/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-imapd/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-ldap/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-lmtpd/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-lucene/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-managesieved/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-mysql/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-pgsql/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-pop3d/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-sieve/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-solr/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-sqlite/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
-dovecot-submissiond/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.7 amd64
+dovecot-gssapi/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-imapd/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-ldap/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-lmtpd/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-lucene/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-managesieved/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-mysql/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-pgsql/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-pop3d/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-sieve/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-solr/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-sqlite/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
+dovecot-submissiond/jammy-updates,jammy-security 1:2.3.16+dfsg1-3ubuntu2.8 amd64
 downtimed/jammy 1.0-2 amd64
 doxygen-doc/jammy 1.9.1-2ubuntu2 all
 doxygen-doxyparse/jammy 1.9.1-2ubuntu2 amd64
@@ -9448,7 +9448,7 @@ gfxboot-themes/jammy 4.5.73-2 all
 gfxboot/jammy 4.5.73-2 amd64
 ggd-utils/jammy-updates,jammy-security 1.0.0+ds-1ubuntu0.22.04.1 amd64
 ggobi/jammy 2.1.11-2build1 amd64
-gh/unknown,now 2.91.0 amd64 [installed]
+gh/unknown,now 2.92.0 amd64 [installed]
 ghc-doc/jammy 8.8.4-3 all
 ghc-prof/jammy 8.8.4-3 amd64
 ghc/jammy 8.8.4-3 amd64
@@ -14596,8 +14596,8 @@ ippl/jammy 1.4.14-13 amd64
 ippsample/jammy 0.0+20180213-0ubuntu1 amd64
 ipqalc/jammy 1.5.3+git20200816.523b207-3 amd64
 iprange/jammy 1.0.4+ds-2 amd64
-iproute2-doc/jammy 5.15.0-1ubuntu2 all
-iproute2/jammy 5.15.0-1ubuntu2 amd64
+iproute2-doc/jammy-updates 5.15.0-1ubuntu2.1 all
+iproute2/jammy-updates 5.15.0-1ubuntu2.1 amd64
 ips/jammy 4.0-1.1 amd64
 ipset-persistent/jammy 1.0.16 all
 ipset/jammy 7.15-1build1 amd64
@@ -90148,6 +90148,7 @@ linux-xilinx-zynqmp-headers-5.15.0-1064/jammy-updates,jammy-security 5.15.0-1064
 linux-xilinx-zynqmp-headers-5.15.0-1065/jammy-updates,jammy-security 5.15.0-1065.69 all
 linux-xilinx-zynqmp-headers-5.15.0-1067/jammy-updates,jammy-security 5.15.0-1067.71 all
 linux-xilinx-zynqmp-headers-5.15.0-1068/jammy-updates,jammy-security 5.15.0-1068.72 all
+linux-xilinx-zynqmp-headers-5.15.0-1069/jammy-updates 5.15.0-1069.73 all
 linux-xilinx-zynqmp-tools-common/jammy-updates,jammy-security 5.15.0-1053.57 all
 linux-xilinx-zynqmp-tools-host/jammy-updates,jammy-security 5.15.0-1053.57 all
 linuxaudio-new-session-manager/jammy 1.5.3-0ubuntu1 amd64
