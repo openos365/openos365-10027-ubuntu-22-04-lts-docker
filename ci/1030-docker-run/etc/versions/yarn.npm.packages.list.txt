@@ -5544,7 +5544,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.76.4
+├─ bullmq@5.76.5
 │  ├─ @ioredis/commands@1.5.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
@@ -5559,7 +5559,7 @@ yarn list v1.22.22
 │  │  ├─ redis-errors@^1.2.0
 │  │  ├─ redis-parser@^3.0.0
 │  │  └─ standard-as-callback@^2.1.0
-│  ├─ msgpackr@1.11.5
+│  ├─ msgpackr@1.11.12
 │  ├─ node-abort-controller@3.1.1
 │  ├─ semver@7.7.4
 │  ├─ semver@7.7.4
@@ -9659,7 +9659,7 @@ yarn list v1.22.22
 │  ├─ @msgpackr-extract/msgpackr-extract-linux-x64@3.0.3
 │  ├─ @msgpackr-extract/msgpackr-extract-win32-x64@3.0.3
 │  └─ node-gyp-build-optional-packages@5.2.2
-├─ msgpackr@1.11.5
+├─ msgpackr@1.11.12
 │  └─ msgpackr-extract@^3.0.2
 ├─ mssql@11.0.1
 │  ├─ @tediousjs/connection-string@^0.5.0
