@@ -2109,7 +2109,7 @@ c3270/jammy 4.1ga10-1.1 amd64
 ca-cacert/jammy 2019.0411-2 all
 ca-certificates-java/jammy-updates,now 20190909ubuntu1.3 all [installed,automatic]
 ca-certificates-mono/jammy 6.8.0.105+dfsg-3.2 all
-ca-certificates/jammy-updates,jammy-security,now 20240203~22.04.1 all [installed,automatic]
+ca-certificates/jammy-updates,jammy-security,now 20240203~22.04.1 all [installed]
 cabal-debian/jammy 5.0.3-1build1.1 amd64
 cabal-install/jammy 3.0.0.0-3build1.1 amd64
 cabextract/jammy 1.9-3 amd64
@@ -9862,7 +9862,7 @@ git-secrets/jammy 1.3.0-4 all
 git-sizer/jammy 1.3.0+dfsg-1build2 amd64
 git-svn/jammy-updates,jammy-security 1:2.34.1-1ubuntu1.17 all
 git2cl/jammy 1:2.0+git20120920-3 all
-git/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.17 amd64 [installed,automatic]
+git/jammy-updates,jammy-security,now 1:2.34.1-1ubuntu1.17 amd64 [installed]
 gita/jammy 0.16.2-1 all
 gitbatch/jammy-updates,jammy-security 0.5.0-3ubuntu0.22.04.3 amd64
 gitbrute/jammy 0~12-4 amd64
@@ -35789,11 +35789,11 @@ libpython-all-dbg/jammy 2.7.18-3 amd64
 libpython-all-dev/jammy 2.7.18-3 amd64
 libpython2-dbg/jammy 2.7.18-3 amd64
 libpython2-dev/jammy 2.7.18-3 amd64
-libpython2-stdlib/jammy 2.7.18-3 amd64
+libpython2-stdlib/jammy,now 2.7.18-3 amd64 [installed,automatic]
 libpython2.7-dbg/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
 libpython2.7-dev/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
-libpython2.7-minimal/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
-libpython2.7-stdlib/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
+libpython2.7-minimal/jammy-updates,jammy-security,now 2.7.18-13ubuntu1.5 amd64 [installed,automatic]
+libpython2.7-stdlib/jammy-updates,jammy-security,now 2.7.18-13ubuntu1.5 amd64 [installed,automatic]
 libpython2.7-testsuite/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 all
 libpython2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
 libpython3-all-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
@@ -93461,7 +93461,7 @@ nkf/jammy 1:2.1.5-1build3 amd64
 nlinline-dev/jammy 0.2.2-1 all
 nlkt/jammy 0.3.2.6-2build1 amd64
 nload/jammy 0.7.4-2build3 amd64
-nlohmann-json3-dev/jammy 3.10.5-2 all
+nlohmann-json3-dev/jammy,now 3.10.5-2 all [installed]
 nlopt-doc/jammy 2.7.1-3build1 all
 nm-tray-l10n/jammy 0.4.3-2ubuntu1 all
 nm-tray/jammy 0.4.3-2ubuntu1 amd64
@@ -99925,16 +99925,16 @@ python-zunclient-doc/jammy 4.4.0-0ubuntu1 all
 python2-dbg/jammy 2.7.18-3 amd64
 python2-dev/jammy 2.7.18-3 amd64
 python2-doc/jammy 2.7.18-3 all
-python2-minimal/jammy 2.7.18-3 amd64
+python2-minimal/jammy,now 2.7.18-3 amd64 [installed,automatic]
 python2-pip-whl/jammy 20.3.4+dfsg-4 all
 python2-setuptools-whl/jammy-updates,jammy-security 44.1.1-1.2ubuntu0.22.04.1 all
 python2.7-dbg/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
 python2.7-dev/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
 python2.7-doc/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 all
 python2.7-examples/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 all
-python2.7-minimal/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
-python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64
-python2/jammy 2.7.18-3 amd64
+python2.7-minimal/jammy-updates,jammy-security,now 2.7.18-13ubuntu1.5 amd64 [installed,automatic]
+python2.7/jammy-updates,jammy-security,now 2.7.18-13ubuntu1.5 amd64 [installed,automatic]
+python2/jammy,now 2.7.18-3 amd64 [installed]
 python3-3parclient/jammy 4.2.11-0ubuntu1 all
 python3-a38/jammy 0.1.3-2 all
 python3-aafigure/jammy 0.6-2 all

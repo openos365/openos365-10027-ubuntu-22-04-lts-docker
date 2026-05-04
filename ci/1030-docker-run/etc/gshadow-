@@ -39,6 +39,7 @@ users:*::
 nogroup:*::
 www:!::
 runner:!::
+_ssh:!::
 systemd-journal:!::
 systemd-network:!::
 systemd-resolve:!::
@@ -47,4 +48,3 @@ systemd-timesync:!::
 input:!::
 sgx:!::
 kvm:!::
-render:!::
