@@ -3139,7 +3139,7 @@ yarn list v1.22.22
 │  ├─ postcss-focus-visible@^6.0.4
 │  ├─ postcss-less@^6.0.0
 │  ├─ postcss@^8.4.14
-│  ├─ postcss@8.5.13
+│  ├─ postcss@8.5.14
 │  │  ├─ nanoid@^3.3.11
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
@@ -13055,7 +13055,7 @@ yarn list v1.22.22
 │  ├─ postcss-nested@^6.2.0
 │  ├─ postcss-selector-parser@^6.1.2
 │  ├─ postcss@^8.4.47
-│  ├─ postcss@8.5.13
+│  ├─ postcss@8.5.14
 │  │  ├─ nanoid@^3.3.11
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
