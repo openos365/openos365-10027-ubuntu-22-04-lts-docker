@@ -4464,7 +4464,7 @@ yarn list v1.22.22
 │  ├─ @babel/core@^7.1.6
 │  ├─ @babel/plugin-transform-react-constant-elements@^7.0.0
 │  ├─ @babel/preset-env@^7.1.6
-│  ├─ @babel/preset-env@7.29.3
+│  ├─ @babel/preset-env@7.29.5
 │  │  ├─ @babel/compat-data@^7.29.3
 │  │  ├─ @babel/helper-compilation-targets@^7.28.6
 │  │  ├─ @babel/helper-plugin-utils@^7.28.6
@@ -4504,7 +4504,7 @@ yarn list v1.22.22
 │  │  ├─ @babel/plugin-transform-member-expression-literals@^7.27.1
 │  │  ├─ @babel/plugin-transform-modules-amd@^7.27.1
 │  │  ├─ @babel/plugin-transform-modules-commonjs@^7.28.6
-│  │  ├─ @babel/plugin-transform-modules-systemjs@^7.29.0
+│  │  ├─ @babel/plugin-transform-modules-systemjs@^7.29.4
 │  │  ├─ @babel/plugin-transform-modules-umd@^7.27.1
 │  │  ├─ @babel/plugin-transform-named-capturing-groups-regex@^7.29.0
 │  │  ├─ @babel/plugin-transform-new-target@^7.27.1
