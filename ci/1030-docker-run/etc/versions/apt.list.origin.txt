@@ -33127,9 +33127,9 @@ libnftables1/jammy-updates 1.0.2-1ubuntu3.1 amd64
 libnftnl-dev-doc/jammy 1.2.1-1build1 all
 libnftnl-dev/jammy 1.2.1-1build1 amd64
 libnftnl11/jammy 1.2.1-1build1 amd64
-libnghttp2-14/jammy-updates,jammy-security,now 1.43.0-1ubuntu0.2 amd64 [installed,automatic]
-libnghttp2-dev/jammy-updates,jammy-security 1.43.0-1ubuntu0.2 amd64
-libnghttp2-doc/jammy-updates,jammy-security 1.43.0-1ubuntu0.2 all
+libnghttp2-14/jammy-updates,jammy-security,now 1.43.0-1ubuntu0.3 amd64 [installed,automatic]
+libnghttp2-dev/jammy-updates,jammy-security 1.43.0-1ubuntu0.3 amd64
+libnghttp2-doc/jammy-updates,jammy-security 1.43.0-1ubuntu0.3 all
 libnghttp3-0/jammy 0.1.1-1 amd64
 libnghttp3-dev/jammy 0.1.1-1 amd64
 libnginx-mod-http-auth-pam/jammy-updates,jammy-security 1.18.0-6ubuntu14.10 amd64
@@ -93397,10 +93397,10 @@ ng-common/jammy 1.5~beta1-10 all
 ng-latin/jammy 1.5~beta1-10 amd64
 ng-utils/jammy 1.0-1build1 amd64
 ngetty/jammy 1.1-9 amd64
-nghttp2-client/jammy-updates,jammy-security 1.43.0-1ubuntu0.2 amd64
-nghttp2-proxy/jammy-updates,jammy-security 1.43.0-1ubuntu0.2 amd64
-nghttp2-server/jammy-updates,jammy-security 1.43.0-1ubuntu0.2 amd64
-nghttp2/jammy-updates,jammy-security 1.43.0-1ubuntu0.2 all
+nghttp2-client/jammy-updates,jammy-security 1.43.0-1ubuntu0.3 amd64
+nghttp2-proxy/jammy-updates,jammy-security 1.43.0-1ubuntu0.3 amd64
+nghttp2-server/jammy-updates,jammy-security 1.43.0-1ubuntu0.3 amd64
+nghttp2/jammy-updates,jammy-security 1.43.0-1ubuntu0.3 all
 nginx-common/jammy-updates,jammy-security 1.18.0-6ubuntu14.10 all
 nginx-confgen/jammy 2.0-1 amd64
 nginx-core/jammy-updates,jammy-security 1.18.0-6ubuntu14.10 amd64
