@@ -663,7 +663,7 @@ yarn list v1.22.22
 ├─ @babel/plugin-transform-modules-commonjs@7.28.6
 │  ├─ @babel/helper-module-transforms@^7.28.6
 │  └─ @babel/helper-plugin-utils@^7.28.6
-├─ @babel/plugin-transform-modules-systemjs@7.29.0
+├─ @babel/plugin-transform-modules-systemjs@7.29.4
 │  ├─ @babel/helper-module-transforms@^7.28.6
 │  ├─ @babel/helper-plugin-utils@^7.28.6
 │  ├─ @babel/helper-validator-identifier@^7.28.5
@@ -6984,7 +6984,7 @@ yarn list v1.22.22
 ├─ fast-json-stable-stringify@2.1.0
 ├─ fast-levenshtein@2.0.6
 ├─ fast-shallow-equal@1.0.0
-├─ fast-uri@3.1.1
+├─ fast-uri@3.1.2
 ├─ fastest-stable-stringify@2.0.2
 ├─ fastest-validator@1.19.1
 ├─ fastparse@1.1.2
