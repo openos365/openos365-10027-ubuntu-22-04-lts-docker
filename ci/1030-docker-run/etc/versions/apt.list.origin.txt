@@ -4761,9 +4761,9 @@ docker-buildx/jammy-updates 0.30.1-0ubuntu1~22.04.1 amd64
 docker-clean/jammy 2.0.4-4 all
 docker-compose-v2/jammy-updates 2.40.3+ds1-0ubuntu1~22.04.1 amd64
 docker-compose/jammy 1.29.2-1 all
-docker-doc/jammy-updates 29.1.3-0ubuntu3~22.04.1 all
+docker-doc/jammy-security 29.1.3-0ubuntu3~22.04.2 all
 docker-registry/jammy 2.8.0+ds1-4 amd64
-docker.io/jammy-updates 29.1.3-0ubuntu3~22.04.1 amd64
+docker.io/jammy-security 29.1.3-0ubuntu3~22.04.2 amd64
 docker2aci/jammy 0.17.2+dfsg-2.1 amd64
 docker/jammy 1.5-2 all
 docknot/jammy 7.01-1 all
@@ -11013,10 +11013,10 @@ golang-1.23-doc/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23-go/jammy-updates,jammy-security 1.23.1-1~22.04.2 amd64
 golang-1.23-src/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
-golang-1.24-doc/jammy-security 1.24.4-1ubuntu1~22.04.2 all
-golang-1.24-go/jammy-security 1.24.4-1ubuntu1~22.04.2 amd64
-golang-1.24-src/jammy-security 1.24.4-1ubuntu1~22.04.2 all
-golang-1.24/jammy-security 1.24.4-1ubuntu1~22.04.2 all
+golang-1.24-doc/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 all
+golang-1.24-go/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 amd64
+golang-1.24-src/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 all
+golang-1.24/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 all
 golang-android-soong-dev/jammy 0.0~git20201014.17e97d9-2 all
 golang-any/jammy 2:1.18~0ubuntu2 amd64
 golang-ar-dev/jammy 0.0~git20150512-0ubuntu2 all
