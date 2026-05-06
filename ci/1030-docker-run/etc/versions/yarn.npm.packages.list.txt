@@ -4581,7 +4581,7 @@ yarn list v1.22.22
 ├─ @types/bluebird@3.5.42
 ├─ @types/debug@4.1.13
 │  └─ @types/ms@*
-├─ @types/estree@1.0.8
+├─ @types/estree@1.0.9
 ├─ @types/fs-extra-promise@1.0.14
 │  ├─ @types/bluebird@*
 │  ├─ @types/fs-extra@^4
