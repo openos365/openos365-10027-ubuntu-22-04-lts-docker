@@ -906,10 +906,10 @@ yarn list v1.22.22
 │  ├─ preact@^10.1.0
 │  ├─ prop-types@^15.7.2
 │  ├─ react-dom@>=14
-│  ├─ react-dom@19.2.5
+│  ├─ react-dom@19.2.6
 │  │  └─ scheduler@^0.27.0
 │  ├─ react@>=14
-│  ├─ react@19.2.5
+│  ├─ react@19.2.6
 │  ├─ scheduler@0.27.0
 │  ├─ tslib@^2.4.0
 │  └─ vm2@^3.6.4
@@ -2031,10 +2031,10 @@ yarn list v1.22.22
 │  ├─ preact@^10.1.0
 │  ├─ prop-types@^15.7.2
 │  ├─ react-dom@>=14
-│  ├─ react-dom@19.2.5
+│  ├─ react-dom@19.2.6
 │  │  └─ scheduler@^0.27.0
 │  ├─ react@>=14
-│  ├─ react@19.2.5
+│  ├─ react@19.2.6
 │  ├─ scheduler@0.27.0
 │  ├─ tslib@^1.10.0
 │  ├─ tslib@1.14.1
@@ -2579,10 +2579,10 @@ yarn list v1.22.22
 │  │  ├─ preact@^10.1.0
 │  │  ├─ prop-types@^15.7.2
 │  │  ├─ react-dom@>=14
-│  │  ├─ react-dom@19.2.5
+│  │  ├─ react-dom@19.2.6
 │  │  │  └─ scheduler@^0.27.0
 │  │  ├─ react@>=14
-│  │  ├─ react@19.2.5
+│  │  ├─ react@19.2.6
 │  │  ├─ tslib@^1.10.0
 │  │  ├─ tslib@1.14.1
 │  │  └─ vm2@^3.6.4
@@ -2736,9 +2736,9 @@ yarn list v1.22.22
 │  ├─ mobx-react-lite@^3.2.0
 │  ├─ mobx-state-tree@^5.0.1
 │  ├─ mobx@^6.1.8
-│  ├─ react-dom@19.2.5
+│  ├─ react-dom@19.2.6
 │  │  └─ scheduler@^0.27.0
-│  ├─ react@19.2.5
+│  ├─ react@19.2.6
 │  ├─ scheduler@0.27.0
 │  └─ tslib@1.14.1
 ├─ @steedos-ui/builder-viz-lib@2.2.53
@@ -3065,10 +3065,10 @@ yarn list v1.22.22
 │  │  ├─ preact@^10.1.0
 │  │  ├─ prop-types@^15.7.2
 │  │  ├─ react-dom@>=14
-│  │  ├─ react-dom@19.2.5
+│  │  ├─ react-dom@19.2.6
 │  │  │  └─ scheduler@^0.27.0
 │  │  ├─ react@>=14
-│  │  ├─ react@19.2.5
+│  │  ├─ react@19.2.6
 │  │  ├─ scheduler@0.27.0
 │  │  ├─ tslib@^1.10.0
 │  │  └─ vm2@^3.6.4
