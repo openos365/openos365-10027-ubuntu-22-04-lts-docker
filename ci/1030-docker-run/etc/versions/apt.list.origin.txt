@@ -35349,11 +35349,11 @@ libpmix2/jammy 4.1.2-2ubuntu1 amd64
 libpnetcdf-dev/jammy 1.12.2-1 amd64
 libpnetcdf0d/jammy 1.12.2-1 amd64
 libpng++-dev/jammy 0.2.10-1 all
-libpng-dev/jammy-security 1.6.37-3ubuntu0.5 amd64
+libpng-dev/jammy-updates,jammy-security 1.6.37-3ubuntu0.5 amd64
 libpng-sixlegs-java-doc/jammy 2.0-3 all
 libpng-sixlegs-java/jammy 2.0-3 all
-libpng-tools/jammy-security 1.6.37-3ubuntu0.5 amd64
-libpng16-16/jammy-security,now 1.6.37-3ubuntu0.5 amd64 [installed,automatic]
+libpng-tools/jammy-updates,jammy-security 1.6.37-3ubuntu0.5 amd64
+libpng16-16/jammy-updates,jammy-security,now 1.6.37-3ubuntu0.5 amd64 [installed,automatic]
 libpnglite-dev/jammy 0.1.17-2 amd64
 libpnglite0/jammy 0.1.17-2 amd64
 libpocketsphinx-dev/jammy 0.8.0+real5prealpha+1-14ubuntu1 amd64
@@ -96207,9 +96207,9 @@ opa-fastfabric/jammy 10.10.3.0.11-1ubuntu1 amd64
 opa-fm/jammy 10.10.3.0.11-1build1 amd64
 opal-utils/jammy 7.0+dfsg-1build1 amd64
 opalmod/jammy 0.2.2+nmu1 all
-opam-doc/jammy 2.1.2-1 all
-opam-installer/jammy 2.1.2-1 amd64
-opam/jammy 2.1.2-1 amd64
+opam-doc/jammy-security 2.1.2-1+deb12u1build0.22.04.1 all
+opam-installer/jammy-security 2.1.2-1+deb12u1build0.22.04.1 amd64
+opam/jammy-security 2.1.2-1+deb12u1build0.22.04.1 amd64
 opari2/jammy 2.0.6-2 amd64
 opari/jammy 1.1+dfsg-9 amd64
 open-adventure/jammy 1.9-1 amd64
