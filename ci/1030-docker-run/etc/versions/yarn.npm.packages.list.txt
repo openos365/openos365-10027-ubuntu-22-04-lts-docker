@@ -3483,7 +3483,7 @@ yarn list v1.22.22
 │  ├─ rimraf@3.0.2
 │  │  └─ glob@^7.1.3
 │  ├─ semver@^7.3.2
-│  ├─ semver@7.7.4
+│  ├─ semver@7.8.0
 │  ├─ tar-stream@^2.1.4
 │  ├─ tmp@^0.2.1
 │  ├─ tmp@0.2.5
@@ -6526,7 +6526,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.352
+├─ electron-to-chromium@1.5.353
 ├─ element-size@1.1.1
 ├─ elementary-circuits-directed-graph@1.3.1
 │  └─ strongly-connected-components@^1.0.1
@@ -8668,7 +8668,7 @@ yarn list v1.22.22
 │  ├─ lodash.once@^4.0.0
 │  ├─ ms@^2.1.1
 │  ├─ semver@^7.5.4
-│  └─ semver@7.7.4
+│  └─ semver@7.8.0
 ├─ jsprim@1.4.2
 │  ├─ assert-plus@1.0.0
 │  ├─ extsprintf@1.3.0
@@ -12386,7 +12386,7 @@ yarn list v1.22.22
 │  ├─ pg-connection-string@^2.6.1
 │  ├─ retry-as-promised@^7.0.4
 │  ├─ semver@^7.5.4
-│  ├─ semver@7.7.4
+│  ├─ semver@7.8.0
 │  ├─ sequelize-pool@^7.1.0
 │  ├─ toposort-class@^1.0.1
 │  ├─ uuid@^8.3.2
