@@ -6373,7 +6373,7 @@ yarn list v1.22.22
 │  └─ object-keys@^1.1.1
 ├─ define-property@0.2.5
 │  ├─ is-descriptor@^0.1.0
-│  └─ is-descriptor@0.1.7
+│  └─ is-descriptor@0.1.8
 │     ├─ is-accessor-descriptor@^1.0.1
 │     └─ is-data-descriptor@^1.0.1
 ├─ defined@1.0.1
@@ -8017,8 +8017,8 @@ yarn list v1.22.22
 │  ├─ call-bound@^1.0.2
 │  └─ has-tostringtag@^1.0.2
 ├─ is-decimal@1.0.4
-├─ is-descriptor@1.0.3
-│  ├─ is-accessor-descriptor@^1.0.1
+├─ is-descriptor@1.0.4
+│  ├─ is-accessor-descriptor@^1.0.2
 │  └─ is-data-descriptor@^1.0.1
 ├─ is-directory@0.3.1
 ├─ is-docker@2.2.1
@@ -13538,7 +13538,7 @@ yarn list v1.22.22
 │  └─ extsprintf@1.4.1
 ├─ vlq@1.0.1
 ├─ vm-browserify@1.1.2
-├─ vm2@3.11.2
+├─ vm2@3.11.3
 │  ├─ acorn-walk@^8.3.4
 │  └─ acorn@^8.15.0
 ├─ void-elements@3.1.0
