@@ -90870,6 +90870,7 @@ linux-xilinx-zynqmp-headers-5.15.0-1065/jammy-updates,jammy-security 5.15.0-1065
 linux-xilinx-zynqmp-headers-5.15.0-1067/jammy-updates,jammy-security 5.15.0-1067.71 all
 linux-xilinx-zynqmp-headers-5.15.0-1068/jammy-updates,jammy-security 5.15.0-1068.72 all
 linux-xilinx-zynqmp-headers-5.15.0-1069/jammy-updates 5.15.0-1069.73 all
+linux-xilinx-zynqmp-headers-5.15.0-1070/jammy-updates 5.15.0-1070.74 all
 linux-xilinx-zynqmp-tools-common/jammy-updates,jammy-security 5.15.0-1053.57 all
 linux-xilinx-zynqmp-tools-host/jammy-updates,jammy-security 5.15.0-1053.57 all
 linuxaudio-new-session-manager/jammy 1.5.3-0ubuntu1 amd64
