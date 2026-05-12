@@ -1746,9 +1746,9 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.28.7
-│  └─ @posthog/types@1.373.2
-├─ @posthog/types@1.373.2
+├─ @posthog/core@1.29.0
+│  └─ @posthog/types@1.373.3
+├─ @posthog/types@1.373.3
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.5
@@ -2296,7 +2296,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.20.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.74
+├─ @steedos-labs/plugin-workflow@3.0.75
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -5544,7 +5544,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.76.7
+├─ bullmq@5.76.8
 │  ├─ @ioredis/commands@1.5.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
@@ -9945,7 +9945,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.38
+├─ node-releases@2.0.44
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -10768,7 +10768,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.373.2
+├─ posthog-js@1.373.3
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.7.1
@@ -10779,8 +10779,8 @@ yarn list v1.22.22
 │  │  ├─ @opentelemetry/core@2.7.1
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
-│  ├─ @posthog/core@1.28.7
-│  ├─ @posthog/types@1.373.2
+│  ├─ @posthog/core@1.29.0
+│  ├─ @posthog/types@1.373.3
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
@@ -10902,7 +10902,7 @@ yarn list v1.22.22
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
 ├─ proto-list@1.2.4
-├─ protobufjs@7.5.7
+├─ protobufjs@7.5.8
 │  ├─ @protobufjs/aspromise@^1.1.2
 │  ├─ @protobufjs/base64@^1.1.2
 │  ├─ @protobufjs/codegen@^2.0.5
