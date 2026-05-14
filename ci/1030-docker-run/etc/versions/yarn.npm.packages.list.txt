@@ -4628,8 +4628,8 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.5
 │     └─ brace-expansion@^5.0.5
 ├─ @types/ms@2.1.0
-├─ @types/node@25.7.0
-│  └─ undici-types@~7.21.0
+├─ @types/node@25.8.0
+│  └─ undici-types@>=7.24.0 <7.24.7
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  └─ path-to-regexp@*
@@ -13417,7 +13417,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.1.0
 │  └─ which-boxed-primitive@^1.1.1
 ├─ underscore@1.13.8
-├─ undici-types@7.21.0
+├─ undici-types@7.24.6
 ├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
