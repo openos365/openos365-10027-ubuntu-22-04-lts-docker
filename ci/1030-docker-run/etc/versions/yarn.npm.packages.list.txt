@@ -2296,7 +2296,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.20.1
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.77
+├─ @steedos-labs/plugin-workflow@3.0.78
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -10887,7 +10887,7 @@ yarn list v1.22.22
 │  ├─ mdurl@2.0.0
 │  ├─ prosemirror-model@^1.25.0
 │  └─ uc.micro@2.1.0
-├─ prosemirror-model@1.25.5
+├─ prosemirror-model@1.25.6
 │  └─ orderedmap@^2.0.0
 ├─ prosemirror-schema-list@1.5.1
 │  ├─ prosemirror-model@^1.0.0
