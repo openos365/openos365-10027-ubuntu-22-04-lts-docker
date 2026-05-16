@@ -5393,7 +5393,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.10.29
+├─ baseline-browser-mapping@2.10.30
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -5553,7 +5553,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.76.8
+├─ bullmq@5.76.9
 │  ├─ @ioredis/commands@1.5.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
