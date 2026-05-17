@@ -1753,9 +1753,8 @@ yarn list v1.22.22
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.5
 ├─ @protobufjs/eventemitter@1.1.0
-├─ @protobufjs/fetch@1.1.0
-│  ├─ @protobufjs/aspromise@^1.1.1
-│  └─ @protobufjs/inquire@^1.1.0
+├─ @protobufjs/fetch@1.1.1
+│  └─ @protobufjs/aspromise@^1.1.1
 ├─ @protobufjs/float@1.0.2
 ├─ @protobufjs/inquire@1.1.1
 ├─ @protobufjs/path@1.1.2
@@ -5656,7 +5655,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001792
+├─ caniuse-lite@1.0.30001793
 ├─ canvas-fit@1.5.0
 │  └─ element-size@^1.1.1
 ├─ capture-exit@2.0.0
@@ -10793,7 +10792,7 @@ yarn list v1.22.22
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
-│  ├─ dompurify@3.4.3
+│  ├─ dompurify@3.4.4
 │  │  └─ @types/trusted-types@^2.0.7
 │  ├─ fflate@^0.4.8
 │  ├─ preact@^10.28.2
@@ -10812,7 +10811,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.29.1
+├─ preact@10.29.2
 ├─ prelude-ls@1.1.2
 ├─ prettier-plugin-svelte@1.4.2
 ├─ prettier@2.8.8
