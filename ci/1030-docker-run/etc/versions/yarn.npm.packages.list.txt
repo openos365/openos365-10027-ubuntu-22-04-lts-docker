@@ -11055,7 +11055,7 @@ yarn list v1.22.22
 ├─ qs-middleware@1.0.3
 │  ├─ qs@~6.4.0
 │  └─ qs@6.4.3
-├─ qs@6.15.1
+├─ qs@6.15.2
 │  └─ side-channel@^1.1.0
 ├─ quat-slerp@1.0.1
 │  └─ gl-quat@^1.0.0
