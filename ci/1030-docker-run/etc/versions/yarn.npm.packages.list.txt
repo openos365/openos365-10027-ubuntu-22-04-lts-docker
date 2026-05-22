@@ -1332,7 +1332,7 @@ yarn list v1.22.22
 │  ├─ @tanstack/react-virtual@^3.0.0-beta.60
 │  └─ client-only@^0.0.1
 ├─ @heroicons/react@1.0.6
-├─ @ioredis/commands@1.9.0
+├─ @ioredis/commands@1.10.0
 ├─ @isaacs/cliui@8.0.2
 │  ├─ ansi-regex@6.2.2
 │  ├─ ansi-styles@6.2.3
@@ -1746,9 +1746,9 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.29.8
-│  └─ @posthog/types@1.375.0
-├─ @posthog/types@1.375.0
+├─ @posthog/core@1.29.9
+│  └─ @posthog/types@1.376.0
+├─ @posthog/types@1.376.0
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.5
@@ -9953,7 +9953,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.45
+├─ node-releases@2.0.46
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -10776,7 +10776,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.375.0
+├─ posthog-js@1.376.0
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.7.1
@@ -10787,8 +10787,8 @@ yarn list v1.22.22
 │  │  ├─ @opentelemetry/core@2.7.1
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
-│  ├─ @posthog/core@1.29.8
-│  ├─ @posthog/types@1.375.0
+│  ├─ @posthog/core@1.29.9
+│  ├─ @posthog/types@1.376.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
@@ -11417,7 +11417,7 @@ yarn list v1.22.22
 ├─ react-devtools-core@3.6.3
 │  ├─ safe-buffer@5.1.2
 │  ├─ shell-quote@^1.6.1
-│  ├─ shell-quote@1.8.3
+│  ├─ shell-quote@1.8.4
 │  ├─ ultron@1.1.1
 │  ├─ ws@^3.3.1
 │  └─ ws@3.3.3
