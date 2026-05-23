@@ -2770,7 +2770,7 @@ yarn list v1.22.22
 │  └─ react-required-if@^1.0.3
 ├─ @steedos-widgets/amis-lib@1.0.19
 │  └─ lodash@^4.17.21
-├─ @steedos-widgets/amis-object@6.10.53-beta.25
+├─ @steedos-widgets/amis-object@6.10.53-beta.26
 ├─ @steedos/accounts@3.0.14
 │  ├─ @accounts/types@0.20.1
 │  ├─ @babel/runtime@^7.12.18
