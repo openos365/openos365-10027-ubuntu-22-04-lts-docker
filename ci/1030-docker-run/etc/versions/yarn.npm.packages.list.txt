@@ -5511,8 +5511,8 @@ yarn list v1.22.22
 │  ├─ bn.js@5.2.3
 │  ├─ randombytes@^2.1.0
 │  └─ safe-buffer@^5.2.1
-├─ browserify-sign@4.2.5
-│  ├─ bn.js@^5.2.2
+├─ browserify-sign@4.2.6
+│  ├─ bn.js@^5.2.3
 │  ├─ bn.js@5.2.3
 │  ├─ browserify-rsa@^4.1.1
 │  ├─ create-hash@^1.2.0
@@ -5552,7 +5552,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.77.1
+├─ bullmq@5.77.2
 │  ├─ @ioredis/commands@1.5.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
