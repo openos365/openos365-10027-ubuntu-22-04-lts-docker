@@ -4555,9 +4555,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.13.25
-│  └─ @tanstack/virtual-core@3.15.0
-├─ @tanstack/virtual-core@3.15.0
+├─ @tanstack/react-virtual@3.13.26
+│  └─ @tanstack/virtual-core@3.16.0
+├─ @tanstack/virtual-core@3.16.0
 ├─ @tediousjs/connection-string@0.5.0
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
