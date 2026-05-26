@@ -1746,9 +1746,9 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.29.9
-│  └─ @posthog/types@1.376.0
-├─ @posthog/types@1.376.0
+├─ @posthog/core@1.29.11
+│  └─ @posthog/types@1.376.2
+├─ @posthog/types@1.376.2
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.5
@@ -3283,7 +3283,6 @@ yarn list v1.22.22
 │  │  └─ has-flag@^4.0.0
 │  └─ underscore@^1.13.7
 ├─ @steedos/metadata-registrar@3.0.14
-│  ├─ @ioredis/commands@1.5.1
 │  ├─ @salesforce/ts-types@1.1.2
 │  ├─ @steedos/client@3.0.14
 │  ├─ @steedos/metadata-core@3.0.14
@@ -3295,6 +3294,7 @@ yarn list v1.22.22
 │  │  ├─ ansi-styles@^4.1.0
 │  │  └─ supports-color@^7.1.0
 │  ├─ clone@^2.1.2
+│  ├─ cluster-key-slot@1.1.1
 │  ├─ compressing@^1.5.1
 │  ├─ denque@2.1.0
 │  ├─ dotenv-flow@^3.2.0
@@ -3311,16 +3311,14 @@ yarn list v1.22.22
 │  ├─ ini@^2.0.0
 │  ├─ ini@2.0.0
 │  ├─ ioredis@^5.3.2
-│  ├─ ioredis@5.10.1
-│  │  ├─ @ioredis/commands@1.5.1
-│  │  ├─ cluster-key-slot@^1.1.0
-│  │  ├─ debug@^4.3.4
-│  │  ├─ denque@^2.1.0
-│  │  ├─ lodash.defaults@^4.2.0
-│  │  ├─ lodash.isarguments@^3.1.0
-│  │  ├─ redis-errors@^1.2.0
-│  │  ├─ redis-parser@^3.0.0
-│  │  └─ standard-as-callback@^2.1.0
+│  ├─ ioredis@5.11.0
+│  │  ├─ @ioredis/commands@1.10.0
+│  │  ├─ cluster-key-slot@1.1.1
+│  │  ├─ debug@4.4.3
+│  │  ├─ denque@2.1.0
+│  │  ├─ redis-errors@1.2.0
+│  │  ├─ redis-parser@3.0.0
+│  │  └─ standard-as-callback@2.1.0
 │  ├─ js-yaml@^3.14.2
 │  ├─ lodash@^4.17.21
 │  ├─ minimatch@9.0.9
@@ -5460,7 +5458,7 @@ yarn list v1.22.22
 │  └─ stream-buffers@2.2.x
 ├─ bplist-parser@0.3.1
 │  └─ big-integer@1.6.x
-├─ brace-expansion@1.1.14
+├─ brace-expansion@1.1.15
 │  ├─ balanced-match@^1.0.0
 │  └─ concat-map@0.0.1
 ├─ braces@2.3.2
@@ -5552,7 +5550,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.77.3
+├─ bullmq@5.77.4
 │  ├─ @ioredis/commands@1.5.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
@@ -6337,7 +6335,7 @@ yarn list v1.22.22
 │  └─ is-data-view@^1.0.1
 ├─ date-fns@3.6.0
 ├─ date-utils@1.2.21
-├─ dayjs@1.11.20
+├─ dayjs@1.11.21
 ├─ de-indent@1.0.2
 ├─ deasync@0.1.30
 │  ├─ bindings@^1.5.0
@@ -10776,7 +10774,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.376.0
+├─ posthog-js@1.376.2
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.7.1
@@ -10787,12 +10785,12 @@ yarn list v1.22.22
 │  │  ├─ @opentelemetry/core@2.7.1
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
-│  ├─ @posthog/core@1.29.9
-│  ├─ @posthog/types@1.376.0
+│  ├─ @posthog/core@1.29.11
+│  ├─ @posthog/types@1.376.2
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
-│  ├─ dompurify@3.4.5
+│  ├─ dompurify@3.4.6
 │  │  └─ @types/trusted-types@^2.0.7
 │  ├─ fflate@^0.4.8
 │  ├─ preact@^10.28.2
