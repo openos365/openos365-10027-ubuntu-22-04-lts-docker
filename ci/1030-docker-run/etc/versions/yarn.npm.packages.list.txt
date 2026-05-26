@@ -10232,13 +10232,13 @@ yarn list v1.22.22
 ├─ pbf@3.3.0
 │  ├─ ieee754@^1.1.12
 │  └─ resolve-protobuf-schema@^2.1.0
-├─ pbkdf2@3.1.5
+├─ pbkdf2@3.1.6
 │  ├─ create-hash@^1.2.0
 │  ├─ create-hmac@^1.1.7
 │  ├─ ripemd160@^2.0.3
 │  ├─ safe-buffer@^5.2.1
 │  ├─ sha.js@^2.4.12
-│  └─ to-buffer@^1.2.1
+│  └─ to-buffer@^1.2.2
 ├─ peek-readable@4.1.0
 ├─ pend@1.2.0
 ├─ performance-now@2.1.0
