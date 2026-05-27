@@ -1746,9 +1746,9 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.29.11
-│  └─ @posthog/types@1.376.2
-├─ @posthog/types@1.376.2
+├─ @posthog/core@1.29.12
+│  └─ @posthog/types@1.376.3
+├─ @posthog/types@1.376.3
 ├─ @protobufjs/aspromise@1.1.2
 ├─ @protobufjs/base64@1.1.2
 ├─ @protobufjs/codegen@2.0.5
@@ -2295,7 +2295,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.21.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.83
+├─ @steedos-labs/plugin-workflow@3.0.84
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -2770,7 +2770,7 @@ yarn list v1.22.22
 │  └─ react-required-if@^1.0.3
 ├─ @steedos-widgets/amis-lib@1.0.19
 │  └─ lodash@^4.17.21
-├─ @steedos-widgets/amis-object@6.10.53-beta.26
+├─ @steedos-widgets/amis-object@6.10.53
 ├─ @steedos/accounts@3.0.14
 │  ├─ @accounts/types@0.20.1
 │  ├─ @babel/runtime@^7.12.18
@@ -5550,7 +5550,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.77.4
+├─ bullmq@5.77.6
 │  ├─ @ioredis/commands@1.5.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
@@ -10774,7 +10774,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.376.2
+├─ posthog-js@1.376.3
 │  ├─ @opentelemetry/api-logs@^0.208.0
 │  ├─ @opentelemetry/api@^1.9.0
 │  ├─ @opentelemetry/core@2.7.1
@@ -10785,12 +10785,12 @@ yarn list v1.22.22
 │  │  ├─ @opentelemetry/core@2.7.1
 │  │  └─ @opentelemetry/semantic-conventions@^1.29.0
 │  ├─ @opentelemetry/sdk-logs@^0.208.0
-│  ├─ @posthog/core@1.29.11
-│  ├─ @posthog/types@1.376.2
+│  ├─ @posthog/core@1.29.12
+│  ├─ @posthog/types@1.376.3
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
-│  ├─ dompurify@3.4.6
+│  ├─ dompurify@3.4.7
 │  │  └─ @types/trusted-types@^2.0.7
 │  ├─ fflate@^0.4.8
 │  ├─ preact@^10.28.2
