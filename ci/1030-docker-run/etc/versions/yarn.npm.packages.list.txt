@@ -13321,13 +13321,13 @@ yarn list v1.22.22
 │  ├─ has-proto@^1.2.0
 │  ├─ is-typed-array@^1.1.15
 │  └─ reflect.getprototypeof@^1.0.9
-├─ typed-array-length@1.0.7
-│  ├─ call-bind@^1.0.7
-│  ├─ for-each@^0.3.3
-│  ├─ gopd@^1.0.1
-│  ├─ is-typed-array@^1.1.13
-│  ├─ possible-typed-array-names@^1.0.0
-│  └─ reflect.getprototypeof@^1.0.6
+├─ typed-array-length@1.0.8
+│  ├─ call-bind@^1.0.9
+│  ├─ for-each@^0.3.5
+│  ├─ gopd@^1.2.0
+│  ├─ is-typed-array@^1.1.15
+│  ├─ possible-typed-array-names@^1.1.0
+│  └─ reflect.getprototypeof@^1.0.10
 ├─ typedarray-pool@1.2.0
 │  ├─ bit-twiddle@^1.0.0
 │  └─ dup@^1.0.0
