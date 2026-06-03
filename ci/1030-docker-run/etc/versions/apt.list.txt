@@ -7550,11 +7550,11 @@ frogr/jammy 1.7-1 amd64
 frotz/jammy 2.53+dfsg-1 amd64
 frozen-bubble-data/jammy 2.212-10build1 all
 frozen-bubble/jammy 2.212-10build1 amd64
-frr-doc/jammy-updates,jammy-security 8.1-1ubuntu1.15 all
-frr-pythontools/jammy-updates,jammy-security 8.1-1ubuntu1.15 all
-frr-rpki-rtrlib/jammy-updates,jammy-security 8.1-1ubuntu1.15 amd64
-frr-snmp/jammy-updates,jammy-security 8.1-1ubuntu1.15 amd64
-frr/jammy-updates,jammy-security 8.1-1ubuntu1.15 amd64
+frr-doc/jammy-updates,jammy-security 8.1-1ubuntu1.16 all
+frr-pythontools/jammy-updates,jammy-security 8.1-1ubuntu1.16 all
+frr-rpki-rtrlib/jammy-updates,jammy-security 8.1-1ubuntu1.16 amd64
+frr-snmp/jammy-updates,jammy-security 8.1-1ubuntu1.16 amd64
+frr/jammy-updates,jammy-security 8.1-1ubuntu1.16 amd64
 fruit/jammy 2.1.dfsg-9 amd64
 fs-uae-arcade/jammy 3.1.63-2 all
 fs-uae/jammy 3.1.66-1 amd64
@@ -40482,7 +40482,7 @@ libtemplate-glib-1.0-dev/jammy 3.34.1-1 amd64
 libtemplate-glib-common/jammy 3.34.1-1 all
 libtemplate-glib-doc/jammy 3.34.1-1 all
 libtemplate-multilingual-perl/jammy 1.00-2.1 all
-libtemplate-perl/jammy 2.27-1build5 amd64
+libtemplate-perl/jammy-updates,jammy-security 2.27-1ubuntu0.22.04.1 amd64
 libtemplate-plugin-class-perl/jammy 0.14-1.1 all
 libtemplate-plugin-clickable-email-perl/jammy 0.01-2.1 all
 libtemplate-plugin-clickable-perl/jammy 0.06-3.1 all
@@ -42383,7 +42383,7 @@ libwww-mechanize-treebuilder-perl/jammy 1.20000-1.1 all
 libwww-mediawiki-client-perl/jammy 0.31-2.2 all
 libwww-oauth-perl/jammy 1.000-1.1 all
 libwww-opensearch-perl/jammy 0.17-1.2 all
-libwww-perl/jammy 6.61-1 all
+libwww-perl/jammy-updates,jammy-security 6.61-1ubuntu0.1 all
 libwww-robotrules-perl/jammy 6.02-1 all
 libwww-search-perl/jammy 2.51.90+~cs6.78-2 all
 libwww-shorten-5gp-perl/jammy 1.030-1.1 all
@@ -104596,7 +104596,7 @@ python3-ttystatus/jammy 0.38-4 all
 python3-tvdb-api/jammy 3.1-1 all
 python3-tweepy/jammy 4.5.0-1 all
 python3-twilio/jammy 7.1.0+ds-1 all
-python3-twisted/jammy-updates,jammy-security 22.1.0-2ubuntu2.6 all
+python3-twisted/jammy-updates,jammy-security 22.1.0-2ubuntu2.7 all
 python3-twitter/jammy 3.3-2 all
 python3-twodict/jammy 1.2-2ubuntu1 all
 python3-twython/jammy 3.8.2+dfsg-2 all
@@ -104661,7 +104661,7 @@ python3-uranium/jammy 4.13.0-1 all
 python3-uritemplate/jammy 3.0.1-1 all
 python3-uritools/jammy 3.0.2-1 all
 python3-url-normalize/jammy 1.4.3-2 all
-python3-urllib3/jammy-updates,jammy-security 1.26.5-1~exp1ubuntu0.6 all
+python3-urllib3/jammy-updates,jammy-security 1.26.5-1~exp1ubuntu0.7 all
 python3-urlobject/jammy 2.4.3-3 all
 python3-urwid-satext/jammy 0.8.0-1 all
 python3-urwid-utils/jammy 0.1.2.dev2-2 all
@@ -112428,7 +112428,7 @@ twinkle-common/jammy 1:1.10.2+dfsg-1 all
 twinkle-console/jammy 1:1.10.2+dfsg-1 amd64
 twinkle/jammy 1:1.10.2+dfsg-1 amd64
 twinvoicerecalc/jammy 0.0.20170711-1.1 all
-twisted-doc/jammy-updates,jammy-security 22.1.0-2ubuntu2.6 all
+twisted-doc/jammy-updates,jammy-security 22.1.0-2ubuntu2.7 all
 twittering-mode/jammy 3.1.0-1.2 all
 twitterwatch/jammy 0.1-2 all
 twm/jammy 1:1.0.10-1 amd64
