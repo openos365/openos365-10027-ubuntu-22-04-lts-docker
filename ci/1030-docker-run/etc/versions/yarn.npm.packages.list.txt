@@ -375,11 +375,11 @@ yarn list v1.22.22
 │  ├─ @azure/ms-rest-azure-env@^2.0.0
 │  ├─ @azure/ms-rest-js@^2.0.4
 │  └─ adal-node@^0.2.2
-├─ @azure/msal-browser@5.11.0
-│  └─ @azure/msal-common@16.6.2
-├─ @azure/msal-common@16.6.2
-├─ @azure/msal-node@5.2.2
-│  ├─ @azure/msal-common@16.6.2
+├─ @azure/msal-browser@5.12.0
+│  └─ @azure/msal-common@16.7.0
+├─ @azure/msal-common@16.7.0
+├─ @azure/msal-node@5.2.3
+│  ├─ @azure/msal-common@16.7.0
 │  └─ jsonwebtoken@^9.0.0
 ├─ @babel/code-frame@7.29.7
 │  ├─ @babel/helper-validator-identifier@^7.29.7
@@ -4577,7 +4577,7 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.5
 │     └─ brace-expansion@^5.0.5
 ├─ @types/ms@2.1.0
-├─ @types/node@25.9.1
+├─ @types/node@25.9.2
 │  └─ undici-types@>=7.24.0 <7.24.7
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -12787,14 +12787,15 @@ yarn list v1.22.22
 │  ├─ strip-ansi@^6.0.1
 │  └─ strip-ansi@6.0.1
 │     └─ ansi-regex@^5.0.1
-├─ string.prototype.trim@1.2.10
-│  ├─ call-bind@^1.0.8
-│  ├─ call-bound@^1.0.2
+├─ string.prototype.trim@1.2.11
+│  ├─ call-bind@^1.0.9
+│  ├─ call-bound@^1.0.4
 │  ├─ define-data-property@^1.1.4
 │  ├─ define-properties@^1.2.1
-│  ├─ es-abstract@^1.23.5
-│  ├─ es-object-atoms@^1.0.0
-│  └─ has-property-descriptors@^1.0.2
+│  ├─ es-abstract@^1.24.2
+│  ├─ es-object-atoms@^1.1.2
+│  ├─ has-property-descriptors@^1.0.2
+│  └─ safe-regex-test@^1.1.0
 ├─ string.prototype.trimend@1.0.9
 │  ├─ call-bind@^1.0.8
 │  ├─ call-bound@^1.0.2
