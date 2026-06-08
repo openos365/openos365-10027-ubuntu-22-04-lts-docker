@@ -32837,7 +32837,7 @@ libnet-async-mpd-perl/jammy 0.005-2 all
 libnet-async-tangence-perl/jammy 0.16-1 all
 libnet-bluetooth-perl/jammy 0.41-2build4 amd64
 libnet-bonjour-perl/jammy 0.96-2.1 all
-libnet-cidr-lite-perl/jammy-security 0.22-1ubuntu0.1 all
+libnet-cidr-lite-perl/jammy-updates,jammy-security 0.22-1ubuntu0.1 all
 libnet-cidr-perl/jammy-updates,jammy-security 0.21-1ubuntu0.2 all
 libnet-cidr-set-perl/jammy 0.13-3 all
 libnet-cisco-mse-rest-perl/jammy 0.2-1.1 all
@@ -108038,7 +108038,7 @@ rst2pdf/jammy 0.98-2 all
 rstat-client/jammy 4.0.1-11 amd64
 rstatd/jammy 4.0.1-11 amd64
 rstcheck/jammy 3.3.1-6 all
-rsync/jammy-security,now 3.2.7-0ubuntu0.22.04.7 amd64 [installed]
+rsync/jammy-updates,jammy-security,now 3.2.7-0ubuntu0.22.04.7 amd64 [installed]
 rsyncrypto/jammy 1.14-1.2build1 amd64
 rsyslog-czmq/jammy-updates,jammy-security 8.2112.0-2ubuntu2.2 amd64
 rsyslog-doc/jammy 8.2202.0+dfsg-1 all
