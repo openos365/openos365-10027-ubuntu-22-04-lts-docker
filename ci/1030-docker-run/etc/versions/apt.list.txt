@@ -28201,7 +28201,7 @@ libhttp-cache-transparent-perl/jammy 1.4-1 all
 libhttp-cookiejar-perl/jammy 0.012-1 all
 libhttp-cookiemonster-perl/jammy 0.11-1 all
 libhttp-cookies-perl/jammy 6.10-1 all
-libhttp-daemon-perl/jammy-security 6.13-1ubuntu0.2 all
+libhttp-daemon-perl/jammy-updates,jammy-security 6.13-1ubuntu0.2 all
 libhttp-daemon-ssl-perl/jammy 1.05-01-2 all
 libhttp-date-perl/jammy 6.05-1 all
 libhttp-dav-perl/jammy 0.49-2 all
