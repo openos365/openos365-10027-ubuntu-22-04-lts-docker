@@ -93814,11 +93814,11 @@ misery/jammy 0.2-1.1build3 amd64
 missfits/jammy 2.8.0-5 amd64
 missidentify/jammy 1.0-11 amd64
 misspell-fixer/jammy 0.4-1 all
-mistral-api/jammy-security 14.0.0-0ubuntu1.1 all
-mistral-common/jammy-security 14.0.0-0ubuntu1.1 all
-mistral-engine/jammy-security 14.0.0-0ubuntu1.1 all
-mistral-event-engine/jammy-security 14.0.0-0ubuntu1.1 all
-mistral-executor/jammy-security 14.0.0-0ubuntu1.1 all
+mistral-api/jammy-updates,jammy-security 14.0.0-0ubuntu1.1 all
+mistral-common/jammy-updates,jammy-security 14.0.0-0ubuntu1.1 all
+mistral-engine/jammy-updates,jammy-security 14.0.0-0ubuntu1.1 all
+mistral-event-engine/jammy-updates,jammy-security 14.0.0-0ubuntu1.1 all
+mistral-executor/jammy-updates,jammy-security 14.0.0-0ubuntu1.1 all
 mistral-tempest-plugin/jammy 1.3.0-2 all
 mit-scheme-dbg/jammy 11.2-2ubuntu1 amd64
 mit-scheme-doc/jammy 11.2-2ubuntu1 all
@@ -103398,7 +103398,7 @@ python3-mirtop/jammy 0.4.24-1 all
 python3-mistletoe/jammy 0.8.2-1 all
 python3-mistral-dashboard/jammy 13.0.0-1 all
 python3-mistral-lib/jammy 2.5.0-0ubuntu1 all
-python3-mistral/jammy-security 14.0.0-0ubuntu1.1 all
+python3-mistral/jammy-updates,jammy-security 14.0.0-0ubuntu1.1 all
 python3-mistralclient/jammy 1:4.3.0-0ubuntu1 all
 python3-mistune0/jammy 0.8.4-2 all
 python3-mistune/jammy 2.0.0-1+really0.8.4-1 all
