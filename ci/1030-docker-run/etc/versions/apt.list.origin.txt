@@ -14648,9 +14648,9 @@ irecovery/jammy 1.0.0-5 amd64
 iredis/jammy 1.10.0-1 all
 irker/jammy 2.19+dfsg-1 all
 iroffer/jammy 1.4.b03-7 amd64
-ironic-api/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.2 all
-ironic-common/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.2 all
-ironic-conductor/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.2 all
+ironic-api/jammy-security 1:20.1.0-0ubuntu1.3 all
+ironic-common/jammy-security 1:20.1.0-0ubuntu1.3 all
+ironic-conductor/jammy-security 1:20.1.0-0ubuntu1.3 all
 ironic-inspector/jammy 1:10.11.0-0ubuntu1 all
 ironic-neutron-agent/jammy 5.1.0+git2022033113.f30f96c-0ubuntu1 all
 ironic-tempest-plugin/jammy 2.3.1-2 all
@@ -102990,7 +102990,7 @@ python3-ironic-inspector/jammy 1:10.11.0-0ubuntu1 all
 python3-ironic-lib/jammy 5.2.0-0ubuntu1 all
 python3-ironic-neutron-agent/jammy 5.1.0+git2022033113.f30f96c-0ubuntu1 all
 python3-ironic-ui/jammy 5.1.0-0ubuntu1 all
-python3-ironic/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.2 all
+python3-ironic/jammy-security 1:20.1.0-0ubuntu1.3 all
 python3-ironicclient/jammy 4.11.0-0ubuntu1 all
 python3-isbnlib/jammy 3.9.3-1.2 all
 python3-isc-dhcp-leases/jammy 0.9.1-2 all
