@@ -5339,7 +5339,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.10.35
+├─ baseline-browser-mapping@2.10.36
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -10721,7 +10721,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.386.5
+├─ posthog-js@1.386.6
 │  ├─ @posthog/core@^1.32.3
 │  ├─ @posthog/types@^1.386.3
 │  ├─ core-js@^3.38.1
