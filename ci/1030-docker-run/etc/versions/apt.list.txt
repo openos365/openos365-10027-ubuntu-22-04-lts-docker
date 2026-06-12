@@ -14647,9 +14647,9 @@ irecovery/jammy 1.0.0-5 amd64
 iredis/jammy 1.10.0-1 all
 irker/jammy 2.19+dfsg-1 all
 iroffer/jammy 1.4.b03-7 amd64
-ironic-api/jammy-security 1:20.1.0-0ubuntu1.3 all
-ironic-common/jammy-security 1:20.1.0-0ubuntu1.3 all
-ironic-conductor/jammy-security 1:20.1.0-0ubuntu1.3 all
+ironic-api/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.3 all
+ironic-common/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.3 all
+ironic-conductor/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.3 all
 ironic-inspector/jammy 1:10.11.0-0ubuntu1 all
 ironic-neutron-agent/jammy 5.1.0+git2022033113.f30f96c-0ubuntu1 all
 ironic-tempest-plugin/jammy 2.3.1-2 all
@@ -100096,7 +100096,7 @@ printer-driver-brlaser/jammy 6-3 amd64
 printer-driver-c2050/jammy 0.3b-10 amd64
 printer-driver-c2esp/jammy 27-11build1 amd64
 printer-driver-cjet/jammy 0.8.9-10 amd64
-printer-driver-cups-pdf/jammy-security 3.0.1-14ubuntu0.22.04.1 amd64
+printer-driver-cups-pdf/jammy-updates,jammy-security 3.0.1-14ubuntu0.22.04.1 amd64
 printer-driver-dymo/jammy 1.4.0-11 amd64
 printer-driver-escpr/jammy 1.7.17-2 amd64
 printer-driver-foo2zjs-common/jammy-updates,jammy-security 20200505dfsg0-2ubuntu2.22.04.1 all
@@ -102989,7 +102989,7 @@ python3-ironic-inspector/jammy 1:10.11.0-0ubuntu1 all
 python3-ironic-lib/jammy 5.2.0-0ubuntu1 all
 python3-ironic-neutron-agent/jammy 5.1.0+git2022033113.f30f96c-0ubuntu1 all
 python3-ironic-ui/jammy 5.1.0-0ubuntu1 all
-python3-ironic/jammy-security 1:20.1.0-0ubuntu1.3 all
+python3-ironic/jammy-updates,jammy-security 1:20.1.0-0ubuntu1.3 all
 python3-ironicclient/jammy 4.11.0-0ubuntu1 all
 python3-isbnlib/jammy 3.9.3-1.2 all
 python3-isc-dhcp-leases/jammy 0.9.1-2 all

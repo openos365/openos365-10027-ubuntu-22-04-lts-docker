@@ -100097,7 +100097,7 @@ printer-driver-brlaser/jammy 6-3 amd64
 printer-driver-c2050/jammy 0.3b-10 amd64
 printer-driver-c2esp/jammy 27-11build1 amd64
 printer-driver-cjet/jammy 0.8.9-10 amd64
-printer-driver-cups-pdf/jammy-security 3.0.1-14ubuntu0.22.04.1 amd64
+printer-driver-cups-pdf/jammy-updates,jammy-security 3.0.1-14ubuntu0.22.04.1 amd64
 printer-driver-dymo/jammy 1.4.0-11 amd64
 printer-driver-escpr/jammy 1.7.17-2 amd64
 printer-driver-foo2zjs-common/jammy-updates,jammy-security 20200505dfsg0-2ubuntu2.22.04.1 all
