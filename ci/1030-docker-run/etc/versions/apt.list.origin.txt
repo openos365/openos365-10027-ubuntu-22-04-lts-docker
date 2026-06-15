@@ -158,8 +158,8 @@ adplug-utils/jammy 2.3.3+dfsg-2 amd64
 adql-java-doc/jammy 1.5-1 all
 adql-java/jammy 1.5-1 all
 adr-tools/jammy 3.0.0-2 all
-adsys-windows/jammy-security 0.16.3~22.04.2ubuntu0.22.04.1 amd64
-adsys/jammy-security 0.16.3~22.04.2ubuntu0.22.04.1 amd64
+adsys-windows/jammy-updates,jammy-security 0.16.3~22.04.2ubuntu0.22.04.1 amd64
+adsys/jammy-updates,jammy-security 0.16.3~22.04.2ubuntu0.22.04.1 amd64
 adun-core/jammy 0.81-14build2 amd64
 adun.app/jammy 0.81-14build2 amd64
 adv-17v35x-dkms/jammy-updates 5.0.6.0-1ubuntu1 all
