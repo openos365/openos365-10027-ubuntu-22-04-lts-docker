@@ -15325,10 +15325,10 @@ keyman/jammy 14.0.287-1 all
 keymapper/jammy 0.6.3 all
 keynav/jammy 0.20180421~git6505bd0d-3 amd64
 keyringer/jammy 0.5.5-1 all
-keystone-common/jammy-security 2:21.0.1-0ubuntu2.4 all
-keystone-doc/jammy-security 2:21.0.1-0ubuntu2.4 all
+keystone-common/jammy-updates,jammy-security 2:21.0.1-0ubuntu2.4 all
+keystone-doc/jammy-updates,jammy-security 2:21.0.1-0ubuntu2.4 all
 keystone-tempest-plugin/jammy 0.8.0-2 all
-keystone/jammy-security 2:21.0.1-0ubuntu2.4 all
+keystone/jammy-updates,jammy-security 2:21.0.1-0ubuntu2.4 all
 keyutils/jammy 1.6.1-2ubuntu3 amd64
 kf5-messagelib-data/jammy 4:21.12.3-0ubuntu1 all
 kfind/jammy 4:21.12.3-0ubuntu1 amd64
@@ -103095,7 +103095,7 @@ python3-kerberos/jammy 1.1.14-3.1build5 amd64
 python3-keyman-config/jammy 14.0.287-1 all
 python3-keyring/jammy 23.5.0-1 all
 python3-keyrings.alt/jammy 4.1.0-1 all
-python3-keystone/jammy-security 2:21.0.1-0ubuntu2.4 all
+python3-keystone/jammy-updates,jammy-security 2:21.0.1-0ubuntu2.4 all
 python3-keystoneauth1/jammy 4.4.0-0ubuntu1 all
 python3-keystoneclient/jammy 1:4.4.0-0ubuntu1 all
 python3-keystonemiddleware/jammy-updates 9.4.0-0ubuntu1.1 all
