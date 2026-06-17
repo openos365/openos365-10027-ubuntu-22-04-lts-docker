@@ -4625,7 +4625,6 @@ disulfinder/jammy 1.2.11-12 amd64
 dita-ot-doc/jammy 1.5.3+dfsg-1 all
 dita-ot/jammy 1.5.3+dfsg-1 all
 ditaa/jammy 0.10+ds1-1.2 all
-dive/now 0.13.1 amd64 [installed,local]
 divxcomp/jammy 0.1-9.1 all
 divxenc/jammy 1.6.4-0ubuntu1 all
 dizzy/jammy 0.3-3.1 all
@@ -19886,7 +19885,7 @@ libconfig-grammar-perl/jammy 1.13-3 all
 libconfig-identity-perl/jammy 0.0019-2 all
 libconfig-ini-perl/jammy 1:0.027-1 all
 libconfig-ini-reader-ordered-perl/jammy 0.020-1.1 all
-libconfig-inifiles-perl/jammy-security 3.000003-1ubuntu0.1 all
+libconfig-inifiles-perl/jammy-updates,jammy-security 3.000003-1ubuntu0.1 all
 libconfig-inihash-perl/jammy 3.01.01-4 all
 libconfig-json-perl/jammy 1.5202-1.1 all
 libconfig-merge-perl/jammy 1.04-1.1 all
