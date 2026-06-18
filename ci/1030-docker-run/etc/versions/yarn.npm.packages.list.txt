@@ -1888,7 +1888,7 @@ yarn list v1.22.22
 │  ├─ lodash.reject@^4.6.0
 │  ├─ memoize-one@^6.0.0
 │  ├─ nanoid@^5.0.9
-│  ├─ nanoid@5.1.12
+│  ├─ nanoid@5.1.14
 │  ├─ popper.js@^1.10.8
 │  ├─ prop-types@>=15.7.2
 │  ├─ react-contenteditable@^3.3.5
