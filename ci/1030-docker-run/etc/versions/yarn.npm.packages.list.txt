@@ -1706,8 +1706,8 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.35.1
-│  └─ @posthog/types@^1.389.0
+├─ @posthog/core@1.35.2
+│  └─ @posthog/types@^1.390.0
 ├─ @posthog/types@1.390.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -9692,7 +9692,7 @@ yarn list v1.22.22
 │  └─ stylis@4.4.0
 ├─ nano-time@1.0.0
 │  └─ big-integer@^1.6.16
-├─ nanoid@3.3.12
+├─ nanoid@3.3.13
 ├─ nanomatch@1.2.13
 │  ├─ arr-diff@^4.0.0
 │  ├─ array-unique@^0.3.2
@@ -11367,7 +11367,7 @@ yarn list v1.22.22
 │  ├─ loose-envify@^1.1.0
 │  ├─ object-assign@^4.1.1
 │  └─ scheduler@^0.20.2
-├─ react-draggable@4.6.0
+├─ react-draggable@4.7.0
 │  ├─ clsx@^2.1.1
 │  ├─ clsx@2.1.1
 │  └─ prop-types@^15.8.1
