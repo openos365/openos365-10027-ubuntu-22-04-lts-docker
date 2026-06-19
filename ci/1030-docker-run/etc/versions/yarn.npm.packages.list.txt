@@ -1708,7 +1708,7 @@ yarn list v1.22.22
 ├─ @popperjs/core@2.11.8
 ├─ @posthog/core@1.35.2
 │  └─ @posthog/types@^1.390.0
-├─ @posthog/types@1.390.0
+├─ @posthog/types@1.390.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -4580,8 +4580,8 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.5
 │     └─ brace-expansion@^5.0.5
 ├─ @types/ms@2.1.0
-├─ @types/node@25.9.3
-│  └─ undici-types@>=7.24.0 <7.24.7
+├─ @types/node@26.0.0
+│  └─ undici-types@~8.3.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  └─ path-to-regexp@*
@@ -10739,18 +10739,18 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.390.2
-│  ├─ @posthog/core@^1.35.1
-│  ├─ @posthog/types@^1.390.0
+├─ posthog-js@1.391.1
+│  ├─ @posthog/core@^1.35.2
+│  ├─ @posthog/types@^1.390.1
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
 │  ├─ dompurify@^3.3.2
 │  ├─ dompurify@3.4.11
 │  │  └─ @types/trusted-types@^2.0.7
 │  ├─ fflate@^0.4.8
-│  ├─ preact@^10.28.2
+│  ├─ preact@^10.29.2
 │  ├─ query-selector-shadow-dom@^1.0.1
-│  └─ web-vitals@^5.1.0
+│  └─ web-vitals@^5.3.0
 ├─ potpack@1.0.2
 ├─ preact-compat@3.19.0
 │  ├─ immutability-helper@^2.7.1
@@ -13356,7 +13356,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.1.0
 │  └─ which-boxed-primitive@^1.1.1
 ├─ underscore@1.13.8
-├─ undici-types@7.24.6
+├─ undici-types@8.3.0
 ├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
