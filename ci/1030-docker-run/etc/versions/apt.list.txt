@@ -42005,9 +42005,9 @@ libvmime-dev/jammy 0.9.2-8build1 amd64
 libvmime1-doc/jammy 0.9.2-8build1 all
 libvmime1/jammy 0.9.2-8build1 amd64
 libvmmlib-dev/jammy 1.0-2.2 all
-libvncclient1/jammy-security 0.9.13+dfsg-3ubuntu0.1 amd64
-libvncserver-dev/jammy-security 0.9.13+dfsg-3ubuntu0.1 amd64
-libvncserver1/jammy-security 0.9.13+dfsg-3ubuntu0.1 amd64
+libvncclient1/jammy-updates,jammy-security 0.9.13+dfsg-3ubuntu0.1 amd64
+libvncserver-dev/jammy-updates,jammy-security 0.9.13+dfsg-3ubuntu0.1 amd64
+libvncserver1/jammy-updates,jammy-security 0.9.13+dfsg-3ubuntu0.1 amd64
 libvnlog-dev/jammy 1.32-1.1 amd64
 libvnlog-perl/jammy 1.32-1.1 all
 libvnlog0/jammy 1.32-1.1 amd64

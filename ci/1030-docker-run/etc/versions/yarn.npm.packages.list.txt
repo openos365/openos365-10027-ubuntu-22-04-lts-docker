@@ -1706,7 +1706,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.37.0
+├─ @posthog/core@1.37.1
 │  └─ @posthog/types@^1.391.0
 ├─ @posthog/types@1.391.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -3040,6 +3040,12 @@ yarn list v1.22.22
 │  ├─ antd@^4.24.5
 │  ├─ attr-accept@^2.2.2
 │  ├─ autoprefixer@^10.4.7
+│  ├─ autoprefixer@10.5.1
+│  │  ├─ browserslist@^4.28.4
+│  │  ├─ caniuse-lite@^1.0.30001799
+│  │  ├─ fraction.js@^5.3.4
+│  │  ├─ picocolors@^1.1.1
+│  │  └─ postcss-value-parser@^4.2.0
 │  ├─ axios@^0.27.2
 │  ├─ axios@0.27.2
 │  │  ├─ follow-redirects@^1.14.9
@@ -3090,6 +3096,7 @@ yarn list v1.22.22
 │  │  └─ use-sync-external-store@1.2.0
 │  ├─ postcss-focus-visible@^6.0.4
 │  ├─ postcss-less@^6.0.0
+│  ├─ postcss-value-parser@4.2.0
 │  ├─ postcss@^8.4.14
 │  ├─ postcss@8.5.15
 │  │  ├─ nanoid@^3.3.12
