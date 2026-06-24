@@ -20623,7 +20623,7 @@ libdbd-sybase-perl/jammy 1.14-1build9 amd64
 libdbd-xbase-perl/jammy 1:1.08-1 all
 libdbi-dev/jammy 0.9.0-6build2 amd64
 libdbi-doc/jammy 0.9.0-6build2 all
-libdbi-perl/jammy 1.643-3build3 amd64
+libdbi-perl/jammy-updates,jammy-security 1.643-3ubuntu0.1 amd64
 libdbi-test-perl/jammy 0.001-1.1 all
 libdbi1/jammy 0.9.0-6build2 amd64
 libdbicx-sugar-perl/jammy 0.0200-2 all
@@ -35029,7 +35029,7 @@ libperl-critic-perl/jammy 1.140-1 all
 libperl-critic-policy-variables-prohibitlooponhash-perl/jammy 0.008-1 all
 libperl-critic-pulp-perl/jammy 99-1 all
 libperl-destruct-level-perl/jammy 0.02-2build8 amd64
-libperl-dev/jammy-updates,jammy-security 5.34.0-3ubuntu1.5 amd64
+libperl-dev/jammy-updates,jammy-security 5.34.0-3ubuntu1.7 amd64
 libperl-metrics-simple-perl/jammy 1.0.1-1 all
 libperl-minimumversion-fast-perl/jammy 0.18-2 all
 libperl-minimumversion-perl/jammy 1.40-1 all
@@ -35041,7 +35041,7 @@ libperl4-corelibs-perl/jammy 0.004-2 all
 libperl4caml-ocaml-dev/jammy 0.9.5-5.1build2 amd64
 libperl4caml-ocaml-doc/jammy 0.9.5-5.1build2 all
 libperl4caml-ocaml/jammy 0.9.5-5.1build2 amd64
-libperl5.34/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.5 amd64 [installed,automatic]
+libperl5.34/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.7 amd64 [installed,automatic]
 libperl6-caller-perl/jammy 0.100-3.1 all
 libperl6-export-attrs-perl/jammy 0.000006-1 all
 libperl6-export-perl/jammy 0.009-1.1 all
@@ -98771,18 +98771,18 @@ performous-composer/jammy 2.0+20181009-gitbeeea23-2.1build1 amd64
 performous-tools/jammy 1.1+git20181118-5ubuntu3 amd64
 performous/jammy 1.1+git20181118-5ubuntu3 amd64
 perftest/jammy 4.4+0.37-1 amd64
-perl-base/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.5 amd64 [installed]
+perl-base/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.7 amd64 [installed]
 perl-byacc/jammy 2.0-8 amd64
-perl-debug/jammy-updates,jammy-security 5.34.0-3ubuntu1.5 amd64
+perl-debug/jammy-updates,jammy-security 5.34.0-3ubuntu1.7 amd64
 perl-depends/jammy 2016.1029+git8f67695-2 all
 perl-doc-html/jammy 5.26.0-4 all
-perl-doc/jammy-updates,jammy-security 5.34.0-3ubuntu1.5 all
-perl-modules-5.34/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.5 all [installed,automatic]
+perl-doc/jammy-updates,jammy-security 5.34.0-3ubuntu1.7 all
+perl-modules-5.34/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.7 all [installed,automatic]
 perl-openssl-defaults/jammy 5build2 amd64
 perl-stacktrace/jammy 0.09-3ubuntu5 amd64
 perl-tk/jammy 1:804.035-2build1 amd64
 perl6-readline/jammy 0.1.5-5build1 amd64
-perl/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.5 amd64 [installed,automatic]
+perl/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.7 amd64 [installed,automatic]
 perlbal/jammy 1.80-3.1 all
 perlbrew/jammy 0.94-1 all
 perlconsole/jammy 0.4-4.1 all
