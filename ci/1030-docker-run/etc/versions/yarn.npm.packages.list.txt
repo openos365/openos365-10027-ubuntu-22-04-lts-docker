@@ -1706,7 +1706,7 @@ yarn list v1.22.22
 │  ├─ parse-rect@^1.2.0
 │  └─ pick-by-alias@^1.2.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.37.2
+├─ @posthog/core@1.37.3
 │  └─ @posthog/types@^1.391.1
 ├─ @posthog/types@1.391.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -4988,7 +4988,7 @@ yarn list v1.22.22
 ├─ atob-lite@1.0.0
 ├─ atob@2.1.2
 ├─ attr-accept@2.2.5
-├─ autoprefixer@10.5.1
+├─ autoprefixer@10.5.2
 │  ├─ browserslist@^4.28.4
 │  ├─ caniuse-lite@^1.0.30001799
 │  ├─ fraction.js@^5.3.4
