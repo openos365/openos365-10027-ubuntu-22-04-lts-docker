@@ -1668,7 +1668,7 @@ yarn list v1.22.22
 │  └─ @noble/hashes@^1.1.5
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.37.3
+├─ @posthog/core@1.38.0
 │  └─ @posthog/types@^1.391.1
 ├─ @posthog/types@1.391.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -9830,8 +9830,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.394.0
-│  ├─ @posthog/core@^1.37.3
+├─ posthog-js@1.395.0
+│  ├─ @posthog/core@^1.38.0
 │  ├─ @posthog/types@^1.391.1
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
