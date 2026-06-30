@@ -33317,9 +33317,9 @@ libnss-tls/jammy 1.1-1 amd64
 libnss-unknown/jammy 0.0.2-2 amd64
 libnss-winbind/jammy-updates,jammy-security 2:4.15.13+dfsg-0ubuntu1.12 amd64
 libnss-wrapper/jammy 1.1.11-1ubuntu2 amd64
-libnss3-dev/jammy-security 2:3.98-0ubuntu0.22.04.4 amd64
-libnss3-tools/jammy-security 2:3.98-0ubuntu0.22.04.4 amd64
-libnss3/jammy-security,now 2:3.98-0ubuntu0.22.04.4 amd64 [installed,automatic]
+libnss3-dev/jammy-updates,jammy-security 2:3.98-0ubuntu0.22.04.4 amd64
+libnss3-tools/jammy-updates,jammy-security 2:3.98-0ubuntu0.22.04.4 amd64
+libnss3/jammy-updates,jammy-security,now 2:3.98-0ubuntu0.22.04.4 amd64 [installed,automatic]
 libnsync-cpp1/jammy 1.24.0-1 amd64
 libnsync-dev/jammy 1.24.0-1 amd64
 libnsync1/jammy 1.24.0-1 amd64
