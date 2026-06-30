@@ -1668,7 +1668,7 @@ yarn list v1.22.22
 │  └─ @noble/hashes@^1.1.5
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.38.1
+├─ @posthog/core@1.39.1
 │  └─ @posthog/types@^1.392.0
 ├─ @posthog/types@1.392.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -5400,7 +5400,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001799
+├─ caniuse-lite@1.0.30001800
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
@@ -6151,7 +6151,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.381
+├─ electron-to-chromium@1.5.382
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
