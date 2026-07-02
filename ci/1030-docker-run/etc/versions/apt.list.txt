@@ -16665,9 +16665,9 @@ lib32itm1/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3 amd64
 lib32lsan0-amd64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cross1 all
 lib32lsan0-ppc64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32lsan0/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3 amd64
-lib32ncurses-dev/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-lib32ncurses6/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-lib32ncursesw6/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
+lib32ncurses-dev/jammy-security 6.3-2ubuntu0.2 amd64
+lib32ncurses6/jammy-security 6.3-2ubuntu0.2 amd64
+lib32ncursesw6/jammy-security 6.3-2ubuntu0.2 amd64
 lib32objc-10-dev-amd64-cross/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04.3cross1 all
 lib32objc-10-dev-mips64-cross/jammy 10.3.0-1ubuntu1cross2 all
 lib32objc-10-dev-mips64el-cross/jammy 10.3.0-1ubuntu1cross2 all
@@ -16780,7 +16780,7 @@ lib32stdc++6-s390x-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cro
 lib32stdc++6-sparc64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32stdc++6-x32-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32stdc++6/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3 amd64
-lib32tinfo6/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
+lib32tinfo6/jammy-security 6.3-2ubuntu0.2 amd64
 lib32ubsan1-amd64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cross1 all
 lib32ubsan1-ppc64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32ubsan1-s390x-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cross1 all
@@ -32786,17 +32786,17 @@ libncrystal-bin/jammy 2.7.3+ds1-4 amd64
 libncrystal-data/jammy 2.7.3+ds1-4 all
 libncrystal-dev/jammy 2.7.3+ds1-4 amd64
 libncrystal1/jammy 2.7.3+ds1-4 amd64
-libncurses-dev/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
+libncurses-dev/jammy-security 6.3-2ubuntu0.2 amd64
 libncurses-gst/jammy 3.2.5-1.3ubuntu1 all
-libncurses5-dev/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-libncurses5/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-libncurses6/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 amd64 [installed]
+libncurses5-dev/jammy-security 6.3-2ubuntu0.2 amd64
+libncurses5/jammy-security 6.3-2ubuntu0.2 amd64
+libncurses6/jammy-security,now 6.3-2ubuntu0.2 amd64 [installed]
 libncursesada-doc/jammy 6.2.20200212-4 all
 libncursesada6.2.3/jammy 6.2.20200212-4 amd64
 libncursesada9-dev/jammy 6.2.20200212-4 amd64
-libncursesw5-dev/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-libncursesw5/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-libncursesw6/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 amd64 [installed]
+libncursesw5-dev/jammy-security 6.3-2ubuntu0.2 amd64
+libncursesw5/jammy-security 6.3-2ubuntu0.2 amd64
+libncursesw6/jammy-security,now 6.3-2ubuntu0.2 amd64 [installed]
 libndctl-dev/jammy 72.1-1 amd64
 libndctl6/jammy 72.1-1 amd64
 libndp-dbg/jammy-updates,jammy-security 1.8-0ubuntu3.1 amd64
@@ -41002,9 +41002,9 @@ libtimezonemap1-dev/jammy 0.4.6-2build2 amd64
 libtimezonemap1/jammy 0.4.6-2build2 amd64
 libtimingframework-java-doc/jammy 1.0-2 all
 libtimingframework-java/jammy 1.0-2 all
-libtinfo-dev/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-libtinfo5/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
-libtinfo6/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 amd64 [installed]
+libtinfo-dev/jammy-security 6.3-2ubuntu0.2 amd64
+libtinfo5/jammy-security 6.3-2ubuntu0.2 amd64
+libtinfo6/jammy-security,now 6.3-2ubuntu0.2 amd64 [installed]
 libtins-dev/jammy 4.0-1build2 amd64
 libtins4.0/jammy 4.0-1build2 amd64
 libtinyexr-dev/jammy 1.0.1+dfsg-3 amd64
@@ -95397,12 +95397,12 @@ nco/jammy 5.0.6-1 amd64
 ncoils/jammy 2002-9 amd64
 ncompress/jammy 4.2.4.6-5 amd64
 ncrack/jammy 0.7+debian-3build1 amd64
-ncurses-base/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 all [installed]
-ncurses-bin/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 amd64 [installed]
-ncurses-doc/jammy-updates,jammy-security 6.3-2ubuntu0.1 all
-ncurses-examples/jammy-updates,jammy-security 6.3-2ubuntu0.1 amd64
+ncurses-base/jammy-security,now 6.3-2ubuntu0.2 all [installed]
+ncurses-bin/jammy-security,now 6.3-2ubuntu0.2 amd64 [installed]
+ncurses-doc/jammy-security 6.3-2ubuntu0.2 all
+ncurses-examples/jammy-security 6.3-2ubuntu0.2 amd64
 ncurses-hexedit/jammy 0.9.7+orig-7.1 amd64
-ncurses-term/jammy-updates,jammy-security 6.3-2ubuntu0.1 all
+ncurses-term/jammy-security 6.3-2ubuntu0.2 all
 ncview/jammy 2.1.8+ds-4build1 amd64
 nd/jammy 0.8.2-8build1 amd64
 ndctl/jammy 72.1-1 amd64

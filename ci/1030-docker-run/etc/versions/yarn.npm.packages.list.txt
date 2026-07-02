@@ -1668,7 +1668,7 @@ yarn list v1.22.22
 │  └─ @noble/hashes@^1.1.5
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.39.4
+├─ @posthog/core@1.39.5
 │  └─ @posthog/types@^1.392.0
 ├─ @posthog/types@1.392.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -5150,7 +5150,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.10.40
+├─ baseline-browser-mapping@2.10.41
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -9830,8 +9830,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.396.4
-│  ├─ @posthog/core@^1.39.3
+├─ posthog-js@1.396.5
+│  ├─ @posthog/core@^1.39.5
 │  ├─ @posthog/types@^1.392.0
 │  ├─ core-js@^3.38.1
 │  ├─ core-js@3.49.0
@@ -11964,7 +11964,7 @@ yarn list v1.22.22
 ├─ tinyglobby@0.2.17
 │  ├─ fdir@^6.5.0
 │  ├─ picomatch@^4.0.4
-│  └─ picomatch@4.0.4
+│  └─ picomatch@4.0.5
 ├─ title-case@2.1.1
 │  ├─ no-case@^2.2.0
 │  └─ upper-case@^1.0.3
