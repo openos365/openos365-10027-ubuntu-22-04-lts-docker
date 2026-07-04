@@ -2632,7 +2632,7 @@ yarn list v1.22.22
 │  │  ├─ parseurl@^1.3.3
 │  │  └─ statuses@^2.0.1
 │  ├─ fresh@2.0.0
-│  ├─ iconv-lite@0.7.2
+│  ├─ iconv-lite@0.7.3
 │  │  └─ safer-buffer@>= 2.1.2 < 3.0.0
 │  ├─ ismobilejs@^1.1.1
 │  ├─ js-yaml@^3.14.2
@@ -2761,7 +2761,7 @@ yarn list v1.22.22
 │  │  ├─ parseurl@^1.3.3
 │  │  └─ statuses@^2.0.1
 │  ├─ fresh@2.0.0
-│  ├─ iconv-lite@0.7.2
+│  ├─ iconv-lite@0.7.3
 │  │  └─ safer-buffer@>= 2.1.2 < 3.0.0
 │  ├─ ismobilejs@^1.1.1
 │  ├─ jsonwebtoken@^9.0.3
@@ -3394,7 +3394,7 @@ yarn list v1.22.22
 │  ├─ fresh@2.0.0
 │  ├─ graphql-parse-resolve-info@^4.12.3
 │  ├─ graphql@^15.8.0
-│  ├─ iconv-lite@0.7.2
+│  ├─ iconv-lite@0.7.3
 │  │  └─ safer-buffer@>= 2.1.2 < 3.0.0
 │  ├─ json-schema-traverse@1.0.0
 │  ├─ jsonwebtoken@^9.0.3
@@ -3621,7 +3621,7 @@ yarn list v1.22.22
 │  │  ├─ parseurl@^1.3.3
 │  │  └─ statuses@^2.0.1
 │  ├─ fresh@2.0.0
-│  ├─ iconv-lite@0.7.2
+│  ├─ iconv-lite@0.7.3
 │  │  └─ safer-buffer@>= 2.1.2 < 3.0.0
 │  ├─ media-typer@1.1.0
 │  ├─ merge-descriptors@2.0.0
@@ -3810,7 +3810,7 @@ yarn list v1.22.22
 │  │  ├─ parseurl@^1.3.3
 │  │  └─ statuses@^2.0.1
 │  ├─ fresh@2.0.0
-│  ├─ iconv-lite@0.7.2
+│  ├─ iconv-lite@0.7.3
 │  │  └─ safer-buffer@>= 2.1.2 < 3.0.0
 │  ├─ jsonwebtoken@^9.0.3
 │  ├─ media-typer@1.1.0
@@ -4048,7 +4048,7 @@ yarn list v1.22.22
 │  │  ├─ parseurl@^1.3.3
 │  │  └─ statuses@^2.0.1
 │  ├─ fresh@2.0.0
-│  ├─ iconv-lite@0.7.2
+│  ├─ iconv-lite@0.7.3
 │  │  └─ safer-buffer@>= 2.1.2 < 3.0.0
 │  ├─ media-typer@1.1.0
 │  ├─ merge-descriptors@2.0.0
@@ -6151,7 +6151,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.385
+├─ electron-to-chromium@1.5.387
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
@@ -11766,7 +11766,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.31.11
+├─ systeminformation@5.31.12
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
