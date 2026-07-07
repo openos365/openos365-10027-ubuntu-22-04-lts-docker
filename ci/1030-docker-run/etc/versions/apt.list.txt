@@ -13520,8 +13520,8 @@ gyoto-doc/jammy 1.4.4-7build1 all
 gyoto/jammy 1.4.4-7build1 all
 gyp/jammy 0.1+20210831gitd6c5dd5-5 all
 gyrus/jammy 0.3.12-1build1 amd64
-gzip-win32/jammy-security 1.10-4ubuntu4.2 all
-gzip/jammy-security,now 1.10-4ubuntu4.2 amd64 [installed]
+gzip-win32/jammy-updates,jammy-security 1.10-4ubuntu4.2 all
+gzip/jammy-updates,jammy-security,now 1.10-4ubuntu4.2 amd64 [installed]
 gzrt/jammy 0.8-1 amd64
 gztool/jammy 1.4.3-1 amd64
 h264enc/jammy 9.3.7~dfsg-0ubuntu1 all
@@ -14253,7 +14253,7 @@ ideviceinstaller/jammy 1.1.1-1build1 amd64
 idevicerestore/jammy 1.0.0-3build2 amd64
 idl-font-lock-el/jammy 1.5-11 all
 idle-python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 all
-idle-python3.10/jammy-security 3.10.12-1~22.04.16 all
+idle-python3.10/jammy-updates,jammy-security 3.10.12-1~22.04.16 all
 idle-python3.11/jammy-updates 3.11.0~rc1-1~22.04 all
 idle3-tools/jammy 0.9.1-6 amd64
 idle3/jammy-updates 3.10.6-1~22.04.1 all
@@ -35802,12 +35802,12 @@ libpython3-all-dev/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dbg/jammy-updates 3.10.6-1~22.04.1 amd64
 libpython3-dev/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
 libpython3-stdlib/jammy-updates,now 3.10.6-1~22.04.1 amd64 [installed,automatic]
-libpython3.10-dbg/jammy-security 3.10.12-1~22.04.16 amd64
-libpython3.10-dev/jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
-libpython3.10-minimal/jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
-libpython3.10-stdlib/jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
-libpython3.10-testsuite/jammy-security 3.10.12-1~22.04.16 all
-libpython3.10/jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
+libpython3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.16 amd64
+libpython3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
+libpython3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
+libpython3.10-stdlib/jammy-updates,jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
+libpython3.10-testsuite/jammy-updates,jammy-security 3.10.12-1~22.04.16 all
+libpython3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
 libpython3.11-dbg/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-dev/jammy-updates 3.11.0~rc1-1~22.04 amd64
 libpython3.11-minimal/jammy-updates 3.11.0~rc1-1~22.04 amd64
@@ -93074,6 +93074,7 @@ linux-xilinx-zynqmp-headers-5.15.0-1067/jammy-updates,jammy-security 5.15.0-1067
 linux-xilinx-zynqmp-headers-5.15.0-1068/jammy-updates,jammy-security 5.15.0-1068.72 all
 linux-xilinx-zynqmp-headers-5.15.0-1069/jammy-updates 5.15.0-1069.73 all
 linux-xilinx-zynqmp-headers-5.15.0-1070/jammy-updates,jammy-security 5.15.0-1070.74 all
+linux-xilinx-zynqmp-headers-5.15.0-1074/jammy-updates 5.15.0-1074.78 all
 linux-xilinx-zynqmp-tools-common/jammy-updates,jammy-security 5.15.0-1053.57 all
 linux-xilinx-zynqmp-tools-host/jammy-updates,jammy-security 5.15.0-1053.57 all
 linuxaudio-new-session-manager/jammy 1.5.3-0ubuntu1 amd64
@@ -106234,15 +106235,15 @@ python3-zunclient/jammy 4.4.0-0ubuntu1 all
 python3-zvmcloudconnector/jammy 2.0.0~b1~git2019062011.4fc9142.really.1.4.1-0ubuntu3 all
 python3-zxcvbn/jammy 4.4.28-2 all
 python3-zzzeeksphinx/jammy 1.3.2-1 all
-python3.10-dbg/jammy-security 3.10.12-1~22.04.16 amd64
-python3.10-dev/jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
-python3.10-doc/jammy-security 3.10.12-1~22.04.16 all
-python3.10-examples/jammy-security 3.10.12-1~22.04.16 all
-python3.10-full/jammy-security 3.10.12-1~22.04.16 amd64
-python3.10-minimal/jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
-python3.10-nopie/jammy-security 3.10.12-1~22.04.16 amd64
-python3.10-venv/jammy-security 3.10.12-1~22.04.16 amd64
-python3.10/jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
+python3.10-dbg/jammy-updates,jammy-security 3.10.12-1~22.04.16 amd64
+python3.10-dev/jammy-updates,jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
+python3.10-doc/jammy-updates,jammy-security 3.10.12-1~22.04.16 all
+python3.10-examples/jammy-updates,jammy-security 3.10.12-1~22.04.16 all
+python3.10-full/jammy-updates,jammy-security 3.10.12-1~22.04.16 amd64
+python3.10-minimal/jammy-updates,jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
+python3.10-nopie/jammy-updates,jammy-security 3.10.12-1~22.04.16 amd64
+python3.10-venv/jammy-updates,jammy-security 3.10.12-1~22.04.16 amd64
+python3.10/jammy-updates,jammy-security,now 3.10.12-1~22.04.16 amd64 [installed,automatic]
 python3.11-dbg/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-dev/jammy-updates 3.11.0~rc1-1~22.04 amd64
 python3.11-doc/jammy-updates 3.11.0~rc1-1~22.04 all
@@ -112327,9 +112328,9 @@ tapecalc/jammy 20220117-1 amd64
 tappy/jammy 3.1-1 all
 taptempo/jammy 1.4.5-1 amd64
 tar-doc/jammy 1.34-1 all
-tar-scripts/jammy-security 1.34+dfsg-1ubuntu0.1.22.04.4 amd64
+tar-scripts/jammy-updates,jammy-security 1.34+dfsg-1ubuntu0.1.22.04.4 amd64
 tar-split/jammy 0.11.1-2 amd64
-tar/jammy-security,now 1.34+dfsg-1ubuntu0.1.22.04.4 amd64 [installed]
+tar/jammy-updates,jammy-security,now 1.34+dfsg-1ubuntu0.1.22.04.4 amd64 [installed]
 tarantool-common/jammy 2.6.0-1ubuntu3 all
 tarantool-dev/jammy 2.6.0-1ubuntu3 amd64
 tarantool/jammy 2.6.0-1ubuntu3 amd64
