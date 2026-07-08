@@ -372,11 +372,11 @@ yarn list v1.22.22
 │  ├─ @azure/ms-rest-azure-env@^2.0.0
 │  ├─ @azure/ms-rest-js@^2.0.4
 │  └─ adal-node@^0.2.2
-├─ @azure/msal-browser@5.16.0
-│  └─ @azure/msal-common@16.11.0
-├─ @azure/msal-common@16.11.0
-├─ @azure/msal-node@5.3.1
-│  ├─ @azure/msal-common@16.11.0
+├─ @azure/msal-browser@5.17.0
+│  └─ @azure/msal-common@16.11.1
+├─ @azure/msal-common@16.11.1
+├─ @azure/msal-node@5.4.0
+│  ├─ @azure/msal-common@16.11.1
 │  └─ jsonwebtoken@^9.0.0
 ├─ @babel/code-frame@7.29.7
 │  ├─ @babel/helper-validator-identifier@^7.29.7
@@ -6151,7 +6151,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.388
+├─ electron-to-chromium@1.5.389
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
