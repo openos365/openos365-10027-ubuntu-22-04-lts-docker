@@ -7760,12 +7760,12 @@ fwts-efi-runtime-dkms/jammy 22.03.00-0ubuntu1 amd64
 fwts-frontend/jammy 22.03.00-0ubuntu1 amd64
 fwts/jammy 22.03.00-0ubuntu1 amd64
 fwupd-amd64-signed-template/jammy-updates,jammy-security 1:1.4-0ubuntu0.1 amd64
-fwupd-doc/jammy-updates 2.0.20-1ubuntu2~22.04.1 all
+fwupd-doc/jammy-updates 2.0.20-1ubuntu2~22.04.2 all
 fwupd-signed/jammy-updates,jammy-security 1.51.1~22.04.1+1.4-0ubuntu0.1 amd64
-fwupd-tests/jammy-updates 2.0.20-1ubuntu2~22.04.1 amd64
+fwupd-tests/jammy-updates 2.0.20-1ubuntu2~22.04.2 amd64
 fwupd-unsigned-dev/jammy-updates,jammy-security 1:1.4-0ubuntu0.1 amd64
 fwupd-unsigned/jammy-updates,jammy-security 1:1.4-0ubuntu0.1 amd64
-fwupd/jammy-updates 2.0.20-1ubuntu2~22.04.1 amd64
+fwupd/jammy-updates 2.0.20-1ubuntu2~22.04.2 amd64
 fwupdate/jammy 12-7 amd64
 fxload/jammy 0.0.20081013-1ubuntu2 amd64
 fxt-tools/jammy 0.3.13-1 amd64
@@ -8804,7 +8804,7 @@ gccgo-sparc64-linux-gnu/jammy 4:11.2.0--1ubuntu1 amd64
 gccgo-x86-64-linux-gnux32/jammy 4:11.2.0--1ubuntu1 amd64
 gccgo/jammy 4:11.2.0-1ubuntu1 amd64
 gccintro/jammy 1.0-4 all
-gce-compute-image-packages/jammy-updates 20250501.00-0ubuntu1~22.04.0 all
+gce-compute-image-packages/jammy-updates 20260116.00-0ubuntu1~22.04.0 all
 gchempaint/jammy 0.14.17-6.1 amd64
 gcin-anthy/jammy 2.9.0+dfsg1-2build1 amd64
 gcin-data/jammy 2.9.0+dfsg1-2build1 all
@@ -9604,7 +9604,7 @@ gir1.2-flatpak-1.0/jammy-updates,jammy-security 1.12.7-1ubuntu0.1 amd64
 gir1.2-folks-0.7/jammy 0.15.5-2 amd64
 gir1.2-fprint-2.0/jammy-updates 1:1.94.3+tod1-0ubuntu2~22.04.08 amd64
 gir1.2-freedesktop/jammy 1.72.0-1 amd64
-gir1.2-fwupd-2.0/jammy-updates 2.0.20-1ubuntu2~22.04.1 amd64
+gir1.2-fwupd-2.0/jammy-updates 2.0.20-1ubuntu2~22.04.2 amd64
 gir1.2-fwupdplugin-1.0/jammy-updates 1.7.9-1~22.04.3 amd64
 gir1.2-ganv-1.0/jammy 1.8.0-1 amd64
 gir1.2-garcon-1.0/jammy 4.16.1-1 amd64
@@ -12923,11 +12923,11 @@ google-android-platform-7-installer/jammy 7+r03+nmu5 all
 google-android-platform-8-installer/jammy 8+r03+nmu5 all
 google-android-platform-9-installer/jammy 9+r02+nmu5 all
 google-android-sdk-docs-installer/jammy 24+r3 all
-google-compute-engine-oslogin/jammy-updates 20240701.00-0ubuntu1~22.04.0 amd64
-google-compute-engine/jammy-updates 20250501.00-0ubuntu1~22.04.0 all
+google-compute-engine-oslogin/jammy-updates 20260116.00-0ubuntu1~22.04.0 amd64
+google-compute-engine/jammy-updates 20260116.00-0ubuntu1~22.04.0 all
 google-guest-agent/jammy-updates,jammy-security 20250116.00-0ubuntu1~22.04.3 amd64
 google-mock/jammy 1.11.0-3 amd64
-google-osconfig-agent/jammy-updates 20250115.01-0ubuntu1~22.04.0 amd64
+google-osconfig-agent/jammy-updates 20251028.00-0ubuntu2~22.04.0 amd64
 google-perftools/jammy 2.9.1-0ubuntu3 all
 google-wire/jammy 0.5.0-1 amd64
 googler/jammy 4.3.2-1 all
@@ -22604,9 +22604,9 @@ libfwsi1/jammy 20181227-1.1build2 amd64
 libfwts1/jammy 22.03.00-0ubuntu1 amd64
 libfwtsacpica1/jammy 22.03.00-0ubuntu1 amd64
 libfwtsiasl1/jammy 22.03.00-0ubuntu1 amd64
-libfwupd-dev/jammy-updates 2.0.20-1ubuntu2~22.04.1 amd64
+libfwupd-dev/jammy-updates 2.0.20-1ubuntu2~22.04.2 amd64
 libfwupd2/jammy-updates 1.7.9-1~22.04.3 amd64
-libfwupd3/jammy-updates 2.0.20-1ubuntu2~22.04.1 amd64
+libfwupd3/jammy-updates 2.0.20-1ubuntu2~22.04.2 amd64
 libfwupdplugin-dev/jammy-updates 1.7.9-1~22.04.3 amd64
 libfwupdplugin5/jammy-updates 1.7.9-1~22.04.3 amd64
 libfxdiv-dev/jammy 0.0~git20200417.b408327-3 amd64
@@ -102911,7 +102911,7 @@ python3-distorm3/jammy 3.4.1-5 all
 python3-distributed/jammy 2022.01.0+ds.1-1 all
 python3-distro-info/jammy-updates 1.1ubuntu0.2 all
 python3-distro/jammy 1.7.0-1 all
-python3-distupgrade/jammy-updates 1:22.04.20 all
+python3-distupgrade/jammy-updates 1:22.04.21 all
 python3-distutils-extra/jammy 2.45 all
 python3-distutils/jammy-updates,jammy-security,now 3.10.8-1~22.04 all [installed,automatic]
 python3-dj-database-url/jammy 0.5.0-2 all
@@ -105991,6 +105991,7 @@ python3-vertica/jammy 0.11.0-2 all
 python3-veusz.helpers/jammy 3.3.1-3build1 amd64
 python3-veusz/jammy 3.3.1-3build1 all
 python3-vine/jammy 5.0.0+dfsg-2 all
+python3-virt-firmware/jammy-updates 24.1.1-2~ubuntu22.04.1 all
 python3-virtkey/jammy 0.63.0-0ubuntu19 amd64
 python3-virtualenv-clone/jammy 0.3.0-2 all
 python3-virtualenv/jammy 20.13.0+ds-2 all
@@ -113879,9 +113880,9 @@ ubuntu-pro-client/jammy-updates 37.2ubuntu~22.04 amd64
 ubuntu-proxy-manager/jammy-updates,jammy-security 0.1.1~22.04ubuntu0.3 amd64
 ubuntu-raspi-settings/jammy 22.04.6 all
 ubuntu-realtime/jammy-updates 1.1.2~22.04.1 amd64
-ubuntu-release-upgrader-core/jammy-updates 1:22.04.20 all
-ubuntu-release-upgrader-gtk/jammy-updates 1:22.04.20 all
-ubuntu-release-upgrader-qt/jammy-updates 1:22.04.20 all
+ubuntu-release-upgrader-core/jammy-updates 1:22.04.21 all
+ubuntu-release-upgrader-gtk/jammy-updates 1:22.04.21 all
+ubuntu-release-upgrader-qt/jammy-updates 1:22.04.21 all
 ubuntu-report/jammy-updates,jammy-security 1.7.1ubuntu0.1 amd64
 ubuntu-restricted-addons/jammy 26 amd64
 ubuntu-restricted-extras/jammy 67 amd64
