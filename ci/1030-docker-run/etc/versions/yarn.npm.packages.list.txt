@@ -1668,7 +1668,7 @@ yarn list v1.22.22
 │  └─ @noble/hashes@^1.1.5
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.40.0
+├─ @posthog/core@1.40.1
 │  └─ @posthog/types@^1.393.0
 ├─ @posthog/types@1.393.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -2212,7 +2212,7 @@ yarn list v1.22.22
 │  ├─ whatwg-mimetype@3.0.0
 │  ├─ ws@8.21.0
 │  └─ xml-name-validator@4.0.0
-├─ @steedos-labs/plugin-workflow@3.0.94
+├─ @steedos-labs/plugin-workflow@3.0.95
 │  ├─ dezalgo@1.0.4
 │  │  ├─ asap@^2.0.0
 │  │  └─ wrappy@1
@@ -5175,7 +5175,7 @@ yarn list v1.22.22
 ├─ bluebird@3.7.2
 ├─ bmp-js@0.1.0
 ├─ bn.js@4.12.5
-├─ body-parser@1.20.5
+├─ body-parser@1.20.6
 │  ├─ bytes@~3.1.2
 │  ├─ content-type@~1.0.5
 │  ├─ debug@2.6.9
@@ -9126,7 +9126,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.50
+├─ node-releases@2.0.51
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
