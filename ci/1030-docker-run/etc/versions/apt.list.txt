@@ -9761,7 +9761,7 @@ gir1.2-secret-1/jammy 0.20.5-2 amd64
 gir1.2-signon-2.0/jammy 2.1-3ubuntu1 amd64
 gir1.2-skk-1.0/jammy 1.0.5-2 amd64
 gir1.2-snapd-1/jammy 1.60-0ubuntu1 amd64
-gir1.2-soup-2.4/jammy-security 2.74.2-3ubuntu0.7 amd64
+gir1.2-soup-2.4/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 amd64
 gir1.2-soup-3.0/jammy-updates 3.0.7-0ubuntu1 amd64
 gir1.2-spiceclientglib-2.0/jammy 0.39-3ubuntu1 amd64
 gir1.2-spiceclientgtk-3.0/jammy 0.39-3ubuntu1 amd64
@@ -14260,7 +14260,7 @@ idle3/jammy-updates 3.10.6-1~22.04.1 all
 idle/jammy-updates 3.10.6-1~22.04.1 all
 idlestat/jammy 0.8-5 amd64
 idn2/jammy 2.3.2-2build1 amd64
-idn/jammy-security 1.38-4ubuntu1.1 amd64
+idn/jammy-updates,jammy-security 1.38-4ubuntu1.1 amd64
 idseq-bench/jammy 0.0~git20210602.27fb6dc-1 all
 idutch/jammy 1:2.20.19-2 all
 idwcc/jammy 1.1.1-2 amd64
@@ -28394,9 +28394,9 @@ libident/jammy 0.32-1 amd64
 libidl-2-0/jammy 0.8.14-4 amd64
 libidl-dev/jammy 0.8.14-4 amd64
 libidm-console-framework-java/jammy 2.0.0-1 all
-libidn-dev/jammy-security 1.38-4ubuntu1.1 amd64
-libidn11-dev/jammy-security 1.38-4ubuntu1.1 amd64
-libidn12/jammy-security 1.38-4ubuntu1.1 amd64
+libidn-dev/jammy-updates,jammy-security 1.38-4ubuntu1.1 amd64
+libidn11-dev/jammy-updates,jammy-security 1.38-4ubuntu1.1 amd64
+libidn12/jammy-updates,jammy-security 1.38-4ubuntu1.1 amd64
 libidn2-0/jammy,now 2.3.2-2build1 amd64 [installed]
 libidn2-dev/jammy 2.3.2-2build1 amd64
 libidn2-doc/jammy 2.3.2-2build1 all
@@ -36354,14 +36354,14 @@ libratbag-tools/jammy 0.16-1 all
 libratpoints-2.1.3/jammy 1:2.1.3-2 amd64
 libratpoints-dev/jammy 1:2.1.3-2 amd64
 libraven0/jammy-updates 10.6.1-1ubuntu3 amd64
-libraw-bin/jammy-security 0.20.2-2ubuntu2.22.04.3 amd64
-libraw-dev/jammy-security 0.20.2-2ubuntu2.22.04.3 amd64
-libraw-doc/jammy-security 0.20.2-2ubuntu2.22.04.3 all
+libraw-bin/jammy-updates,jammy-security 0.20.2-2ubuntu2.22.04.3 amd64
+libraw-dev/jammy-updates,jammy-security 0.20.2-2ubuntu2.22.04.3 amd64
+libraw-doc/jammy-updates,jammy-security 0.20.2-2ubuntu2.22.04.3 all
 libraw1394-11/jammy 2.1.2-2build2 amd64
 libraw1394-dev/jammy 2.1.2-2build2 amd64
 libraw1394-doc/jammy 2.1.2-2build2 all
 libraw1394-tools/jammy 2.1.2-2build2 amd64
-libraw20/jammy-security 0.20.2-2ubuntu2.22.04.3 amd64
+libraw20/jammy-updates,jammy-security 0.20.2-2ubuntu2.22.04.3 amd64
 libraynes-fs-clojure/jammy 1.5.2-1 all
 librbac-client-clojure/jammy 0.9.4-2 all
 librbd-dev/jammy-updates 17.2.9-0ubuntu0.22.04.3 amd64
@@ -39401,15 +39401,15 @@ libsoup-3.0-common/jammy-updates 3.0.7-0ubuntu1 all
 libsoup-3.0-dev/jammy-updates 3.0.7-0ubuntu1 amd64
 libsoup-3.0-doc/jammy-updates 3.0.7-0ubuntu1 all
 libsoup-3.0-tests/jammy-updates 3.0.7-0ubuntu1 amd64
-libsoup-gnome2.4-1/jammy-security 2.74.2-3ubuntu0.7 amd64
-libsoup-gnome2.4-dev/jammy-security 2.74.2-3ubuntu0.7 amd64
-libsoup2.4-1/jammy-security 2.74.2-3ubuntu0.7 amd64
+libsoup-gnome2.4-1/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 amd64
+libsoup-gnome2.4-dev/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 amd64
+libsoup2.4-1/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 amd64
 libsoup2.4-cil-dev/jammy 2.42.2+git20151219-3 amd64
 libsoup2.4-cil/jammy 2.42.2+git20151219-3 amd64
-libsoup2.4-common/jammy-security 2.74.2-3ubuntu0.7 all
-libsoup2.4-dev/jammy-security 2.74.2-3ubuntu0.7 amd64
-libsoup2.4-doc/jammy-security 2.74.2-3ubuntu0.7 all
-libsoup2.4-tests/jammy-security 2.74.2-3ubuntu0.7 amd64
+libsoup2.4-common/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 all
+libsoup2.4-dev/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 amd64
+libsoup2.4-doc/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 all
+libsoup2.4-tests/jammy-updates,jammy-security 2.74.2-3ubuntu0.7 amd64
 libsource-highlight-common/jammy 3.1.9-4.1build2 all
 libsource-highlight-dev/jammy 3.1.9-4.1build2 amd64
 libsource-highlight4v5/jammy 3.1.9-4.1build2 amd64
@@ -113740,7 +113740,7 @@ typecatcher/jammy 0.3-1.2 all
 typespeed/jammy 0.6.5-4 amd64
 tz-converter/jammy 1.0.1-1 all
 tzc/jammy 2.6.15-5.4 amd64
-tzdata/jammy-updates,now 2026b-0ubuntu0.22.04.1 all [installed,automatic]
+tzdata/jammy-updates,jammy-security,now 2026b-0ubuntu0.22.04.1 all [installed,automatic]
 tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
