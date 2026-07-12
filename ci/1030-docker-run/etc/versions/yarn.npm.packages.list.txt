@@ -2934,7 +2934,7 @@ yarn list v1.22.22
 │  ├─ postcss-focus-visible@^6.0.4
 │  ├─ postcss-less@^6.0.0
 │  ├─ postcss@^8.4.14
-│  ├─ postcss@8.5.16
+│  ├─ postcss@8.5.17
 │  │  ├─ nanoid@^3.3.12
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
@@ -5269,11 +5269,11 @@ yarn list v1.22.22
 │  └─ safe-buffer@^5.2.1
 ├─ browserify-zlib@0.2.0
 │  └─ pako@~1.0.5
-├─ browserslist@4.28.5
+├─ browserslist@4.28.6
 │  ├─ baseline-browser-mapping@^2.10.42
-│  ├─ caniuse-lite@^1.0.30001800
-│  ├─ electron-to-chromium@^1.5.387
-│  ├─ node-releases@^2.0.50
+│  ├─ caniuse-lite@^1.0.30001803
+│  ├─ electron-to-chromium@^1.5.389
+│  ├─ node-releases@^2.0.51
 │  └─ update-browserslist-db@^1.2.3
 ├─ bser@2.1.1
 │  └─ node-int64@^0.4.0
@@ -5400,7 +5400,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001803
+├─ caniuse-lite@1.0.30001805
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
@@ -11835,7 +11835,7 @@ yarn list v1.22.22
 │  ├─ postcss-nested@^6.2.0
 │  ├─ postcss-selector-parser@^6.1.2
 │  ├─ postcss@^8.4.47
-│  ├─ postcss@8.5.16
+│  ├─ postcss@8.5.17
 │  │  ├─ nanoid@^3.3.12
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
