@@ -2934,7 +2934,7 @@ yarn list v1.22.22
 │  ├─ postcss-focus-visible@^6.0.4
 │  ├─ postcss-less@^6.0.0
 │  ├─ postcss@^8.4.14
-│  ├─ postcss@8.5.18
+│  ├─ postcss@8.5.19
 │  │  ├─ nanoid@^3.3.12
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
@@ -11766,7 +11766,7 @@ yarn list v1.22.22
 │  ├─ concat-stream@^1.4.7
 │  ├─ http-response-object@^1.0.1
 │  └─ then-request@^2.0.1
-├─ systeminformation@5.31.16
+├─ systeminformation@5.31.17
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
@@ -11835,7 +11835,7 @@ yarn list v1.22.22
 │  ├─ postcss-nested@^6.2.0
 │  ├─ postcss-selector-parser@^6.1.2
 │  ├─ postcss@^8.4.47
-│  ├─ postcss@8.5.18
+│  ├─ postcss@8.5.19
 │  │  ├─ nanoid@^3.3.12
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
