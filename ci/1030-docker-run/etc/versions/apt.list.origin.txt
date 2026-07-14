@@ -17712,15 +17712,15 @@ libasmtools-java/jammy-updates,jammy-security 7.0-b09-2ubuntu1~22.04 all
 libasn1-8-heimdal/jammy 7.7.0+dfsg-3ubuntu1 amd64
 libasn1-combinators-ocaml-dev/jammy 0.2.6-2build2 amd64
 libasn1-combinators-ocaml/jammy 0.2.6-2build2 amd64
-libasound2-data/jammy-updates,jammy-security,now 1.2.6.1-1ubuntu1.1 all [installed,automatic]
-libasound2-dev/jammy-updates,jammy-security 1.2.6.1-1ubuntu1.1 amd64
-libasound2-doc/jammy-updates,jammy-security 1.2.6.1-1ubuntu1.1 all
+libasound2-data/jammy-security,now 1.2.6.1-1ubuntu1.2 all [installed,automatic]
+libasound2-dev/jammy-security 1.2.6.1-1ubuntu1.2 amd64
+libasound2-doc/jammy-security 1.2.6.1-1ubuntu1.2 all
 libasound2-plugin-bluez/jammy 3.0.0-2 amd64
 libasound2-plugin-equal/jammy 0.6-8 amd64
-libasound2-plugin-smixer/jammy-updates,jammy-security 1.2.6.1-1ubuntu1.1 amd64
+libasound2-plugin-smixer/jammy-security 1.2.6.1-1ubuntu1.2 amd64
 libasound2-plugins-extra/jammy 1.1.0-1ubuntu2 amd64
 libasound2-plugins/jammy 1.2.6-1 amd64
-libasound2/jammy-updates,jammy-security,now 1.2.6.1-1ubuntu1.1 amd64 [installed,automatic]
+libasound2/jammy-security,now 1.2.6.1-1ubuntu1.2 amd64 [installed,automatic]
 libaspect-perl/jammy 1.04-1.1 all
 libaspectj-java/jammy 1.9.2-2 all
 libaspectj-maven-plugin-java/jammy 1.11-2 all
@@ -17842,8 +17842,8 @@ libatomicbitvector-dev/jammy 0.0+git20200519.e295358-2 all
 libatomicparsley-dev/jammy 2.1.5-9 amd64
 libatomicparsley0/jammy 2.1.5-9 amd64
 libatompub-perl/jammy 0.3.7-3 all
-libatopology-dev/jammy-updates,jammy-security 1.2.6.1-1ubuntu1.1 amd64
-libatopology2/jammy-updates,jammy-security 1.2.6.1-1ubuntu1.1 amd64
+libatopology-dev/jammy-security 1.2.6.1-1ubuntu1.2 amd64
+libatopology2/jammy-security 1.2.6.1-1ubuntu1.2 amd64
 libatrildocument-dev/jammy-updates,jammy-security 1.26.0-1ubuntu1.2 amd64
 libatrildocument3/jammy-updates,jammy-security 1.26.0-1ubuntu1.2 amd64
 libatrilview-dev/jammy-updates,jammy-security 1.26.0-1ubuntu1.2 amd64
@@ -103737,7 +103737,7 @@ python3-httmock/jammy 1.4.0-1 all
 python3-http-parser/jammy 0.9.0-1build4 amd64
 python3-httpbin/jammy 0.7.0+dfsg-3 all
 python3-httpcore/jammy 0.14.5-1 all
-python3-httplib2/jammy 0.20.2-2 all
+python3-httplib2/jammy-security 0.20.2-2ubuntu0.1 all
 python3-httpretty/jammy 1.1.4-1 all
 python3-httpsig/jammy 1.3.0-1 all
 python3-httptools/jammy 0.1.1-1build4 amd64
