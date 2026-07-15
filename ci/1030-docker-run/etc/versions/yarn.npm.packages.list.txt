@@ -1415,8 +1415,8 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/core@1.41.1
-│  └─ @posthog/types@^1.394.0
+├─ @posthog/core@1.42.0
+│  └─ @posthog/types@^1.395.0
 ├─ @posthog/types@1.395.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -4874,21 +4874,20 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.80.3
-│  ├─ @ioredis/commands@1.5.1
+├─ bullmq@5.80.4
+│  ├─ @ioredis/commands@1.10.0
+│  ├─ cluster-key-slot@1.1.1
 │  ├─ cron-parser@4.9.0
 │  ├─ denque@2.1.0
-│  ├─ ioredis@5.10.1
-│  ├─ ioredis@5.10.1
-│  │  ├─ @ioredis/commands@1.5.1
-│  │  ├─ cluster-key-slot@^1.1.0
-│  │  ├─ debug@^4.3.4
-│  │  ├─ denque@^2.1.0
-│  │  ├─ lodash.defaults@^4.2.0
-│  │  ├─ lodash.isarguments@^3.1.0
-│  │  ├─ redis-errors@^1.2.0
-│  │  ├─ redis-parser@^3.0.0
-│  │  └─ standard-as-callback@^2.1.0
+│  ├─ ioredis@5.11.1
+│  ├─ ioredis@5.11.1
+│  │  ├─ @ioredis/commands@1.10.0
+│  │  ├─ cluster-key-slot@1.1.1
+│  │  ├─ debug@4.4.3
+│  │  ├─ denque@2.1.0
+│  │  ├─ redis-errors@1.2.0
+│  │  ├─ redis-parser@3.0.0
+│  │  └─ standard-as-callback@2.1.0
 │  ├─ msgpackr@2.0.4
 │  ├─ node-abort-controller@3.1.1
 │  ├─ semver@7.8.5
@@ -9302,8 +9301,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.402.0
-│  ├─ @posthog/core@^1.41.1
+├─ posthog-js@1.402.1
+│  ├─ @posthog/core@^1.42.0
 │  ├─ @posthog/types@^1.395.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.49.0
