@@ -4375,9 +4375,9 @@ yarn list v1.22.22
 ├─ asynckit@0.4.0
 ├─ atob@2.1.2
 ├─ attr-accept@2.2.5
-├─ autoprefixer@10.5.3
+├─ autoprefixer@10.5.4
 │  ├─ browserslist@^4.28.6
-│  ├─ caniuse-lite@^1.0.30001805
+│  ├─ caniuse-lite@^1.0.30001806
 │  ├─ fraction.js@^5.3.4
 │  ├─ picocolors@^1.1.1
 │  ├─ postcss-value-parser@^4.2.0

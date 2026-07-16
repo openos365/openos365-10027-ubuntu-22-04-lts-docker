@@ -33322,7 +33322,7 @@ libnss3/jammy-updates,jammy-security,now 2:3.98-0ubuntu0.22.04.4 amd64 [installe
 libnsync-cpp1/jammy 1.24.0-1 amd64
 libnsync-dev/jammy 1.24.0-1 amd64
 libnsync1/jammy 1.24.0-1 amd64
-libntfs-3g89/jammy-updates,jammy-security 1:2021.8.22-3ubuntu1.3 amd64
+libntfs-3g89/jammy-security 1:2021.8.22-3ubuntu1.4 amd64
 libnthash-dev/jammy 2.2.0-2 all
 libntirpc-dev/jammy 3.5-2 amd64
 libntirpc3.5/jammy 3.5-2 amd64
@@ -97450,8 +97450,8 @@ nstreams/jammy 1.0.4-1build1 amd64
 ntcard/jammy 1.2.2+dfsg-3 amd64
 nted-doc/jammy 1.10.18-13 all
 nted/jammy 1.10.18-13 amd64
-ntfs-3g-dev/jammy-updates,jammy-security 1:2021.8.22-3ubuntu1.3 amd64
-ntfs-3g/jammy-updates,jammy-security 1:2021.8.22-3ubuntu1.3 amd64
+ntfs-3g-dev/jammy-security 1:2021.8.22-3ubuntu1.4 amd64
+ntfs-3g/jammy-security 1:2021.8.22-3ubuntu1.4 amd64
 ntfs2btrfs/jammy 20210923-2 amd64
 nthash/jammy 2.2.0-2 amd64
 ntopng-data/jammy 5.2.1+dfsg1-1 all
@@ -113907,8 +113907,8 @@ ublock-origin-doc/jammy 1.40.2+dfsg-1 all
 ubufox/jammy 3.4-0ubuntu1.17.10.1 all
 ubumirror/jammy 0.5 all
 ubuntu-advantage-desktop-daemon/jammy-updates,jammy-security 1.10.ubuntu0.22.04.2 amd64
-ubuntu-advantage-pro/jammy-updates 37.2ubuntu~22.04 all
-ubuntu-advantage-tools/jammy-updates 37.2ubuntu~22.04 all
+ubuntu-advantage-pro/jammy-security 37.2ubuntu~22.04.1 all
+ubuntu-advantage-tools/jammy-security 37.2ubuntu~22.04.1 all
 ubuntu-artwork/jammy 1:20.10-0ubuntu2 all
 ubuntu-boot-test/jammy-updates 2.2~22.04 amd64
 ubuntu-budgie-desktop/jammy 0.94 amd64
@@ -114001,9 +114001,9 @@ ubuntu-packaging-guide-pdf-uk/jammy 1.0.4 all
 ubuntu-packaging-guide-pdf/jammy 1.0.4 all
 ubuntu-packaging-guide/jammy 1.0.4 all
 ubuntu-policy/jammy 3.8.2.0ubuntu3 all
-ubuntu-pro-auto-attach/jammy-updates 37.2ubuntu~22.04 all
-ubuntu-pro-client-l10n/jammy-updates 37.2ubuntu~22.04 amd64
-ubuntu-pro-client/jammy-updates 37.2ubuntu~22.04 amd64
+ubuntu-pro-auto-attach/jammy-security 37.2ubuntu~22.04.1 all
+ubuntu-pro-client-l10n/jammy-security 37.2ubuntu~22.04.1 amd64
+ubuntu-pro-client/jammy-security 37.2ubuntu~22.04.1 amd64
 ubuntu-proxy-manager/jammy-updates,jammy-security 0.1.1~22.04ubuntu0.3 amd64
 ubuntu-raspi-settings/jammy 22.04.6 all
 ubuntu-realtime/jammy-updates 1.1.2~22.04.1 amd64
