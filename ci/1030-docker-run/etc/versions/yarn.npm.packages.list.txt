@@ -4874,7 +4874,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.80.6
+├─ bullmq@5.80.7
 │  ├─ @ioredis/commands@1.10.0
 │  ├─ cluster-key-slot@1.1.1
 │  ├─ cron-parser@4.9.0
