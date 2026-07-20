@@ -4729,7 +4729,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.10.43
+├─ baseline-browser-mapping@2.10.44
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -6200,7 +6200,7 @@ yarn list v1.22.22
 ├─ fetch-blob@3.2.0
 │  ├─ node-domexception@^1.0.0
 │  └─ web-streams-polyfill@^3.0.3
-├─ fflate@0.4.8
+├─ fflate@0.4.9
 ├─ figgy-pudding@3.5.2
 ├─ figures@2.0.0
 │  └─ escape-string-regexp@^1.0.5
