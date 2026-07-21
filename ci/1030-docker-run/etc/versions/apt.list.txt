@@ -80,7 +80,7 @@ accerciser/jammy 3.38.0-1 all
 accounts-qml-module-doc/jammy 0.6+17.04.20170405-0ubuntu5 all
 accountsservice-ubuntu-schemas/jammy 0.0.7+21.10.20210712-0ubuntu2 all
 accountsservice-ubuntu-touch-schemas/jammy 0.0.7+21.10.20210712-0ubuntu2 all
-accountsservice/jammy-updates,jammy-security 22.07.5-2ubuntu1.5 amd64
+accountsservice/jammy-security 22.07.5-2ubuntu1.6 amd64
 accountwizard/jammy 4:21.12.3-0ubuntu1 amd64
 acct/jammy 6.6.4-4build2 amd64
 ace-gperf/jammy 7.0.6+dfsg-2 amd64
@@ -9529,7 +9529,7 @@ gir-to-d/jammy 0.22.0-1build1 amd64
 gir1.2-a11yprofilemanager-0.1/jammy 0.1.11-0ubuntu4 amd64
 gir1.2-abi-3.0/jammy 3.0.5~dfsg-1 amd64
 gir1.2-accounts-1.0/jammy 1.25-1 amd64
-gir1.2-accountsservice-1.0/jammy-updates,jammy-security 22.07.5-2ubuntu1.5 amd64
+gir1.2-accountsservice-1.0/jammy-security 22.07.5-2ubuntu1.6 amd64
 gir1.2-adw-1/jammy-updates 1.1.7-0ubuntu0.22.04.1 amd64
 gir1.2-ags-3.0/jammy 3.18.2-1 amd64
 gir1.2-agsaudio-3.0/jammy 3.18.2-1 amd64
@@ -17056,9 +17056,9 @@ libaccounts-glib0/jammy 1.25-1 amd64
 libaccounts-qt-doc/jammy 1.16-2 all
 libaccounts-qt5-1/jammy 1.16-2 amd64
 libaccounts-qt5-dev/jammy 1.16-2 amd64
-libaccountsservice-dev/jammy-updates,jammy-security 22.07.5-2ubuntu1.5 amd64
-libaccountsservice-doc/jammy-updates,jammy-security 22.07.5-2ubuntu1.5 all
-libaccountsservice0/jammy-updates,jammy-security 22.07.5-2ubuntu1.5 amd64
+libaccountsservice-dev/jammy-security 22.07.5-2ubuntu1.6 amd64
+libaccountsservice-doc/jammy-security 22.07.5-2ubuntu1.6 all
+libaccountsservice0/jammy-security 22.07.5-2ubuntu1.6 amd64
 libace-7.0.6/jammy 7.0.6+dfsg-2 amd64
 libace-dev/jammy 7.0.6+dfsg-2 amd64
 libace-doc/jammy 7.0.6+dfsg-2 all
@@ -17595,13 +17595,13 @@ libarchive-any-lite-perl/jammy 0.11-1 all
 libarchive-any-perl/jammy 0.0946-1 all
 libarchive-ar-perl/jammy 2.02-2 all
 libarchive-cpio-perl/jammy 0.10-1.1 all
-libarchive-dev/jammy-updates,jammy-security 3.6.0-1ubuntu1.7 amd64
+libarchive-dev/jammy-security 3.6.0-1ubuntu1.8 amd64
 libarchive-extract-perl/jammy 0.88-1 all
 libarchive-peek-perl/jammy 0.37-1 all
 libarchive-tar-wrapper-perl/jammy 0.38-1 all
-libarchive-tools/jammy-updates,jammy-security 3.6.0-1ubuntu1.7 amd64
+libarchive-tools/jammy-security 3.6.0-1ubuntu1.8 amd64
 libarchive-zip-perl/jammy 1.68-1 all
-libarchive13/jammy-updates,jammy-security,now 3.6.0-1ubuntu1.7 amd64 [installed,automatic]
+libarchive13/jammy-security,now 3.6.0-1ubuntu1.8 amd64 [installed,automatic]
 libarcus-dev/jammy 4.13.0-2build1 amd64
 libarcus3/jammy 4.13.0-2build1 amd64
 libargh-dev/jammy 1.3.1+ds-3 all

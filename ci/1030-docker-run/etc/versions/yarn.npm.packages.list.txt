@@ -4850,10 +4850,10 @@ yarn list v1.22.22
 │  └─ safe-buffer@^5.2.1
 ├─ browserify-zlib@0.2.0
 │  └─ pako@~1.0.5
-├─ browserslist@4.28.6
-│  ├─ baseline-browser-mapping@^2.10.42
-│  ├─ caniuse-lite@^1.0.30001803
-│  ├─ electron-to-chromium@^1.5.389
+├─ browserslist@4.28.7
+│  ├─ baseline-browser-mapping@^2.10.44
+│  ├─ caniuse-lite@^1.0.30001806
+│  ├─ electron-to-chromium@^1.5.393
 │  ├─ node-releases@^2.0.51
 │  └─ update-browserslist-db@^1.2.3
 ├─ bser@2.1.1
@@ -9305,7 +9305,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.406.0
+├─ posthog-js@1.406.1
 │  ├─ @posthog/browser-common@^0.2.0
 │  ├─ @posthog/core@^1.44.0
 │  ├─ @posthog/types@^1.397.1
