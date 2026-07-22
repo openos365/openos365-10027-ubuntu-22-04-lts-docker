@@ -9400,7 +9400,7 @@ yarn list v1.22.22
 │  │  ├─ mdurl@^2.0.0
 │  │  ├─ punycode.js@^2.3.1
 │  │  └─ uc.micro@^2.1.0
-│  ├─ mdurl@2.0.0
+│  ├─ mdurl@2.1.0
 │  ├─ prosemirror-model@^1.25.0
 │  └─ uc.micro@2.1.0
 ├─ prosemirror-model@1.25.11
