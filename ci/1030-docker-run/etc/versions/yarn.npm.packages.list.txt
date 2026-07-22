@@ -2588,7 +2588,7 @@ yarn list v1.22.22
 │  ├─ postcss-focus-visible@^6.0.4
 │  ├─ postcss-less@^6.0.0
 │  ├─ postcss@^8.4.14
-│  ├─ postcss@8.5.21
+│  ├─ postcss@8.5.22
 │  │  ├─ nanoid@^3.3.16
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
@@ -3968,9 +3968,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.7
-│  └─ @tanstack/virtual-core@3.17.5
-├─ @tanstack/virtual-core@3.17.5
+├─ @tanstack/react-virtual@3.14.8
+│  └─ @tanstack/virtual-core@3.17.6
+├─ @tanstack/virtual-core@3.17.6
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -5638,7 +5638,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.69.0
+├─ docxtemplater@3.69.2
 │  └─ @xmldom/xmldom@^0.9.10
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
@@ -11258,7 +11258,7 @@ yarn list v1.22.22
 │  ├─ postcss-nested@^6.2.0
 │  ├─ postcss-selector-parser@^6.1.2
 │  ├─ postcss@^8.4.47
-│  ├─ postcss@8.5.21
+│  ├─ postcss@8.5.22
 │  │  ├─ nanoid@^3.3.16
 │  │  ├─ picocolors@^1.1.1
 │  │  └─ source-map-js@^1.2.1
