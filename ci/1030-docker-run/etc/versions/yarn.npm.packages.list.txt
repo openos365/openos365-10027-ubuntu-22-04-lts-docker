@@ -5638,7 +5638,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  └─ isarray@^1.0.0
 ├─ doctypes@1.1.0
-├─ docxtemplater@3.69.2
+├─ docxtemplater@3.69.3
 │  └─ @xmldom/xmldom@^0.9.10
 ├─ dom-align@1.12.4
 ├─ dom-converter@0.2.0
@@ -9305,9 +9305,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.407.1
+├─ posthog-js@1.407.2
 │  ├─ @posthog/browser-common@^0.2.0
-│  ├─ @posthog/core@^1.45.0
+│  ├─ @posthog/core@^1.45.1
 │  ├─ @posthog/types@^1.398.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.49.0
