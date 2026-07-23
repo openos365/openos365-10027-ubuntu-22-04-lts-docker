@@ -1,1 +1,1 @@
-/usr/lib/systemd/user/gpg-agent-browser.socket
+/lib/systemd/user/gpg-agent-browser.socket

@@ -1,1 +1,1 @@
-/usr/lib/systemd/user/dirmngr.socket
+/lib/systemd/user/dirmngr.socket
