@@ -1418,7 +1418,7 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.2.0
 │  ├─ @posthog/core@^1.44.0
 │  └─ @posthog/types@^1.397.1
-├─ @posthog/core@1.45.0
+├─ @posthog/core@1.45.1
 │  └─ @posthog/types@^1.398.0
 ├─ @posthog/types@1.398.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -4021,7 +4021,7 @@ yarn list v1.22.22
 ├─ @types/mdurl@2.0.0
 ├─ @types/minimatch@6.0.0
 │  ├─ balanced-match@4.0.4
-│  ├─ brace-expansion@5.0.7
+│  ├─ brace-expansion@5.0.8
 │  │  └─ balanced-match@^4.0.2
 │  ├─ minimatch@*
 │  └─ minimatch@10.2.5
@@ -4877,7 +4877,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.80.10
+├─ bullmq@5.81.0
 │  ├─ @ioredis/commands@1.10.0
 │  ├─ cluster-key-slot@1.1.1
 │  ├─ cron-parser@4.9.0
@@ -9305,7 +9305,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.407.0
+├─ posthog-js@1.407.1
 │  ├─ @posthog/browser-common@^0.2.0
 │  ├─ @posthog/core@^1.45.0
 │  ├─ @posthog/types@^1.398.0
