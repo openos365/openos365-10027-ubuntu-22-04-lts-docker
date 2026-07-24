@@ -9422,7 +9422,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.12.0
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.42.1
+├─ prosemirror-view@1.42.2
 │  ├─ prosemirror-model@^1.25.8
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
