@@ -1415,7 +1415,7 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.2.3
+├─ @posthog/browser-common@0.2.4
 │  ├─ @posthog/core@^1.45.1
 │  └─ @posthog/types@^1.398.0
 ├─ @posthog/core@1.45.1
@@ -4732,7 +4732,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.11.5
+├─ baseline-browser-mapping@2.11.6
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
