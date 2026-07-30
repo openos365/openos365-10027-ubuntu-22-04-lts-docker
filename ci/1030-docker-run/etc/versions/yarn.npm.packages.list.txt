@@ -4877,7 +4877,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.81.2
+├─ bullmq@5.81.3
 │  ├─ @ioredis/commands@1.10.0
 │  ├─ cluster-key-slot@1.1.1
 │  ├─ cron-parser@4.9.0
@@ -4891,7 +4891,7 @@ yarn list v1.22.22
 │  │  ├─ redis-errors@1.2.0
 │  │  ├─ redis-parser@3.0.0
 │  │  └─ standard-as-callback@2.1.0
-│  ├─ msgpackr@2.0.4
+│  ├─ msgpackr@2.0.5
 │  ├─ node-abort-controller@3.1.1
 │  ├─ semver@7.8.5
 │  ├─ semver@7.8.5
@@ -8368,7 +8368,7 @@ yarn list v1.22.22
 │  ├─ @msgpackr-extract/msgpackr-extract-linux-x64@3.0.4
 │  ├─ @msgpackr-extract/msgpackr-extract-win32-x64@3.0.4
 │  └─ node-gyp-build-optional-packages@5.2.2
-├─ msgpackr@2.0.4
+├─ msgpackr@2.0.5
 │  └─ msgpackr-extract@^3.0.4
 ├─ mssql@4.3.9
 │  ├─ debug@^3.2.6
@@ -9305,7 +9305,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.408.0
+├─ posthog-js@1.408.1
 │  ├─ @posthog/browser-common@^0.2.4
 │  ├─ @posthog/core@^1.45.2
 │  ├─ @posthog/types@^1.399.0
