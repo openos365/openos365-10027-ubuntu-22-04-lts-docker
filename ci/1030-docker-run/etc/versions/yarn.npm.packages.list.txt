@@ -286,9 +286,9 @@ yarn list v1.22.22
 │  ├─ json5@^2.2.3
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
-├─ @babel/generator@7.29.7
-│  ├─ @babel/parser@^7.29.7
-│  ├─ @babel/types@^7.29.7
+├─ @babel/generator@7.29.8
+│  ├─ @babel/parser@^7.29.8
+│  ├─ @babel/types@^7.29.8
 │  ├─ @jridgewell/gen-mapping@^0.3.12
 │  ├─ @jridgewell/trace-mapping@^0.3.28
 │  └─ jsesc@^3.0.2
@@ -365,8 +365,8 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  ├─ js-tokens@^3.0.0
 │  └─ js-tokens@3.0.2
-├─ @babel/parser@7.29.7
-│  └─ @babel/types@^7.29.7
+├─ @babel/parser@7.29.8
+│  └─ @babel/types@^7.29.8
 ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.29.7
 │  ├─ @babel/helper-plugin-utils@^7.29.7
 │  └─ @babel/traverse@^7.29.7
@@ -545,11 +545,11 @@ yarn list v1.22.22
 ├─ @babel/plugin-transform-modules-commonjs@7.29.7
 │  ├─ @babel/helper-module-transforms@^7.29.7
 │  └─ @babel/helper-plugin-utils@^7.29.7
-├─ @babel/plugin-transform-modules-systemjs@7.29.7
+├─ @babel/plugin-transform-modules-systemjs@7.29.8
 │  ├─ @babel/helper-module-transforms@^7.29.7
 │  ├─ @babel/helper-plugin-utils@^7.29.7
 │  ├─ @babel/helper-validator-identifier@^7.29.7
-│  └─ @babel/traverse@^7.29.7
+│  └─ @babel/traverse@^7.29.8
 ├─ @babel/plugin-transform-modules-umd@7.29.7
 │  ├─ @babel/helper-module-transforms@^7.29.7
 │  └─ @babel/helper-plugin-utils@^7.29.7
@@ -608,7 +608,7 @@ yarn list v1.22.22
 ├─ @babel/plugin-transform-react-pure-annotations@7.29.7
 │  ├─ @babel/helper-annotate-as-pure@^7.29.7
 │  └─ @babel/helper-plugin-utils@^7.29.7
-├─ @babel/plugin-transform-regenerator@7.29.7
+├─ @babel/plugin-transform-regenerator@7.29.8
 │  └─ @babel/helper-plugin-utils@^7.29.7
 ├─ @babel/plugin-transform-regexp-modifiers@7.29.7
 │  ├─ @babel/helper-create-regexp-features-plugin@^7.29.7
@@ -625,7 +625,7 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @babel/plugin-transform-shorthand-properties@7.29.7
 │  └─ @babel/helper-plugin-utils@^7.29.7
-├─ @babel/plugin-transform-spread@7.29.7
+├─ @babel/plugin-transform-spread@7.29.8
 │  ├─ @babel/helper-plugin-utils@^7.29.7
 │  └─ @babel/helper-skip-transparent-expression-wrappers@^7.29.7
 ├─ @babel/plugin-transform-sticky-regex@7.29.7
@@ -756,15 +756,15 @@ yarn list v1.22.22
 │  ├─ @babel/code-frame@^7.29.7
 │  ├─ @babel/parser@^7.29.7
 │  └─ @babel/types@^7.29.7
-├─ @babel/traverse@7.29.7
+├─ @babel/traverse@7.29.8
 │  ├─ @babel/code-frame@^7.29.7
-│  ├─ @babel/generator@^7.29.7
+│  ├─ @babel/generator@^7.29.8
 │  ├─ @babel/helper-globals@^7.29.7
-│  ├─ @babel/parser@^7.29.7
+│  ├─ @babel/parser@^7.29.8
 │  ├─ @babel/template@^7.29.7
-│  ├─ @babel/types@^7.29.7
+│  ├─ @babel/types@^7.29.8
 │  └─ debug@^4.3.1
-├─ @babel/types@7.29.7
+├─ @babel/types@7.29.8
 │  ├─ @babel/helper-string-parser@^7.29.7
 │  └─ @babel/helper-validator-identifier@^7.29.7
 ├─ @builder.io/react@1.1.54
