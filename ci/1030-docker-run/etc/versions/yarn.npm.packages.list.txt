@@ -1415,10 +1415,10 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.2.5
-│  ├─ @posthog/core@^1.45.3
+├─ @posthog/browser-common@0.3.1
+│  ├─ @posthog/core@^1.46.0
 │  └─ @posthog/types@^1.399.0
-├─ @posthog/core@1.46.0
+├─ @posthog/core@1.46.1
 │  └─ @posthog/types@^1.399.0
 ├─ @posthog/types@1.399.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -6163,7 +6163,7 @@ yarn list v1.22.22
 ├─ fast-json-stable-stringify@2.1.0
 ├─ fast-levenshtein@2.0.6
 ├─ fast-shallow-equal@1.0.0
-├─ fast-uri@3.1.4
+├─ fast-uri@3.1.5
 ├─ fastest-stable-stringify@2.0.2
 ├─ fastest-validator@1.19.1
 ├─ fastparse@1.1.2
@@ -9305,9 +9305,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.409.0
-│  ├─ @posthog/browser-common@^0.2.5
-│  ├─ @posthog/core@^1.46.0
+├─ posthog-js@1.409.5
+│  ├─ @posthog/browser-common@^0.3.1
+│  ├─ @posthog/core@^1.46.1
 │  ├─ @posthog/types@^1.399.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.49.0
