@@ -2041,7 +2041,7 @@ yarn list v1.22.22
 │  ├─ fs-extra-promise@^1.0.1
 │  ├─ import@^0.0.6
 │  ├─ js-yaml@^4.0.0
-│  ├─ js-yaml@4.3.0
+│  ├─ js-yaml@4.3.1
 │  │  └─ argparse@^2.0.1
 │  ├─ lodash-es@^4.17.10
 │  ├─ next@^12.1.0
@@ -3753,7 +3753,7 @@ yarn list v1.22.22
 │  ├─ handlebars@^4.0.12
 │  ├─ has-flag@4.0.0
 │  ├─ inquirer@^6.2.2
-│  ├─ js-yaml@4.3.0
+│  ├─ js-yaml@4.3.1
 │  │  └─ argparse@^2.0.1
 │  ├─ mkdirp@1.0.4
 │  ├─ mssql@^4.3.2
@@ -7348,7 +7348,7 @@ yarn list v1.22.22
 ├─ js-sha3@0.8.0
 ├─ js-stringify@1.0.2
 ├─ js-tokens@4.0.0
-├─ js-yaml@3.15.0
+├─ js-yaml@3.15.1
 │  ├─ argparse@^1.0.7
 │  ├─ argparse@1.0.10
 │  │  └─ sprintf-js@~1.0.2
