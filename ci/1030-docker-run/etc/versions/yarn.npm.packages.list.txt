@@ -4014,7 +4014,7 @@ yarn list v1.22.22
 ├─ @types/linkify-it@5.0.0
 ├─ @types/lodash.mergewith@4.6.6
 │  └─ @types/lodash@*
-├─ @types/lodash@4.17.24
+├─ @types/lodash@4.17.25
 ├─ @types/markdown-it@14.1.2
 │  ├─ @types/linkify-it@^5
 │  └─ @types/mdurl@^2
@@ -9328,7 +9328,7 @@ yarn list v1.22.22
 │  ├─ pretty-format@^3.5.1
 │  └─ pretty-format@3.8.0
 ├─ preact-transition-group@1.1.1
-├─ preact@10.29.7
+├─ preact@10.29.8
 ├─ prelude-ls@1.1.2
 ├─ prettier-plugin-svelte@1.4.2
 ├─ prettier@2.8.8
