@@ -4732,7 +4732,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.11.11
+├─ baseline-browser-mapping@2.11.12
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -9305,7 +9305,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.410.4
+├─ posthog-js@1.410.6
 │  ├─ @posthog/browser-common@^0.3.1
 │  ├─ @posthog/core@^1.46.5
 │  ├─ @posthog/types@^1.400.0
@@ -9823,6 +9823,7 @@ yarn list v1.22.22
 │  ├─ dir-glob@2.0.0
 │  │  ├─ arrify@^1.0.1
 │  │  └─ path-type@^3.0.0
+│  ├─ electron-to-chromium@1.5.400
 │  ├─ escape-string-regexp@1.0.5
 │  ├─ filesize@3.6.1
 │  ├─ find-up@3.0.0
