@@ -2019,7 +2019,7 @@ bugwarrior/jammy 1.8.0-5 all
 bugz/jammy 0.13-2 all
 bugzilla-cli/jammy 3.0.2-1 all
 buici-clock/jammy 0.4.9.4+nmu1 amd64
-build-essential/jammy,now 12.9ubuntu3 amd64 [installed]
+build-essential/jammy,now 12.9ubuntu3 amd64 [installed,automatic]
 buildah/jammy 1.23.1+ds1-2 amd64
 buildapp/jammy 1.5.6-3 amd64
 buildbot-doc/jammy 3.4.0-1build1 all
@@ -3062,14 +3062,14 @@ cm-super-minimal/jammy 0.3.4-17 all
 cm-super-x11/jammy 0.3.4-17 all
 cm-super/jammy 0.3.4-17 all
 cmake-curses-gui/jammy-updates 3.22.1-1ubuntu1.22.04.2 amd64
-cmake-data/jammy-updates,now 3.22.1-1ubuntu1.22.04.2 all [installed,automatic]
+cmake-data/jammy-updates 3.22.1-1ubuntu1.22.04.2 all
 cmake-doc/jammy-updates 3.22.1-1ubuntu1.22.04.2 all
 cmake-extras/jammy 1.6-1 all
 cmake-fedora/jammy 2.9.3-0.1 all
 cmake-format/jammy 0.6.13-2 all
 cmake-qt-gui/jammy-updates 3.22.1-1ubuntu1.22.04.2 amd64
 cmake-vala/jammy 3-1 all
-cmake/jammy-updates,now 3.22.1-1ubuntu1.22.04.2 amd64 [installed]
+cmake/jammy-updates 3.22.1-1ubuntu1.22.04.2 amd64
 cmark-gfm/jammy 0.29.0.gfm.3-3 amd64
 cmark/jammy 0.30.2-5 amd64
 cmatrix-xfont/jammy 2.0-3 all
@@ -4268,7 +4268,7 @@ dh-consoledata/jammy 0.7.91 all
 dh-di/jammy 10 all
 dh-dist-zilla/jammy 1.4.1 all
 dh-dlang/jammy 0.6.5build2 all
-dh-elpa-helper/jammy,now 2.0.9ubuntu1 all [installed,automatic]
+dh-elpa-helper/jammy 2.0.9ubuntu1 all
 dh-elpa/jammy 2.0.9ubuntu1 all
 dh-exec/jammy 0.23.4build2 amd64
 dh-fortran-mod/jammy 0.21 all
@@ -5668,7 +5668,7 @@ emacs-mozc/jammy 2.26.4220.100+dfsg-5.2 amd64
 emacs-nox/jammy-updates,jammy-security 1:27.1+1-3ubuntu5.2 amd64
 emacs-window-layout/jammy 1.4-2.1 all
 emacs/jammy-updates,jammy-security 1:27.1+1-3ubuntu5.2 all
-emacsen-common/jammy,now 3.0.4 all [installed,automatic]
+emacsen-common/jammy 3.0.4 all
 emacspeak-espeak-server/jammy 53.0+dfsg-1 amd64
 emacspeak-ss/jammy 1.12.1-8 amd64
 emacspeak/jammy 53.0+dfsg-1 all
@@ -17601,7 +17601,7 @@ libarchive-peek-perl/jammy 0.37-1 all
 libarchive-tar-wrapper-perl/jammy 0.38-1 all
 libarchive-tools/jammy-updates,jammy-security 3.6.0-1ubuntu1.8 amd64
 libarchive-zip-perl/jammy 1.68-1 all
-libarchive13/jammy-updates,jammy-security,now 3.6.0-1ubuntu1.8 amd64 [installed,automatic]
+libarchive13/jammy-updates,jammy-security 3.6.0-1ubuntu1.8 amd64
 libarcus-dev/jammy 4.13.0-2build1 amd64
 libarcus3/jammy 4.13.0-2build1 amd64
 libargh-dev/jammy 1.3.1+ds-3 all
@@ -29677,7 +29677,7 @@ libjson4s-java/jammy 3.5.1+really3.2.10-1 all
 libjsonb-api-java/jammy 1.0-2 all
 libjsoncpp-dev/jammy 1.9.5-3 amd64
 libjsoncpp-doc/jammy 1.9.5-3 all
-libjsoncpp25/jammy,now 1.9.5-3 amd64 [installed,automatic]
+libjsoncpp25/jammy 1.9.5-3 amd64
 libjsonld-java/jammy 0.13.4-1 all
 libjsonld-perl/jammy 0.005-1 all
 libjsonm-ocaml-dev/jammy 1.0.1-2.1build2 amd64
@@ -36821,7 +36821,7 @@ librgw2/jammy-updates 17.2.9-0ubuntu0.22.04.3 amd64
 librgxg-dev/jammy 0.1.2-4 amd64
 librgxg0/jammy 0.1.2-4 amd64
 librhash-dev/jammy 1.4.2-1ubuntu1 amd64
-librhash0/jammy,now 1.4.2-1ubuntu1 amd64 [installed,automatic]
+librhash0/jammy 1.4.2-1ubuntu1 amd64
 librheolef-dev/jammy 7.1-7build1 amd64
 librheolef1/jammy 7.1-7build1 amd64
 librhino-java-doc/jammy 1.7.7.2-3 all
@@ -41771,7 +41771,7 @@ libuutf-ocaml-doc/jammy 1.0.3-1 all
 libuutf-ocaml/jammy 1.0.3-1 amd64
 libuutil3linux/jammy-updates 2.1.5-1ubuntu6~22.04.6 amd64
 libuv1-dev/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 amd64
-libuv1/jammy-updates,jammy-security,now 1.43.0-1ubuntu0.1 amd64 [installed,automatic]
+libuv1/jammy-updates,jammy-security 1.43.0-1ubuntu0.1 amd64
 libuvc-dev/jammy 0.0.6-1.1 amd64
 libuvc-doc/jammy 0.0.6-1.1 all
 libuvc0/jammy 0.0.6-1.1 amd64
