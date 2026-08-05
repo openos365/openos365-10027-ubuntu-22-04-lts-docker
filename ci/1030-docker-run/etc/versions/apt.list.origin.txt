@@ -4115,7 +4115,7 @@ debmirror/jammy 1:2.36ubuntu1 all
 debocker/jammy 0.2.4 all
 debomatic/jammy 0.25-2 all
 debootstick/jammy 2.5 amd64
-debootstrap/jammy-updates 1.0.126+nmu1ubuntu0.8 all
+debootstrap/jammy-updates 1.0.126+nmu1ubuntu0.9 all
 deborphan/jammy 1.7.35 amd64
 debos/jammy 1.0.0+git20201203.e939090-1 amd64
 debpear/jammy 0.5 all
