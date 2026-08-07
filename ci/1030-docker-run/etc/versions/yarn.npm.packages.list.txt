@@ -4977,7 +4977,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001807
+├─ caniuse-lite@1.0.30001809
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
