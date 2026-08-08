@@ -4027,7 +4027,7 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.6
 │     └─ brace-expansion@^5.0.8
 ├─ @types/ms@2.1.0
-├─ @types/node@26.1.2
+├─ @types/node@26.2.0
 │  └─ undici-types@~8.3.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -8428,7 +8428,7 @@ yarn list v1.22.22
 │  └─ stylis@4.4.0
 ├─ nano-time@1.0.0
 │  └─ big-integer@^1.6.16
-├─ nanoid@3.3.17
+├─ nanoid@3.3.18
 ├─ nanomatch@1.2.13
 │  ├─ arr-diff@^4.0.0
 │  ├─ array-unique@^0.3.2
