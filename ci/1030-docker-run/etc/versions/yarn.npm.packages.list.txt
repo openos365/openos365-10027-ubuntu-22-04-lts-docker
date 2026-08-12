@@ -1215,7 +1215,7 @@ yarn list v1.22.22
 ├─ @heroicons/react@1.0.6
 ├─ @ioredis/commands@1.11.0
 ├─ @isaacs/cliui@8.0.2
-│  ├─ ansi-regex@6.2.2
+│  ├─ ansi-regex@6.3.0
 │  ├─ ansi-styles@6.2.3
 │  ├─ emoji-regex@9.2.2
 │  ├─ string-width-cjs@npm:string-width@^4.2.0
