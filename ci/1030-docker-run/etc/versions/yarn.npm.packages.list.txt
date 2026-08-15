@@ -11675,7 +11675,7 @@ yarn list v1.22.22
 │  └─ extsprintf@1.4.1
 ├─ vlq@1.0.1
 ├─ vm-browserify@1.1.2
-├─ vm2@3.11.5
+├─ vm2@3.11.6
 │  ├─ acorn-walk@^8.3.4
 │  ├─ acorn-walk@8.3.5
 │  │  └─ acorn@^8.11.0
