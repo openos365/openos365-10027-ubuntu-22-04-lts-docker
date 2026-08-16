@@ -9388,7 +9388,7 @@ yarn list v1.22.22
 ├─ prosemirror-keymap@1.2.3
 │  ├─ prosemirror-state@^1.0.0
 │  └─ w3c-keyname@^2.2.0
-├─ prosemirror-markdown@1.13.5
+├─ prosemirror-markdown@1.13.6
 │  ├─ @types/markdown-it@^14.0.0
 │  ├─ entities@4.5.0
 │  ├─ linkify-it@5.0.2
