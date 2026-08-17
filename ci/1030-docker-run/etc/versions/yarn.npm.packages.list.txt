@@ -1418,7 +1418,7 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.5.0
 │  ├─ @posthog/core@^1.47.0
 │  └─ @posthog/types@^1.402.2
-├─ @posthog/core@1.48.1
+├─ @posthog/core@1.48.2
 │  └─ @posthog/types@^1.404.1
 ├─ @posthog/types@1.404.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -5536,7 +5536,7 @@ yarn list v1.22.22
 │  └─ is-data-view@^1.0.1
 ├─ date-fns@2.30.0
 │  └─ @babel/runtime@^7.21.0
-├─ dayjs@1.11.22
+├─ dayjs@1.11.23
 ├─ de-indent@1.0.2
 ├─ deasync@0.1.30
 │  ├─ bindings@^1.5.0
@@ -9305,9 +9305,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.417.1
+├─ posthog-js@1.417.2
 │  ├─ @posthog/browser-common@^0.5.0
-│  ├─ @posthog/core@^1.48.1
+│  ├─ @posthog/core@^1.48.2
 │  ├─ @posthog/types@^1.404.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
