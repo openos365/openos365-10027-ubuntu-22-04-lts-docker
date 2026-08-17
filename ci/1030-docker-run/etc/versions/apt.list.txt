@@ -35357,11 +35357,11 @@ libpmix2/jammy 4.1.2-2ubuntu1 amd64
 libpnetcdf-dev/jammy 1.12.2-1 amd64
 libpnetcdf0d/jammy 1.12.2-1 amd64
 libpng++-dev/jammy 0.2.10-1 all
-libpng-dev/jammy-updates,jammy-security 1.6.37-3ubuntu0.5 amd64
+libpng-dev/jammy-security 1.6.37-3ubuntu0.6 amd64
 libpng-sixlegs-java-doc/jammy 2.0-3 all
 libpng-sixlegs-java/jammy 2.0-3 all
-libpng-tools/jammy-updates,jammy-security 1.6.37-3ubuntu0.5 amd64
-libpng16-16/jammy-updates,jammy-security,now 1.6.37-3ubuntu0.5 amd64 [installed,automatic]
+libpng-tools/jammy-security 1.6.37-3ubuntu0.6 amd64
+libpng16-16/jammy-security,now 1.6.37-3ubuntu0.6 amd64 [installed,automatic]
 libpnglite-dev/jammy 0.1.17-2 amd64
 libpnglite0/jammy 0.1.17-2 amd64
 libpocketsphinx-dev/jammy 0.8.0+real5prealpha+1-14ubuntu1 amd64
