@@ -4015,7 +4015,7 @@ yarn list v1.22.22
 ├─ @types/lodash.mergewith@4.6.6
 │  └─ @types/lodash@*
 ├─ @types/lodash@4.17.25
-├─ @types/markdown-it@14.1.2
+├─ @types/markdown-it@14.2.0
 │  ├─ @types/linkify-it@^5
 │  └─ @types/mdurl@^2
 ├─ @types/mdurl@2.0.0
@@ -9305,7 +9305,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.417.3
+├─ posthog-js@1.417.4
 │  ├─ @posthog/browser-common@^0.5.0
 │  ├─ @posthog/core@^1.48.2
 │  ├─ @posthog/types@^1.404.1
