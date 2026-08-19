@@ -10225,7 +10225,7 @@ yarn list v1.22.22
 │  └─ object-assign@^4.1.1
 ├─ reactcss@1.2.3
 │  └─ lodash@^4.0.1
-├─ read-cache@1.0.0
+├─ read-cache@1.0.1
 │  ├─ pify@^2.3.0
 │  └─ pify@2.3.0
 ├─ read-pkg-up@2.0.0
