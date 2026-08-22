@@ -4192,7 +4192,7 @@ yarn list v1.22.22
 │  ├─ kind-of@^3.0.2
 │  ├─ longest@^1.0.1
 │  └─ repeat-string@^1.5.2
-├─ alphanum-sort@1.0.2
+├─ alphanum-sort@1.1.0
 ├─ amdefine@1.0.1
 ├─ amis-formula@6.3.0
 │  ├─ lodash@^4.17.15
