@@ -4155,7 +4155,7 @@ yarn list v1.22.22
 │  ├─ @webassemblyjs/wast-parser@1.8.5
 │  └─ @xtuc/long@4.2.2
 ├─ @webcomponents/custom-elements@1.6.0
-├─ @xmldom/xmldom@0.9.11
+├─ @xmldom/xmldom@0.9.12
 ├─ @xobotyi/scrollbar-width@1.9.5
 ├─ @xtuc/ieee754@1.2.0
 ├─ @xtuc/long@4.2.2
