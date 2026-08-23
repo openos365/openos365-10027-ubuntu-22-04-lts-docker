@@ -6175,7 +6175,7 @@ yarn list v1.22.22
 ├─ fast-json-stable-stringify@2.1.0
 ├─ fast-levenshtein@2.0.6
 ├─ fast-shallow-equal@1.0.0
-├─ fast-uri@3.1.5
+├─ fast-uri@3.1.6
 ├─ fastest-stable-stringify@2.0.2
 ├─ fastest-validator@1.19.1
 ├─ fastparse@1.1.2
