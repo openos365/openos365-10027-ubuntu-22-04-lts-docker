@@ -1415,11 +1415,11 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.5.1
-│  ├─ @posthog/core@^1.48.10
-│  └─ @posthog/types@^1.405.2
-├─ @posthog/core@1.48.10
-│  └─ @posthog/types@^1.405.2
+├─ @posthog/browser-common@0.5.2
+│  ├─ @posthog/core@^1.48.11
+│  └─ @posthog/types@^1.405.3
+├─ @posthog/core@1.48.11
+│  └─ @posthog/types@^1.405.3
 ├─ @posthog/types@1.405.3
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -9317,9 +9317,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.418.16
-│  ├─ @posthog/browser-common@^0.5.1
-│  ├─ @posthog/core@^1.48.10
+├─ posthog-js@1.418.17
+│  ├─ @posthog/browser-common@^0.5.2
+│  ├─ @posthog/core@^1.48.11
 │  ├─ @posthog/types@^1.405.3
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
