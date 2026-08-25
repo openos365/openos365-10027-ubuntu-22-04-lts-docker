@@ -1420,7 +1420,7 @@ yarn list v1.22.22
 │  └─ @posthog/types@^1.405.3
 ├─ @posthog/core@1.48.11
 │  └─ @posthog/types@^1.405.3
-├─ @posthog/types@1.405.3
+├─ @posthog/types@1.406.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
