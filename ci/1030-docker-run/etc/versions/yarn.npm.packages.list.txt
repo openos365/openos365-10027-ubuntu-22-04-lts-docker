@@ -9317,10 +9317,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.418.17
+├─ posthog-js@1.419.0
 │  ├─ @posthog/browser-common@^0.5.2
 │  ├─ @posthog/core@^1.48.11
-│  ├─ @posthog/types@^1.405.3
+│  ├─ @posthog/types@^1.406.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
