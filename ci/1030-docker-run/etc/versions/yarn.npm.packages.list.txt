@@ -1415,12 +1415,12 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.5.0
-│  ├─ @posthog/core@^1.47.0
-│  └─ @posthog/types@^1.402.2
-├─ @posthog/core@1.48.9
-│  └─ @posthog/types@^1.405.1
-├─ @posthog/types@1.405.2
+├─ @posthog/browser-common@0.5.1
+│  ├─ @posthog/core@^1.48.10
+│  └─ @posthog/types@^1.405.2
+├─ @posthog/core@1.48.10
+│  └─ @posthog/types@^1.405.2
+├─ @posthog/types@1.405.3
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -4039,7 +4039,7 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.6
 │     └─ brace-expansion@^5.0.8
 ├─ @types/ms@2.1.0
-├─ @types/node@26.2.0
+├─ @types/node@26.3.0
 │  └─ undici-types@~8.3.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -4539,7 +4539,7 @@ yarn list v1.22.22
 │  ├─ @babel/helper-module-imports@^7.25.9
 │  ├─ @babel/plugin-syntax-jsx@^7.25.9
 │  ├─ picomatch@^4.0.2
-│  └─ picomatch@4.0.5
+│  └─ picomatch@4.0.7
 ├─ babel-plugin-syntax-jsx@6.18.0
 ├─ babel-plugin-syntax-object-rest-spread@6.13.0
 ├─ babel-plugin-syntax-trailing-function-commas@7.0.0-beta.0
@@ -4744,7 +4744,7 @@ yarn list v1.22.22
 │  └─ pascalcase@^0.1.1
 ├─ base64-js@1.5.1
 ├─ base64url@3.0.1
-├─ baseline-browser-mapping@2.11.18
+├─ baseline-browser-mapping@2.11.19
 ├─ basic-auth-connect@1.0.0
 ├─ basic-auth@2.0.1
 │  ├─ safe-buffer@5.1.2
@@ -4989,7 +4989,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001809
+├─ caniuse-lite@1.0.30001810
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
@@ -9317,10 +9317,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.418.13
-│  ├─ @posthog/browser-common@^0.5.0
-│  ├─ @posthog/core@^1.48.9
-│  ├─ @posthog/types@^1.405.2
+├─ posthog-js@1.418.16
+│  ├─ @posthog/browser-common@^0.5.1
+│  ├─ @posthog/core@^1.48.10
+│  ├─ @posthog/types@^1.405.3
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
@@ -9435,7 +9435,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.12.0
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.42.2
+├─ prosemirror-view@1.42.3
 │  ├─ prosemirror-model@^1.25.8
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
@@ -10576,7 +10576,7 @@ yarn list v1.22.22
 │  │  ├─ is-docker@^2.1.1
 │  │  └─ is-wsl@^2.2.0
 │  ├─ picomatch@^4.0.2
-│  ├─ picomatch@4.0.5
+│  ├─ picomatch@4.0.7
 │  ├─ source-map@^0.7.4
 │  ├─ source-map@0.7.6
 │  ├─ strip-ansi@6.0.1
@@ -11200,7 +11200,7 @@ yarn list v1.22.22
 ├─ swr@1.3.0
 ├─ symbol-observable@1.2.0
 ├─ symbol-tree@3.2.4
-├─ systeminformation@5.33.1
+├─ systeminformation@5.33.2
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
@@ -11372,7 +11372,7 @@ yarn list v1.22.22
 ├─ tinyglobby@0.2.17
 │  ├─ fdir@^6.5.0
 │  ├─ picomatch@^4.0.4
-│  └─ picomatch@4.0.5
+│  └─ picomatch@4.0.7
 ├─ title-case@2.1.1
 │  ├─ no-case@^2.2.0
 │  └─ upper-case@^1.0.3
@@ -11685,7 +11685,7 @@ yarn list v1.22.22
 │  └─ extsprintf@1.4.1
 ├─ vlq@1.0.1
 ├─ vm-browserify@1.1.2
-├─ vm2@3.11.6
+├─ vm2@3.11.7
 │  ├─ acorn-walk@^8.3.4
 │  ├─ acorn-walk@8.3.5
 │  │  └─ acorn@^8.11.0
