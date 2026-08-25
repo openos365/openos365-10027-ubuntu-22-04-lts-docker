@@ -3770,7 +3770,7 @@ cupt-dbg/jammy 2.10.4+nmu1build1 amd64
 cupt/jammy 2.10.4+nmu1build1 amd64
 cura-engine/jammy 1:4.13.0-1 amd64
 cura/jammy 4.13.0-1 all
-curl/jammy-security,now 7.81.0-1ubuntu1.27 amd64 [installed]
+curl/jammy-updates,jammy-security,now 7.81.0-1ubuntu1.27 amd64 [installed]
 curlftpfs/jammy 0.9.2-9build1 amd64
 curry-frontend/jammy 2.0.0-2build1 amd64
 curry-libs-source/jammy 3.0.0-2 all
@@ -20279,13 +20279,13 @@ libcurator-recipes-java/jammy 2.7.1-3 all
 libcurator-test-java/jammy 2.7.1-3 all
 libcurl-ocaml-dev/jammy 0.9.2-1build1 amd64
 libcurl-ocaml/jammy 0.9.2-1build1 amd64
-libcurl3-gnutls/jammy-security,now 7.81.0-1ubuntu1.27 amd64 [installed,automatic]
-libcurl3-nss/jammy-security 7.81.0-1ubuntu1.27 amd64
-libcurl4-doc/jammy-security 7.81.0-1ubuntu1.27 all
-libcurl4-gnutls-dev/jammy-security 7.81.0-1ubuntu1.27 amd64
-libcurl4-nss-dev/jammy-security 7.81.0-1ubuntu1.27 amd64
-libcurl4-openssl-dev/jammy-security 7.81.0-1ubuntu1.27 amd64
-libcurl4/jammy-security,now 7.81.0-1ubuntu1.27 amd64 [installed,automatic]
+libcurl3-gnutls/jammy-updates,jammy-security,now 7.81.0-1ubuntu1.27 amd64 [installed,automatic]
+libcurl3-nss/jammy-updates,jammy-security 7.81.0-1ubuntu1.27 amd64
+libcurl4-doc/jammy-updates,jammy-security 7.81.0-1ubuntu1.27 all
+libcurl4-gnutls-dev/jammy-updates,jammy-security 7.81.0-1ubuntu1.27 amd64
+libcurl4-nss-dev/jammy-updates,jammy-security 7.81.0-1ubuntu1.27 amd64
+libcurl4-openssl-dev/jammy-updates,jammy-security 7.81.0-1ubuntu1.27 amd64
+libcurl4/jammy-updates,jammy-security,now 7.81.0-1ubuntu1.27 amd64 [installed,automatic]
 libcurlpp-dev/jammy 0.8.1-5 amd64
 libcurlpp0/jammy 0.8.1-5 amd64
 libcurry-perl/jammy 2.000001-1 all
@@ -39623,12 +39623,12 @@ libssh-gcrypt-4/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
 libssh-gcrypt-dev/jammy-updates,jammy-security 0.9.6-2ubuntu0.22.04.7 amd64
 libssh2-1-dev/jammy 1.10.0-3 amd64
 libssh2-1/jammy 1.10.0-3 amd64
-libssl-dev/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.26 amd64 [installed]
-libssl-doc/jammy-updates,jammy-security 3.0.2-0ubuntu1.26 all
+libssl-dev/jammy-security,now 3.0.2-0ubuntu1.29 amd64 [installed]
+libssl-doc/jammy-security 3.0.2-0ubuntu1.29 all
 libssl-ocaml-dev/jammy 0.5.10-1build2 amd64
 libssl-ocaml/jammy 0.5.10-1build2 amd64
 libssl-utils-clojure/jammy 3.3.0-1 all
-libssl3/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.26 amd64 [installed]
+libssl3/jammy-security,now 3.0.2-0ubuntu1.29 amd64 [installed]
 libssm-bin/jammy 1.4.0-2 amd64
 libssm-dev/jammy 1.4.0-2 amd64
 libssm2/jammy 1.4.0-2 amd64
@@ -101110,7 +101110,7 @@ openssh-known-hosts/jammy 0.6.2-1.1 all
 openssh-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.16 amd64
 openssh-sftp-server/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.16 amd64
 openssh-tests/jammy-updates,jammy-security 1:8.9p1-3ubuntu0.16 amd64
-openssl/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.26 amd64 [installed,automatic]
+openssl/jammy-security,now 3.0.2-0ubuntu1.29 amd64 [installed,automatic]
 openssn-data/jammy 1.4-3build1 all
 openssn/jammy 1.4-3build1 amd64
 opensta-dev/jammy 0~20191111gitc018cb2+dfsg-1build1 amd64
