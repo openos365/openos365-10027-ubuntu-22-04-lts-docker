@@ -28764,8 +28764,8 @@ libip4tc-dev/jammy-updates 1.8.7-1ubuntu5.2 amd64
 libip4tc2/jammy-updates,now 1.8.7-1ubuntu5.2 amd64 [installed,automatic]
 libip6tc-dev/jammy-updates 1.8.7-1ubuntu5.2 amd64
 libip6tc2/jammy-updates 1.8.7-1ubuntu5.2 amd64
-libipa-hbac-dev/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libipa-hbac0/jammy-updates 2.6.3-1ubuntu3.6 amd64
+libipa-hbac-dev/jammy-security 2.6.3-1ubuntu3.8 amd64
+libipa-hbac0/jammy-security 2.6.3-1ubuntu3.8 amd64
 libipaddr-ocaml-dev/jammy 5.2.0-1build2 amd64
 libipaddr-ocaml/jammy 5.2.0-1build2 amd64
 libipc-filter-perl/jammy 0.004-2.1 all
@@ -33310,7 +33310,7 @@ libnss-nis/jammy 3.1-0ubuntu6 amd64
 libnss-nisplus/jammy 1.3-0ubuntu6 amd64
 libnss-pgsql2/jammy 1.4.0debian-8 amd64
 libnss-resolve/jammy-updates,jammy-security 249.11-0ubuntu3.22 amd64
-libnss-sss/jammy-updates 2.6.3-1ubuntu3.6 amd64
+libnss-sss/jammy-security 2.6.3-1ubuntu3.8 amd64
 libnss-systemd/jammy-updates,jammy-security,now 249.11-0ubuntu3.22 amd64 [installed,automatic]
 libnss-tls/jammy 1.1-1 amd64
 libnss-unknown/jammy 0.0.2-2 amd64
@@ -34737,7 +34737,7 @@ libpam-slurm/jammy 21.08.5-2ubuntu1 amd64
 libpam-snapper/jammy 0.9.0-1 amd64
 libpam-ssh-agent-auth/jammy 0.10.3-3.1ubuntu2 amd64
 libpam-ssh/jammy 2.3+ds-6 amd64
-libpam-sss/jammy-updates 2.6.3-1ubuntu3.6 amd64
+libpam-sss/jammy-security 2.6.3-1ubuntu3.8 amd64
 libpam-systemd/jammy-updates,jammy-security,now 249.11-0ubuntu3.22 amd64 [installed,automatic]
 libpam-tacplus/jammy 1.3.8-2.1 amd64
 libpam-tmpdir/jammy 0.09build1 amd64
@@ -39632,15 +39632,15 @@ libssl3/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.29 amd64 [installed]
 libssm-bin/jammy 1.4.0-2 amd64
 libssm-dev/jammy 1.4.0-2 amd64
 libssm2/jammy 1.4.0-2 amd64
-libsss-certmap-dev/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-certmap0/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-idmap-dev/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-idmap0/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-nss-idmap-dev/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-nss-idmap0/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-simpleifp-dev/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-simpleifp0/jammy-updates 2.6.3-1ubuntu3.6 amd64
-libsss-sudo/jammy-updates 2.6.3-1ubuntu3.6 amd64
+libsss-certmap-dev/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-certmap0/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-idmap-dev/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-idmap0/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-nss-idmap-dev/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-nss-idmap0/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-simpleifp-dev/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-simpleifp0/jammy-security 2.6.3-1ubuntu3.8 amd64
+libsss-sudo/jammy-security 2.6.3-1ubuntu3.8 amd64
 libsstp-api-0-dev/jammy 1.0.17-1 amd64
 libsstp-api-0/jammy 1.0.17-1 amd64
 libssu-dev/jammy 0.10.0-3build1 amd64
@@ -106323,7 +106323,7 @@ python3-libhamlib2/jammy 4.3.1-1build2 amd64
 python3-libhfst/jammy 3.15.4-2 all
 python3-libi8x/jammy 0.0.5-1build4 amd64
 python3-libiio/jammy 0.23-2 all
-python3-libipa-hbac/jammy-updates 2.6.3-1ubuntu3.6 amd64
+python3-libipa-hbac/jammy-security 2.6.3-1ubuntu3.8 amd64
 python3-libknot/jammy 3.1.6-1ubuntu1 all
 python3-liblinear/jammy 2.3.0+dfsg-5 all
 python3-liblnk/jammy 20181227-1.1build2 amd64
@@ -106351,7 +106351,7 @@ python3-libsigscan/jammy 20201117-1build1 amd64
 python3-libsmbios/jammy 2.4.3-1build1 all
 python3-libsmdev/jammy 20190315-2build1 amd64
 python3-libsmraw/jammy 20181227-2build1 amd64
-python3-libsss-nss-idmap/jammy-updates 2.6.3-1ubuntu3.6 amd64
+python3-libsss-nss-idmap/jammy-security 2.6.3-1ubuntu3.8 amd64
 python3-libsvm/jammy 3.24+ds-6 all
 python3-libthumbor/jammy 1.3.3-2 all
 python3-libtiff/jammy 0.4.4+ds-1build1 amd64
@@ -108083,7 +108083,7 @@ python3-ssdeep/jammy 3.1+dfsg-3build5 amd64
 python3-sshpubkeys/jammy 3.1.0-2.1 all
 python3-sshtunnel/jammy 0.1.4-2 all
 python3-ssoclient/jammy 2.1.2 all
-python3-sss/jammy-updates 2.6.3-1ubuntu3.6 amd64
+python3-sss/jammy-security 2.6.3-1ubuntu3.8 amd64
 python3-stack-data/jammy 0.1.4-1 all
 python3-stardicter/jammy 1.2-1 all
 python3-starlette/jammy 0.18.0-1 all
@@ -114147,18 +114147,18 @@ ssmping/jammy 0.9.1-4 amd64
 ssmtp/jammy 2.64-10 amd64
 ssocr/jammy 2.22.1-1 amd64
 sspace/jammy 2.1.1+dfsg-6 all
-sssd-ad-common/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-ad/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-common/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-dbus/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-ipa/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-kcm/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-krb5-common/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-krb5/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-ldap/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-proxy/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd-tools/jammy-updates 2.6.3-1ubuntu3.6 amd64
-sssd/jammy-updates 2.6.3-1ubuntu3.6 amd64
+sssd-ad-common/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-ad/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-common/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-dbus/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-ipa/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-kcm/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-krb5-common/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-krb5/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-ldap/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-proxy/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd-tools/jammy-security 2.6.3-1ubuntu3.8 amd64
+sssd/jammy-security 2.6.3-1ubuntu3.8 amd64
 ssshtest/jammy 0.0+git20190416.6f5438a-2 all
 ssss/jammy 0.5-5 amd64
 sstp-client/jammy 1.0.17-1 amd64
