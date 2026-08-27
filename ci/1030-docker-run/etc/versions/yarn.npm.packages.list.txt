@@ -1415,11 +1415,11 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.6.0
-│  ├─ @posthog/core@^1.48.11
-│  └─ @posthog/types@^1.406.1
-├─ @posthog/core@1.48.11
-│  └─ @posthog/types@^1.405.3
+├─ @posthog/browser-common@0.6.1
+│  ├─ @posthog/core@^1.49.1
+│  └─ @posthog/types@^1.407.0
+├─ @posthog/core@1.49.1
+│  └─ @posthog/types@^1.407.0
 ├─ @posthog/types@1.407.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -4889,7 +4889,7 @@ yarn list v1.22.22
 │  └─ ieee754@^1.1.13
 ├─ buffers@0.1.1
 ├─ builtin-status-codes@3.0.0
-├─ bullmq@5.81.3
+├─ bullmq@5.81.4
 │  ├─ @ioredis/commands@1.10.0
 │  ├─ cluster-key-slot@1.1.1
 │  ├─ cron-parser@4.9.0
@@ -8630,7 +8630,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.53
+├─ node-releases@2.0.54
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9317,9 +9317,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.421.0
-│  ├─ @posthog/browser-common@^0.6.0
-│  ├─ @posthog/core@^1.48.11
+├─ posthog-js@1.422.1
+│  ├─ @posthog/browser-common@^0.6.1
+│  ├─ @posthog/core@^1.49.1
 │  ├─ @posthog/types@^1.407.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
@@ -9406,7 +9406,7 @@ yarn list v1.22.22
 │  ├─ linkify-it@5.0.2
 │  │  └─ uc.micro@^2.0.0
 │  ├─ markdown-it@^14.0.0
-│  ├─ markdown-it@14.3.0
+│  ├─ markdown-it@14.3.1
 │  │  ├─ argparse@^2.0.1
 │  │  ├─ entities@^4.5.0
 │  │  ├─ linkify-it@^5.0.2
@@ -11200,7 +11200,7 @@ yarn list v1.22.22
 ├─ swr@1.3.0
 ├─ symbol-observable@1.2.0
 ├─ symbol-tree@3.2.4
-├─ systeminformation@5.33.4
+├─ systeminformation@5.33.5
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
@@ -11612,7 +11612,7 @@ yarn list v1.22.22
 │  ├─ readable-stream@~2.3.6
 │  └─ setimmediate@~1.0.4
 ├─ upath@1.2.0
-├─ update-browserslist-db@1.3.1
+├─ update-browserslist-db@1.3.2
 │  ├─ escalade@^3.2.0
 │  └─ picocolors@^1.1.1
 ├─ upper-case-first@1.1.2
@@ -11685,7 +11685,7 @@ yarn list v1.22.22
 │  └─ extsprintf@1.4.1
 ├─ vlq@1.0.1
 ├─ vm-browserify@1.1.2
-├─ vm2@3.11.7
+├─ vm2@3.11.8
 │  ├─ acorn-walk@^8.3.4
 │  ├─ acorn-walk@8.3.5
 │  │  └─ acorn@^8.11.0
