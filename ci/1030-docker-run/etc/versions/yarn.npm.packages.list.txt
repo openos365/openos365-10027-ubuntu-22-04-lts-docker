@@ -1420,7 +1420,7 @@ yarn list v1.22.22
 │  └─ @posthog/types@^1.406.1
 ├─ @posthog/core@1.48.11
 │  └─ @posthog/types@^1.405.3
-├─ @posthog/types@1.406.2
+├─ @posthog/types@1.407.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -2041,7 +2041,7 @@ yarn list v1.22.22
 │  ├─ fs-extra-promise@^1.0.1
 │  ├─ import@^0.0.6
 │  ├─ js-yaml@^4.0.0
-│  ├─ js-yaml@4.3.1
+│  ├─ js-yaml@4.3.2
 │  │  └─ argparse@^2.0.1
 │  ├─ lodash-es@^4.17.10
 │  ├─ next@^12.1.0
@@ -3765,7 +3765,7 @@ yarn list v1.22.22
 │  ├─ handlebars@^4.0.12
 │  ├─ has-flag@4.0.0
 │  ├─ inquirer@^6.2.2
-│  ├─ js-yaml@4.3.1
+│  ├─ js-yaml@4.3.2
 │  │  └─ argparse@^2.0.1
 │  ├─ mkdirp@1.0.4
 │  ├─ mssql@^4.3.2
@@ -4039,7 +4039,7 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.6
 │     └─ brace-expansion@^5.0.8
 ├─ @types/ms@2.1.0
-├─ @types/node@26.3.0
+├─ @types/node@26.4.0
 │  └─ undici-types@~8.3.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
@@ -7360,7 +7360,7 @@ yarn list v1.22.22
 ├─ js-sha3@0.8.0
 ├─ js-stringify@1.0.2
 ├─ js-tokens@4.0.0
-├─ js-yaml@3.15.1
+├─ js-yaml@3.15.2
 │  ├─ argparse@^1.0.7
 │  ├─ argparse@1.0.10
 │  │  └─ sprintf-js@~1.0.2
@@ -9317,10 +9317,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.420.0
+├─ posthog-js@1.421.0
 │  ├─ @posthog/browser-common@^0.6.0
 │  ├─ @posthog/core@^1.48.11
-│  ├─ @posthog/types@^1.406.2
+│  ├─ @posthog/types@^1.407.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
