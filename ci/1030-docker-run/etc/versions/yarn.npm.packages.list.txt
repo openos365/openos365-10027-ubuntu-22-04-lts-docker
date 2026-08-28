@@ -1420,7 +1420,7 @@ yarn list v1.22.22
 │  └─ @posthog/types@^1.407.0
 ├─ @posthog/core@1.49.1
 │  └─ @posthog/types@^1.407.0
-├─ @posthog/types@1.407.0
+├─ @posthog/types@1.407.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -8681,7 +8681,7 @@ yarn list v1.22.22
 ├─ nullthrows@1.1.1
 ├─ num2fraction@1.2.2
 ├─ number-is-nan@1.0.1
-├─ nwsapi@2.2.24
+├─ nwsapi@2.2.25
 ├─ oauth-sign@0.9.0
 ├─ oauth@0.10.2
 ├─ ob1@0.56.4
@@ -9317,10 +9317,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.422.1
+├─ posthog-js@1.422.2
 │  ├─ @posthog/browser-common@^0.6.1
 │  ├─ @posthog/core@^1.49.1
-│  ├─ @posthog/types@^1.407.0
+│  ├─ @posthog/types@^1.407.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
