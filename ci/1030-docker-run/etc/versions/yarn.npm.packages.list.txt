@@ -8687,7 +8687,7 @@ yarn list v1.22.22
 ├─ nullthrows@1.1.1
 ├─ num2fraction@1.2.2
 ├─ number-is-nan@1.0.1
-├─ nwsapi@2.2.26
+├─ nwsapi@2.2.27
 ├─ oauth-sign@0.9.0
 ├─ oauth@0.10.2
 ├─ ob1@0.56.4
