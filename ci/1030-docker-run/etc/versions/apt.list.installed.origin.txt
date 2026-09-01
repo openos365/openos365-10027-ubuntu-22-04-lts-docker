@@ -192,7 +192,7 @@ libfreetype6/jammy-updates,jammy-security,now 2.11.1+dfsg-1ubuntu0.3 amd64 [inst
 libfuse3-3/jammy,now 3.10.5-1build1 amd64 [installed,automatic]
 libgcc-11-dev/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04.3 amd64 [installed,automatic]
 libgcc-s1/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04.3 amd64 [installed]
-libgcrypt20/jammy-security,now 1.9.4-3ubuntu3.3 amd64 [installed]
+libgcrypt20/jammy-updates,jammy-security,now 1.9.4-3ubuntu3.3 amd64 [installed]
 libgd3/jammy-updates,jammy-security,now 2.3.0-2ubuntu2.3 amd64 [installed,automatic]
 libgdbm-compat4/jammy,now 1.23-1 amd64 [installed,automatic]
 libgdbm6/jammy,now 1.23-1 amd64 [installed,automatic]
