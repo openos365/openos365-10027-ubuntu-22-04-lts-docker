@@ -16666,9 +16666,9 @@ lib32itm1/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3 amd64
 lib32lsan0-amd64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cross1 all
 lib32lsan0-ppc64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32lsan0/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3 amd64
-lib32ncurses-dev/jammy-security 6.3-2ubuntu0.3 amd64
-lib32ncurses6/jammy-security 6.3-2ubuntu0.3 amd64
-lib32ncursesw6/jammy-security 6.3-2ubuntu0.3 amd64
+lib32ncurses-dev/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+lib32ncurses6/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+lib32ncursesw6/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
 lib32objc-10-dev-amd64-cross/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04.3cross1 all
 lib32objc-10-dev-mips64-cross/jammy 10.3.0-1ubuntu1cross2 all
 lib32objc-10-dev-mips64el-cross/jammy 10.3.0-1ubuntu1cross2 all
@@ -16781,7 +16781,7 @@ lib32stdc++6-s390x-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cro
 lib32stdc++6-sparc64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32stdc++6-x32-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32stdc++6/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3 amd64
-lib32tinfo6/jammy-security 6.3-2ubuntu0.3 amd64
+lib32tinfo6/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
 lib32ubsan1-amd64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cross1 all
 lib32ubsan1-ppc64-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04cross1 all
 lib32ubsan1-s390x-cross/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.3cross1 all
@@ -21774,15 +21774,15 @@ libevdi0/jammy-updates 1.12.0+dfsg-0ubuntu2~22.04.4 amd64
 libevdocument3-4/jammy-updates,jammy-security 42.3-0ubuntu3.2 amd64
 libevemu-dev/jammy 2.7.0-3 amd64
 libevemu3/jammy 2.7.0-3 amd64
-libevent-2.1-7/jammy-security 2.1.12-stable-1ubuntu0.1 amd64
-libevent-core-2.1-7/jammy-security 2.1.12-stable-1ubuntu0.1 amd64
-libevent-dev/jammy-security 2.1.12-stable-1ubuntu0.1 amd64
+libevent-2.1-7/jammy-updates,jammy-security 2.1.12-stable-1ubuntu0.1 amd64
+libevent-core-2.1-7/jammy-updates,jammy-security 2.1.12-stable-1ubuntu0.1 amd64
+libevent-dev/jammy-updates,jammy-security 2.1.12-stable-1ubuntu0.1 amd64
 libevent-distributor-perl/jammy 0.06-1 all
 libevent-execflow-perl/jammy 0.64-0ubuntu3 all
-libevent-extra-2.1-7/jammy-security 2.1.12-stable-1ubuntu0.1 amd64
-libevent-openssl-2.1-7/jammy-security 2.1.12-stable-1ubuntu0.1 amd64
+libevent-extra-2.1-7/jammy-updates,jammy-security 2.1.12-stable-1ubuntu0.1 amd64
+libevent-openssl-2.1-7/jammy-updates,jammy-security 2.1.12-stable-1ubuntu0.1 amd64
 libevent-perl/jammy 1.28-1build1 amd64
-libevent-pthreads-2.1-7/jammy-security 2.1.12-stable-1ubuntu0.1 amd64
+libevent-pthreads-2.1-7/jammy-updates,jammy-security 2.1.12-stable-1ubuntu0.1 amd64
 libevent-rpc-perl/jammy 1.10-1 all
 libevhtp-dev/jammy 1.2.18-1build1 amd64
 libevhtp-doc/jammy 1.2.18-1build1 all
@@ -32787,17 +32787,17 @@ libncrystal-bin/jammy 2.7.3+ds1-4 amd64
 libncrystal-data/jammy 2.7.3+ds1-4 all
 libncrystal-dev/jammy 2.7.3+ds1-4 amd64
 libncrystal1/jammy 2.7.3+ds1-4 amd64
-libncurses-dev/jammy-security 6.3-2ubuntu0.3 amd64
+libncurses-dev/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
 libncurses-gst/jammy 3.2.5-1.3ubuntu1 all
-libncurses5-dev/jammy-security 6.3-2ubuntu0.3 amd64
-libncurses5/jammy-security 6.3-2ubuntu0.3 amd64
-libncurses6/jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
+libncurses5-dev/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+libncurses5/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+libncurses6/jammy-updates,jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
 libncursesada-doc/jammy 6.2.20200212-4 all
 libncursesada6.2.3/jammy 6.2.20200212-4 amd64
 libncursesada9-dev/jammy 6.2.20200212-4 amd64
-libncursesw5-dev/jammy-security 6.3-2ubuntu0.3 amd64
-libncursesw5/jammy-security 6.3-2ubuntu0.3 amd64
-libncursesw6/jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
+libncursesw5-dev/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+libncursesw5/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+libncursesw6/jammy-updates,jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
 libndctl-dev/jammy 72.1-1 amd64
 libndctl6/jammy 72.1-1 amd64
 libndp-dbg/jammy-updates,jammy-security 1.8-0ubuntu3.1 amd64
@@ -41011,9 +41011,9 @@ libtimezonemap1-dev/jammy 0.4.6-2build2 amd64
 libtimezonemap1/jammy 0.4.6-2build2 amd64
 libtimingframework-java-doc/jammy 1.0-2 all
 libtimingframework-java/jammy 1.0-2 all
-libtinfo-dev/jammy-security 6.3-2ubuntu0.3 amd64
-libtinfo5/jammy-security 6.3-2ubuntu0.3 amd64
-libtinfo6/jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
+libtinfo-dev/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+libtinfo5/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
+libtinfo6/jammy-updates,jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
 libtins-dev/jammy 4.0-1build2 amd64
 libtins4.0/jammy 4.0-1build2 amd64
 libtinyexr-dev/jammy 1.0.1+dfsg-3 amd64
@@ -97804,12 +97804,12 @@ nco/jammy 5.0.6-1 amd64
 ncoils/jammy 2002-9 amd64
 ncompress/jammy 4.2.4.6-5 amd64
 ncrack/jammy 0.7+debian-3build1 amd64
-ncurses-base/jammy-security,now 6.3-2ubuntu0.3 all [installed]
-ncurses-bin/jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
-ncurses-doc/jammy-security 6.3-2ubuntu0.3 all
-ncurses-examples/jammy-security 6.3-2ubuntu0.3 amd64
+ncurses-base/jammy-updates,jammy-security,now 6.3-2ubuntu0.3 all [installed]
+ncurses-bin/jammy-updates,jammy-security,now 6.3-2ubuntu0.3 amd64 [installed]
+ncurses-doc/jammy-updates,jammy-security 6.3-2ubuntu0.3 all
+ncurses-examples/jammy-updates,jammy-security 6.3-2ubuntu0.3 amd64
 ncurses-hexedit/jammy 0.9.7+orig-7.1 amd64
-ncurses-term/jammy-security 6.3-2ubuntu0.3 all
+ncurses-term/jammy-updates,jammy-security 6.3-2ubuntu0.3 all
 ncview/jammy 2.1.8+ds-4build1 amd64
 nd/jammy 0.8.2-8build1 amd64
 ndctl/jammy 72.1-1 amd64
@@ -103745,7 +103745,7 @@ pypy-lib/jammy 7.3.9+dfsg-1 amd64
 pypy-packaging/jammy 21.3-1 all
 pypy-pkg-resources/jammy-updates,jammy-security 44.1.1-1.2ubuntu0.22.04.1 all
 pypy-pretend/jammy 1.0.9-1 all
-pypy-pyasn1/jammy-updates,jammy-security 0.4.8-1ubuntu0.2 all
+pypy-pyasn1/jammy-security 0.4.8-1ubuntu0.3 all
 pypy-pyparsing2/jammy 2.4.7-3 all
 pypy-pyparsing/jammy 2.4.7-3 all
 pypy-rawkit/jammy 0.6.0-2 all
@@ -104334,7 +104334,7 @@ python-psycopg2-doc/jammy 2.9.2-1build2 all
 python-ptk-doc/jammy 1.3.8+dfsg-1 all
 python-py-stringmatching-doc/jammy 0.4.2+git20201204.6a7fb57-7build1 all
 python-py7zr-doc/jammy-updates,jammy-security 0.11.3+dfsg-4ubuntu0.1 all
-python-pyasn1-doc/jammy-updates,jammy-security 0.4.8-1ubuntu0.2 all
+python-pyasn1-doc/jammy-security 0.4.8-1ubuntu0.3 all
 python-pyaudio-doc/jammy 0.2.11-1.3ubuntu1 all
 python-pybedtools-doc/jammy 0.9.0-1build1 all
 python-pybindgen-doc/jammy 0.20.0+dfsg1-2 all
@@ -107156,7 +107156,7 @@ python3-pyannotate/jammy 1.2.0-2 all
 python3-pyao/jammy 0.82+ds1-5build1 amd64
 python3-pyarmnn/jammy 20.08-10build1 amd64
 python3-pyasn1-modules/jammy 0.2.1-1 all
-python3-pyasn1/jammy-updates,jammy-security 0.4.8-1ubuntu0.2 all
+python3-pyasn1/jammy-security 0.4.8-1ubuntu0.3 all
 python3-pyasn/jammy 1.6.1-3build1 amd64
 python3-pyassimp/jammy 5.2.2~ds0-1 all
 python3-pyatspi/jammy 2.38.2-1 all
