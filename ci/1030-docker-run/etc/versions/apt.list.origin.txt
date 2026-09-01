@@ -22832,10 +22832,10 @@ libgcr-ui-3-1/jammy 3.40.0-4 amd64
 libgcr410/jammy 2.4.0-9.2 amd64
 libgcroots-dev/jammy 0.9.1-1 amd64
 libgcroots0/jammy 0.9.1-1 amd64
-libgcrypt-mingw-w64-dev/jammy-updates,jammy-security 1.9.4-3ubuntu3.2 all
-libgcrypt20-dev/jammy-updates,jammy-security 1.9.4-3ubuntu3.2 amd64
-libgcrypt20-doc/jammy-updates,jammy-security 1.9.4-3ubuntu3.2 all
-libgcrypt20/jammy-updates,jammy-security,now 1.9.4-3ubuntu3.2 amd64 [installed]
+libgcrypt-mingw-w64-dev/jammy-security 1.9.4-3ubuntu3.3 all
+libgcrypt20-dev/jammy-security 1.9.4-3ubuntu3.3 amd64
+libgcrypt20-doc/jammy-security 1.9.4-3ubuntu3.3 all
+libgcrypt20/jammy-security,now 1.9.4-3ubuntu3.3 amd64 [installed]
 libgctp-2.0.0/jammy 2.0.0-6 amd64
 libgctp-dev/jammy 2.0.0-6 amd64
 libgcu0v5/jammy 0.14.17-6.1 amd64
