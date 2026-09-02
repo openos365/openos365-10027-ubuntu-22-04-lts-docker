@@ -9737,7 +9737,7 @@ gir1.2-mypaint-1.5/jammy 1.6.0-2 amd64
 gir1.2-nautilus-3.0/jammy-updates 1:42.6-0ubuntu2 amd64
 gir1.2-nemo-3.0/jammy 5.2.4-1 amd64
 gir1.2-nice-0.1/jammy 0.1.18-2 amd64
-gir1.2-nm-1.0/jammy-updates 1.36.6-0ubuntu2.4 amd64
+gir1.2-nm-1.0/jammy-updates 1.36.6-0ubuntu2.5 amd64
 gir1.2-nma-1.0/jammy 1.8.34-1ubuntu1 amd64
 gir1.2-notify-0.7/jammy-updates 0.7.9-3ubuntu5.22.04.1 amd64
 gir1.2-osmgpsmap-1.0/jammy 1.2.0-1build1 amd64
@@ -33221,8 +33221,8 @@ libnlopt-cxx0/jammy 2.7.1-3build1 amd64
 libnlopt-dev/jammy 2.7.1-3build1 amd64
 libnlopt-guile0/jammy 2.7.1-3build1 amd64
 libnlopt0/jammy 2.7.1-3build1 amd64
-libnm-dev/jammy-updates 1.36.6-0ubuntu2.4 amd64
-libnm0/jammy-updates 1.36.6-0ubuntu2.4 amd64
+libnm-dev/jammy-updates 1.36.6-0ubuntu2.5 amd64
+libnm0/jammy-updates 1.36.6-0ubuntu2.5 amd64
 libnma-common/jammy 1.8.34-1ubuntu1 all
 libnma-dev/jammy 1.8.34-1ubuntu1 amd64
 libnma0/jammy 1.8.34-1ubuntu1 amd64
@@ -97920,9 +97920,9 @@ nettle-dev/jammy 3.7.3-1build2 amd64
 nettoe/jammy 1.5.1-3 amd64
 netwag-doc/jammy 5.39.0-1.4 all
 netwag/jammy 5.39.0-1.4 all
-network-manager-config-connectivity-debian/jammy-updates 1.36.6-0ubuntu2.4 all
-network-manager-config-connectivity-ubuntu/jammy-updates 1.36.6-0ubuntu2.4 all
-network-manager-dev/jammy-updates 1.36.6-0ubuntu2.4 all
+network-manager-config-connectivity-debian/jammy-updates 1.36.6-0ubuntu2.5 all
+network-manager-config-connectivity-ubuntu/jammy-updates 1.36.6-0ubuntu2.5 all
+network-manager-dev/jammy-updates 1.36.6-0ubuntu2.5 all
 network-manager-fortisslvpn-gnome/jammy 1.2.10-0ubuntu3 amd64
 network-manager-fortisslvpn/jammy 1.2.10-0ubuntu3 amd64
 network-manager-gnome/jammy 1.24.0-1ubuntu3 amd64
@@ -97943,7 +97943,7 @@ network-manager-sstp/jammy 1.3.0-0ubuntu1 amd64
 network-manager-strongswan/jammy 1.5.2-1 amd64
 network-manager-vpnc-gnome/jammy 1.2.8-2 amd64
 network-manager-vpnc/jammy 1.2.8-2 amd64
-network-manager/jammy-updates 1.36.6-0ubuntu2.4 amd64
+network-manager/jammy-updates 1.36.6-0ubuntu2.5 amd64
 networkd-dispatcher/jammy-updates,jammy-security,now 2.1-2ubuntu0.22.04.2 all [installed,automatic]
 networking-bagpipe-common/jammy 16.0.0-0ubuntu1 all
 networking-bgpvpn-common/jammy 16.0.0-0ubuntu1 all
