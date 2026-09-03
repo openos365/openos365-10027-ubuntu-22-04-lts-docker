@@ -433,7 +433,7 @@ openjdk-11-jdk-headless/jammy-updates,jammy-security,now 11.0.32+9-1ubuntu1~22.0
 openjdk-11-jdk/jammy-updates,jammy-security,now 11.0.32+9-1ubuntu1~22.04 amd64 [installed,automatic]
 openjdk-11-jre-headless/jammy-updates,jammy-security,now 11.0.32+9-1ubuntu1~22.04 amd64 [installed,automatic]
 openjdk-11-jre/jammy-updates,jammy-security,now 11.0.32+9-1ubuntu1~22.04 amd64 [installed,automatic]
-openssh-client/jammy-updates,jammy-security,now 1:8.9p1-3ubuntu0.16 amd64 [installed,automatic]
+openssh-client/jammy-security,now 1:8.9p1-3ubuntu0.17 amd64 [installed,automatic]
 openssl/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.29 amd64 [installed,automatic]
 os-prober/jammy,now 1.79ubuntu2 amd64 [installed,automatic]
 passwd/jammy-updates,jammy-security,now 1:4.8.1-2ubuntu2.2 amd64 [installed]
