@@ -1415,12 +1415,12 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.7.2
-│  ├─ @posthog/core@^1.50.4
-│  └─ @posthog/types@^1.408.1
-├─ @posthog/core@1.50.5
-│  └─ @posthog/types@^1.409.0
-├─ @posthog/types@1.409.0
+├─ @posthog/browser-common@0.8.1
+│  ├─ @posthog/core@^1.51.0
+│  └─ @posthog/types@^1.409.1
+├─ @posthog/core@1.51.0
+│  └─ @posthog/types@^1.409.1
+├─ @posthog/types@1.409.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -3980,9 +3980,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.10
-│  └─ @tanstack/virtual-core@3.17.8
-├─ @tanstack/virtual-core@3.17.8
+├─ @tanstack/react-virtual@3.14.11
+│  └─ @tanstack/virtual-core@3.17.9
+├─ @tanstack/virtual-core@3.17.9
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -4039,8 +4039,8 @@ yarn list v1.22.22
 │  └─ minimatch@10.2.6
 │     └─ brace-expansion@^5.0.8
 ├─ @types/ms@2.1.0
-├─ @types/node@26.4.1
-│  └─ undici-types@~8.3.0
+├─ @types/node@26.5.0
+│  └─ undici-types@~8.9.0
 ├─ @types/parse-json@4.0.2
 ├─ @types/path-to-regexp@1.7.0
 │  └─ path-to-regexp@*
@@ -9323,10 +9323,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.427.2
-│  ├─ @posthog/browser-common@^0.7.2
-│  ├─ @posthog/core@^1.50.5
-│  ├─ @posthog/types@^1.409.0
+├─ posthog-js@1.428.1
+│  ├─ @posthog/browser-common@^0.8.1
+│  ├─ @posthog/core@^1.51.0
+│  ├─ @posthog/types@^1.409.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
@@ -11577,7 +11577,7 @@ yarn list v1.22.22
 │  ├─ has-symbols@^1.1.0
 │  └─ which-boxed-primitive@^1.1.1
 ├─ underscore@1.13.8
-├─ undici-types@8.3.0
+├─ undici-types@8.9.0
 ├─ unicode-canonical-property-names-ecmascript@2.0.1
 ├─ unicode-match-property-ecmascript@2.0.0
 │  ├─ unicode-canonical-property-names-ecmascript@^2.0.0
