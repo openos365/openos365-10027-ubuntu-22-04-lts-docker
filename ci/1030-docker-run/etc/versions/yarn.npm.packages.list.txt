@@ -1415,7 +1415,7 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.8.1
+├─ @posthog/browser-common@0.8.2
 │  ├─ @posthog/core@^1.51.0
 │  └─ @posthog/types@^1.409.1
 ├─ @posthog/core@1.51.0
@@ -5723,7 +5723,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.422
+├─ electron-to-chromium@1.5.423
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
@@ -9323,8 +9323,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.428.1
-│  ├─ @posthog/browser-common@^0.8.1
+├─ posthog-js@1.428.3
+│  ├─ @posthog/browser-common@^0.8.2
 │  ├─ @posthog/core@^1.51.0
 │  ├─ @posthog/types@^1.409.1
 │  ├─ core-js@^3.49.0
@@ -11206,7 +11206,7 @@ yarn list v1.22.22
 ├─ swr@1.3.0
 ├─ symbol-observable@1.2.0
 ├─ symbol-tree@3.2.4
-├─ systeminformation@5.33.8
+├─ systeminformation@5.33.9
 ├─ systemjs@6.15.1
 ├─ table@5.4.6
 │  ├─ ajv@^6.10.2
