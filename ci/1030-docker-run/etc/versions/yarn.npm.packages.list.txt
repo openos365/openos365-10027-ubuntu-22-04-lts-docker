@@ -1418,9 +1418,9 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.8.2
 │  ├─ @posthog/core@^1.51.0
 │  └─ @posthog/types@^1.409.1
-├─ @posthog/core@1.52.0
-│  └─ @posthog/types@^1.409.4
-├─ @posthog/types@1.410.0
+├─ @posthog/core@1.52.1
+│  └─ @posthog/types@^1.410.0
+├─ @posthog/types@1.410.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -4390,7 +4390,7 @@ yarn list v1.22.22
 ├─ asynckit@0.4.0
 ├─ atob@2.1.2
 ├─ attr-accept@2.2.5
-├─ autoprefixer@10.5.5
+├─ autoprefixer@10.5.6
 │  ├─ browserslist@^4.28.9
 │  ├─ caniuse-lite@^1.0.30001810
 │  ├─ fraction.js@^5.3.4
@@ -5720,7 +5720,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.425
+├─ electron-to-chromium@1.5.426
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
@@ -9320,10 +9320,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.429.1
+├─ posthog-js@1.429.3
 │  ├─ @posthog/browser-common@^0.8.2
-│  ├─ @posthog/core@^1.52.0
-│  ├─ @posthog/types@^1.410.0
+│  ├─ @posthog/core@^1.52.1
+│  ├─ @posthog/types@^1.410.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
