@@ -1415,12 +1415,12 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.8.2
-│  ├─ @posthog/core@^1.51.0
-│  └─ @posthog/types@^1.409.1
-├─ @posthog/core@1.53.1
-│  └─ @posthog/types@^1.411.0
-├─ @posthog/types@1.411.0
+├─ @posthog/browser-common@0.8.3
+│  ├─ @posthog/core@^1.53.2
+│  └─ @posthog/types@^1.411.1
+├─ @posthog/core@1.53.2
+│  └─ @posthog/types@^1.411.1
+├─ @posthog/types@1.411.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -3980,9 +3980,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.11
-│  └─ @tanstack/virtual-core@3.17.9
-├─ @tanstack/virtual-core@3.17.9
+├─ @tanstack/react-virtual@3.14.12
+│  └─ @tanstack/virtual-core@3.17.10
+├─ @tanstack/virtual-core@3.17.10
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -5207,12 +5207,13 @@ yarn list v1.22.22
 │  │  ├─ to-buffer@^1.1.1
 │  │  └─ xtend@^4.0.0
 │  └─ yazl@^2.4.2
-├─ compression@1.8.1
+├─ compression@1.8.2
 │  ├─ bytes@3.1.2
 │  ├─ compressible@~2.0.18
 │  ├─ debug@2.6.9
 │  ├─ debug@2.6.9
 │  │  └─ ms@2.0.0
+│  ├─ destroy@1.2.0
 │  ├─ ms@2.0.0
 │  ├─ negotiator@~0.6.4
 │  ├─ negotiator@0.6.4
@@ -8356,7 +8357,7 @@ yarn list v1.22.22
 │  ├─ optional-require@^1.1.8
 │  ├─ safe-buffer@^5.1.2
 │  └─ saslprep@^1.0.0
-├─ morgan@1.12.0
+├─ morgan@1.12.1
 │  ├─ basic-auth@~2.0.1
 │  ├─ debug@2.6.9
 │  ├─ debug@2.6.9
@@ -9320,10 +9321,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.429.5
-│  ├─ @posthog/browser-common@^0.8.2
-│  ├─ @posthog/core@^1.53.0
-│  ├─ @posthog/types@^1.411.0
+├─ posthog-js@1.430.2
+│  ├─ @posthog/browser-common@^0.8.3
+│  ├─ @posthog/core@^1.53.2
+│  ├─ @posthog/types@^1.411.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
