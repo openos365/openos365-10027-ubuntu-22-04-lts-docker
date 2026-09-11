@@ -1418,7 +1418,7 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.8.2
 │  ├─ @posthog/core@^1.51.0
 │  └─ @posthog/types@^1.409.1
-├─ @posthog/core@1.53.0
+├─ @posthog/core@1.53.1
 │  └─ @posthog/types@^1.411.0
 ├─ @posthog/types@1.411.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
