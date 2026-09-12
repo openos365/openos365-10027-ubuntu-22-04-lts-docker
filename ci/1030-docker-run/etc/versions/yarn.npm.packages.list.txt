@@ -9410,7 +9410,7 @@ yarn list v1.22.22
 │  ├─ linkify-it@5.0.2
 │  │  └─ uc.micro@^2.0.0
 │  ├─ markdown-it@^14.0.0
-│  ├─ markdown-it@14.3.1
+│  ├─ markdown-it@14.3.2
 │  │  ├─ argparse@^2.0.1
 │  │  ├─ entities@^4.5.0
 │  │  ├─ linkify-it@^5.0.2
