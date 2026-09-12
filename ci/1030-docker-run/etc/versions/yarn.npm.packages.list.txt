@@ -4390,7 +4390,7 @@ yarn list v1.22.22
 ├─ asynckit@0.4.0
 ├─ atob@2.1.2
 ├─ attr-accept@2.2.5
-├─ autoprefixer@10.5.6
+├─ autoprefixer@10.6.0
 │  ├─ browserslist@^4.28.9
 │  ├─ caniuse-lite@^1.0.30001810
 │  ├─ fraction.js@^5.3.4
@@ -9321,7 +9321,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.430.2
+├─ posthog-js@1.430.3
 │  ├─ @posthog/browser-common@^0.8.3
 │  ├─ @posthog/core@^1.53.2
 │  ├─ @posthog/types@^1.411.1
