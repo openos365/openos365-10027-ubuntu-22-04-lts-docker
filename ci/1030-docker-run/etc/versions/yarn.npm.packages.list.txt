@@ -1418,7 +1418,7 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.8.3
 │  ├─ @posthog/core@^1.53.2
 │  └─ @posthog/types@^1.411.1
-├─ @posthog/core@1.54.0
+├─ @posthog/core@1.54.1
 │  └─ @posthog/types@^1.412.0
 ├─ @posthog/types@1.412.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -6176,7 +6176,7 @@ yarn list v1.22.22
 ├─ fast-json-stable-stringify@2.1.0
 ├─ fast-levenshtein@2.0.6
 ├─ fast-shallow-equal@1.0.0
-├─ fast-uri@3.1.7
+├─ fast-uri@3.1.8
 ├─ fastest-stable-stringify@2.0.2
 ├─ fastest-validator@1.19.1
 ├─ fastparse@1.1.2
@@ -9318,9 +9318,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.433.3
+├─ posthog-js@1.433.4
 │  ├─ @posthog/browser-common@^0.8.3
-│  ├─ @posthog/core@^1.54.0
+│  ├─ @posthog/core@^1.54.1
 │  ├─ @posthog/types@^1.412.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
