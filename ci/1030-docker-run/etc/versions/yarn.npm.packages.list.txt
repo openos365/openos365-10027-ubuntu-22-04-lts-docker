@@ -11745,7 +11745,7 @@ yarn list v1.22.22
 │  └─ defaults@^1.0.3
 ├─ web-streams-polyfill@3.3.3
 ├─ web-vitals-soft-navs@6.2.1
-├─ web-vitals@6.2.1
+├─ web-vitals@6.2.2
 ├─ webcomponents-in-react@1.0.1
 ├─ webidl-conversions@4.0.2
 ├─ webpack-dev-middleware@3.7.3
