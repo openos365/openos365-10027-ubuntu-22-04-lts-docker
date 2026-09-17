@@ -1415,9 +1415,9 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.8.3
-│  ├─ @posthog/core@^1.53.2
-│  └─ @posthog/types@^1.411.1
+├─ @posthog/browser-common@0.9.0
+│  ├─ @posthog/core@^1.54.2
+│  └─ @posthog/types@^1.412.1
 ├─ @posthog/core@1.54.2
 │  └─ @posthog/types@^1.412.0
 ├─ @posthog/types@1.412.1
@@ -9318,8 +9318,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.433.6
-│  ├─ @posthog/browser-common@^0.8.3
+├─ posthog-js@1.433.7
+│  ├─ @posthog/browser-common@^0.9.0
 │  ├─ @posthog/core@^1.54.2
 │  ├─ @posthog/types@^1.412.1
 │  ├─ core-js@^3.49.0
@@ -9915,7 +9915,7 @@ yarn list v1.22.22
 │  ├─ loose-envify@^1.1.0
 │  ├─ object-assign@^4.1.1
 │  └─ scheduler@^0.20.2
-├─ react-draggable@4.7.1
+├─ react-draggable@4.7.2
 │  ├─ clsx@^2.1.1
 │  ├─ clsx@2.1.1
 │  └─ prop-types@^15.8.1
@@ -11941,7 +11941,7 @@ yarn list v1.22.22
 │  ├─ is-weakmap@^2.0.2
 │  └─ is-weakset@^2.0.3
 ├─ which-module@2.0.1
-├─ which-typed-array@1.1.22
+├─ which-typed-array@1.1.23
 │  ├─ available-typed-arrays@^1.0.7
 │  ├─ call-bind@^1.0.9
 │  ├─ call-bound@^1.0.4
