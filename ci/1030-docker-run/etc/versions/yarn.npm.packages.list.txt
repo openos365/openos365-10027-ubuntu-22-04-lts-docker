@@ -1418,8 +1418,8 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.9.0
 │  ├─ @posthog/core@^1.54.2
 │  └─ @posthog/types@^1.412.1
-├─ @posthog/core@1.54.2
-│  └─ @posthog/types@^1.412.0
+├─ @posthog/core@1.54.4
+│  └─ @posthog/types@^1.412.1
 ├─ @posthog/types@1.412.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -6854,8 +6854,8 @@ yarn list v1.22.22
 │  ├─ hsla-regex@^1.0.0
 │  ├─ rgb-regex@^1.0.1
 │  └─ rgba-regex@^1.0.0
-├─ is-core-module@2.16.2
-│  └─ hasown@^2.0.3
+├─ is-core-module@2.17.0
+│  └─ hasown@^2.0.4
 ├─ is-data-descriptor@1.0.1
 │  └─ hasown@^2.0.0
 ├─ is-data-view@1.0.2
@@ -8631,7 +8631,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.55
+├─ node-releases@2.0.56
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9318,9 +9318,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.433.7
+├─ posthog-js@1.433.10
 │  ├─ @posthog/browser-common@^0.9.0
-│  ├─ @posthog/core@^1.54.2
+│  ├─ @posthog/core@^1.54.4
 │  ├─ @posthog/types@^1.412.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
@@ -11474,14 +11474,13 @@ yarn list v1.22.22
 │  ├─ gopd@^1.2.0
 │  ├─ has-proto@^1.2.0
 │  └─ is-typed-array@^1.1.14
-├─ typed-array-byte-offset@1.0.4
+├─ typed-array-byte-offset@1.0.5
 │  ├─ available-typed-arrays@^1.0.7
-│  ├─ call-bind@^1.0.8
-│  ├─ for-each@^0.3.3
+│  ├─ call-bind@^1.0.9
+│  ├─ for-each@^0.3.5
 │  ├─ gopd@^1.2.0
-│  ├─ has-proto@^1.2.0
 │  ├─ is-typed-array@^1.1.15
-│  └─ reflect.getprototypeof@^1.0.9
+│  └─ reflect.getprototypeof@^1.0.10
 ├─ typed-array-length@1.0.8
 │  ├─ call-bind@^1.0.9
 │  ├─ for-each@^0.3.5
