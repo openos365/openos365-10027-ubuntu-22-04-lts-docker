@@ -1418,8 +1418,8 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.9.0
 │  ├─ @posthog/core@^1.54.2
 │  └─ @posthog/types@^1.412.1
-├─ @posthog/core@1.54.4
-│  └─ @posthog/types@^1.412.1
+├─ @posthog/core@1.54.5
+│  └─ @posthog/types@^1.412.2
 ├─ @posthog/types@1.412.2
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -5721,7 +5721,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.430
+├─ electron-to-chromium@1.5.431
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
