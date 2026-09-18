@@ -1950,7 +1950,7 @@ btrfsmaintenance/jammy 0.5-1 all
 btscanner/jammy 2.1-9 amd64
 btyacc/jammy 3.0+dfsg-1 amd64
 bubblefishymon/jammy 0.6.4-6.1 amd64
-bubblewrap/jammy-security 0.6.1-1ubuntu0.3 amd64
+bubblewrap/jammy-updates,jammy-security 0.6.1-1ubuntu0.3 amd64
 bucardo/jammy 5.6.0-4 all
 bucklespring-data/jammy 1.4.0-2 all
 bucklespring/jammy 1.4.0-2 amd64
