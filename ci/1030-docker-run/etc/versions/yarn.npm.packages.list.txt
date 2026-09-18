@@ -365,7 +365,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  ├─ js-tokens@^3.0.0
 │  └─ js-tokens@3.0.2
-├─ @babel/parser@7.29.8
+├─ @babel/parser@7.29.9
 │  └─ @babel/types@^7.29.8
 ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.29.7
 │  ├─ @babel/helper-plugin-utils@^7.29.7
@@ -634,7 +634,7 @@ yarn list v1.22.22
 │  └─ @babel/helper-plugin-utils@^7.29.7
 ├─ @babel/plugin-transform-typeof-symbol@7.29.7
 │  └─ @babel/helper-plugin-utils@^7.29.7
-├─ @babel/plugin-transform-typescript@7.29.7
+├─ @babel/plugin-transform-typescript@7.29.9
 │  ├─ @babel/helper-annotate-as-pure@^7.29.7
 │  ├─ @babel/helper-create-class-features-plugin@^7.29.7
 │  ├─ @babel/helper-plugin-utils@^7.29.7
@@ -9436,7 +9436,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.12.1
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.42.3
+├─ prosemirror-view@1.42.4
 │  ├─ prosemirror-model@^1.25.8
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
@@ -10382,7 +10382,7 @@ yarn list v1.22.22
 │  ├─ unicode-match-property-ecmascript@^2.0.0
 │  └─ unicode-match-property-value-ecmascript@^2.2.1
 ├─ regjsgen@0.8.0
-├─ regjsparser@0.13.2
+├─ regjsparser@0.13.3
 │  └─ jsesc@~3.1.0
 ├─ reify@0.17.3
 │  ├─ acorn@^5.5.3
