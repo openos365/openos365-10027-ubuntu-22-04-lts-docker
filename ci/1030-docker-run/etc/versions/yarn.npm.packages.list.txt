@@ -6377,7 +6377,7 @@ yarn list v1.22.22
 │  └─ is-document.all@^1.0.0
 ├─ functional-red-black-tree@1.0.1
 ├─ functions-have-names@1.2.3
-├─ fuzzy-search@3.2.1
+├─ fuzzy-search@3.3.0
 ├─ gauge@2.7.4
 │  ├─ ansi-regex@2.1.1
 │  ├─ aproba@^1.0.3
