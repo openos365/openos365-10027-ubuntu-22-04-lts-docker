@@ -96895,10 +96895,10 @@ markdown/jammy 1.0.1-10.1 all
 markdownpart/jammy 21.12.3-0ubuntu1 amd64
 marsshooter-data/jammy 0.7.6-6 all
 marsshooter/jammy 0.7.6-6 amd64
-masakari-api/jammy 13.0.0-0ubuntu1 all
-masakari-common/jammy 13.0.0-0ubuntu1 all
-masakari-doc/jammy 13.0.0-0ubuntu1 all
-masakari-engine/jammy 13.0.0-0ubuntu1 all
+masakari-api/jammy-updates 13.0.0-0ubuntu1.1 all
+masakari-common/jammy-updates 13.0.0-0ubuntu1.1 all
+masakari-doc/jammy-updates 13.0.0-0ubuntu1.1 all
+masakari-engine/jammy-updates 13.0.0-0ubuntu1.1 all
 masakari-host-monitor/jammy 13.0.0-0ubuntu1 all
 masakari-instance-monitor/jammy 13.0.0-0ubuntu1 all
 masakari-introspective-instance-monitor/jammy 13.0.0-0ubuntu1 all
@@ -107058,7 +107058,7 @@ python3-marshmallow-sqlalchemy/jammy 0.26.1-1 all
 python3-marshmallow/jammy 3.13.0-1 all
 python3-masakari-dashboard/jammy 5.0.0-1 all
 python3-masakari-monitors/jammy 13.0.0-0ubuntu1 all
-python3-masakari/jammy 13.0.0-0ubuntu1 all
+python3-masakari/jammy-updates 13.0.0-0ubuntu1.1 all
 python3-masakariclient/jammy 7.1.0-0ubuntu1 all
 python3-mastodon/jammy 1.5.1-1 all
 python3-mathgl/jammy 8.0.1-1 amd64
