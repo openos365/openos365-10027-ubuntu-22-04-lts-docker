@@ -1418,8 +1418,8 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.9.0
 │  ├─ @posthog/core@^1.54.2
 │  └─ @posthog/types@^1.412.1
-├─ @posthog/core@1.55.1
-│  └─ @posthog/types@^1.412.3
+├─ @posthog/core@1.55.2
+│  └─ @posthog/types@^1.412.4
 ├─ @posthog/types@1.412.4
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -5667,7 +5667,7 @@ yarn list v1.22.22
 │  └─ webidl-conversions@^4.0.2
 ├─ domhandler@4.3.1
 │  └─ domelementtype@^2.2.0
-├─ dompurify@3.4.15
+├─ dompurify@3.4.16
 │  └─ @types/trusted-types@^2.0.7
 ├─ domutils@1.7.0
 │  ├─ dom-serializer@0
@@ -5721,7 +5721,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.436
+├─ electron-to-chromium@1.5.438
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
@@ -8631,7 +8631,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.56
+├─ node-releases@2.0.57
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9318,7 +9318,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.434.9
+├─ posthog-js@1.434.11
 │  ├─ @posthog/browser-common@^0.9.0
 │  ├─ @posthog/core@^1.55.1
 │  ├─ @posthog/types@^1.412.4

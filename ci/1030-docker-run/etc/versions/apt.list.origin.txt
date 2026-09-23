@@ -11013,10 +11013,10 @@ golang-1.23-doc/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23-go/jammy-updates,jammy-security 1.23.1-1~22.04.2 amd64
 golang-1.23-src/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
-golang-1.24-doc/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 all
-golang-1.24-go/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 amd64
-golang-1.24-src/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 all
-golang-1.24/jammy-updates,jammy-security 1.24.4-1ubuntu1~22.04.2 all
+golang-1.24-doc/jammy-updates,jammy-security 1.24.13-2~22.04.1 all
+golang-1.24-go/jammy-updates,jammy-security 1.24.13-2~22.04.1 amd64
+golang-1.24-src/jammy-updates,jammy-security 1.24.13-2~22.04.1 all
+golang-1.24/jammy-updates,jammy-security 1.24.13-2~22.04.1 all
 golang-android-soong-dev/jammy 0.0~git20201014.17e97d9-2 all
 golang-any/jammy 2:1.18~0ubuntu2 amd64
 golang-ar-dev/jammy 0.0~git20150512-0ubuntu2 all
@@ -28849,8 +28849,8 @@ libismrmrd-doc/jammy 1.4.2.1-6 all
 libismrmrd1.4/jammy 1.4.2.1-6 amd64
 libisnativec-java-doc/jammy 5.3.20100629+fix-4 all
 libisnativec-java/jammy 5.3.20100629+fix-4 all
-libisns-dev/jammy 0.101-0ubuntu2 amd64
-libisns0/jammy 0.101-0ubuntu2 amd64
+libisns-dev/jammy-security 0.101-0ubuntu2.1 amd64
+libisns0/jammy-security 0.101-0ubuntu2.1 amd64
 libiso9660++-dev/jammy-updates,jammy-security 2.1.0-3ubuntu0.2 amd64
 libiso9660++0/jammy-updates,jammy-security 2.1.0-3ubuntu0.2 amd64
 libiso9660-11/jammy-updates,jammy-security 2.1.0-3ubuntu0.2 amd64
@@ -101915,9 +101915,9 @@ open-infrastructure-system-images/jammy 20190301-lts1-2 all
 open-invaders-data/jammy 0.3-7 all
 open-invaders/jammy 0.3-7 amd64
 open-iscsi/jammy-updates 2.1.5-1ubuntu1.1 amd64
-open-isns-discoveryd/jammy 0.101-0ubuntu2 amd64
-open-isns-server/jammy 0.101-0ubuntu2 amd64
-open-isns-utils/jammy 0.101-0ubuntu2 amd64
+open-isns-discoveryd/jammy-security 0.101-0ubuntu2.1 amd64
+open-isns-server/jammy-security 0.101-0ubuntu2.1 amd64
+open-isns-utils/jammy-security 0.101-0ubuntu2.1 amd64
 open-jtalk-mecab-naist-jdic/jammy 1.11-1.1 all
 open-jtalk/jammy 1.11-1.1 amd64
 open-roms/jammy 0.0~git20210824.e4e324c-1 all
@@ -105550,7 +105550,7 @@ python-sphinxcontrib.spelling-doc/jammy 7.2.1-1 all
 python-sqlalchemy-doc/jammy 1.4.31+ds1-1build1 all
 python-sqlalchemy-utils-doc/jammy 0.37.8-1ubuntu1 all
 python-sqlobject-doc/jammy 3.9.1+dfsg-1 all
-python-sqlparse-doc/jammy-updates,jammy-security 0.4.2-1ubuntu0.22.04.2 all
+python-sqlparse-doc/jammy-security 0.4.2-1ubuntu0.22.04.3 all
 python-staticconf-doc/jammy 0.10.5-1 all
 python-statsmodels-doc/jammy 0.13.2+dfsg-1 all
 python-stdnum-doc/jammy 1.17-1 all
@@ -109131,7 +109131,7 @@ python3-sqlalchemy-utils/jammy 0.37.8-1ubuntu1 all
 python3-sqlalchemy/jammy 1.4.31+ds1-1build1 all
 python3-sqlite-fts4/jammy 1.0.1-1 all
 python3-sqlobject/jammy 3.9.1+dfsg-1 all
-python3-sqlparse/jammy-updates,jammy-security 0.4.2-1ubuntu0.22.04.2 all
+python3-sqlparse/jammy-security 0.4.2-1ubuntu0.22.04.3 all
 python3-sqt/jammy 0.8.0-5build1 amd64
 python3-squaremap/jammy 1:1.0.5-2 all
 python3-srp/jammy 1.0.15-1 all
@@ -115103,7 +115103,7 @@ sqlacodegen/jammy 1.1.6-4 all
 sqlcipher/jammy 3.4.1-2build1 amd64
 sqlcl-package/jammy 0.1.1 all
 sqldeveloper-package/jammy 0.5.4 all
-sqlformat/jammy-updates,jammy-security 0.4.2-1ubuntu0.22.04.2 all
+sqlformat/jammy-security 0.4.2-1ubuntu0.22.04.3 all
 sqlgrey/jammy 1:1.8.0-4 all
 sqlite-doc/jammy 2.8.17-15fakesync1build1 all
 sqlite3-doc/jammy-updates,jammy-security 3.37.2-2ubuntu0.8 all
