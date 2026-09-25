@@ -34887,9 +34887,9 @@ libpbkdf-ocaml/jammy 1.2.0-1build2 amd64
 libpbkdf2-tiny-perl/jammy 0.005-2.1 all
 libpbseq-dev/jammy 5.3.5+dfsg-4build1 amd64
 libpbseq/jammy 5.3.5+dfsg-4build1 amd64
-libpcap-dev/jammy-updates 1.10.1-4ubuntu1.22.04.1 amd64
-libpcap0.8-dev/jammy-updates 1.10.1-4ubuntu1.22.04.1 amd64
-libpcap0.8/jammy-updates 1.10.1-4ubuntu1.22.04.1 amd64
+libpcap-dev/jammy-updates,jammy-security 1.10.1-4ubuntu1.22.04.2 amd64
+libpcap0.8-dev/jammy-updates,jammy-security 1.10.1-4ubuntu1.22.04.2 amd64
+libpcap0.8/jammy-updates,jammy-security 1.10.1-4ubuntu1.22.04.2 amd64
 libpcaudio-dev/jammy 1.1-6build2 amd64
 libpcaudio0/jammy 1.1-6build2 amd64
 libpcc-dev/jammy 1.2.0~DEVEL+20200614-1 amd64
