@@ -13320,7 +13320,7 @@ gstreamer1.0-crystalizer-pulseeffects/jammy 4.8.4-1 amd64
 gstreamer1.0-espeak/jammy 0.5.0-1 amd64
 gstreamer1.0-fdkaac/jammy 1.20.0-1 amd64
 gstreamer1.0-gl/jammy-updates,jammy-security 1.20.1-1ubuntu0.7 amd64
-gstreamer1.0-gtk3/jammy-updates,jammy-security 1.20.3-0ubuntu1.9 amd64
+gstreamer1.0-gtk3/jammy-security 1.20.3-0ubuntu1.10 amd64
 gstreamer1.0-libav/jammy-updates 1.20.3-0ubuntu1 amd64
 gstreamer1.0-nice/jammy 0.1.18-2 amd64
 gstreamer1.0-omx-bellagio-config/jammy 1.18.3-1 amd64
@@ -13333,13 +13333,13 @@ gstreamer1.0-plugins-bad-apps/jammy-updates,jammy-security 1.20.3-0ubuntu1.1 amd
 gstreamer1.0-plugins-bad/jammy-updates,jammy-security 1.20.3-0ubuntu1.1 amd64
 gstreamer1.0-plugins-base-apps/jammy-updates,jammy-security 1.20.1-1ubuntu0.7 amd64
 gstreamer1.0-plugins-base/jammy-updates,jammy-security 1.20.1-1ubuntu0.7 amd64
-gstreamer1.0-plugins-good/jammy-updates,jammy-security 1.20.3-0ubuntu1.9 amd64
+gstreamer1.0-plugins-good/jammy-security 1.20.3-0ubuntu1.10 amd64
 gstreamer1.0-plugins-rtp/jammy 1.14.4.1 amd64
 gstreamer1.0-plugins-ugly/jammy 1.20.1-1 amd64
 gstreamer1.0-pocketsphinx/jammy 0.8.0+real5prealpha+1-14ubuntu1 amd64
-gstreamer1.0-pulseaudio/jammy-updates,jammy-security 1.20.3-0ubuntu1.9 amd64
+gstreamer1.0-pulseaudio/jammy-security 1.20.3-0ubuntu1.10 amd64
 gstreamer1.0-python3-plugin-loader/jammy 1.20.1-1 amd64
-gstreamer1.0-qt5/jammy-updates,jammy-security 1.20.3-0ubuntu1.9 amd64
+gstreamer1.0-qt5/jammy-security 1.20.3-0ubuntu1.10 amd64
 gstreamer1.0-rtsp/jammy 1.20.1-1 amd64
 gstreamer1.0-tools/jammy-updates,jammy-security 1.20.3-0ubuntu1.1 amd64
 gstreamer1.0-vaapi/jammy-updates 1.20.1-1ubuntu1 amd64
@@ -27577,8 +27577,8 @@ libgstreamer-plugins-bad1.0-0/jammy-updates,jammy-security 1.20.3-0ubuntu1.1 amd
 libgstreamer-plugins-bad1.0-dev/jammy-updates,jammy-security 1.20.3-0ubuntu1.1 amd64
 libgstreamer-plugins-base1.0-0/jammy-updates,jammy-security 1.20.1-1ubuntu0.7 amd64
 libgstreamer-plugins-base1.0-dev/jammy-updates,jammy-security 1.20.1-1ubuntu0.7 amd64
-libgstreamer-plugins-good1.0-0/jammy-updates,jammy-security 1.20.3-0ubuntu1.9 amd64
-libgstreamer-plugins-good1.0-dev/jammy-updates,jammy-security 1.20.3-0ubuntu1.9 amd64
+libgstreamer-plugins-good1.0-0/jammy-security 1.20.3-0ubuntu1.10 amd64
+libgstreamer-plugins-good1.0-dev/jammy-security 1.20.3-0ubuntu1.10 amd64
 libgstreamer1.0-0/jammy-updates,jammy-security 1.20.3-0ubuntu1.1 amd64
 libgstreamer1.0-dev/jammy-updates,jammy-security 1.20.3-0ubuntu1.1 amd64
 libgstreamerd-3-0/jammy 3.10.0-1ubuntu1 amd64
