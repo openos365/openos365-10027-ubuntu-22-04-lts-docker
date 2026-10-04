@@ -10356,7 +10356,7 @@ yarn list v1.22.22
 │  └─ prismjs@~1.27.0
 ├─ regenerate-unicode-properties@10.3.0
 │  └─ regenerate@^1.4.2
-├─ regenerate@1.4.2
+├─ regenerate@1.5.0
 ├─ regenerator-runtime@0.13.11
 ├─ regex-not@1.0.2
 │  ├─ extend-shallow@^3.0.2
