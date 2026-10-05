@@ -10374,9 +10374,9 @@ yarn list v1.22.22
 │  ├─ gopd@^1.2.0
 │  └─ set-function-name@^2.0.2
 ├─ regexpp@2.0.1
-├─ regexpu-core@6.5.2
+├─ regexpu-core@6.5.3
 │  ├─ regenerate-unicode-properties@^10.3.0
-│  ├─ regenerate@^1.4.2
+│  ├─ regenerate@^1.5.0
 │  ├─ regjsgen@^0.8.0
 │  ├─ regjsparser@^0.13.0
 │  ├─ unicode-match-property-ecmascript@^2.0.0
