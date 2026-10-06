@@ -9761,7 +9761,7 @@ gir1.2-secret-1/jammy 0.20.5-2 amd64
 gir1.2-signon-2.0/jammy 2.1-3ubuntu1 amd64
 gir1.2-skk-1.0/jammy 1.0.5-2 amd64
 gir1.2-snapd-1/jammy 1.60-0ubuntu1 amd64
-gir1.2-soup-2.4/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 amd64
+gir1.2-soup-2.4/jammy-security 2.74.2-3ubuntu0.9 amd64
 gir1.2-soup-3.0/jammy-updates 3.0.7-0ubuntu1 amd64
 gir1.2-spiceclientglib-2.0/jammy 0.39-3ubuntu1 amd64
 gir1.2-spiceclientgtk-3.0/jammy 0.39-3ubuntu1 amd64
@@ -10992,18 +10992,18 @@ golang-1.17-doc/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
 golang-1.17-go/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 amd64
 golang-1.17-src/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
 golang-1.17/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
-golang-1.18-doc/jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
-golang-1.18-go/jammy-security,now 1.18.1-1ubuntu1.3 amd64 [installed,automatic]
-golang-1.18-src/jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
-golang-1.18/jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
+golang-1.18-doc/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
+golang-1.18-go/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.3 amd64 [installed,automatic]
+golang-1.18-src/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
+golang-1.18/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
 golang-1.20-doc/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
 golang-1.20-go/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 amd64
 golang-1.20-src/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
 golang-1.20/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
-golang-1.21-doc/jammy-security 1.21.1-1~ubuntu22.04.4 all
-golang-1.21-go/jammy-security 1.21.1-1~ubuntu22.04.4 amd64
-golang-1.21-src/jammy-security 1.21.1-1~ubuntu22.04.4 all
-golang-1.21/jammy-security 1.21.1-1~ubuntu22.04.4 all
+golang-1.21-doc/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.4 all
+golang-1.21-go/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.4 amd64
+golang-1.21-src/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.4 all
+golang-1.21/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.4 all
 golang-1.22-doc/jammy-updates,jammy-security 1.22.2-2~22.04.3 all
 golang-1.22-go/jammy-updates,jammy-security 1.22.2-2~22.04.3 amd64
 golang-1.22-src/jammy-updates,jammy-security 1.22.2-2~22.04.3 all
@@ -11012,10 +11012,10 @@ golang-1.23-doc/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23-go/jammy-updates,jammy-security 1.23.1-1~22.04.2 amd64
 golang-1.23-src/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
-golang-1.24-doc/jammy-security 1.24.13-2~22.04.2 all
-golang-1.24-go/jammy-security 1.24.13-2~22.04.2 amd64
-golang-1.24-src/jammy-security 1.24.13-2~22.04.2 all
-golang-1.24/jammy-security 1.24.13-2~22.04.2 all
+golang-1.24-doc/jammy-updates,jammy-security 1.24.13-2~22.04.2 all
+golang-1.24-go/jammy-updates,jammy-security 1.24.13-2~22.04.2 amd64
+golang-1.24-src/jammy-updates,jammy-security 1.24.13-2~22.04.2 all
+golang-1.24/jammy-updates,jammy-security 1.24.13-2~22.04.2 all
 golang-android-soong-dev/jammy 0.0~git20201014.17e97d9-2 all
 golang-any/jammy 2:1.18~0ubuntu2 amd64
 golang-ar-dev/jammy 0.0~git20150512-0ubuntu2 all
@@ -39409,15 +39409,15 @@ libsoup-3.0-common/jammy-updates 3.0.7-0ubuntu1 all
 libsoup-3.0-dev/jammy-updates 3.0.7-0ubuntu1 amd64
 libsoup-3.0-doc/jammy-updates 3.0.7-0ubuntu1 all
 libsoup-3.0-tests/jammy-updates 3.0.7-0ubuntu1 amd64
-libsoup-gnome2.4-1/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 amd64
-libsoup-gnome2.4-dev/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 amd64
-libsoup2.4-1/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 amd64
+libsoup-gnome2.4-1/jammy-security 2.74.2-3ubuntu0.9 amd64
+libsoup-gnome2.4-dev/jammy-security 2.74.2-3ubuntu0.9 amd64
+libsoup2.4-1/jammy-security 2.74.2-3ubuntu0.9 amd64
 libsoup2.4-cil-dev/jammy 2.42.2+git20151219-3 amd64
 libsoup2.4-cil/jammy 2.42.2+git20151219-3 amd64
-libsoup2.4-common/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 all
-libsoup2.4-dev/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 amd64
-libsoup2.4-doc/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 all
-libsoup2.4-tests/jammy-updates,jammy-security 2.74.2-3ubuntu0.8 amd64
+libsoup2.4-common/jammy-security 2.74.2-3ubuntu0.9 all
+libsoup2.4-dev/jammy-security 2.74.2-3ubuntu0.9 amd64
+libsoup2.4-doc/jammy-security 2.74.2-3ubuntu0.9 all
+libsoup2.4-tests/jammy-security 2.74.2-3ubuntu0.9 amd64
 libsource-highlight-common/jammy 3.1.9-4.1build2 all
 libsource-highlight-dev/jammy 3.1.9-4.1build2 amd64
 libsource-highlight4v5/jammy 3.1.9-4.1build2 amd64
@@ -104002,7 +104002,7 @@ php-rrd/jammy 2.0.3+1.1.3-6 amd64
 php-sabre-dav/jammy 1.8.12-10 all
 php-sabre-vobject/jammy 2.1.7-6build1 all
 php-sass/jammy 0.7-1ubuntu2 amd64
-php-seclib/jammy 1.0.20-1 all
+php-seclib/jammy-security 1.0.20-1+deb12u3build0.22.04.1 all
 php-services-json/jammy 1.0.3-1build1 all
 php-services-weather/jammy 1.4.7-4 all
 php-shellcommand/jammy 1.6.3-1 all
@@ -112544,10 +112544,10 @@ redfishtool/jammy 1.1.5-1 all
 redir/jammy 3.3-1 amd64
 redis-redisearch-doc/jammy 1:1.2.2-4 all
 redis-redisearch/jammy 1:1.2.2-4 amd64
-redis-sentinel/jammy-updates,jammy-security 5:6.0.16-1ubuntu1.1 amd64
-redis-server/jammy-updates,jammy-security 5:6.0.16-1ubuntu1.1 amd64
-redis-tools/jammy-updates,jammy-security 5:6.0.16-1ubuntu1.1 amd64
-redis/jammy-updates,jammy-security 5:6.0.16-1ubuntu1.1 all
+redis-sentinel/jammy-security 5:6.0.16-1ubuntu1.2 amd64
+redis-server/jammy-security 5:6.0.16-1ubuntu1.2 amd64
+redis-tools/jammy-security 5:6.0.16-1ubuntu1.2 amd64
+redis/jammy-security 5:6.0.16-1ubuntu1.2 all
 redland-utils/jammy 1.0.17-1.1ubuntu3 amd64
 rednotebook/jammy 2.24+ds-1 all
 redshift-gtk/jammy 1.12-4.2ubuntu1 all
@@ -117935,8 +117935,8 @@ tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
 u-boot-nezha/jammy-updates,jammy-security 2022.04+git20220405.7446a472-0ubuntu0.4 all
-u-boot-qemu/jammy-security 2022.01+dfsg-2ubuntu2.8 all
-u-boot-tools/jammy-security 2022.01+dfsg-2ubuntu2.8 amd64
+u-boot-qemu/jammy-updates,jammy-security 2022.01+dfsg-2ubuntu2.8 all
+u-boot-tools/jammy-updates,jammy-security 2022.01+dfsg-2ubuntu2.8 amd64
 u2f-host/jammy 1.1.10-3build2 amd64
 u2f-server/jammy 1.1.0-4build1 amd64
 u2o/jammy 0.7-2 all
