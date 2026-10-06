@@ -4698,10 +4698,10 @@ dnsenum/jammy 1.3.0-5 all
 dnshistory/jammy 1.3-2.1 amd64
 dnsjit/jammy 1.2.2-1 amd64
 dnsmap/jammy 0.36-1 amd64
-dnsmasq-base-lua/jammy-updates 2.91-0ubuntu0.22.04.1 amd64
-dnsmasq-base/jammy-updates 2.91-0ubuntu0.22.04.1 amd64
-dnsmasq-utils/jammy-updates 2.91-0ubuntu0.22.04.1 amd64
-dnsmasq/jammy-updates 2.91-0ubuntu0.22.04.1 all
+dnsmasq-base-lua/jammy-updates 2.91-0ubuntu0.22.04.2 amd64
+dnsmasq-base/jammy-updates 2.91-0ubuntu0.22.04.2 amd64
+dnsmasq-utils/jammy-updates 2.91-0ubuntu0.22.04.2 amd64
+dnsmasq/jammy-updates 2.91-0ubuntu0.22.04.2 all
 dnsperf/jammy 2.9.0-1 amd64
 dnsproxy/jammy 1.17+git20211129.22329c4-1 amd64
 dnsrecon/jammy 1.0.0-1 all
@@ -7508,8 +7508,8 @@ freetennis-common/jammy 0.4.8-14 all
 freetennis/jammy 0.4.8-14 amd64
 freetts/jammy 1.2.2-7 all
 freetuxtv/jammy 0.6.8~dfsg1-1build2 amd64
-freetype2-demos/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
-freetype2-doc/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 all
+freetype2-demos/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.4 amd64
+freetype2-doc/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.4 all
 freewheeling/jammy 0.6.4-1.1build1 amd64
 freewnn-common/jammy 1.1.1~a021+cvs20130302-7build1 all
 freewnn-cserver/jammy 1.1.1~a021+cvs20130302-7build1 amd64
@@ -10992,18 +10992,18 @@ golang-1.17-doc/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
 golang-1.17-go/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 amd64
 golang-1.17-src/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
 golang-1.17/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all
-golang-1.18-doc/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
-golang-1.18-go/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 amd64 [installed,automatic]
-golang-1.18-src/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
-golang-1.18/jammy-updates,jammy-security,now 1.18.1-1ubuntu1.2 all [installed,automatic]
+golang-1.18-doc/jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
+golang-1.18-go/jammy-security,now 1.18.1-1ubuntu1.3 amd64 [installed,automatic]
+golang-1.18-src/jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
+golang-1.18/jammy-security,now 1.18.1-1ubuntu1.3 all [installed,automatic]
 golang-1.20-doc/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
 golang-1.20-go/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 amd64
 golang-1.20-src/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
 golang-1.20/jammy-updates,jammy-security 1.20.3-1ubuntu0.1~22.04.1 all
-golang-1.21-doc/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 all
-golang-1.21-go/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 amd64
-golang-1.21-src/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 all
-golang-1.21/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 all
+golang-1.21-doc/jammy-security 1.21.1-1~ubuntu22.04.4 all
+golang-1.21-go/jammy-security 1.21.1-1~ubuntu22.04.4 amd64
+golang-1.21-src/jammy-security 1.21.1-1~ubuntu22.04.4 all
+golang-1.21/jammy-security 1.21.1-1~ubuntu22.04.4 all
 golang-1.22-doc/jammy-updates,jammy-security 1.22.2-2~22.04.3 all
 golang-1.22-go/jammy-updates,jammy-security 1.22.2-2~22.04.3 amd64
 golang-1.22-src/jammy-updates,jammy-security 1.22.2-2~22.04.3 all
@@ -11012,10 +11012,10 @@ golang-1.23-doc/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23-go/jammy-updates,jammy-security 1.23.1-1~22.04.2 amd64
 golang-1.23-src/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
 golang-1.23/jammy-updates,jammy-security 1.23.1-1~22.04.2 all
-golang-1.24-doc/jammy-updates,jammy-security 1.24.13-2~22.04.1 all
-golang-1.24-go/jammy-updates,jammy-security 1.24.13-2~22.04.1 amd64
-golang-1.24-src/jammy-updates,jammy-security 1.24.13-2~22.04.1 all
-golang-1.24/jammy-updates,jammy-security 1.24.13-2~22.04.1 all
+golang-1.24-doc/jammy-security 1.24.13-2~22.04.2 all
+golang-1.24-go/jammy-security 1.24.13-2~22.04.2 amd64
+golang-1.24-src/jammy-security 1.24.13-2~22.04.2 all
+golang-1.24/jammy-security 1.24.13-2~22.04.2 all
 golang-android-soong-dev/jammy 0.0~git20201014.17e97d9-2 all
 golang-any/jammy 2:1.18~0ubuntu2 amd64
 golang-ar-dev/jammy 0.0~git20150512-0ubuntu2 all
@@ -22497,9 +22497,9 @@ libfreerdp-shadow2-2/jammy-updates,jammy-security 2.6.1+dfsg1-3ubuntu2.11 amd64
 libfreerdp2-2/jammy-updates,jammy-security 2.6.1+dfsg1-3ubuntu2.11 amd64
 libfreesrp-dev/jammy 0.3.0-2build1 amd64
 libfreesrp0/jammy 0.3.0-2build1 amd64
-libfreetype-dev/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
-libfreetype6-dev/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.3 amd64
-libfreetype6/jammy-updates,jammy-security,now 2.11.1+dfsg-1ubuntu0.3 amd64 [installed,automatic]
+libfreetype-dev/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.4 amd64
+libfreetype6-dev/jammy-updates,jammy-security 2.11.1+dfsg-1ubuntu0.4 amd64
+libfreetype6/jammy-updates,jammy-security,now 2.11.1+dfsg-1ubuntu0.4 amd64 [installed,automatic]
 libfreexl-dev/jammy 1.0.6-1 amd64
 libfreexl1/jammy 1.0.6-1 amd64
 libfreezethaw-perl/jammy 0.5001-2.1 all
@@ -39035,8 +39035,8 @@ libsfst1-1.4/jammy 1.4.7b-1build2 amd64
 libsgml-dtdparse-perl/jammy 2.00-3 all
 libsgml-parser-opensp-perl/jammy 0.994-3build9 amd64
 libsgmls-perl/jammy 1.03ii-36 all
-libsgutils2-2/jammy-updates 1.46-1ubuntu0.22.04.1 amd64
-libsgutils2-dev/jammy-updates 1.46-1ubuntu0.22.04.1 amd64
+libsgutils2-2/jammy-updates,jammy-security 1.46-1ubuntu0.22.04.2 amd64
+libsgutils2-dev/jammy-updates,jammy-security 1.46-1ubuntu0.22.04.2 amd64
 libsha-ocaml-dev/jammy 1.15.1-1build1 amd64
 libsha-ocaml/jammy 1.15.1-1build1 amd64
 libshadowsocks-libev-dev/jammy 3.3.5+ds-7build1 amd64
@@ -112366,7 +112366,7 @@ r8168-dkms/jammy-updates 8.049.02-1ubuntu1.4 all
 rabbit-mode/jammy 3.0.0-4 all
 rabbit/jammy 3.0.0-4 all
 rabbiter/jammy 2.0.4-4 all
-rabbitmq-server/jammy-updates,jammy-security 3.9.27-0ubuntu0.2 all
+rabbitmq-server/jammy-updates,jammy-security 3.9.27-0ubuntu0.5 all
 rabbitsign/jammy 2.1+dmca1-2 amd64
 rabbitvcs-cli/jammy 0.18-3 all
 rabbitvcs-core/jammy 0.18-3 all
@@ -115110,8 +115110,8 @@ sffview/jammy 0.5.0-5build1 amd64
 sfnt2woff-zopfli/jammy 1.1.0-2 amd64
 sfront/jammy 0.99-2 amd64
 sfst/jammy 1.4.7b-1build2 amd64
-sg3-utils-udev/jammy-updates 1.46-1ubuntu0.22.04.1 all
-sg3-utils/jammy-updates 1.46-1ubuntu0.22.04.1 amd64
+sg3-utils-udev/jammy-updates,jammy-security 1.46-1ubuntu0.22.04.2 all
+sg3-utils/jammy-updates,jammy-security 1.46-1ubuntu0.22.04.2 amd64
 sga/jammy 0.10.15-7 amd64
 sgb-doc/jammy 1:20210202-1 all
 sgb/jammy 1:20210202-1 amd64
@@ -117935,8 +117935,8 @@ tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
 u-boot-nezha/jammy-updates,jammy-security 2022.04+git20220405.7446a472-0ubuntu0.4 all
-u-boot-qemu/jammy-updates,jammy-security 2022.01+dfsg-2ubuntu2.7 all
-u-boot-tools/jammy-updates,jammy-security 2022.01+dfsg-2ubuntu2.7 amd64
+u-boot-qemu/jammy-security 2022.01+dfsg-2ubuntu2.8 all
+u-boot-tools/jammy-security 2022.01+dfsg-2ubuntu2.8 amd64
 u2f-host/jammy 1.1.10-3build2 amd64
 u2f-server/jammy 1.1.0-4build1 amd64
 u2o/jammy 0.7-2 all
