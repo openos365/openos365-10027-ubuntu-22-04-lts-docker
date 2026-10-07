@@ -1418,8 +1418,8 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.9.2
 │  ├─ @posthog/core@^1.57.0
 │  └─ @posthog/types@^1.415.1
-├─ @posthog/core@1.57.0
-│  └─ @posthog/types@^1.415.0
+├─ @posthog/core@1.57.1
+│  └─ @posthog/types@^1.415.1
 ├─ @posthog/types@1.415.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -9318,9 +9318,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.438.1
+├─ posthog-js@1.438.2
 │  ├─ @posthog/browser-common@^0.9.2
-│  ├─ @posthog/core@^1.57.0
+│  ├─ @posthog/core@^1.57.1
 │  ├─ @posthog/types@^1.415.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
