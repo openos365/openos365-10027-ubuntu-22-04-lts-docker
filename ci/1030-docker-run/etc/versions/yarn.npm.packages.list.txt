@@ -1418,8 +1418,8 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.9.2
 │  ├─ @posthog/core@^1.57.0
 │  └─ @posthog/types@^1.415.1
-├─ @posthog/core@1.57.2
-│  └─ @posthog/types@^1.415.1
+├─ @posthog/core@1.57.3
+│  └─ @posthog/types@^1.415.2
 ├─ @posthog/types@1.415.2
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
