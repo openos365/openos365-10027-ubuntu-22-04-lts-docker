@@ -3962,9 +3962,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.14
-│  └─ @tanstack/virtual-core@3.18.0
-├─ @tanstack/virtual-core@3.18.0
+├─ @tanstack/react-virtual@3.14.15
+│  └─ @tanstack/virtual-core@3.19.0
+├─ @tanstack/virtual-core@3.19.0
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
