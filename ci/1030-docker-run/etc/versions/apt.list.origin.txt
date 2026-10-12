@@ -20625,7 +20625,7 @@ libdbd-sybase-perl/jammy 1.14-1build9 amd64
 libdbd-xbase-perl/jammy 1:1.08-1 all
 libdbi-dev/jammy 0.9.0-6build2 amd64
 libdbi-doc/jammy 0.9.0-6build2 all
-libdbi-perl/jammy-updates,jammy-security 1.643-3ubuntu0.3 amd64
+libdbi-perl/jammy-security 1.643-3ubuntu0.4 amd64
 libdbi-test-perl/jammy 0.001-1.1 all
 libdbi1/jammy 0.9.0-6build2 amd64
 libdbicx-sugar-perl/jammy 0.0200-2 all
