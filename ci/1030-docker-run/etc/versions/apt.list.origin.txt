@@ -12926,9 +12926,9 @@ google-android-platform-9-installer/jammy 9+r02+nmu5 all
 google-android-sdk-docs-installer/jammy 24+r3 all
 google-compute-engine-oslogin/jammy-updates 20260814.00-0ubuntu1~22.04.0 amd64
 google-compute-engine/jammy-updates 20260819.00-0ubuntu1~22.04.0 all
-google-guest-agent/jammy-updates,jammy-security 20250116.00-0ubuntu1~22.04.3 amd64
+google-guest-agent/jammy-security 20250116.00-0ubuntu1~22.04.4 amd64
 google-mock/jammy 1.11.0-3 amd64
-google-osconfig-agent/jammy-updates 20251028.00-0ubuntu2~22.04.0 amd64
+google-osconfig-agent/jammy-security 20251028.00-0ubuntu2~22.04.1 amd64
 google-perftools/jammy 2.9.1-0ubuntu3 all
 google-wire/jammy 0.5.0-1 amd64
 googler/jammy 4.3.2-1 all
@@ -42441,19 +42441,19 @@ libwxsvg-dev/jammy 2:1.5.23+dfsg-1 amd64
 libwxsvg-tools/jammy 2:1.5.23+dfsg-1 amd64
 libwxsvg3/jammy 2:1.5.23+dfsg-1 amd64
 libwyhash-dev/jammy 0~2.gbp234f0c6-1 amd64
-libx11-6/jammy-updates,jammy-security,now 2:1.7.5-1ubuntu0.3 amd64 [installed,automatic]
-libx11-data/jammy-updates,jammy-security,now 2:1.7.5-1ubuntu0.3 all [installed,automatic]
-libx11-dev/jammy-updates,jammy-security,now 2:1.7.5-1ubuntu0.3 amd64 [installed,automatic]
-libx11-doc/jammy-updates,jammy-security 2:1.7.5-1ubuntu0.3 all
+libx11-6/jammy-security,now 2:1.7.5-1ubuntu0.4 amd64 [installed,automatic]
+libx11-data/jammy-security,now 2:1.7.5-1ubuntu0.4 all [installed,automatic]
+libx11-dev/jammy-security,now 2:1.7.5-1ubuntu0.4 amd64 [installed,automatic]
+libx11-doc/jammy-security 2:1.7.5-1ubuntu0.4 all
 libx11-freedesktop-desktopentry-perl/jammy 0.04-4.1 all
 libx11-guitest-perl/jammy 0.28-2build4 amd64
 libx11-keyboard-perl/jammy 1.4-7 all
 libx11-protocol-other-perl/jammy 31-1 all
 libx11-protocol-perl/jammy 0.56-7.1 all
 libx11-windowhierarchy-perl/jammy 0.004-1.1 all
-libx11-xcb-dev/jammy-updates,jammy-security 2:1.7.5-1ubuntu0.3 amd64
+libx11-xcb-dev/jammy-security 2:1.7.5-1ubuntu0.4 amd64
 libx11-xcb-perl/jammy 0.19-1build1 amd64
-libx11-xcb1/jammy-updates,jammy-security,now 2:1.7.5-1ubuntu0.3 amd64 [installed,automatic]
+libx11-xcb1/jammy-security,now 2:1.7.5-1ubuntu0.4 amd64 [installed,automatic]
 libx12-parser-perl/jammy 0.80-2 all
 libx264-163/jammy 2:0.163.3060+git5db6aa6-2build1 amd64
 libx264-dev/jammy 2:0.163.3060+git5db6aa6-2build1 amd64
