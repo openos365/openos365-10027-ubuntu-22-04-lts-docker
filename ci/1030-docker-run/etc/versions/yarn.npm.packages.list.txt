@@ -1418,9 +1418,9 @@ yarn list v1.22.22
 ├─ @posthog/browser-common@0.9.4
 │  ├─ @posthog/core@^1.57.4
 │  └─ @posthog/types@^1.415.2
-├─ @posthog/core@1.58.1
-│  └─ @posthog/types@^1.415.3
-├─ @posthog/types@1.415.3
+├─ @posthog/core@1.59.0
+│  └─ @posthog/types@^1.416.0
+├─ @posthog/types@1.416.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
