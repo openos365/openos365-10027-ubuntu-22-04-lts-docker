@@ -3962,9 +3962,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.17
-│  └─ @tanstack/virtual-core@3.19.2
-├─ @tanstack/virtual-core@3.19.2
+├─ @tanstack/react-virtual@3.14.19
+│  └─ @tanstack/virtual-core@3.19.4
+├─ @tanstack/virtual-core@3.19.4
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -4972,7 +4972,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001815
+├─ caniuse-lite@1.0.30001816
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
@@ -5709,7 +5709,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.453
+├─ electron-to-chromium@1.5.454
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
