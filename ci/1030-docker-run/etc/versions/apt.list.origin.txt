@@ -118149,8 +118149,8 @@ tzdiff/jammy 1.1.1-3 all
 tzwatch/jammy 1.4.4-11 all
 u-boot-menu/jammy 4.0.4ubuntu1 all
 u-boot-nezha/jammy-updates,jammy-security 2022.04+git20220405.7446a472-0ubuntu0.4 all
-u-boot-qemu/jammy-updates,jammy-security 2022.01+dfsg-2ubuntu2.8 all
-u-boot-tools/jammy-updates,jammy-security 2022.01+dfsg-2ubuntu2.8 amd64
+u-boot-qemu/jammy-security 2022.01+dfsg-2ubuntu2.9 all
+u-boot-tools/jammy-security 2022.01+dfsg-2ubuntu2.9 amd64
 u2f-host/jammy 1.1.10-3build2 amd64
 u2f-server/jammy 1.1.0-4build1 amd64
 u2o/jammy 0.7-2 all
