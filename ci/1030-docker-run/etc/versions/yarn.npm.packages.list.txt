@@ -1415,10 +1415,10 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.9.4
-│  ├─ @posthog/core@^1.57.4
-│  └─ @posthog/types@^1.415.2
-├─ @posthog/core@1.59.0
+├─ @posthog/browser-common@0.9.5
+│  ├─ @posthog/core@^1.59.1
+│  └─ @posthog/types@^1.416.0
+├─ @posthog/core@1.59.1
 │  └─ @posthog/types@^1.416.0
 ├─ @posthog/types@1.416.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -9307,10 +9307,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.438.9
-│  ├─ @posthog/browser-common@^0.9.4
-│  ├─ @posthog/core@^1.58.1
-│  ├─ @posthog/types@^1.415.3
+├─ posthog-js@1.438.10
+│  ├─ @posthog/browser-common@^0.9.5
+│  ├─ @posthog/core@^1.59.1
+│  ├─ @posthog/types@^1.416.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.50.0
 │  ├─ dompurify@^3.4.13
@@ -9559,7 +9559,7 @@ yarn list v1.22.22
 ├─ qs-middleware@1.0.3
 │  ├─ qs@~6.4.0
 │  └─ qs@6.4.3
-├─ qs@6.16.0
+├─ qs@6.16.1
 │  ├─ es-define-property@^1.0.1
 │  └─ side-channel@^1.1.1
 ├─ query-selector-shadow-dom@1.0.1
