@@ -3962,9 +3962,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.19
-│  └─ @tanstack/virtual-core@3.19.4
-├─ @tanstack/virtual-core@3.19.4
+├─ @tanstack/react-virtual@3.14.20
+│  └─ @tanstack/virtual-core@3.19.5
+├─ @tanstack/virtual-core@3.19.5
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -8620,7 +8620,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.58
+├─ node-releases@2.0.59
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9307,7 +9307,7 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.438.10
+├─ posthog-js@1.438.11
 │  ├─ @posthog/browser-common@^0.9.5
 │  ├─ @posthog/core@^1.59.1
 │  ├─ @posthog/types@^1.416.0
