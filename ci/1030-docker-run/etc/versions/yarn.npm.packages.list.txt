@@ -3962,9 +3962,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.20
-│  └─ @tanstack/virtual-core@3.19.5
-├─ @tanstack/virtual-core@3.19.5
+├─ @tanstack/react-virtual@3.14.21
+│  └─ @tanstack/virtual-core@3.19.6
+├─ @tanstack/virtual-core@3.19.6
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -5709,7 +5709,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.457
+├─ electron-to-chromium@1.5.458
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
