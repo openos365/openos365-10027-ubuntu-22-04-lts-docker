@@ -2109,7 +2109,7 @@ c3270/jammy 4.1ga10-1.1 amd64
 ca-cacert/jammy 2019.0411-2 all
 ca-certificates-java/jammy-updates,now 20190909ubuntu1.3 all [installed,automatic]
 ca-certificates-mono/jammy 6.8.0.105+dfsg-3.2 all
-ca-certificates/jammy-updates,jammy-security,now 20260601~22.04.1 all [installed]
+ca-certificates/jammy-security,now 20260816ubuntu0.22.04.1 all [installed]
 cabal-debian/jammy 5.0.3-1build1.1 amd64
 cabal-install/jammy 3.0.0.0-3build1.1 amd64
 cabextract/jammy 1.9-3 amd64
@@ -31073,9 +31073,9 @@ liblz4-jni/jammy 1.5.1-3build1 amd64
 liblz4-tool/jammy 1.9.3-2build2 all
 liblzf-dev/jammy 3.6-3 amd64
 liblzf1/jammy 3.6-3 amd64
-liblzma-dev/jammy-updates,jammy-security 5.2.5-2ubuntu1.1 amd64
-liblzma-doc/jammy-updates,jammy-security 5.2.5-2ubuntu1.1 all
-liblzma5/jammy-updates,jammy-security,now 5.2.5-2ubuntu1.1 amd64 [installed]
+liblzma-dev/jammy-security 5.2.5-2ubuntu1.2 amd64
+liblzma-doc/jammy-security 5.2.5-2ubuntu1.2 all
+liblzma5/jammy-security,now 5.2.5-2ubuntu1.2 amd64 [installed]
 liblzo2-2/jammy 2.10-2build3 amd64
 liblzo2-dev/jammy 2.10-2build3 amd64
 libm17n-0/jammy 1.8.0-4 amd64
@@ -108204,7 +108204,7 @@ python3-jupyter-telemetry/jammy 0.1.0-3 all
 python3-jupyterlab-pygments/jammy 0.1.2-8 all
 python3-jupyterlab-server/jammy 2.8.2-1 all
 python3-jwcrypto/jammy 1.0.0-2 all
-python3-jwt/jammy-security 2.3.0-1ubuntu0.5 all
+python3-jwt/jammy-security 2.3.0-1ubuntu0.6 all
 python3-k8sclient/jammy 0.4.0-0ubuntu3 all
 python3-kafka/jammy 2.0.2-2 all
 python3-kaitaistruct/jammy 0.9-1 all
@@ -116061,15 +116061,15 @@ squeekboard/jammy 1.17.1-0ubuntu1 amd64
 squeezelite-pa/jammy 1.9.9-1395+git20220104.874e4f9-1 amd64
 squeezelite-pulseaudio/jammy 1.9.9-1395+git20220104.874e4f9-1 amd64
 squeezelite/jammy 1.9.9-1395+git20220104.874e4f9-1 amd64
-squid-cgi/jammy-updates,jammy-security 5.9-0ubuntu0.22.04.7 amd64
-squid-common/jammy-updates,jammy-security 5.9-0ubuntu0.22.04.7 all
+squid-cgi/jammy-security 5.9-0ubuntu0.22.04.8 amd64
+squid-common/jammy-security 5.9-0ubuntu0.22.04.8 all
 squid-deb-proxy-client/jammy 0.8.15+nmu1ubuntu1 all
 squid-deb-proxy/jammy 0.8.15+nmu1ubuntu1 all
 squid-langpack/jammy 20200403-1 all
-squid-openssl/jammy-updates,jammy-security 5.9-0ubuntu0.22.04.7 amd64
-squid-purge/jammy-updates,jammy-security 5.9-0ubuntu0.22.04.7 amd64
-squid/jammy-updates,jammy-security 5.9-0ubuntu0.22.04.7 amd64
-squidclient/jammy-updates,jammy-security 5.9-0ubuntu0.22.04.7 amd64
+squid-openssl/jammy-security 5.9-0ubuntu0.22.04.8 amd64
+squid-purge/jammy-security 5.9-0ubuntu0.22.04.8 amd64
+squid/jammy-security 5.9-0ubuntu0.22.04.8 amd64
+squidclient/jammy-security 5.9-0ubuntu0.22.04.8 amd64
 squidguard-doc/jammy 1.6.0-2build1 all
 squidguard/jammy 1.6.0-2build1 amd64
 squidtaild/jammy 2.1a6-6.1 all
@@ -120586,8 +120586,8 @@ xymon-client/jammy-updates 4.3.30-1ubuntu0.1 amd64
 xymon/jammy-updates 4.3.30-1ubuntu0.1 amd64
 xymonq/jammy 0.8-1 all
 xyscan/jammy 4.61-1 amd64
-xz-utils/jammy-updates,jammy-security,now 5.2.5-2ubuntu1.1 amd64 [installed,automatic]
-xzdec/jammy-updates,jammy-security 5.2.5-2ubuntu1.1 amd64
+xz-utils/jammy-security,now 5.2.5-2ubuntu1.2 amd64 [installed,automatic]
+xzdec/jammy-security 5.2.5-2ubuntu1.2 amd64
 xzgv/jammy 0.9.2-2build1 amd64
 xzip/jammy 1:1.8.2-4build1 amd64
 xzoom/jammy 0.3-26 amd64
