@@ -99643,8 +99643,8 @@ namazu2-common/jammy 2.0.21-23 all
 namazu2-index-tools/jammy 2.0.21-23 all
 namazu2/jammy 2.0.21-23 amd64
 namecheap/jammy 0.0.3-3 all
-nano-tiny/jammy-updates,jammy-security 6.2-1ubuntu0.2 amd64
-nano/jammy-updates,jammy-security 6.2-1ubuntu0.2 amd64
+nano-tiny/jammy-updates 6.2-1ubuntu0.3 amd64
+nano/jammy-updates 6.2-1ubuntu0.3 amd64
 nanoc/jammy 4.12.5-3ubuntu1 all
 nanofilt/jammy 2.6.0-4 all
 nanolyse/jammy 1.2.0-3 amd64
@@ -108845,7 +108845,7 @@ python3-oslo.db/jammy 11.2.0-0ubuntu1 all
 python3-oslo.i18n/jammy 5.1.0-0ubuntu1 all
 python3-oslo.limit/jammy 1.5.0-0ubuntu1 all
 python3-oslo.log/jammy-updates 4.6.1-0ubuntu1.1 all
-python3-oslo.messaging/jammy-updates 12.13.0-0ubuntu1.2 all
+python3-oslo.messaging/jammy-updates 12.13.0-0ubuntu1.3 all
 python3-oslo.metrics/jammy 0.4.0-0ubuntu1 all
 python3-oslo.middleware/jammy 4.5.0-0ubuntu1 all
 python3-oslo.policy/jammy 3.11.0-0ubuntu1 all
@@ -117700,7 +117700,7 @@ tmpl/jammy 0.0~git20160209.0.8e77bc5-7 amd64
 tmpreaper/jammy 1.6.14+nmu2 amd64
 tmux-plugin-manager/jammy 3.0.0-1.1 all
 tmux-themepack-jimeh/jammy 0+git20190430-1b1b809-1 all
-tmux/jammy-updates,jammy-security 3.2a-4ubuntu0.2 amd64
+tmux/jammy-updates 3.2a-4ubuntu0.3 amd64
 tmuxinator/jammy 3.0.1-1 all
 tmuxp/jammy 1.9.2-1 all
 tnat64/jammy 0.06-1 amd64
@@ -118190,8 +118190,8 @@ ublock-origin-doc/jammy 1.40.2+dfsg-1 all
 ubufox/jammy 3.4-0ubuntu1.17.10.1 all
 ubumirror/jammy 0.5 all
 ubuntu-advantage-desktop-daemon/jammy-updates,jammy-security 1.10.ubuntu0.22.04.2 amd64
-ubuntu-advantage-pro/jammy-updates,jammy-security 37.2ubuntu~22.04.1 all
-ubuntu-advantage-tools/jammy-updates,jammy-security 37.2ubuntu~22.04.1 all
+ubuntu-advantage-pro/jammy-updates 38ubuntu0~22.04 all
+ubuntu-advantage-tools/jammy-updates 38ubuntu0~22.04 all
 ubuntu-artwork/jammy 1:20.10-0ubuntu2 all
 ubuntu-boot-test/jammy-updates 2.2~22.04 amd64
 ubuntu-budgie-desktop/jammy 0.94 amd64
@@ -118284,9 +118284,9 @@ ubuntu-packaging-guide-pdf-uk/jammy 1.0.4 all
 ubuntu-packaging-guide-pdf/jammy 1.0.4 all
 ubuntu-packaging-guide/jammy 1.0.4 all
 ubuntu-policy/jammy 3.8.2.0ubuntu3 all
-ubuntu-pro-auto-attach/jammy-updates,jammy-security 37.2ubuntu~22.04.1 all
-ubuntu-pro-client-l10n/jammy-updates,jammy-security 37.2ubuntu~22.04.1 amd64
-ubuntu-pro-client/jammy-updates,jammy-security 37.2ubuntu~22.04.1 amd64
+ubuntu-pro-auto-attach/jammy-updates 38ubuntu0~22.04 all
+ubuntu-pro-client-l10n/jammy-updates 38ubuntu0~22.04 amd64
+ubuntu-pro-client/jammy-updates 38ubuntu0~22.04 amd64
 ubuntu-proxy-manager/jammy-updates,jammy-security 0.1.1~22.04ubuntu0.3 amd64
 ubuntu-raspi-settings/jammy 22.04.6 all
 ubuntu-realtime/jammy-updates 1.1.2~22.04.1 amd64
