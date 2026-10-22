@@ -103187,7 +103187,7 @@ openvas/jammy 21.4.3 all
 openvpn-auth-ldap/jammy 2.0.4-1ubuntu4 amd64
 openvpn-auth-radius/jammy 2.1-7build1 amd64
 openvpn-systemd-resolved/jammy 1.3.0-3.1 amd64
-openvpn/jammy-security 2.5.11-0ubuntu0.22.04.6 amd64
+openvpn/jammy-updates,jammy-security 2.5.11-0ubuntu0.22.04.6 amd64
 openvswitch-common/jammy-updates 2.17.12-0ubuntu0.22.04.1 amd64
 openvswitch-dbg/jammy-updates 2.17.12-0ubuntu0.22.04.1 amd64
 openvswitch-doc/jammy-updates 2.17.12-0ubuntu0.22.04.1 all
