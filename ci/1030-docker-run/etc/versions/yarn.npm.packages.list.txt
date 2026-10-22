@@ -1415,10 +1415,11 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.9.5
-│  ├─ @posthog/core@^1.59.1
-│  └─ @posthog/types@^1.416.0
-├─ @posthog/core@1.59.3
+├─ @posthog/browser-common@0.9.8
+│  ├─ @posthog/core@^1.59.4
+│  ├─ @posthog/types@^1.416.0
+│  └─ preact@^10.29.3
+├─ @posthog/core@1.59.4
 │  └─ @posthog/types@^1.416.0
 ├─ @posthog/types@1.416.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -2222,14 +2223,14 @@ yarn list v1.22.22
 │  ├─ bcryptjs@^3.0.3
 │  ├─ bcryptjs@3.0.3
 │  ├─ body-parser@^2.2.1
-│  ├─ body-parser@2.3.0
+│  ├─ body-parser@2.4.0
 │  │  ├─ bytes@^3.1.2
-│  │  ├─ content-type@^2.0.0
+│  │  ├─ content-type@^2.1.0
 │  │  ├─ debug@^4.4.3
 │  │  ├─ http-errors@^2.0.1
-│  │  ├─ iconv-lite@^0.7.2
+│  │  ├─ iconv-lite@^0.7.3
 │  │  ├─ on-finished@^2.4.1
-│  │  ├─ qs@^6.15.2
+│  │  ├─ qs@^6.16.1
 │  │  ├─ raw-body@^3.0.2
 │  │  └─ type-is@^2.1.0
 │  ├─ chalk@^2.4.2
@@ -2355,14 +2356,14 @@ yarn list v1.22.22
 │  │  ├─ mime-types@^3.0.0
 │  │  └─ negotiator@^1.0.0
 │  ├─ bcryptjs@^2.4.3
-│  ├─ body-parser@2.3.0
+│  ├─ body-parser@2.4.0
 │  │  ├─ bytes@^3.1.2
-│  │  ├─ content-type@^2.0.0
+│  │  ├─ content-type@^2.1.0
 │  │  ├─ debug@^4.4.3
 │  │  ├─ http-errors@^2.0.1
-│  │  ├─ iconv-lite@^0.7.2
+│  │  ├─ iconv-lite@^0.7.3
 │  │  ├─ on-finished@^2.4.1
-│  │  ├─ qs@^6.15.2
+│  │  ├─ qs@^6.16.1
 │  │  ├─ raw-body@^3.0.2
 │  │  └─ type-is@^2.1.0
 │  ├─ content-disposition@2.0.1
@@ -2984,14 +2985,14 @@ yarn list v1.22.22
 │  │  ├─ https-proxy-agent@^5.0.1
 │  │  └─ proxy-from-env@^2.1.0
 │  ├─ body-parser@^2.2.1
-│  ├─ body-parser@2.3.0
+│  ├─ body-parser@2.4.0
 │  │  ├─ bytes@^3.1.2
-│  │  ├─ content-type@^2.0.0
+│  │  ├─ content-type@^2.1.0
 │  │  ├─ debug@^4.4.3
 │  │  ├─ http-errors@^2.0.1
-│  │  ├─ iconv-lite@^0.7.2
+│  │  ├─ iconv-lite@^0.7.3
 │  │  ├─ on-finished@^2.4.1
-│  │  ├─ qs@^6.15.2
+│  │  ├─ qs@^6.16.1
 │  │  ├─ raw-body@^3.0.2
 │  │  └─ type-is@^2.1.0
 │  ├─ bunyan-sfdx-no-dtrace@^1.8.2
@@ -3217,14 +3218,14 @@ yarn list v1.22.22
 │  ├─ accepts@2.0.0
 │  │  ├─ mime-types@^3.0.0
 │  │  └─ negotiator@^1.0.0
-│  ├─ body-parser@2.3.0
+│  ├─ body-parser@2.4.0
 │  │  ├─ bytes@^3.1.2
-│  │  ├─ content-type@^2.0.0
+│  │  ├─ content-type@^2.1.0
 │  │  ├─ debug@^4.4.3
 │  │  ├─ http-errors@^2.0.1
-│  │  ├─ iconv-lite@^0.7.2
+│  │  ├─ iconv-lite@^0.7.3
 │  │  ├─ on-finished@^2.4.1
-│  │  ├─ qs@^6.15.2
+│  │  ├─ qs@^6.16.1
 │  │  ├─ raw-body@^3.0.2
 │  │  └─ type-is@^2.1.0
 │  ├─ content-disposition@2.0.1
@@ -3396,14 +3397,14 @@ yarn list v1.22.22
 │  ├─ accepts@2.0.0
 │  │  ├─ mime-types@^3.0.0
 │  │  └─ negotiator@^1.0.0
-│  ├─ body-parser@2.3.0
+│  ├─ body-parser@2.4.0
 │  │  ├─ bytes@^3.1.2
-│  │  ├─ content-type@^2.0.0
+│  │  ├─ content-type@^2.1.0
 │  │  ├─ debug@^4.4.3
 │  │  ├─ http-errors@^2.0.1
-│  │  ├─ iconv-lite@^0.7.2
+│  │  ├─ iconv-lite@^0.7.3
 │  │  ├─ on-finished@^2.4.1
-│  │  ├─ qs@^6.15.2
+│  │  ├─ qs@^6.16.1
 │  │  ├─ raw-body@^3.0.2
 │  │  └─ type-is@^2.1.0
 │  ├─ content-disposition@2.0.1
@@ -3624,14 +3625,14 @@ yarn list v1.22.22
 │  ├─ accepts@2.0.0
 │  │  ├─ mime-types@^3.0.0
 │  │  └─ negotiator@^1.0.0
-│  ├─ body-parser@2.3.0
+│  ├─ body-parser@2.4.0
 │  │  ├─ bytes@^3.1.2
-│  │  ├─ content-type@^2.0.0
+│  │  ├─ content-type@^2.1.0
 │  │  ├─ debug@^4.4.3
 │  │  ├─ http-errors@^2.0.1
-│  │  ├─ iconv-lite@^0.7.2
+│  │  ├─ iconv-lite@^0.7.3
 │  │  ├─ on-finished@^2.4.1
-│  │  ├─ qs@^6.15.2
+│  │  ├─ qs@^6.16.1
 │  │  ├─ raw-body@^3.0.2
 │  │  └─ type-is@^2.1.0
 │  ├─ content-disposition@2.0.1
@@ -3962,9 +3963,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.21
-│  └─ @tanstack/virtual-core@3.19.6
-├─ @tanstack/virtual-core@3.19.6
+├─ @tanstack/react-virtual@3.14.22
+│  └─ @tanstack/virtual-core@3.19.7
+├─ @tanstack/virtual-core@3.19.7
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -4750,7 +4751,7 @@ yarn list v1.22.22
 │  └─ safe-buffer@^5.1.1
 ├─ bluebird@3.7.2
 ├─ bn.js@4.12.5
-├─ body-parser@1.20.8
+├─ body-parser@1.20.9
 │  ├─ bytes@~3.1.2
 │  ├─ content-type@~1.0.5
 │  ├─ content-type@1.0.5
@@ -4972,7 +4973,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001818
+├─ caniuse-lite@1.0.30001819
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
@@ -5723,9 +5724,9 @@ yarn list v1.22.22
 ├─ emojis-list@2.1.0
 ├─ encodeurl@2.0.0
 ├─ encoding-japanese@1.0.30
-├─ encoding@0.1.13
-│  ├─ iconv-lite@^0.6.2
-│  └─ iconv-lite@0.6.3
+├─ encoding@0.1.14
+│  ├─ iconv-lite@0.7.3
+│  └─ iconv-lite@0.7.3
 │     └─ safer-buffer@>= 2.1.2 < 3.0.0
 ├─ end-of-stream@1.4.5
 │  └─ once@^1.4.0
@@ -8620,7 +8621,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.59
+├─ node-releases@2.0.60
 ├─ node-schedule@2.1.1
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -8725,7 +8726,7 @@ yarn list v1.22.22
 ├─ odata-v4-literal@0.1.1
 ├─ oidc-token-hash@5.2.0
 ├─ omit.js@2.0.2
-├─ on-finished@2.4.1
+├─ on-finished@2.4.2
 │  └─ ee-first@1.1.1
 ├─ on-headers@1.0.2
 ├─ once@1.4.0
@@ -9307,9 +9308,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.438.13
-│  ├─ @posthog/browser-common@^0.9.5
-│  ├─ @posthog/core@^1.59.1
+├─ posthog-js@1.438.16
+│  ├─ @posthog/browser-common@^0.9.8
+│  ├─ @posthog/core@^1.59.4
 │  ├─ @posthog/types@^1.416.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.51.0
@@ -9390,7 +9391,7 @@ yarn list v1.22.22
 ├─ prosemirror-keymap@1.2.3
 │  ├─ prosemirror-state@^1.0.0
 │  └─ w3c-keyname@^2.2.0
-├─ prosemirror-markdown@1.13.8
+├─ prosemirror-markdown@1.13.9
 │  ├─ @types/markdown-it@^14.0.0
 │  ├─ entities@4.5.0
 │  ├─ linkify-it@5.0.2
@@ -9422,10 +9423,10 @@ yarn list v1.22.22
 │  ├─ prosemirror-state@^1.4.4
 │  ├─ prosemirror-transform@^1.10.5
 │  └─ prosemirror-view@^1.41.4
-├─ prosemirror-transform@1.12.2
+├─ prosemirror-transform@1.12.3
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.42.6
+├─ prosemirror-view@1.42.7
 │  ├─ prosemirror-model@^1.25.12
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
@@ -10513,7 +10514,7 @@ yarn list v1.22.22
 │  │  ├─ prosemirror-model@^1.1.0
 │  │  ├─ prosemirror-state@^1.0.0
 │  │  ├─ prosemirror-transform@^1.1.0
-│  │  └─ prosemirror-transform@1.12.2
+│  │  └─ prosemirror-transform@1.12.3
 │  │     └─ prosemirror-model@^1.21.0
 │  ├─ react-medium-image-zoom@^3.1.3
 │  ├─ react-portal@^4.2.1
