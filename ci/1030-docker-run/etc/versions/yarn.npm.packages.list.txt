@@ -4846,11 +4846,11 @@ yarn list v1.22.22
 │  └─ safe-buffer@^5.2.1
 ├─ browserify-zlib@0.2.0
 │  └─ pako@~1.0.5
-├─ browserslist@4.29.4
-│  ├─ baseline-browser-mapping@^2.11.29
-│  ├─ caniuse-lite@^1.0.30001816
-│  ├─ electron-to-chromium@^1.5.459
-│  ├─ node-releases@^2.0.59
+├─ browserslist@4.29.5
+│  ├─ baseline-browser-mapping@^2.11.33
+│  ├─ caniuse-lite@^1.0.30001819
+│  ├─ electron-to-chromium@^1.5.464
+│  ├─ node-releases@^2.0.60
 │  └─ update-browserslist-db@^1.3.4
 ├─ bser@2.1.2
 │  └─ node-int64@^0.4.0
