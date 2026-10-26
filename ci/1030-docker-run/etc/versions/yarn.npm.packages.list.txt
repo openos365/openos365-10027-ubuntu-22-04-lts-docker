@@ -1419,8 +1419,8 @@ yarn list v1.22.22
 │  ├─ @posthog/core@^1.60.1
 │  ├─ @posthog/types@^1.416.1
 │  └─ preact@^10.29.3
-├─ @posthog/core@1.60.1
-│  └─ @posthog/types@^1.416.0
+├─ @posthog/core@1.61.0
+│  └─ @posthog/types@^1.416.1
 ├─ @posthog/types@1.416.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
@@ -9827,6 +9827,7 @@ yarn list v1.22.22
 │  ├─ dir-glob@2.0.0
 │  │  ├─ arrify@^1.0.1
 │  │  └─ path-type@^3.0.0
+│  ├─ electron-to-chromium@1.5.465
 │  ├─ escape-string-regexp@1.0.5
 │  ├─ filesize@3.6.1
 │  ├─ find-up@3.0.0
