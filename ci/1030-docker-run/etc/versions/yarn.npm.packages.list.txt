@@ -1415,9 +1415,9 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.9.11
+├─ @posthog/browser-common@0.9.12
 │  ├─ @posthog/core@^1.60.1
-│  ├─ @posthog/types@^1.416.0
+│  ├─ @posthog/types@^1.416.1
 │  └─ preact@^10.29.3
 ├─ @posthog/core@1.60.1
 │  └─ @posthog/types@^1.416.0
@@ -4373,7 +4373,7 @@ yarn list v1.22.22
 ├─ asynckit@0.4.0
 ├─ atob@2.1.2
 ├─ attr-accept@2.2.5
-├─ autoprefixer@10.6.1
+├─ autoprefixer@10.6.2
 │  ├─ browserslist@^4.28.9
 │  ├─ caniuse-lite@^1.0.30001810
 │  ├─ fraction.js@^5.3.4
@@ -9308,8 +9308,8 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.438.23
-│  ├─ @posthog/browser-common@^0.9.11
+├─ posthog-js@1.438.24
+│  ├─ @posthog/browser-common@^0.9.12
 │  ├─ @posthog/core@^1.60.1
 │  ├─ @posthog/types@^1.416.1
 │  ├─ core-js@^3.49.0
