@@ -1421,7 +1421,7 @@ yarn list v1.22.22
 │  └─ preact@^10.29.3
 ├─ @posthog/core@1.60.1
 │  └─ @posthog/types@^1.416.0
-├─ @posthog/types@1.416.0
+├─ @posthog/types@1.416.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -3962,9 +3962,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.22
-│  └─ @tanstack/virtual-core@3.19.7
-├─ @tanstack/virtual-core@3.19.7
+├─ @tanstack/react-virtual@3.14.23
+│  └─ @tanstack/virtual-core@3.19.8
+├─ @tanstack/virtual-core@3.19.8
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -9308,10 +9308,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.438.21
+├─ posthog-js@1.438.23
 │  ├─ @posthog/browser-common@^0.9.11
 │  ├─ @posthog/core@^1.60.1
-│  ├─ @posthog/types@^1.416.0
+│  ├─ @posthog/types@^1.416.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.51.0
 │  ├─ dompurify@^3.4.13
