@@ -1234,6 +1234,7 @@ yarn list v1.22.22
 │     ├─ ansi-styles@^6.1.0
 │     ├─ string-width@^5.0.1
 │     └─ strip-ansi@^7.0.1
+├─ @isaacs/nonrecursive-glob-match@1.0.1
 ├─ @jest/console@24.9.0
 │  ├─ @jest/source-map@^24.9.0
 │  ├─ chalk@^2.0.1
@@ -4018,8 +4019,9 @@ yarn list v1.22.22
 │  ├─ brace-expansion@5.0.12
 │  │  └─ balanced-match@^4.0.2
 │  ├─ minimatch@*
-│  └─ minimatch@10.2.6
-│     └─ brace-expansion@^5.0.8
+│  └─ minimatch@11.0.0
+│     ├─ @isaacs/nonrecursive-glob-match@^1.0.1
+│     └─ brace-expansion@^5.0.12
 ├─ @types/ms@2.1.0
 ├─ @types/node@26.6.5
 │  └─ undici-types@~8.9.0
