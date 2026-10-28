@@ -4019,7 +4019,7 @@ yarn list v1.22.22
 │  ├─ brace-expansion@5.0.12
 │  │  └─ balanced-match@^4.0.2
 │  ├─ minimatch@*
-│  └─ minimatch@11.0.0
+│  └─ minimatch@11.0.1
 │     ├─ @isaacs/nonrecursive-glob-match@^1.0.1
 │     └─ brace-expansion@^5.0.12
 ├─ @types/ms@2.1.0
@@ -5715,7 +5715,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.466
+├─ electron-to-chromium@1.5.467
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
