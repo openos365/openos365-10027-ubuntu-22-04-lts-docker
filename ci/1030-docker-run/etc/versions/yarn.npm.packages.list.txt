@@ -286,9 +286,9 @@ yarn list v1.22.22
 │  ├─ json5@^2.2.3
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
-├─ @babel/generator@7.29.8
-│  ├─ @babel/parser@^7.29.8
-│  ├─ @babel/types@^7.29.8
+├─ @babel/generator@7.29.12
+│  ├─ @babel/parser@^7.29.12
+│  ├─ @babel/types@^7.29.11
 │  ├─ @jridgewell/gen-mapping@^0.3.12
 │  ├─ @jridgewell/trace-mapping@^0.3.28
 │  └─ jsesc@^3.0.2
@@ -303,13 +303,13 @@ yarn list v1.22.22
 │  │  └─ yallist@^3.0.2
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
-├─ @babel/helper-create-class-features-plugin@7.29.7
+├─ @babel/helper-create-class-features-plugin@7.29.12
 │  ├─ @babel/helper-annotate-as-pure@^7.29.7
 │  ├─ @babel/helper-member-expression-to-functions@^7.29.7
 │  ├─ @babel/helper-optimise-call-expression@^7.29.7
 │  ├─ @babel/helper-replace-supers@^7.29.7
 │  ├─ @babel/helper-skip-transparent-expression-wrappers@^7.29.7
-│  ├─ @babel/traverse@^7.29.7
+│  ├─ @babel/traverse@^7.29.12
 │  ├─ semver@^6.3.1
 │  └─ semver@6.3.1
 ├─ @babel/helper-create-regexp-features-plugin@7.29.10
@@ -365,7 +365,7 @@ yarn list v1.22.22
 │  ├─ esutils@^2.0.2
 │  ├─ js-tokens@^3.0.0
 │  └─ js-tokens@3.0.2
-├─ @babel/parser@7.29.11
+├─ @babel/parser@7.29.12
 │  └─ @babel/types@^7.29.11
 ├─ @babel/plugin-bugfix-firefox-class-in-computed-class-key@7.29.7
 │  ├─ @babel/helper-plugin-utils@^7.29.7
@@ -483,7 +483,7 @@ yarn list v1.22.22
 │  └─ @babel/helper-remap-async-to-generator@^7.29.7
 ├─ @babel/plugin-transform-block-scoped-functions@7.29.7
 │  └─ @babel/helper-plugin-utils@^7.29.7
-├─ @babel/plugin-transform-block-scoping@7.29.11
+├─ @babel/plugin-transform-block-scoping@7.29.12
 │  └─ @babel/helper-plugin-utils@^7.29.7
 ├─ @babel/plugin-transform-class-properties@7.29.7
 │  ├─ @babel/helper-create-class-features-plugin@^7.29.7
@@ -756,13 +756,13 @@ yarn list v1.22.22
 │  ├─ @babel/code-frame@^7.29.7
 │  ├─ @babel/parser@^7.29.7
 │  └─ @babel/types@^7.29.7
-├─ @babel/traverse@7.29.10
+├─ @babel/traverse@7.29.12
 │  ├─ @babel/code-frame@^7.29.7
-│  ├─ @babel/generator@^7.29.8
+│  ├─ @babel/generator@^7.29.12
 │  ├─ @babel/helper-globals@^7.29.7
-│  ├─ @babel/parser@^7.29.9
+│  ├─ @babel/parser@^7.29.12
 │  ├─ @babel/template@^7.29.7
-│  ├─ @babel/types@^7.29.8
+│  ├─ @babel/types@^7.29.11
 │  └─ debug@^4.3.1
 ├─ @babel/types@7.29.11
 │  ├─ @babel/helper-string-parser@^7.29.11
@@ -1215,7 +1215,7 @@ yarn list v1.22.22
 ├─ @heroicons/react@1.0.6
 ├─ @ioredis/commands@1.11.0
 ├─ @isaacs/cliui@8.0.2
-│  ├─ ansi-regex@6.4.0
+│  ├─ ansi-regex@6.5.0
 │  ├─ ansi-styles@6.2.3
 │  ├─ emoji-regex@9.2.2
 │  ├─ string-width-cjs@npm:string-width@^4.2.0
@@ -1416,8 +1416,8 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.10.1
-│  ├─ @posthog/core@^1.61.1
+├─ @posthog/browser-common@0.10.2
+│  ├─ @posthog/core@^1.61.2
 │  ├─ @posthog/types@^1.418.0
 │  └─ preact@^10.29.3
 ├─ @posthog/core@1.61.2
@@ -3963,9 +3963,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.1
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.23
-│  └─ @tanstack/virtual-core@3.19.8
-├─ @tanstack/virtual-core@3.19.8
+├─ @tanstack/react-virtual@3.14.24
+│  └─ @tanstack/virtual-core@3.19.9
+├─ @tanstack/virtual-core@3.19.9
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -4978,7 +4978,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001819
+├─ caniuse-lite@1.0.30001820
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
@@ -8629,7 +8629,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.60
+├─ node-releases@2.0.61
 ├─ node-schedule@2.1.2
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9316,9 +9316,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.441.2
-│  ├─ @posthog/browser-common@^0.10.1
-│  ├─ @posthog/core@^1.61.1
+├─ posthog-js@1.442.1
+│  ├─ @posthog/browser-common@^0.10.2
+│  ├─ @posthog/core@^1.61.2
 │  ├─ @posthog/types@^1.418.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.51.0
