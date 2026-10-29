@@ -5727,7 +5727,7 @@ yarn list v1.22.22
 ├─ emittery@0.11.0
 ├─ emoji-regex@7.0.3
 ├─ emojis-list@2.1.0
-├─ encodeurl@2.0.0
+├─ encodeurl@2.0.1
 ├─ encoding-japanese@1.0.30
 ├─ encoding@0.1.14
 │  ├─ iconv-lite@0.7.3
@@ -9568,7 +9568,7 @@ yarn list v1.22.22
 ├─ qs-middleware@1.0.3
 │  ├─ qs@~6.4.0
 │  └─ qs@6.4.3
-├─ qs@6.17.0
+├─ qs@6.17.1
 │  ├─ es-define-property@^1.0.1
 │  └─ side-channel@^1.1.1
 ├─ query-selector-shadow-dom@1.0.1
