@@ -1420,9 +1420,9 @@ yarn list v1.22.22
 │  ├─ @posthog/core@^1.61.2
 │  ├─ @posthog/types@^1.418.0
 │  └─ preact@^10.29.3
-├─ @posthog/core@1.61.2
+├─ @posthog/core@1.62.0
 │  └─ @posthog/types@^1.418.0
-├─ @posthog/types@1.418.0
+├─ @posthog/types@1.419.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -8629,7 +8629,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.61
+├─ node-releases@2.0.62
 ├─ node-schedule@2.1.2
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9316,10 +9316,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.442.1
+├─ posthog-js@1.444.0
 │  ├─ @posthog/browser-common@^0.10.2
-│  ├─ @posthog/core@^1.61.2
-│  ├─ @posthog/types@^1.418.0
+│  ├─ @posthog/core@^1.62.0
+│  ├─ @posthog/types@^1.419.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.51.0
 │  ├─ dompurify@^3.4.13
@@ -9417,7 +9417,7 @@ yarn list v1.22.22
 │  └─ uc.micro@2.1.0
 ├─ prosemirror-model@1.25.12
 │  └─ orderedmap@^2.0.0
-├─ prosemirror-schema-list@1.5.1
+├─ prosemirror-schema-list@1.6.0
 │  ├─ prosemirror-model@^1.0.0
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.7.3
