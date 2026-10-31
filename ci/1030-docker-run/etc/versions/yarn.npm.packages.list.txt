@@ -5716,7 +5716,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.471
+├─ electron-to-chromium@1.5.472
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
@@ -8630,7 +8630,7 @@ yarn list v1.22.22
 │  ├─ rimraf@^2.6.1
 │  ├─ semver@^5.3.0
 │  └─ tar@^4
-├─ node-releases@2.0.62
+├─ node-releases@2.0.63
 ├─ node-schedule@2.1.2
 │  ├─ cron-parser@^4.2.0
 │  ├─ long-timeout@0.1.1
@@ -9435,7 +9435,7 @@ yarn list v1.22.22
 ├─ prosemirror-transform@1.12.4
 │  └─ prosemirror-model@^1.21.0
 ├─ prosemirror-utils@0.9.6
-├─ prosemirror-view@1.42.8
+├─ prosemirror-view@1.42.9
 │  ├─ prosemirror-model@^1.25.12
 │  ├─ prosemirror-state@^1.0.0
 │  └─ prosemirror-transform@^1.1.0
