@@ -1234,7 +1234,7 @@ yarn list v1.22.22
 │     ├─ ansi-styles@^6.1.0
 │     ├─ string-width@^5.0.1
 │     └─ strip-ansi@^7.0.1
-├─ @isaacs/nonrecursive-glob-match@1.0.3
+├─ @isaacs/nonrecursive-glob-match@1.1.0
 ├─ @jest/console@24.9.0
 │  ├─ @jest/source-map@^24.9.0
 │  ├─ chalk@^2.0.1
