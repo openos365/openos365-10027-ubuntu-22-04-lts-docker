@@ -1421,9 +1421,9 @@ yarn list v1.22.22
 │  ├─ @posthog/types@^1.420.0
 │  ├─ dompurify@^3.4.13
 │  └─ preact@^10.29.3
-├─ @posthog/core@1.64.0
+├─ @posthog/core@1.64.1
 │  └─ @posthog/types@^1.421.0
-├─ @posthog/types@1.421.0
+├─ @posthog/types@1.421.1
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -4979,7 +4979,7 @@ yarn list v1.22.22
 │  ├─ caniuse-lite@^1.0.0
 │  ├─ lodash.memoize@^4.1.2
 │  └─ lodash.uniq@^4.5.0
-├─ caniuse-lite@1.0.30001822
+├─ caniuse-lite@1.0.30001823
 ├─ capture-exit@2.0.0
 │  └─ rsvp@^4.8.4
 ├─ case-sensitive-paths-webpack-plugin@2.2.0
@@ -9318,10 +9318,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.447.1
+├─ posthog-js@1.447.3
 │  ├─ @posthog/browser-common@^0.10.7
-│  ├─ @posthog/core@^1.64.0
-│  ├─ @posthog/types@^1.421.0
+│  ├─ @posthog/core@^1.64.1
+│  ├─ @posthog/types@^1.421.1
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.51.0
 │  ├─ dompurify@^3.4.13
