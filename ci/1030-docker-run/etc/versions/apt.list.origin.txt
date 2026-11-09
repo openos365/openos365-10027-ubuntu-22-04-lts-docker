@@ -3125,6 +3125,7 @@ code-saturne-data/jammy 6.0.2-2build1 all
 code-saturne-doc/jammy 6.0.2-2build1 all
 code-saturne-include/jammy 6.0.2-2build1 amd64
 code-saturne/jammy 6.0.2-2build1 amd64
+code-server/now 4.145.2 amd64 [installed,local]
 code2html/jammy 0.9.1-4.1 all
 codeblocks-common/jammy 20.03-3.1 all
 codeblocks-contrib/jammy 20.03-3.1 amd64
@@ -14984,7 +14985,7 @@ jtb/jammy 1.4.12-2 all
 jtex-base/jammy 2.1-1.3 all
 jtreg6/jammy-updates,jammy-security 6.1+2-1ubuntu1~22.04 all
 jtreg7/jammy-updates,jammy-security 7.5.2+1+ds1-2~22.04.2 all
-jtreg8/jammy-security 8.2.1+1+ds1-2~22.04.1 all
+jtreg8/jammy-updates,jammy-security 8.2.1+1+ds1-2~22.04.1 all
 jtreg/jammy 5.1-b01-2 all
 jube/jammy 2.4.2-1 all
 juce-modules-source-data/jammy 6.1.5~ds0-1 all
@@ -103714,17 +103715,17 @@ openjdk-21-jre-zero/jammy-updates,jammy-security 21.0.12.1+1-1~22.04.4 amd64
 openjdk-21-jre/jammy-updates,jammy-security 21.0.12.1+1-1~22.04.4 amd64
 openjdk-21-source/jammy-updates,jammy-security 21.0.12.1+1-1~22.04.4 all
 openjdk-21-testsupport/jammy-updates,jammy-security 21.0.12.1+1-1~22.04.4 amd64
-openjdk-25-dbg/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
-openjdk-25-demo/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
-openjdk-25-doc/jammy-security 25.0.5.0.3+1-1~22.04.1 all
-openjdk-25-jdk-headless/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
-openjdk-25-jdk/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
-openjdk-25-jre-headless/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
-openjdk-25-jre-zero/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
-openjdk-25-jre/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-dbg/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-demo/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-doc/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 all
+openjdk-25-jdk-headless/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-jdk/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-jre-headless/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-jre-zero/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-jre/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
 openjdk-25-jvmci-jdk/jammy-updates,jammy-security 25.0.2+10-1~22.04 amd64
-openjdk-25-source/jammy-security 25.0.5.0.3+1-1~22.04.1 all
-openjdk-25-testsupport/jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
+openjdk-25-source/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 all
+openjdk-25-testsupport/jammy-updates,jammy-security 25.0.5.0.3+1-1~22.04.1 amd64
 openjdk-8-dbg/jammy-updates,jammy-security 8u504-ga-1ubuntu1~22.04.3 amd64
 openjdk-8-demo/jammy-updates,jammy-security 8u504-ga-1ubuntu1~22.04.3 amd64
 openjdk-8-doc/jammy-updates,jammy-security 8u504-ga-1ubuntu1~22.04.3 all
