@@ -1421,9 +1421,9 @@ yarn list v1.22.22
 │  ├─ @posthog/types@^1.420.0
 │  ├─ dompurify@^3.4.13
 │  └─ preact@^10.29.3
-├─ @posthog/core@1.65.0
-│  └─ @posthog/types@^1.422.0
-├─ @posthog/types@1.422.0
+├─ @posthog/core@1.66.0
+│  └─ @posthog/types@^1.423.0
+├─ @posthog/types@1.423.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
 ├─ @rc-component/portal@1.1.2
 │  ├─ @babel/runtime@^7.18.0
@@ -5716,7 +5716,7 @@ yarn list v1.22.22
 ├─ ee-first@1.1.1
 ├─ ejs@3.1.10
 │  └─ jake@^10.8.5
-├─ electron-to-chromium@1.5.478
+├─ electron-to-chromium@1.5.479
 ├─ elliptic@6.6.1
 │  ├─ bn.js@^4.11.9
 │  ├─ brorand@^1.1.0
@@ -9317,10 +9317,10 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.447.6
+├─ posthog-js@1.447.7
 │  ├─ @posthog/browser-common@^0.10.7
-│  ├─ @posthog/core@^1.65.0
-│  ├─ @posthog/types@^1.422.0
+│  ├─ @posthog/core@^1.66.0
+│  ├─ @posthog/types@^1.423.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.51.0
 │  ├─ dompurify@^3.4.13
