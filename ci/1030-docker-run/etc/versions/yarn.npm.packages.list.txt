@@ -1421,7 +1421,7 @@ yarn list v1.22.22
 │  ├─ @posthog/types@^1.420.0
 │  ├─ dompurify@^3.4.13
 │  └─ preact@^10.29.3
-├─ @posthog/core@1.66.0
+├─ @posthog/core@1.67.1
 │  └─ @posthog/types@^1.423.0
 ├─ @posthog/types@1.423.0
 ├─ @qixian.cs/path-to-regexp@6.1.0
@@ -4020,7 +4020,7 @@ yarn list v1.22.22
 │  ├─ brace-expansion@5.0.12
 │  │  └─ balanced-match@^4.0.2
 │  ├─ minimatch@*
-│  └─ minimatch@11.0.5
+│  └─ minimatch@11.0.6
 │     ├─ @isaacs/nonrecursive-glob-match@^1.1.0
 │     └─ brace-expansion@^5.0.12
 ├─ @types/ms@2.1.0
@@ -9317,9 +9317,9 @@ yarn list v1.22.22
 ├─ postgres-date@1.0.7
 ├─ postgres-interval@1.2.0
 │  └─ xtend@^4.0.0
-├─ posthog-js@1.447.7
+├─ posthog-js@1.447.9
 │  ├─ @posthog/browser-common@^0.10.7
-│  ├─ @posthog/core@^1.66.0
+│  ├─ @posthog/core@^1.67.1
 │  ├─ @posthog/types@^1.423.0
 │  ├─ core-js@^3.49.0
 │  ├─ core-js@3.51.0
