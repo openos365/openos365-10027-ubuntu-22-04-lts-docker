@@ -20029,7 +20029,7 @@ libcpan-reporter-smoker-perl/jammy 0.29-1 all
 libcpan-sqlite-perl/jammy 0.219-1 all
 libcpan-uploader-perl/jammy 0.103016-1 all
 libcpandb-perl/jammy 0.18-2 all
-libcpanel-json-xs-perl/jammy-security 4.27-1ubuntu0.3 amd64
+libcpanel-json-xs-perl/jammy-updates,jammy-security 4.27-1ubuntu0.3 amd64
 libcpanplus-dist-build-perl/jammy 0.90-2 all
 libcpanplus-perl/jammy 0.9914-1 all
 libcpath-clojure/jammy 0.1.2-2 all
