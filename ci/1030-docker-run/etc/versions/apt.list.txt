@@ -78340,6 +78340,7 @@ linux-nvidia-tegra-headers-5.15.0-1067/jammy-updates,jammy-security 5.15.0-1067.
 linux-nvidia-tegra-headers-5.15.0-1068/jammy-updates,jammy-security 5.15.0-1068.70 all
 linux-nvidia-tegra-headers-5.15.0-1070/jammy-updates,jammy-security 5.15.0-1070.72 all
 linux-nvidia-tegra-headers-5.15.0-1071/jammy-updates,jammy-security 5.15.0-1071.73 all
+linux-nvidia-tegra-headers-5.15.0-1072/jammy-updates 5.15.0-1072.74 all
 linux-nvidia-tegra-igx-cloud-tools-common/jammy-updates,jammy-security 5.15.0-1018.18 all
 linux-nvidia-tegra-igx-headers-5.15.0-1001/jammy-updates,jammy-security 5.15.0-1001.1 all
 linux-nvidia-tegra-igx-headers-5.15.0-1002/jammy-updates,jammy-security 5.15.0-1002.2 all
