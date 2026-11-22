@@ -3841,9 +3841,9 @@ yarn list v1.22.22
 │  └─ semver@6.3.2
 ├─ @swc/helpers@0.4.11
 │  └─ tslib@^2.4.0
-├─ @tanstack/react-virtual@3.14.26
-│  └─ @tanstack/virtual-core@3.19.11
-├─ @tanstack/virtual-core@3.19.11
+├─ @tanstack/react-virtual@3.14.28
+│  └─ @tanstack/virtual-core@3.19.13
+├─ @tanstack/virtual-core@3.19.13
 ├─ @tokenizer/token@0.3.0
 ├─ @tootallnate/once@1.1.2
 ├─ @types/babel__core@7.20.5
@@ -5519,7 +5519,7 @@ yarn list v1.22.22
 │  └─ webidl-conversions@^4.0.2
 ├─ domhandler@4.3.1
 │  └─ domelementtype@^2.2.0
-├─ dompurify@3.4.18
+├─ dompurify@3.5.0
 │  └─ @types/trusted-types@^2.0.7
 ├─ domutils@1.7.0
 │  ├─ dom-serializer@0
