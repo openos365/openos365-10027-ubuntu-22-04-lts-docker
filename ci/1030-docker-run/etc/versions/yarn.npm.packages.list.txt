@@ -1414,7 +1414,7 @@ yarn list v1.22.22
 ├─ @panva/hkdf@1.2.1
 ├─ @pkgjs/parseargs@0.11.0
 ├─ @popperjs/core@2.11.8
-├─ @posthog/browser-common@0.14.1
+├─ @posthog/browser-common@0.14.2
 │  ├─ @posthog/core@^1.69.2
 │  ├─ @posthog/types@^1.427.2
 │  ├─ dompurify@^3.4.18
