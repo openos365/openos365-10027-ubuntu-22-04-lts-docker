@@ -43104,8 +43104,8 @@ libxrdssilib2/jammy 5.4.1-1 amd64
 libxrdssishmap2/jammy 5.4.1-1 amd64
 libxrdutils3/jammy 5.4.1-1 amd64
 libxrdxml3/jammy 5.4.1-1 amd64
-libxrender-dev/jammy-security 1:0.9.10-1ubuntu0.22.04.1 amd64
-libxrender1/jammy-security,now 1:0.9.10-1ubuntu0.22.04.1 amd64 [installed,automatic]
+libxrender-dev/jammy-updates,jammy-security 1:0.9.10-1ubuntu0.22.04.1 amd64
+libxrender1/jammy-updates,jammy-security,now 1:0.9.10-1ubuntu0.22.04.1 amd64 [installed,automatic]
 libxres-dev/jammy 2:1.2.1-1 amd64
 libxres1/jammy 2:1.2.1-1 amd64
 libxrl-dev/jammy 4.0.0+dfsg1-1 amd64
