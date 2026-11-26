@@ -3934,7 +3934,7 @@ dataurl/jammy-updates,jammy-security 0.0~git20191104.d1553a7-1.1ubuntu0.22.04.1 
 datefudge/jammy 1.24 amd64
 dateutils/jammy 0.4.5-2 amd64
 dav-text/jammy 0.9.0-2 amd64
-dav1d/jammy 0.9.2-1 amd64
+dav1d/jammy-security 0.9.2-1ubuntu0.1 amd64
 davfs2/jammy 1.6.1-1 amd64
 davical-doc/jammy 1.1.10-1 all
 davical/jammy 1.1.10-1 all
@@ -20577,8 +20577,8 @@ libdatrie-dev/jammy 0.2.13-2 amd64
 libdatrie-doc/jammy 0.2.13-2 all
 libdatrie1-bin/jammy 0.2.13-2 amd64
 libdatrie1/jammy 0.2.13-2 amd64
-libdav1d-dev/jammy 0.9.2-1 amd64
-libdav1d5/jammy 0.9.2-1 amd64
+libdav1d-dev/jammy-security 0.9.2-1ubuntu0.1 amd64
+libdav1d5/jammy-security 0.9.2-1ubuntu0.1 amd64
 libdavix0v5/jammy 0.8.0-1build1 amd64
 libdavs2-16/jammy 1.6-1 amd64
 libdavs2-dev/jammy 1.6-1 amd64
