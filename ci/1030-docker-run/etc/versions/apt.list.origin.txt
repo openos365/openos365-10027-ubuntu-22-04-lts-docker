@@ -42814,8 +42814,8 @@ libxgboost0/jammy 1.5.2-1 amd64
 libxgks-dev/jammy 2.6.1+dfsg.2-12 amd64
 libxgks2-data/jammy 2.6.1+dfsg.2-12 all
 libxgks2/jammy 2.6.1+dfsg.2-12 amd64
-libxi-dev/jammy-security 2:1.8-1ubuntu0.1 amd64
-libxi6/jammy-security,now 2:1.8-1ubuntu0.1 amd64 [installed,automatic]
+libxi-dev/jammy-updates,jammy-security 2:1.8-1ubuntu0.1 amd64
+libxi6/jammy-updates,jammy-security,now 2:1.8-1ubuntu0.1 amd64 [installed,automatic]
 libxine2-all-plugins/jammy 1.2.11-2 all
 libxine2-bin/jammy 1.2.11-2 amd64
 libxine2-console/jammy 1.2.11-2 amd64
